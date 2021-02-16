@@ -13624,7 +13624,7 @@ U+7A74	kDefinition	cave, den, hole; KangXi radical 116
 U+7A75	kDefinition	deep hollow;, gouge, dig out
 U+7A76	kDefinition	examine, investigate
 U+7A77	kDefinition	poor, destitute, impoverished
-U+7A78	kDefinition	the gloom of the grave a tomb or grave; death
+U+7A78	kDefinition	the gloom of the grave; a tomb or grave; death
 U+7A79	kDefinition	high and vast; elevated; arched
 U+7A7A	kDefinition	empty, hollow, bare, deserted
 U+7A7D	kDefinition	hole; pitfall, trap
