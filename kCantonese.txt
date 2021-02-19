@@ -4999,6 +4999,7 @@ U+4FF6 俶	kCantonese	cuk1
 U+4FF7 俷	kCantonese	fai3
 U+4FF8 俸	kCantonese	fung6
 U+4FF9 俹	kCantonese	aa3
+U+4FFA 俺	kCantonese	aan2
 U+4FFB 俻	kCantonese	bei6
 U+4FFC 俼	kCantonese	juk6
 U+4FFD 俽	kCantonese	jan1
@@ -6067,6 +6068,7 @@ U+5432 吲	kCantonese	jan5
 U+5433 吳	kCantonese	ng4
 U+5434 吴	kCantonese	ng4
 U+5435 吵	kCantonese	caau2
+U+5436 吶	kCantonese	naap6
 U+5437 吷	kCantonese	hyut3
 U+5438 吸	kCantonese	kap1
 U+5439 吹	kCantonese	ceoi1
@@ -6092,6 +6094,7 @@ U+544C 呌	kCantonese	giu3
 U+544D 呍	kCantonese	ngau4
 U+544E 呎	kCantonese	cek3
 U+544F 呏	kCantonese	sing1
+U+5450 呐	kCantonese	naap6
 U+5451 呑	kCantonese	tan1
 U+5452 呒	kCantonese	fu2
 U+5453 呓	kCantonese	ngai6
@@ -6187,6 +6190,7 @@ U+54AF 咯	kCantonese	gok1
 U+54B0 咰	kCantonese	seot1
 U+54B1 咱	kCantonese	zaa1
 U+54B2 咲	kCantonese	siu3
+U+54B3 咳	kCantonese	kat1
 U+54B4 咴	kCantonese	fui1
 U+54B5 咵	kCantonese	kwaa1
 U+54B6 咶	kCantonese	waat6
@@ -6236,6 +6240,7 @@ U+54E2 哢	kCantonese	lung6
 U+54E3 哣	kCantonese	dau6
 U+54E4 哤	kCantonese	mong4
 U+54E5 哥	kCantonese	go1
+U+54E6 哦	kCantonese	ngo4
 U+54E7 哧	kCantonese	ci1
 U+54E8 哨	kCantonese	saau3
 U+54E9 哩	kCantonese	li1
@@ -6270,6 +6275,7 @@ U+5505 唅	kCantonese	ham4
 U+5506 唆	kCantonese	so1
 U+5507 唇	kCantonese	seon4
 U+5508 唈	kCantonese	jap1
+U+5509 唉	kCantonese	aai1
 U+550A 唊	kCantonese	gaap3
 U+550B 唋	kCantonese	tou1
 U+550C 唌	kCantonese	jin4
@@ -6315,6 +6321,7 @@ U+5534 唴	kCantonese	goeng6
 U+5535 唵	kCantonese	am2
 U+5536 唶	kCantonese	ze3
 U+5537 唷	kCantonese	jo1
+U+5538 唸	kCantonese	nim6
 U+5539 唹	kCantonese	jyu1
 U+553A 唺	kCantonese	tin2
 U+553B 唻	kCantonese	loi6
@@ -6331,6 +6338,7 @@ U+5546 商	kCantonese	soeng1
 U+5547 啇	kCantonese	dik1
 U+5548 啈	kCantonese	hang1
 U+5549 啉	kCantonese	lam1
+U+554A 啊	kCantonese	aa1
 U+554B 啋	kCantonese	coi1
 U+554C 啌	kCantonese	hong1
 U+554D 啍	kCantonese	teon1
@@ -6349,6 +6357,7 @@ U+555A 啚	kCantonese	pei2
 U+555B 啛	kCantonese	ceoi3
 U+555C 啜	kCantonese	zyut3
 U+555D 啝	kCantonese	wo3
+U+555E 啞	kCantonese	aa2
 U+555F 啟	kCantonese	kai2
 U+5560 啠	kCantonese	zit3
 U+5561 啡	kCantonese	fe1
@@ -6603,6 +6612,7 @@ U+565E 噞	kCantonese	jim2
 U+565F 噟	kCantonese	jing3
 U+5660 噠	kCantonese	daat6
 U+5661 噡	kCantonese	zim1
+U+5662 噢	kCantonese	jyu2
 U+5663 噣	kCantonese	zau3
 U+5664 噤	kCantonese	gam3
 U+5665 噥	kCantonese	nung4
@@ -7436,6 +7446,7 @@ U+59AF 妯	kCantonese	zuk6
 U+59B0 妰	kCantonese	zoek3
 U+59B1 妱	kCantonese	ziu1
 U+59B2 妲	kCantonese	daat3
+U+59B3 妳	kCantonese	nei5
 U+59B4 妴	kCantonese	jyun2
 U+59B5 妵	kCantonese	tau2
 U+59B6 妶	kCantonese	jin4
@@ -8079,6 +8090,7 @@ U+5C3B 尻	kCantonese	haau1
 U+5C3C 尼	kCantonese	nei4
 U+5C3D 尽	kCantonese	zeon6
 U+5C3E 尾	kCantonese	mei5
+U+5C3F 尿	kCantonese	niu6
 U+5C40 局	kCantonese	guk6
 U+5C41 屁	kCantonese	pei3
 U+5C42 层	kCantonese	cang4
@@ -8106,6 +8118,7 @@ U+5C57 屗	kCantonese	cyun3
 U+5C58 屘	kCantonese	mei1
 U+5C59 屙	kCantonese	o1
 U+5C5A 屚	kCantonese	lau6
+U+5C5B 屛	kCantonese	bing2
 U+5C5C 屜	kCantonese	tai3
 U+5C5D 屝	kCantonese	fei2
 U+5C5E 属	kCantonese	suk6
@@ -8807,6 +8820,7 @@ U+5F1B 弛	kCantonese	ci4
 U+5F1C 弜	kCantonese	koeng5
 U+5F1D 弝	kCantonese	baa3
 U+5F1E 弞	kCantonese	can2
+U+5F1F 弟	kCantonese	dai6
 U+5F20 张	kCantonese	zoeng1
 U+5F21 弡	kCantonese	gwat6
 U+5F22 弢	kCantonese	tou1
@@ -8961,6 +8975,7 @@ U+5FB8 徸	kCantonese	cung1
 U+5FB9 徹	kCantonese	cit3
 U+5FBA 徺	kCantonese	hiu1
 U+5FBB 徻	kCantonese	wai3
+U+5FBC 徼	kCantonese	hiu1
 U+5FBD 徽	kCantonese	fai1
 U+5FBE 徾	kCantonese	mei4
 U+5FBF 徿	kCantonese	lung6
@@ -9733,6 +9748,7 @@ U+62C4 拄	kCantonese	zyu2
 U+62C5 担	kCantonese	daam1
 U+62C6 拆	kCantonese	caak3
 U+62C7 拇	kCantonese	mou5
+U+62C8 拈	kCantonese	nim1
 U+62C9 拉	kCantonese	laai1
 U+62CA 拊	kCantonese	fu2
 U+62CB 拋	kCantonese	paau1
@@ -9910,6 +9926,7 @@ U+6377 捷	kCantonese	zit6
 U+6378 捸	kCantonese	teot1
 U+6379 捹	kCantonese	ban3
 U+637A 捺	kCantonese	naat6
+U+637B 捻	kCantonese	nip6
 U+637C 捼	kCantonese	no4
 U+637D 捽	kCantonese	zeot1
 U+637E 捾	kCantonese	wut6
@@ -10010,6 +10027,7 @@ U+63DD 揝	kCantonese	zaan2
 U+63DE 揞	kCantonese	am2
 U+63DF 揟	kCantonese	seoi1
 U+63E0 揠	kCantonese	aat3
+U+63E1 握	kCantonese	ak1
 U+63E2 揢	kCantonese	kak1
 U+63E3 揣	kCantonese	ceoi2
 U+63E4 揤	kCantonese	zat1
@@ -10036,6 +10054,7 @@ U+63F8 揸	kCantonese	zaa1
 U+63F9 揹	kCantonese	bui3
 U+63FA 揺	kCantonese	jiu4
 U+63FB 揻	kCantonese	wai1
+U+63FC 揼	kCantonese	dam2
 U+63FD 揽	kCantonese	laam5
 U+63FE 揾	kCantonese	wan2
 U+63FF 揿	kCantonese	gam6
@@ -10183,6 +10202,7 @@ U+648F 撏	kCantonese	cam4
 U+6490 撐	kCantonese	caang1
 U+6491 撑	kCantonese	caang1
 U+6492 撒	kCantonese	saat3
+U+6493 撓	kCantonese	naau5
 U+6494 撔	kCantonese	wang6
 U+6495 撕	kCantonese	si1
 U+6496 撖	kCantonese	hon6
@@ -11117,6 +11137,7 @@ U+683D 栽	kCantonese	zoi1
 U+683E 栾	kCantonese	lyun4
 U+683F 栿	kCantonese	fuk6
 U+6840 桀	kCantonese	git6
+U+6841 桁	kCantonese	haang4
 U+6842 桂	kCantonese	gwai3
 U+6843 桃	kCantonese	tou4
 U+6844 桄	kCantonese	gwong3
@@ -11870,6 +11891,7 @@ U+6B34 欴	kCantonese	long4
 U+6B35 欵	kCantonese	fun2
 U+6B36 欶	kCantonese	sok3
 U+6B37 欷	kCantonese	hei1
+U+6B38 欸	kCantonese	oi1
 U+6B39 欹	kCantonese	ji1
 U+6B3A 欺	kCantonese	hei1
 U+6B3B 欻	kCantonese	fat1
@@ -12091,6 +12113,7 @@ U+6C12 氒	kCantonese	kyut3
 U+6C13 氓	kCantonese	maang4
 U+6C14 气	kCantonese	hei3
 U+6C15 氕	kCantonese	pit3
+U+6C16 氖	kCantonese	naai5
 U+6C17 気	kCantonese	hei3
 U+6C18 氘	kCantonese	dou1
 U+6C19 氙	kCantonese	sin1
@@ -12291,9 +12314,11 @@ U+6CDD 泝	kCantonese	sou3
 U+6CDE 泞	kCantonese	ning6
 U+6CDF 泟	kCantonese	zaa1
 U+6CE0 泠	kCantonese	ling4
+U+6CE1 泡	kCantonese	pou5
 U+6CE2 波	kCantonese	bo1
 U+6CE3 泣	kCantonese	jap1
 U+6CE4 泤	kCantonese	ci5
+U+6CE5 泥	kCantonese	nai4
 U+6CE6 泦	kCantonese	guk1
 U+6CE7 泧	kCantonese	kut3
 U+6CE8 注	kCantonese	zyu3
@@ -12369,6 +12394,7 @@ U+6D2D 洭	kCantonese	hong1
 U+6D2E 洮	kCantonese	tou4
 U+6D2F 洯	kCantonese	kit3
 U+6D30 洰	kCantonese	keoi4
+U+6D31 洱	kCantonese	ji5
 U+6D32 洲	kCantonese	zau1
 U+6D33 洳	kCantonese	jyu6
 U+6D34 洴	kCantonese	ping4
@@ -12760,6 +12786,7 @@ U+6EB6 溶	kCantonese	jung4
 U+6EB7 溷	kCantonese	wan6
 U+6EB8 溸	kCantonese	sou3
 U+6EB9 溹	kCantonese	sok3
+U+6EBA 溺	kCantonese	nik6
 U+6EBB 溻	kCantonese	taap3
 U+6EBC 溼	kCantonese	sap1
 U+6EBD 溽	kCantonese	juk6
@@ -13637,6 +13664,7 @@ U+7229 爩	kCantonese	wat1
 U+722A 爪	kCantonese	zaau2
 U+722B 爫	kCantonese	zaau2
 U+722C 爬	kCantonese	paa4
+U+722D 爭	kCantonese	zaang1
 U+722E 爮	kCantonese	paau4
 U+722F 爯	kCantonese	cing1
 U+7230 爰	kCantonese	wun4
@@ -13763,6 +13791,7 @@ U+72A9 犩	kCantonese	ngai4
 U+72AA 犪	kCantonese	kwai4
 U+72AB 犫	kCantonese	cau1
 U+72AC 犬	kCantonese	hyun2
+U+72AD 犭	kCantonese	hyun2
 U+72AE 犮	kCantonese	bat6
 U+72AF 犯	kCantonese	faan6
 U+72B0 犰	kCantonese	kau4
@@ -14107,6 +14136,7 @@ U+7406 理	kCantonese	lei5
 U+7407 琇	kCantonese	sau3
 U+7408 琈	kCantonese	fau4
 U+7409 琉	kCantonese	lau4
+U+740A 琊	kCantonese	je4
 U+740B 琋	kCantonese	hei1
 U+740C 琌	kCantonese	ling4
 U+740D 琍	kCantonese	lei4
@@ -14443,6 +14473,7 @@ U+755B 畛	kCantonese	zan2
 U+755C 畜	kCantonese	cuk1
 U+755D 畝	kCantonese	mau5
 U+755E 畞	kCantonese	mau5
+U+755F 畟	kCantonese	zik1
 U+7560 畠	kCantonese	tin4
 U+7561 畡	kCantonese	goi1
 U+7562 畢	kCantonese	bat1
@@ -14500,6 +14531,7 @@ U+7595 疕	kCantonese	bei2
 U+7596 疖	kCantonese	zit3
 U+7597 疗	kCantonese	liu4
 U+7598 疘	kCantonese	gong1
+U+7599 疙	kCantonese	ngat6
 U+759A 疚	kCantonese	gau3
 U+759B 疛	kCantonese	zau2
 U+759C 疜	kCantonese	haa6
@@ -14586,6 +14618,7 @@ U+75ED 痭	kCantonese	bang1
 U+75EE 痮	kCantonese	zoeng3
 U+75EF 痯	kCantonese	gun2
 U+75F0 痰	kCantonese	taam4
+U+75F1 痱	kCantonese	fai2
 U+75F2 痲	kCantonese	maa4
 U+75F3 痳	kCantonese	maa4
 U+75F4 痴	kCantonese	ci1
@@ -14753,6 +14786,7 @@ U+7696 皖	kCantonese	wun2
 U+7697 皗	kCantonese	cau4
 U+7698 皘	kCantonese	sin3
 U+7699 皙	kCantonese	sik1
+U+769A 皚	kCantonese	ngoi4
 U+769B 皛	kCantonese	kiu5
 U+769C 皜	kCantonese	hou6
 U+769D 皝	kCantonese	fong2
@@ -15123,6 +15157,7 @@ U+7810 砐	kCantonese	ngap6
 U+7811 砑	kCantonese	ngaa6
 U+7812 砒	kCantonese	pei1
 U+7813 砓	kCantonese	zit3
+U+7814 研	kCantonese	jin4
 U+7815 砕	kCantonese	seoi3
 U+7816 砖	kCantonese	zyun1
 U+7817 砗	kCantonese	ce1
@@ -15424,6 +15459,7 @@ U+7942 祂	kCantonese	taa1
 U+7943 祃	kCantonese	maa6
 U+7944 祄	kCantonese	gaai3
 U+7945 祅	kCantonese	jiu1
+U+7946 祆	kCantonese	hin1
 U+7947 祇	kCantonese	kei4
 U+7948 祈	kCantonese	kei4
 U+7949 祉	kCantonese	zi2
@@ -16722,6 +16758,7 @@ U+7E5A 繚	kCantonese	liu4
 U+7E5B 繛	kCantonese	coek3
 U+7E5C 繜	kCantonese	zeon1
 U+7E5D 繝	kCantonese	gaan3
+U+7E5E 繞	kCantonese	jiu5
 U+7E5F 繟	kCantonese	taan4
 U+7E60 繠	kCantonese	jeoi5
 U+7E61 繡	kCantonese	sau3
@@ -18149,6 +18186,7 @@ U+8402 萂	kCantonese	wo4
 U+8403 萃	kCantonese	seoi6
 U+8404 萄	kCantonese	tou4
 U+8405 萅	kCantonese	ceon1
+U+8406 萆	kCantonese	bei1
 U+8407 萇	kCantonese	coeng4
 U+8408 萈	kCantonese	wun4
 U+8409 萉	kCantonese	fai6
@@ -18728,6 +18766,7 @@ U+8651 虑	kCantonese	leoi6
 U+8652 虒	kCantonese	si1
 U+8653 虓	kCantonese	haau1
 U+8654 虔	kCantonese	kin4
+U+8655 處	kCantonese	cyu3
 U+8656 虖	kCantonese	fu4
 U+8657 虗	kCantonese	heoi1
 U+8658 虘	kCantonese	co4
@@ -19328,6 +19367,7 @@ U+88B3 袳	kCantonese	ci2
 U+88B4 袴	kCantonese	fu3
 U+88B5 袵	kCantonese	jam6
 U+88B6 袶	kCantonese	gong3
+U+88B7 袷	kCantonese	gaap3
 U+88B8 袸	kCantonese	zin6
 U+88BA 袺	kCantonese	git3
 U+88BB 袻	kCantonese	ji4
@@ -19425,6 +19465,7 @@ U+8916 褖	kCantonese	teon3
 U+8917 褗	kCantonese	jin2
 U+8918 褘	kCantonese	fai1
 U+8919 褙	kCantonese	bui3
+U+891A 褚	kCantonese	cyu5
 U+891B 褛	kCantonese	leoi5
 U+891C 褜	kCantonese	baau1
 U+891D 褝	kCantonese	daan1
@@ -19785,6 +19826,7 @@ U+8A82 誂	kCantonese	tiu5
 U+8A83 誃	kCantonese	ci4
 U+8A84 誄	kCantonese	loi6
 U+8A85 誅	kCantonese	zyu1
+U+8A86 誆	kCantonese	hong1
 U+8A87 誇	kCantonese	kwaa1
 U+8A88 誈	kCantonese	mou4
 U+8A89 誉	kCantonese	jyu6
@@ -20323,6 +20365,7 @@ U+8CA0 負	kCantonese	fu6
 U+8CA1 財	kCantonese	coi4
 U+8CA2 貢	kCantonese	gung3
 U+8CA3 貣	kCantonese	tik1
+U+8CA4 貤	kCantonese	ji4
 U+8CA5 貥	kCantonese	hong4
 U+8CA6 貦	kCantonese	wun6
 U+8CA7 貧	kCantonese	pan4
@@ -20789,6 +20832,8 @@ U+8E76 蹶	kCantonese	kyut3
 U+8E77 蹷	kCantonese	kyut3
 U+8E78 蹸	kCantonese	leon6
 U+8E79 蹹	kCantonese	daap6
+U+8E7A 蹺	kCantonese	hiu1
+U+8E7B 蹻	kCantonese	giu2
 U+8E7C 蹼	kCantonese	buk6
 U+8E7D 蹽	kCantonese	liu1
 U+8E7E 蹾	kCantonese	dan3
@@ -21131,6 +21176,7 @@ U+8FD1 近	kCantonese	gan6
 U+8FD2 迒	kCantonese	hong4
 U+8FD3 迓	kCantonese	ngaa6
 U+8FD4 返	kCantonese	faan2
+U+8FD5 迕	kCantonese	ng6
 U+8FD6 迖	kCantonese	dai3
 U+8FD7 迗	kCantonese	ngo4
 U+8FD8 还	kCantonese	waan4
@@ -21296,6 +21342,7 @@ U+9077 遷	kCantonese	cin1
 U+9078 選	kCantonese	syun2
 U+9079 遹	kCantonese	wat6
 U+907A 遺	kCantonese	wai4
+U+907B 遻	kCantonese	ng6
 U+907C 遼	kCantonese	liu4
 U+907D 遽	kCantonese	geoi6
 U+907E 遾	kCantonese	sai6
@@ -21334,6 +21381,7 @@ U+909F 邟	kCantonese	kong3
 U+90A0 邠	kCantonese	ban1
 U+90A1 邡	kCantonese	fong1
 U+90A2 邢	kCantonese	jing4
+U+90A3 那	kCantonese	naa5
 U+90A4 邤	kCantonese	jan1
 U+90A5 邥	kCantonese	sam2
 U+90A6 邦	kCantonese	bong1
@@ -21749,6 +21797,7 @@ U+9244 鉄	kCantonese	tit3
 U+9245 鉅	kCantonese	geoi6
 U+9246 鉆	kCantonese	cim1
 U+9247 鉇	kCantonese	si1
+U+9248 鉈	kCantonese	to4
 U+9249 鉉	kCantonese	jyun5
 U+924A 鉊	kCantonese	ziu1
 U+924B 鉋	kCantonese	paau4
@@ -21875,6 +21924,7 @@ U+92C8 鋈	kCantonese	juk1
 U+92C9 鋉	kCantonese	suk1
 U+92CA 鋊	kCantonese	juk6
 U+92CB 鋋	kCantonese	sin4
+U+92CC 鋌	kCantonese	ting4
 U+92CD 鋍	kCantonese	but6
 U+92CE 鋎	kCantonese	waan5
 U+92CF 鋏	kCantonese	gaap3
@@ -22549,6 +22599,7 @@ U+9573 镳	kCantonese	biu1
 U+9574 镴	kCantonese	laap6
 U+9575 镵	kCantonese	caam4
 U+9576 镶	kCantonese	soeng1
+U+9577 長	kCantonese	coeng4
 U+9578 镸	kCantonese	coeng4
 U+9579 镹	kCantonese	gau2
 U+957A 镺	kCantonese	ou2
@@ -22625,6 +22676,7 @@ U+95C3 闃	kCantonese	gwik1
 U+95C4 闄	kCantonese	jiu2
 U+95C5 闅	kCantonese	man4
 U+95C6 闆	kCantonese	baan2
+U+95C7 闇	kCantonese	am3
 U+95C8 闈	kCantonese	wai4
 U+95C9 闉	kCantonese	jan1
 U+95CA 闊	kCantonese	fut3
@@ -22652,6 +22704,7 @@ U+95E0 闠	kCantonese	kui2
 U+95E1 闡	kCantonese	zin2
 U+95E2 闢	kCantonese	pik1
 U+95E3 闣	kCantonese	dong3
+U+95E4 闤	kCantonese	waan4
 U+95E5 闥	kCantonese	taat3
 U+95E6 闦	kCantonese	ngan4
 U+95E7 闧	kCantonese	jyun5
@@ -22740,6 +22793,7 @@ U+963B 阻	kCantonese	zo2
 U+963C 阼	kCantonese	zou6
 U+963D 阽	kCantonese	dim3
 U+963E 阾	kCantonese	ling5
+U+963F 阿	kCantonese	aa3
 U+9640 陀	kCantonese	to4
 U+9641 陁	kCantonese	to4
 U+9642 陂	kCantonese	bei1
@@ -22863,6 +22917,7 @@ U+96BA 隺	kCantonese	hok6
 U+96BB 隻	kCantonese	zek3
 U+96BC 隼	kCantonese	zeon2
 U+96BD 隽	kCantonese	zeon3
+U+96BE 难	kCantonese	naan4
 U+96BF 隿	kCantonese	jik6
 U+96C0 雀	kCantonese	zoek3
 U+96C1 雁	kCantonese	ngaan6
@@ -23035,6 +23090,7 @@ U+9769 革	kCantonese	gaak3
 U+976A 靪	kCantonese	ding1
 U+976B 靫	kCantonese	caai1
 U+976C 靬	kCantonese	gin1
+U+976D 靭	kCantonese	jan6
 U+976E 靮	kCantonese	dik1
 U+976F 靯	kCantonese	dou6
 U+9770 靰	kCantonese	wu1
@@ -23474,6 +23530,7 @@ U+9923 餣	kCantonese	jip3
 U+9924 餤	kCantonese	daam6
 U+9925 餥	kCantonese	fei1
 U+9926 餦	kCantonese	zoeng1
+U+9927 餧	kCantonese	wai3
 U+9928 館	kCantonese	gun2
 U+9929 餩	kCantonese	ak1
 U+992A 餪	kCantonese	nyun5
@@ -23861,6 +23918,7 @@ U+9AAB 骫	kCantonese	wai2
 U+9AAC 骬	kCantonese	jyu4
 U+9AAD 骭	kCantonese	gon3
 U+9AAE 骮	kCantonese	jik6
+U+9AAF 骯	kCantonese	ong1
 U+9AB0 骰	kCantonese	sik1
 U+9AB1 骱	kCantonese	gaai3
 U+9AB2 骲	kCantonese	baau6
@@ -24898,6 +24956,7 @@ U+9ECB 黋	kCantonese	kong3
 U+9ECC 黌	kCantonese	hung4
 U+9ECD 黍	kCantonese	syu2
 U+9ECE 黎	kCantonese	lai4
+U+9ECF 黏	kCantonese	nim4
 U+9ED0 黐	kCantonese	ci1
 U+9ED1 黑	kCantonese	hak1
 U+9ED2 黒	kCantonese	hak1
@@ -25018,6 +25077,7 @@ U+9F46 齆	kCantonese	ung3
 U+9F47 齇	kCantonese	zaa1
 U+9F48 齈	kCantonese	nung6
 U+9F49 齉	kCantonese	nong6
+U+9F4A 齊	kCantonese	cai4
 U+9F4B 齋	kCantonese	zaai1
 U+9F4D 齍	kCantonese	zi1
 U+9F4E 齎	kCantonese	zai1
@@ -25129,6 +25189,8 @@ U+9FD4 鿔	kCantonese	go1
 U+9FEB 鿫	kCantonese	ou3
 U+9FEC 鿬	kCantonese	tin4
 U+9FED 鿭	kCantonese	nip6
+U+F928 廊	kCantonese	long4
+U+F936 虜	kCantonese	lou5
 U+FA17 益	kCantonese	jik1
 U+20001 𠀁	kCantonese	cat1
 U+20005 𠀅	kCantonese	hoi6
@@ -25251,6 +25313,7 @@ U+20BA8 𠮨	kCantonese	naai3
 U+20BBF 𠮿	kCantonese	saan1
 U+20BC6 𠯆	kCantonese	jyu4
 U+20BC8 𠯈	kCantonese	daai6
+U+20BCB 𠯋	kCantonese	jai5
 U+20BDF 𠯟	kCantonese	jin6
 U+20BE0 𠯠	kCantonese	fai1
 U+20BE6 𠯦	kCantonese	cai3
@@ -25365,6 +25428,7 @@ U+20F8D 𠾍	kCantonese	he3
 U+20F8F 𠾏	kCantonese	ce1
 U+20F90 𠾐	kCantonese	lung4
 U+20FAD 𠾭	kCantonese	we5
+U+20FB4 𠾴	kCantonese	bang6
 U+20FB5 𠾵	kCantonese	zaa1
 U+20FB6 𠾶	kCantonese	ging2
 U+20FC1 𠿁	kCantonese	si1
@@ -25375,6 +25439,7 @@ U+20FEC 𠿬	kCantonese	soe4
 U+20FED 𠿭	kCantonese	wet1
 U+21014 𡀔	kCantonese	lou6
 U+2101D 𡀝	kCantonese	nam6
+U+2101E 𡀞	kCantonese	zip1
 U+21020 𡀠	kCantonese	bei6
 U+21029 𡀩	kCantonese	lok1
 U+21032 𡀲	kCantonese	goi1
@@ -25624,6 +25689,7 @@ U+2217A 𢅺	kCantonese	zin2
 U+221A1 𢆡	kCantonese	nin1
 U+221C3 𢇃	kCantonese	si1
 U+22208 𢈈	kCantonese	nap1
+U+2228D 𢊍	kCantonese	cyu4
 U+222C8 𢋈	kCantonese	sou1
 U+22321 𢌡	kCantonese	gwing2
 U+22325 𢌥	kCantonese	cing2
@@ -25678,6 +25744,7 @@ U+227B5 𢞵	kCantonese	fit1
 U+227CD 𢟍	kCantonese	lik6
 U+22803 𢠃	kCantonese	geng6
 U+22833 𢠳	kCantonese	pit3
+U+22835 𢠵	kCantonese	cong2
 U+2285F 𢡟	kCantonese	mau6
 U+22860 𢡠	kCantonese	ci3
 U+22871 𢡱	kCantonese	kok3
@@ -25731,6 +25798,7 @@ U+22CB2 𢲲	kCantonese	long3
 U+22CB5 𢲵	kCantonese	cou5
 U+22CB7 𢲷	kCantonese	ngaau1
 U+22CB8 𢲸	kCantonese	lou1
+U+22CC6 𢳆	kCantonese	ngou4
 U+22CC9 𢳉	kCantonese	keoi1
 U+22CDC 𢳜	kCantonese	saai1
 U+22D07 𢴇	kCantonese	zap1
@@ -26121,6 +26189,7 @@ U+2498B 𤦋	kCantonese	bing2
 U+2498C 𤦌	kCantonese	ji4
 U+2498D 𤦍	kCantonese	pui3
 U+2498E 𤦎	kCantonese	leon4
+U+2498F 𤦏	kCantonese	cung1
 U+24994 𤦔	kCantonese	gyun2
 U+249A4 𤦤	kCantonese	ji4
 U+249A7 𤦧	kCantonese	zi1
@@ -26212,6 +26281,7 @@ U+24D8A 𤶊	kCantonese	gui6
 U+24DB8 𤶸	kCantonese	naa1
 U+24DC7 𤷇	kCantonese	wak6
 U+24DEA 𤷪	kCantonese	mang2
+U+24DEB 𤷫	kCantonese	cek3
 U+24E3B 𤸻	kCantonese	naa1
 U+24E50 𤹐	kCantonese	lit3
 U+24EA5 𤺥	kCantonese	daap3
@@ -26455,6 +26525,7 @@ U+266E8 𦛨	kCantonese	lou4
 U+266FC 𦛼	kCantonese	bing1
 U+26716 𦜖	kCantonese	ngaa6
 U+26741 𦝁	kCantonese	kei4
+U+26761 𦝡	kCantonese	jim1
 U+2677C 𦝼	kCantonese	leoi4
 U+26799 𦞙	kCantonese	deoi2
 U+267B3 𦞳	kCantonese	jung4
@@ -26909,6 +26980,7 @@ U+28CCD 𨳍	kCantonese	cat6
 U+28CD2 𨳒	kCantonese	diu2
 U+28D34 𨴴	kCantonese	bing1
 U+28D99 𨶙	kCantonese	lan2
+U+28DB9 𨶹	kCantonese	gwaan1
 U+28DFF 𨷿	kCantonese	hoeng3
 U+28E02 𨸂	kCantonese	paang1
 U+28E03 𨸃	kCantonese	saam3
@@ -26993,6 +27065,7 @@ U+29945 𩥅	kCantonese	tou1
 U+29947 𩥇	kCantonese	zin3
 U+29948 𩥈	kCantonese	wan1
 U+29949 𩥉	kCantonese	gei3
+U+2994B 𩥋	kCantonese	ngau6
 U+2995D 𩥝	kCantonese	zi3
 U+2996A 𩥪	kCantonese	fung1
 U+2999D 𩦝	kCantonese	sing6
@@ -27051,6 +27124,7 @@ U+29F88 𩾈	kCantonese	suk1
 U+29F8A 𩾊	kCantonese	seoi1
 U+29F8C 𩾌	kCantonese	hong1
 U+29FB7 𩾷	kCantonese	gwo1
+U+29FDE 𩿞	kCantonese	caa4
 U+2A014 𪀔	kCantonese	si1
 U+2A087 𪂇	kCantonese	coeng1
 U+2A0B9 𪂹	kCantonese	ceon1
@@ -27550,6 +27624,7 @@ U+2B80B 𫠋	kCantonese	luk6
 U+2B810 𫠐	kCantonese	haam4
 U+2B812 𫠒	kCantonese	zoeng1
 U+2B81C 𫠜	kCantonese	ngai4
+U+2B88A 𫢊	kCantonese	cin4
 U+2B892 𫢒	kCantonese	lung5
 U+2B899 𫢙	kCantonese	dung6
 U+2B8AA 𫢪	kCantonese	lin5
@@ -27573,6 +27648,7 @@ U+2BA55 𫩕	kCantonese	gwang1
 U+2BA56 𫩖	kCantonese	mun4
 U+2BA5B 𫩛	kCantonese	cung4
 U+2BA65 𫩥	kCantonese	gau6
+U+2BA66 𫩦	kCantonese	nip3
 U+2BA73 𫩳	kCantonese	ngai1
 U+2BA7A 𫩺	kCantonese	zeon3
 U+2BA7D 𫩽	kCantonese	hong3
@@ -27582,6 +27658,7 @@ U+2BA81 𫪁	kCantonese	loi6
 U+2BA83 𫪃	kCantonese	lai6
 U+2BA8C 𫪌	kCantonese	zam6
 U+2BA8D 𫪍	kCantonese	sam6
+U+2BA92 𫪒	kCantonese	baan2
 U+2BA9A 𫪚	kCantonese	zaam2
 U+2BAA2 𫪢	kCantonese	ning6
 U+2BAA7 𫪧	kCantonese	hiu1
@@ -27591,16 +27668,22 @@ U+2BAC4 𫫄	kCantonese	ngaap3
 U+2BAC7 𫫇	kCantonese	ok3
 U+2BAC8 𫫈	kCantonese	bop6
 U+2BAE6 𫫦	kCantonese	daam6
+U+2BAE8 𫫨	kCantonese	ban1
+U+2BAF2 𫫲	kCantonese	zoen6
 U+2BAFE 𫫾	kCantonese	pan4
 U+2BAFF 𫫿	kCantonese	ling1
 U+2BB00 𫬀	kCantonese	doe1
+U+2BB03 𫬃	kCantonese	waa2
 U+2BB07 𫬇	kCantonese	bok3
 U+2BB10 𫬐	kCantonese	coi3
 U+2BB12 𫬒	kCantonese	saat3
+U+2BB16 𫬖	kCantonese	zoeng3
 U+2BB18 𫬘	kCantonese	baa3
+U+2BB1B 𫬛	kCantonese	zoen6
 U+2BB24 𫬤	kCantonese	ne1
 U+2BB25 𫬥	kCantonese	so4
 U+2BB28 𫬨	kCantonese	ang1
+U+2BB33 𫬳	kCantonese	hoi1
 U+2BB40 𫭀	kCantonese	gaam3
 U+2BB5E 𫭞	kCantonese	zyun1
 U+2BB5F 𫭟	kCantonese	au2
@@ -27625,6 +27708,7 @@ U+2BC55 𫱕	kCantonese	laam6
 U+2BC97 𫲗	kCantonese	zaan2
 U+2BCB8 𫲸	kCantonese	fung1
 U+2BCC3 𫳃	kCantonese	aa1
+U+2BCD7 𫳗	kCantonese	dam6
 U+2BD71 𫵱	kCantonese	cat6
 U+2BD75 𫵵	kCantonese	joeng4
 U+2BD76 𫵶	kCantonese	wai4
@@ -28101,6 +28185,7 @@ U+2CDB2 𬶲	kCantonese	zoeng6
 U+2CDB5 𬶵	kCantonese	gwaan1
 U+2CDBA 𬶺	kCantonese	gun3
 U+2CDD5 𬷕	kCantonese	bou2
+U+2CDEF 𬷯	kCantonese	zeon2
 U+2CDFC 𬷼	kCantonese	jik6
 U+2CDFE 𬷾	kCantonese	hung4
 U+2CE00 𬸀	kCantonese	man4
@@ -28244,19 +28329,19 @@ U+2EB68 𮭨	kCantonese	aan3
 U+2EB6A 𮭪	kCantonese	soeng1
 U+2EB87 𮮇	kCantonese	mau4
 U+2EBD9 𮯙	kCantonese	kaa1
-U+2F817 冗 CJK COMPATIBILITY IDEOGRAPH-2F817	kCantonese	yung2
-U+2F825 勇 CJK COMPATIBILITY IDEOGRAPH-2F825	kCantonese	jung5
-U+2F83B 吆 CJK COMPATIBILITY IDEOGRAPH-2F83B	kCantonese	jiu1
-U+2F840 咢 CJK COMPATIBILITY IDEOGRAPH-2F840	kCantonese	ngok6
-U+2F878 屮 CJK COMPATIBILITY IDEOGRAPH-2F878	kCantonese	cit3
-U+2F894 弢 CJK COMPATIBILITY IDEOGRAPH-2F894	kCantonese	tou1
-U+2F8A6 慈 CJK COMPATIBILITY IDEOGRAPH-2F8A6	kCantonese	ci4
-U+2F8CD 晉 CJK COMPATIBILITY IDEOGRAPH-2F8CD	kCantonese	zeon3
-U+2F8E0 枅 CJK COMPATIBILITY IDEOGRAPH-2F8E0	kCantonese	gai1
-U+2F907 洴 CJK COMPATIBILITY IDEOGRAPH-2F907	kCantonese	baan6
-U+2F994 芳 CJK COMPATIBILITY IDEOGRAPH-2F994	kCantonese	fong1
-U+2F9BC 蜨 CJK COMPATIBILITY IDEOGRAPH-2F9BC	kCantonese	sip3
-U+2F9D4 貫 CJK COMPATIBILITY IDEOGRAPH-2F9D4	kCantonese	gun3
+U+2F817 冗	kCantonese	yung2
+U+2F825 勇	kCantonese	jung5
+U+2F83B 吆	kCantonese	jiu1
+U+2F840 咢	kCantonese	ngok6
+U+2F878 屮	kCantonese	cit3
+U+2F894 弢	kCantonese	tou1
+U+2F8A6 慈	kCantonese	ci4
+U+2F8CD 晉	kCantonese	zeon3
+U+2F8E0 枅	kCantonese	gai1
+U+2F907 洴	kCantonese	baan6
+U+2F994 芳	kCantonese	fong1
+U+2F9BC 蜨	kCantonese	sip3
+U+2F9D4 貫	kCantonese	gun3
 U+30067 𰁧	kCantonese	sung2
 U+30078 𰁸	kCantonese	dong1
 U+3007E 𰁾	kCantonese	fu6
@@ -28355,6 +28440,7 @@ U+30507 𰔇	kCantonese	dai3
 U+3050B 𰔋	kCantonese	gwai6
 U+30528 𰔨	kCantonese	tan3
 U+30532 𰔲	kCantonese	hin1
+U+3053A 𰔺	kCantonese	duk1
 U+30541 𰕁	kCantonese	cam4
 U+30545 𰕅	kCantonese	keoi1
 U+30548 𰕈	kCantonese	giu2

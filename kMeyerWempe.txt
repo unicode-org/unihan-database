@@ -7189,7 +7189,7 @@ U+9F95 龕	kMeyerWempe	770
 U+9F9C 龜	kMeyerWempe	1368
 U+9FA0 龠	kMeyerWempe	3877a
 U+9FA5 龥	kMeyerWempe	3877
-U+FA17 益 CJK COMPATIBILITY IDEOGRAPH-FA17	kMeyerWempe	3893
+U+FA17 益	kMeyerWempe	3893
 U+204FC 𠓼	kMeyerWempe	2817
 U+20544 𠕄	kMeyerWempe	1968
 U+205E6 𠗦	kMeyerWempe	2290
@@ -7385,5 +7385,5 @@ U+2C9A0 𬦠	kMeyerWempe	1932
 U+2C9DF 𬧟	kMeyerWempe	2117
 U+2C9EF 𬧯	kMeyerWempe	2385
 U+2CE33 𬸳	kMeyerWempe	970
-U+2F817 冗 CJK COMPATIBILITY IDEOGRAPH-2F817	kMeyerWempe	3946a
+U+2F817 冗	kMeyerWempe	3946a
 U+30528 𰔨	kMeyerWempe	3012
