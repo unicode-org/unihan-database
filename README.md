@@ -8,6 +8,7 @@ Each provisional Unihan database property currently being worked on has its own 
 - [kDefinition](https://unicode.org/reports/tr38/#kDefinition).txt
 - [kMeyerWempe](https://unicode.org/reports/tr38/#kMeyerWempe).txt
 - [kPhonetic](https://unicode.org/reports/tr38/#kPhonetic).txt
+- [kSemanticVariant](https://unicode.org/reports/tr38/#kSemanticVariant).txt
 - [kSpoofingVariant](https://unicode.org/reports/tr38/#kSpoofingVariant).txt
 - [kZVariant](https://unicode.org/reports/tr38/#kZVariant).txt
 
