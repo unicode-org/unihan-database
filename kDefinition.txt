@@ -17063,13 +17063,15 @@ U+8D6A 赪	kDefinition	deep red
 U+8D6B 赫	kDefinition	bright, radiant, glowing
 U+8D6C 赬	kDefinition	deep red
 U+8D6D 赭	kDefinition	reddish brown; hematite; ochre
-U+8D70 走	kDefinition	walk, go on foot; run; leave
+U+8D6F 赯	kDefinition	red, crimson
+U+8D70 走	kDefinition	walk, go on foot; run; leave; Kangxi radical 156
 U+8D71 赱	kDefinition	walk, go on foot; run; leave
 U+8D73 赳	kDefinition	grand, valiant
 U+8D74 赴	kDefinition	go to; attend, be present
 U+8D75 赵	kDefinition	surname; ancient state
 U+8D76 赶	kDefinition	pursue, follow; expel, drive away
 U+8D77 起	kDefinition	rise, stand up; go up; begin
+U+8D78 赸	kDefinition	abuse, slander; vilify; ridicule
 U+8D7F 赿	kDefinition	late slow; dilatory; tardy to delay; dull; stupid
 U+8D81 趁	kDefinition	take advantage of, avail oneself
 U+8D82 趂	kDefinition	to take advantage of; to avail oneself of. to follow; to go
@@ -17082,7 +17084,8 @@ U+8D91 趑	kDefinition	can't move; to falter
 U+8D92 趒	kDefinition	to jump, to climb over, to leap, to posture; a gangway
 U+8D94 趔	kDefinition	not progressing; to be checked
 U+8D95 趕	kDefinition	pursue, follow; expel, drive away
-U+8D99 趙	kDefinition	surname; ancient state
+U+8D96 趖	kDefinition	to walk, go
+U+8D99 趙	kDefinition	surname; Warring States-era kingdom in modern Hebei and Shanxi
 U+8D9C 趜	kDefinition	(Cant.) to suffocate
 U+8D9D 趝	kDefinition	to pursue; to follow up
 U+8D9F 趟	kDefinition	time, occasion; take journey
