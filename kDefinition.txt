@@ -17098,14 +17098,14 @@ U+8DAE 趮	kDefinition	easily provoked, hasty; fierce, cruel
 U+8DAF 趯	kDefinition	jump
 U+8DB1 趱	kDefinition	go in hurry, hasten; urge
 U+8DB2 趲	kDefinition	go in hurry, hasten; urge
-U+8DB3 足	kDefinition	foot; attain, satisfy, enough
+U+8DB3 足	kDefinition	foot; attain, satisfy, enough; Kangxi radical 156
 U+8DB4 趴	kDefinition	lying prone, leaning over
 U+8DB5 趵	kDefinition	noise of tramping feet
 U+8DB7 趷	kDefinition	to jolt; (Cant.) to raise up; block
 U+8DB8 趸	kDefinition	sell or buy wholesale; store
 U+8DB9 趹	kDefinition	kick with hoof; horse's gallop
 U+8DBA 趺	kDefinition	sit cross-legged; back of the foo
-U+8DBC 趼	kDefinition	callous skin on hands or feet. blisters
+U+8DBC 趼	kDefinition	callous skin on hands or feet; blisters
 U+8DBE 趾	kDefinition	toe; tracks, footprints
 U+8DBF 趿	kDefinition	to tread on; slipshod
 U+8DC0 跀	kDefinition	to cut off the feet, to stretch up

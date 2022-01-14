@@ -2615,8 +2615,10 @@ U+8D81 趁	kSemanticVariant	U+8D82<kMatthews
 U+8D82 趂	kSemanticVariant	U+8D81<kMatthews
 U+8D84 趄	kSemanticVariant	U+8DD9<kMatthews
 U+8D8B 趋	kSemanticVariant	U+8DA8<kMatthews
+U+8D91 趑	kSemanticVariant	U+8DA6<sSoengmou:T
 U+8D92 趒	kSemanticVariant	U+8DF3<kMatthews,kMeyerWempe
 U+8D95 趕	kSemanticVariant	U+8D76<kLau,kMatthews,kMeyerWempe
+U+8DA6 趦	kSemanticVariant	U+8D91<sSoengmou:TZ
 U+8DA8 趨	kSemanticVariant	U+8D8B<kMatthews
 U+8DAE 趮	kSemanticVariant	U+8E81<kMatthews,kMeyerWempe
 U+8DAF 趯	kSemanticVariant	U+8E8D<kMatthews
