@@ -6885,6 +6885,7 @@ U+5250 剐	kDefinition	cut, cut flesh from bones
 U+5251 剑	kDefinition	sword, dagger, saber
 U+5252 剒	kDefinition	(Cant.) to jerk
 U+5254 剔	kDefinition	pick out; scrape off; scrape meat
+U+5255 剕	kDefinition	to cut off the feet (one of the five punishments in ancient times)
 U+5256 剖	kDefinition	split in two, slice; dissect
 U+5257 剗	kDefinition	to level off; to trim; to pare down
 U+5259 剙	kDefinition	establish, create; knife cut
@@ -10081,7 +10082,7 @@ U+644F 摏	kDefinition	pound; strike against; ram; (Cant.) to hit with the elbow
 U+6450 摐	kDefinition	to hit (a bell or drum)
 U+6451 摑	kDefinition	box one's ears, slap
 U+6452 摒	kDefinition	expel, cast off; arrange
-U+6454 摔	kDefinition	fall ground, stumble, trip
+U+6454 摔	kDefinition	fall to the ground; stumble, trip
 U+6455 摕	kDefinition	(Cant.) to hit
 U+6458 摘	kDefinition	pluck, pick; select; specify
 U+6459 摙	kDefinition	to transport; to remove to take; (Cant.) to pinch; to tidy up
@@ -17180,15 +17181,15 @@ U+8E1F 踟	kDefinition	hesitate, undecided; embarrassed
 U+8E20 踠	kDefinition	to writhe, struggle, squirm, wriggle; to be impatient for
 U+8E21 踡	kDefinition	curled, coiled
 U+8E22 踢	kDefinition	kick
-U+8E23 踣	kDefinition	to stumble and fall prone stiff in death
+U+8E23 踣	kDefinition	to stumble and fall prone; stiff in death
 U+8E26 踦	kDefinition	the shin; to pierce; to touch
-U+8E27 踧	kDefinition	uneasiness, nervousness; level
+U+8E27 踧	kDefinition	level, as a road; appearance of uneasiness
 U+8E29 踩	kDefinition	step on
 U+8E2A 踪	kDefinition	footprints, traces, tracks
 U+8E2B 踫	kDefinition	collide, bump into
 U+8E2C 踬	kDefinition	stumble, totter; fail, be frustrated
 U+8E2D 踭	kDefinition	(Cant.) heel, elbow
-U+8E2E 踮	kDefinition	tip toe
+U+8E2E 踮	kDefinition	tiptoe
 U+8E2F 踯	kDefinition	waver, hesitate, be irresolute
 U+8E30 踰	kDefinition	exceed, transgress; cross over
 U+8E31 踱	kDefinition	stroll, pace, walk slowly
@@ -17202,7 +17203,7 @@ U+8E3D 踽	kDefinition	to walk alone; self-reliant
 U+8E40 蹀	kDefinition	to skip, to dance; to put the foot down
 U+8E41 蹁	kDefinition	to walk with a limp
 U+8E42 蹂	kDefinition	trample under foot, tread on
-U+8E44 蹄	kDefinition	hoof; leg of pork; little witch
+U+8E44 蹄	kDefinition	hoof; horse
 U+8E45 蹅	kDefinition	to tread on, walk through
 U+8E46 蹆	kDefinition	(Cant.) to move in a straight line
 U+8E47 蹇	kDefinition	lame, crippled; unlucky
@@ -17213,7 +17214,7 @@ U+8E4B 蹋	kDefinition	step on, tread on; stumble, slip
 U+8E4C 蹌	kDefinition	walk rapidly
 U+8E4D 蹍	kDefinition	upper millstone; to grind, roll, triturate
 U+8E4E 蹎	kDefinition	to stumble, trip
-U+8E4F 蹏	kDefinition	hoof; leg of pork; little witch a horse
+U+8E4F 蹏	kDefinition	hoof; horse
 U+8E50 蹐	kDefinition	take short steps
 U+8E51 蹑	kDefinition	tread, step on; follow, track
 U+8E52 蹒	kDefinition	to jump over; to limp
@@ -17228,7 +17229,7 @@ U+8E5D 蹝	kDefinition	sandal
 U+8E5F 蹟	kDefinition	trace, tracks; footprints
 U+8E60 蹠	kDefinition	step on, tread on; sole
 U+8E61 蹡	kDefinition	to limp; walking; in motion
-U+8E62 蹢	kDefinition	hoof; a falter; to hesitate
+U+8E62 蹢	kDefinition	pig's hoof
 U+8E63 蹣	kDefinition	to jump over; to limp
 U+8E64 蹤	kDefinition	footprints, traces, tracks
 U+8E66 蹦	kDefinition	hop, leap, jump; bright
@@ -17250,11 +17251,13 @@ U+8E79 蹹	kDefinition	to tread on; to stamp; to walk
 U+8E7A 蹺	kDefinition	raise one's foot
 U+8E7B 蹻	kDefinition	to raise the feet; to cross the legs; brave; sandals
 U+8E7C 蹼	kDefinition	webbed feet of waterfowl
+U+8E7D 蹽	kDefinition	to run; to slip away quietly
 U+8E7E 蹾	kDefinition	to squat; to crouch
 U+8E7F 蹿	kDefinition	leap; to jump; to spurt out
 U+8E80 躀	kDefinition	(Cant.) to stumble over, to fall
 U+8E81 躁	kDefinition	tense, excited, irritable
 U+8E82 躂	kDefinition	stumble, slip
+U+8E83 躃	kDefinition	lame; a cripple
 U+8E84 躄	kDefinition	cripple, lame
 U+8E85 躅	kDefinition	walk carefully; hesitate, falter
 U+8E87 躇	kDefinition	hesitate, falter, be undecided
@@ -17284,7 +17287,7 @@ U+8EA6 躦	kDefinition	to jump
 U+8EA7 躧	kDefinition	sandal
 U+8EA9 躩	kDefinition	take quick, short steps
 U+8EAA 躪	kDefinition	trample down, oppress, overrun
-U+8EAB 身	kDefinition	body; trunk, hull; rad. no. 158
+U+8EAB 身	kDefinition	body; trunk, hull; Kangxi radical 158
 U+8EAC 躬	kDefinition	body; personally, in person
 U+8EAD 躭	kDefinition	to delay; to loiter; to hinder
 U+8EAF 躯	kDefinition	body
@@ -17300,15 +17303,17 @@ U+8EBD 躽	kDefinition	(Cant.) 躽胸凸肚, to push out one's chest and belly
 U+8EBE 躾	kDefinition	to discipline, train, bring up; discipline, training
 U+8EBF 躿	kDefinition	tall
 U+8EC0 軀	kDefinition	body
+U+8EC3 軃	kDefinition	to droop, hang down
 U+8EC4 軄	kDefinition	to govern, to oversee, to manage, to direct official duty, office
 U+8EC6 軆	kDefinition	body; group, class, body, unit
 U+8EC8 軈	kDefinition	soon after, soon; almost; no more than; after all
-U+8ECA 車	kDefinition	cart, vehicle; carry in cart
+U+8ECA 車	kDefinition	cart, vehicle; carry in a cart; Kangxi radical 159
 U+8ECB 軋	kDefinition	crush by weight; grind
 U+8ECC 軌	kDefinition	track, rut, path
 U+8ECD 軍	kDefinition	army, military; soldiers, troops
 U+8ECE 軎	kDefinition	a brass parts for a cart in ancient China
 U+8ECF 軏	kDefinition	cross-bar at the end of the poles of a cart
+U+8ED1 軑	kDefinition	a hubcap; a wheel
 U+8ED2 軒	kDefinition	carriage; high; wide; balcony; surname of the Yellow Emperor
 U+8ED4 軔	kDefinition	a block that keeps a wheel from moving
 U+8ED8 軘	kDefinition	war car
@@ -17323,10 +17328,13 @@ U+8EE3 軣	kDefinition	rumble, explosion, blast
 U+8EE4 軤	kDefinition	surname
 U+8EE5 軥	kDefinition	yoke
 U+8EE8 軨	kDefinition	wooden cross-piece on front inside of carriage box
-U+8EEB 軫	kDefinition	cross board at rear of carriage
+U+8EEB 軫	kDefinition	cross-board at rear of a carriage; 28th lunar mansion
 U+8EED 軭	kDefinition	(Cant.) to spoil, ruin
+U+8EEF 軯	kDefinition	surname
 U+8EF0 軰	kDefinition	a row of carriages; a generation; a class, a series a kind; denotes the plural
+U+8EF1 軱	kDefinition	large bone
 U+8EF2 軲	kDefinition	a wheel; to revolve
+U+8EF6 軶	kDefinition	yoke, collar; to restrain
 U+8EF7 軷	kDefinition	sacrifice
 U+8EF8 軸	kDefinition	axle, axletree; pivot; axis
 U+8EF9 軹	kDefinition	end of axle; divergent
@@ -17346,13 +17354,13 @@ U+8F0A 輊	kDefinition	low rear portion of cart
 U+8F0B 輋	kDefinition	沙田禾輋, Hong Kong toponym
 U+8F0C 輌	kDefinition	numerary adjunct for vehicles
 U+8F0F 輏	kDefinition	light; light carriage
-U+8F12 輒	kDefinition	sides of chariot where weapons
+U+8F12 輒	kDefinition	then; each; rack on chariot for luggage or weapons
 U+8F13 輓	kDefinition	mourn; pull; draw
 U+8F14 輔	kDefinition	cheek bone; protective; assist
 U+8F15 輕	kDefinition	light; easy, simple; gentle
 U+8F17 輗	kDefinition	the cross-bar at the end of a carriage pole; linchpin of a large carriage
 U+8F18 輘	kDefinition	a car-rut; rumbling of a cart
-U+8F19 輙	kDefinition	sides of chariot were weapons
+U+8F19 輙	kDefinition	then; each; rack on chariot for luggage or weapons
 U+8F1B 輛	kDefinition	numerary adjunct for vehicles
 U+8F1C 輜	kDefinition	a supply cart, covered wagon, dray
 U+8F1D 輝	kDefinition	brightness, luster, brilliance
@@ -17362,7 +17370,7 @@ U+8F20 輠	kDefinition	grease pot hung under axle of cart
 U+8F21 輡	kDefinition	same as 轗 U+8F57, to fail; a difficulty, misfortune
 U+8F24 輤	kDefinition	a pall to cover the hearse
 U+8F25 輥	kDefinition	turn round, revolve; roller
-U+8F26 輦	kDefinition	a hand-cart; to transport by carriage
+U+8F26 輦	kDefinition	a handcart; capital city
 U+8F27 輧	kDefinition	curtained carriage used by women
 U+8F29 輩	kDefinition	generation, lifetime; class
 U+8F2A 輪	kDefinition	wheel; revolve, turn; recur
@@ -21275,9 +21283,11 @@ U+28048 𨁈	kDefinition	(Cant.) to ford, wade
 U+28090 𨂐	kDefinition	(Cant.) to suddenly fall or drop down
 U+280BD 𨂽	kDefinition	(Cant.) to stamp the foot
 U+280BE 𨂾	kDefinition	(Cant.) to step across
+U+280BF 𨂿	kDefinition	an injury to the foot caused by twisting
 U+280DE 𨃞	kDefinition	to sit cross-legged
 U+280DF 𨃟	kDefinition	to sit cross-legged
 U+280E9 𨃩	kDefinition	(Cant.) to slip, slide
+U+2812E 𨄮	kDefinition	fall to the ground; stumble, trip
 U+2814F 𨅏	kDefinition	(Cant.) to step over, step across
 U+2815D 𨅝	kDefinition	(Cant.) to press down or out with the foot; to kick; to tread on
 U+281AA 𨆪	kDefinition	(Cant.) to press down or push out with the foot
@@ -21287,6 +21297,7 @@ U+28207 𨈇	kDefinition	(Cant.) to step over, step across
 U+2821A 𨈚	kDefinition	weak
 U+28249 𨉉	kDefinition	weak
 U+28256 𨉖	kDefinition	(Cant.) to hide oneself
+U+28263 𨉣	kDefinition	to bow; to stoop
 U+2827C 𨉼	kDefinition	(Cant.) to stoop, bow
 U+2829B 𨊛	kDefinition	(Cant.) nude, naked
 U+282CC 𨋌	kDefinition	rumble; bombard
@@ -21508,6 +21519,7 @@ U+2C925 𬤥	kDefinition	to eulogize; to compose, write
 U+2C9A0 𬦠	kDefinition	to step, trample
 U+2C9DF 𬧟	kDefinition	calf of the leg
 U+2C9EF 𬧯	kDefinition	a pair of balances
+U+2CA0E 𬨎	kDefinition	light carriage; trifling, light
 U+2CABF 𬪿	kDefinition	a square meter; one hundredth of a 公畝
 U+2CBA8 𬮨	kDefinition	sound of a door; to open
 U+2CBCE 𬯎	kDefinition	to fall in ruins; to collapse
