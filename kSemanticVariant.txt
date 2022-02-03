@@ -150,8 +150,10 @@ U+4793 䞓	kSemanticVariant	U+8D6C<kMeyerWempe
 U+480A 䠊	kSemanticVariant	U+5255<sSoengmou2003:TZ
 U+4831 䠱	kSemanticVariant	U+8E85<kMatthews
 U+4899 䢙	kSemanticVariant	U+6557<kMatthews
+U+489C 䢜	kSemanticVariant	U+6B78<sSoengmou2003:TZ
 U+48E9 䣩	kSemanticVariant	U+9187<kLau,kMatthews,kMeyerWempe
 U+490D 䤍	kSemanticVariant	U+288A5
+U+4920 䤠	kSemanticVariant	U+937A<kHanYu:TZ
 U+4940 䥀	kSemanticVariant	U+6375<kFenn
 U+4968 䥨	kSemanticVariant	U+9462<kMatthews,kMeyerWempe
 U+4977 䥷	kSemanticVariant	U+350D<kMatthews
@@ -273,6 +275,7 @@ U+5050 偐	kSemanticVariant	U+8D0B<kMatthews U+8D17<kMatthews
 U+5052 偒	kSemanticVariant	U+8569
 U+5065 健	kSemanticVariant	U+5FA4<kFenn
 U+506A 偪	kSemanticVariant	U+903C<kMatthews,kMeyerWempe
+U+5075 偵	kSemanticVariant	U+9049<sSoengmou2003:T
 U+5077 偷	kSemanticVariant	U+5078<kLau
 U+5078 偸	kSemanticVariant	U+5077<kLau
 U+507A 偺	kSemanticVariant	U+661D<kMatthews U+54B1<kFenn
@@ -1400,7 +1403,7 @@ U+6B72 歲	kSemanticVariant	U+4E97<kMatthews U+5C81<kMatthews U+5D57 U+6B73<kMat
 U+6B73 歳	kSemanticVariant	U+6B72<kMatthews
 U+6B74 歴	kSemanticVariant	U+66C6<kMeyerWempe U+6B77<kMeyerWempe
 U+6B77 歷	kSemanticVariant	U+66C6<kMeyerWempe U+6B74<kMeyerWempe
-U+6B78 歸	kSemanticVariant	U+5F52<kMatthews
+U+6B78 歸	kSemanticVariant	U+489C<sSoengmou2003:T U+5F52<kMatthews
 U+6B79 歹	kSemanticVariant	U+6B7A<kLau,kMatthews
 U+6B7A 歺	kSemanticVariant	U+6B79<kLau,kMatthews
 U+6B7F 歿	kSemanticVariant	U+6B81<kMatthews
@@ -1758,6 +1761,7 @@ U+76D6 盖	kSemanticVariant	U+84CB<kLau,kMatthews,kMeyerWempe U+8462<kFenn
 U+76D7 盗	kSemanticVariant	U+76DC<kMatthews
 U+76D9 盙	kSemanticVariant	U+7C20<kMatthews,kMeyerWempe
 U+76DC 盜	kSemanticVariant	U+76D7<kMatthews
+U+76DE 盞	kSemanticVariant	U+9186<sSoengmou2003:T
 U+76E1 盡	kSemanticVariant	U+5C3D<kLau,kMatthews
 U+76E9 盩	kSemanticVariant	U+76ED<kMeyerWempe
 U+76EA 盪	kSemanticVariant	U+8569 U+862F
@@ -2728,12 +2732,17 @@ U+9031 週	kSemanticVariant	U+5468<kLau
 U+9037 逷	kSemanticVariant	U+9016<kMatthews
 U+903C 逼	kSemanticVariant	U+506A<kMatthews,kMeyerWempe
 U+903E 逾	kSemanticVariant	U+8E30<kMatthews,kMeyerWempe
+U+9041 遁	kSemanticVariant	U+906F<sSoengmou2003:T
+U+9049 遉	kSemanticVariant	U+5075<sSoengmou2003:TZ
 U+904D 遍	kSemanticVariant	U+5FA7<kMatthews,kMeyerWempe
 U+904E 過	kSemanticVariant	U+8FC7<kLau,kMatthews,kMeyerWempe
 U+905C 遜	kSemanticVariant	U+613B<kFenn
 U+905E 遞	kSemanticVariant	U+9013<kMatthews
+U+905F 遟	kSemanticVariant	U+9072<sSoengmou2003:TZ
 U+9061 遡	kSemanticVariant	U+6CDD<kMatthews U+6EAF<kMeyerWempe
 U+906D 遭	kSemanticVariant	U+8E67<kLau,kMatthews
+U+906F 遯	kSemanticVariant	U+9041<sSoengmou2003:TZ
+U+9072 遲	kSemanticVariant	U+905F<sSoengmou2003:T
 U+9076 遶	kSemanticVariant	U+7E5E<kMatthews,kMeyerWempe
 U+9077 遷	kSemanticVariant	U+8FC1<kMatthews,kMeyerWempe
 U+9084 還	kSemanticVariant	U+8FD8<kMatthews
@@ -2753,10 +2762,13 @@ U+9114 鄔	kSemanticVariant	U+5862<kMeyerWempe
 U+9115 鄕	kSemanticVariant	U+9109<kMatthews
 U+9130 鄰	kSemanticVariant	U+96A3<kLau,kMatthews,kMeyerWempe
 U+9139 鄹	kSemanticVariant	U+90F0<kMatthews,kMeyerWempe
+U+9154 酔	kSemanticVariant	U+9189<sSoengmou2003:TZ
 U+9156 酖	kSemanticVariant	U+9D06<kMatthews,kMeyerWempe
 U+9167 酧	kSemanticVariant	U+916C<kMatthews U+91BB<kFenn
 U+916C 酬	kSemanticVariant	U+9167<kMatthews U+91BB<kFenn
+U+9186 醆	kSemanticVariant	U+76DE<sSoengmou2003:TZ
 U+9187 醇	kSemanticVariant	U+48E9<kLau,kMatthews,kMeyerWempe
+U+9189 醉	kSemanticVariant	U+9154<sSoengmou2003:T
 U+918A 醊	kSemanticVariant	U+991F<kMatthews
 U+91A1 醡	kSemanticVariant	U+69A8<kMatthews
 U+91A9 醩	kSemanticVariant	U+7CDF<kMatthews
@@ -2800,6 +2812,7 @@ U+9364 鍤	kSemanticVariant	U+81FF<sSoengmou2003:T
 U+936B 鍫	kSemanticVariant	U+936C<kMeyerWempe
 U+936C 鍬	kSemanticVariant	U+936B<kMeyerWempe
 U+9370 鍰	kSemanticVariant	U+9436<kMatthews
+U+937A 鍺	kSemanticVariant	U+4920<kHanYu:T
 U+937C 鍼	kSemanticVariant	U+7BB4<kMeyerWempe U+91DD<kLau,kMatthews,kMeyerWempe
 U+938B 鎋	kSemanticVariant	U+8F44<kMatthews
 U+938C 鎌	kSemanticVariant	U+942E<kLau,kMatthews,kMeyerWempe
