@@ -14,7 +14,20 @@ Each provisional Unihan database property currently being worked on has its own 
 - [kTraditionalVariant](https://unicode.org/reports/tr38/#kTraditionalVariant).txt
 - [kZVariant](https://unicode.org/reports/tr38/#kZVariant).txt
 
-Also included is the *CantoneseLookup.txt* file, which is an aid to editors of the *kCantonese* property, and includes ideographs for which a Cantonese reading is known to exist, but whose Cantonese reading has not been confirmed by an authoritative source.
+Additional files included are:
+
+- AlternateRadicals.txt
+- CantoneseLookup.txt
+
+*AlternateRadicals.txt* is a list of characters which could reasonably be looked up in a radical-stroke index such as Unicode's under multiple radical-stroke values. Excluded are instances where the radical is the same but stroke counts differ only slightly. For easier editing, the characters for the radicals are generally shown, *e.g.*
+
+`U+61D5 懕	⼼ 61.14	⼚ 27.16`
+
+In all cases, the first value should be considered the standard value as defined in [UAX #38](https://www.unicode.org/reports/tr38/#kRSUnicode).
+
+Simplified radicals are not indicated.
+
+*CantoneseLookup.txt* is an aid to editors of the `kCantonese` property, and includes ideographs for which a Cantonese reading is known to exist, but whose Cantonese reading has not been confirmed by an authoritative source.
 
 Changes to properties that are not provisional require UTC approval. As such, the appropriate way to request changes to non-provisional properties is by [preparing and submitting a proposal](https://www.unicode.org/pending/docsubmit.html), or submitting feedback via the [Contact Form](https://corp.unicode.org/reporting.html), not by submitting a pull request, or creating a new issue in this repository.
 
