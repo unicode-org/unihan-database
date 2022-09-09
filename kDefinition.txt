@@ -243,7 +243,7 @@ U+353A 㔺	kDefinition	(ancient form of 世) an age, a generation of thirty year
 U+353B 㔻	kDefinition	(same as 丕) great; distinguished
 U+353C 㔼	kDefinition	(non-classical form of 榫) to fit into, a tenon, connected
 U+353D 㔽	kDefinition	(non-classical form of 卣) a kind of wine pot or jar used in ancient time
-U+353E 㔾	kDefinition	(same as U+7B44 筄) last name; KangXi radical 26; a joint, a seal, (ancient form of 節)
+U+353E 㔾	kDefinition	(same as U+7B44 筄) last name; Kangxi radical 26; a joint, a seal, (ancient form of 節)
 U+353F 㔿	kDefinition	a tally, like fitting the two halves of a tally, to petition the emperor that ..., to play music; to beat time
 U+3541 㕁	kDefinition	(non-classical form of 卻) still; but; yet; etc., to refuse to accept, to retreat; to withdraw
 U+3542 㕂	kDefinition	(ancient form of 吟) to hum; to intone, to moan, to sigh, high ridges of cliffs, pebble ground
@@ -360,6 +360,7 @@ U+35CB 㗋	kDefinition	(standard form of 喉) the throat; the gullet; guttural
 U+35CC 㗌	kDefinition	(non-classical form) to scold with loud voice, to talk out of control; loquacious
 U+35CD 㗍	kDefinition	(non-classical form) to gnaw; to bite; to masticate, sound of biting
 U+35CE 㗎	kDefinition	(Cant.) final particle indicating emphasis or surprise; phonetic
+U+35D1 㗑	kDefinition	a grammatical particle indicating an assertion
 U+35D2 㗒	kDefinition	(in grammar) interjection; to express sadness; sorrow and emotional excitement
 U+35D3 㗓	kDefinition	mouthful
 U+35D4 㗔	kDefinition	(a dialect) joy; happiness
@@ -426,7 +427,7 @@ U+3621 㘡	kDefinition	(same as 柙) a pen for wild beasts; a cage for prisoners
 U+3622 㘢	kDefinition	a round cave; a round hole
 U+3623 㘣	kDefinition	compasses, (same as U+5713 圓) round; circular
 U+3624 㘤	kDefinition	circle of the moving water
-U+3625 㘥	kDefinition	(same as 囮) to inveigle; to decoy, a decoy-bird; a go-between; a medium
+U+3625 㘥	kDefinition	to inveigle; to decoy, a decoy-bird; a go-between; a medium
 U+3626 㘦	kDefinition	wall made of soil, used in name of places
 U+3627 㘧	kDefinition	(same as 序) precedence, order, orderly, the east and west walls of the parlor
 U+3628 㘨	kDefinition	deep; profound, empty; hollow, quite; peaceful
@@ -775,7 +776,7 @@ U+37AA 㞪	kDefinition	the appearance of the mountain is flat and smooth, (corru
 U+37AB 㞫	kDefinition	(non-classical form of 走) to walk, to run, to leave
 U+37AC 㞬	kDefinition	close or near
 U+37AD 㞭	kDefinition	name of an island
-U+37AE 㞮	kDefinition	variant of 出 U+51FA, to go out, send out; to stand; to produce
+U+37AE 㞮	kDefinition	(Japanese, non-standard variant of U+51FA 出), to go out, send out; to stand; to produce
 U+37AF 㞯	kDefinition	(same as 岊) the turning area of a mountain, mountain top; summit, a high mountain, a bare (of bald) mountain or hill
 U+37B0 㞰	kDefinition	name of a mountain
 U+37B1 㞱	kDefinition	dusk; twilight
@@ -3643,7 +3644,7 @@ U+43EE 䏮	kDefinition	(abbreviated form of 脇=脅) the sides of the trunk from
 U+43EF 䏯	kDefinition	(same as 痣) moles; birthmarks
 U+43F0 䏰	kDefinition	a kind of insects; earthworm, durable; strong and soft; pliable yet tough
 U+43F1 䏱	kDefinition	body, fat; plump
-U+43F2 䏲	kDefinition	(same as 胅) protruded bones, swelling, a crooked nose
+U+43F2 䏲	kDefinition	protruded bones; swelling, a crooked nose
 U+43F3 䏳	kDefinition	(in chemistry) olein, oil and grease; fats (esp. animal), the ribs and skin
 U+43F4 䏴	kDefinition	dim; ambiguous; unclear eyesight, sharp ends of something
 U+43F5 䏵	kDefinition	plump, rich and full, plentiful, swelling, a plump trunk (body)
@@ -3741,7 +3742,7 @@ U+4451 䑑	kDefinition	(ancient form of 僕) a servant, a modest term referring 
 U+4452 䑒	kDefinition	a kind of farm tool used in ancient times
 U+4453 䑓	kDefinition	(same as 臺) a lookout, a tower, a terrace, a platform, a stage
 U+4454 䑔	kDefinition	to pound (grain) in order to remove the husk
-U+4455 䑕	kDefinition	(a non-classical abbreviated form of 鼠) a rat, a mouse, squirrels, moles, etc., KangXi radical 208
+U+4455 䑕	kDefinition	(a non-classical abbreviated form of 鼠) a rat, a mouse, squirrels, moles, etc., Kangxi radical 208
 U+4457 䑗	kDefinition	to pound (grain) in order to remove the husk
 U+4458 䑘	kDefinition	to pound; to ram down, to polish; to grind barley or wheat
 U+4459 䑙	kDefinition	put out the tongue; (same as U+3401 㐁) to lick; to taste
@@ -4050,7 +4051,7 @@ U+459E 䖞	kDefinition	a sea-insect; in the shape of a human's elbow
 U+459F 䖟	kDefinition	(non-classical form of U+8771 虻) a gadfly
 U+45A0 䖠	kDefinition	(non-classical form of 螈) a kind of lizard found in damp places; Diemyctylus pyrrhogaster, a kind of amphibious reptile
 U+45A1 䖡	kDefinition	millipede
-U+45A2 䖢	kDefinition	first-born silkworm
+U+45A2 䖢	kDefinition	first-born silkworm; (Cant., saa1) a kind of cookie
 U+45A3 䖣	kDefinition	(same as U+86A4 蚤) flea, to scratch, the mortices in the hub for the spokes of the wheel
 U+45A4 䖤	kDefinition	(same as 蜿) to creep; to wriggle
 U+45A5 䖥	kDefinition	(same as 蟊) insects that are injurious to crops
@@ -4060,6 +4061,7 @@ U+45A8 䖨	kDefinition	mantis, (same as 蟅) ground beetle (Eupolyphage sinensis
 U+45A9 䖩	kDefinition	a kind of bee; black bee
 U+45AA 䖪	kDefinition	(same as 蠀) grub (a kind of larva); maggots, looper; inchworm; geometer
 U+45AB 䖫	kDefinition	(same as 蚌) oyster
+U+45AC 䖬	kDefinition	beetle
 U+45AD 䖭	kDefinition	grub (a kind of larva), second for spider, a variety of spider; octopus; a long-legged spider
 U+45AE 䖮	kDefinition	(same as U+8801 蠁) larvae; grubs
 U+45AF 䖯	kDefinition	poisonous insect, (same as 奎) one of the 28 constellations which ancient Chinese astrologers believed to control the literary trends of the world, (same as 蛙) frog
@@ -4977,13 +4979,13 @@ U+4976 䥶	kDefinition	(same as 鬲) cooking utensil used in old times, sacrific
 U+4977 䥷	kDefinition	(same as U+9358 鍘) a hinged shear or long knife for cutting fodder or hay; sheet-iron, etc., to cut up
 U+4978 䥸	kDefinition	a sickle
 U+497A 䥺	kDefinition	(same as 鋣) name of a double-edged sword, (simplified form 釾) a chemical element (鎄) (Es)
-U+497D 䥽	kDefinition	(simplified form of 鏺) farm tool; blade in both side with a long handle used to cut weeds, to exterminate; to settle disorders
-U+497E 䥾	kDefinition	(simplified form of U+4971 䥱) to melt or cast (metal) by using a mold; (non-classical form of U+5BEB 寫) to write; to draw
+U+497D 䥽	kDefinition	farm tool; blade in both side with a long handle used to cut weeds, to exterminate; to settle disorders
+U+497E 䥾	kDefinition	to melt or cast (metal) by using a mold; (non-classical form of U+5BEB 寫) to write; to draw
 U+4981 䦁	kDefinition	a broad hoe, a mattock
 U+4982 䦂	kDefinition	(simplified form of U+4947 䥇) Samarium (Sm); old ideograph for U+92F1 鋱, terbium (Tb); (same as U+91E4 釤) a sickle with a long handle, to swing a sickle to cut (grass or wheat)
-U+4983 䦃	kDefinition	(simplified form) to dig with a hoe, a big hoe
-U+4985 䦅	kDefinition	(simplified form of 鐥) a kind of weapon used in ancient times, (same as 釤) a sickle with a long handle, to swing a sickle to cut (grass or wheat)
-U+4986 䦆	kDefinition	(simplified form) a big hoe, to eliminate; to uproot; to clear; to dig; to excavate
+U+4983 䦃	kDefinition	to dig with a hoe; a large hoe
+U+4985 䦅	kDefinition	to swing a sickle to cut (grass or wheat)
+U+4986 䦆	kDefinition	a mattock; a billhook
 U+4987 䦇	kDefinition	(ancient form of 髻) dressed hair of a Chinese woman; a coiffure with a topknot
 U+4988 䦈	kDefinition	(ancient form of 嗟) to sigh in lamentation; to lament; an exclamation expressing grief or regret; to exclaim, name of a hill
 U+498A 䦊	kDefinition	an appliance for walking on the sands (as boat for river; car for highway)
@@ -5007,7 +5009,7 @@ U+499B 䦛	kDefinition	to struggle; struggle; to strive
 U+499C 䦜	kDefinition	(same as standard form 郚) name of a state in old times
 U+499D 䦝	kDefinition	sound of a door; to open
 U+499E 䦞	kDefinition	(same as 閏) extra; inserted between others, as a day or month, to intercalate
-U+499F 䦟	kDefinition	to struggle; struggle; to strive, firm; stable; secure
+U+499F 䦟	kDefinition	struggle; to strive, firm; stable; secure
 U+49A0 䦠	kDefinition	name of a river, door
 U+49A1 䦡	kDefinition	a door-keeper, an entrance of a palace, a secluded dwelling
 U+49A2 䦢	kDefinition	(non-classical form of 闊) broad; wide; width
@@ -5029,8 +5031,8 @@ U+49B2 䦲	kDefinition	eaves of an ancestral temple (of the ruling family), door
 U+49B3 䦳	kDefinition	between steps, window
 U+49B4 䦴	kDefinition	open the door
 U+49B5 䦵	kDefinition	incapable, weak; feeble, narrow minded
-U+49B6 䦶	kDefinition	(simplified form of U+499B 䦛) to struggle; struggle; to strive
-U+49B7 䦷	kDefinition	(simplified form of U+499F 䦟) to struggle; struggle; to strive, firm; stable; secure
+U+49B6 䦶	kDefinition	struggle; to strive
+U+49B7 䦷	kDefinition	struggle; to strive, firm; stable; secure
 U+49B9 䦹	kDefinition	name of a county in today's Sichuan Province
 U+49BA 䦺	kDefinition	name of a hill
 U+49BB 䦻	kDefinition	name of a place
@@ -5067,7 +5069,7 @@ U+49DD 䧝	kDefinition	name of a place, name of a mountain
 U+49DE 䧞	kDefinition	to increase; to profit; to augment, artful; clever; skillful, chips (in gambling, etc.), a number (for identification), abundant; rich; exuberant; flourishing; prosperous
 U+49DF 䧟	kDefinition	(same as 陷) to skin, to involve; to beguile, to betray
 U+49E0 䧠	kDefinition	(same as 鄟) name of a place (the Epoch of Spring and Autumn) in what is today's Shandong Province
-U+49E1 䧡	kDefinition	(same as 墉) a fortified wall, a wall
+U+49E1 䧡	kDefinition	a fortified wall, a wall
 U+49E2 䧢	kDefinition	a rough road, a rugged; steep mountain uneasy
 U+49E3 䧣	kDefinition	(same as 鄄 堙) to stop up; to gag; blocked
 U+49E4 䧤	kDefinition	(same as 濮) name of a river in Shandong Province, name of an ancient tribe in Hubei Province
@@ -5204,7 +5206,7 @@ U+4A6B 䩫	kDefinition	(same as 緉) a unit to count shoes in ancient times; a p
 U+4A6C 䩬	kDefinition	an ornamental item on a scabbard, leather shoes, weapons; arms (interchangeable 鞛)
 U+4A6D 䩭	kDefinition	(same as 羈) halter; to restrain
 U+4A6E 䩮	kDefinition	a quiver
-U+4A6F 䩯	kDefinition	(interchangeable 革) urgent; anxious, hard, solid and durable leather, a leather whip
+U+4A6F 䩯	kDefinition	(interchangeable with U+9769 革) urgent; anxious; durable leather; a leather whip
 U+4A70 䩰	kDefinition	(corrupted form of 鞙) a scabbard, reins or traces
 U+4A71 䩱	kDefinition	a scabbard; a sheath, remaining; overplus; surplus, sin; evil, the front of a cutting strip of cloth
 U+4A72 䩲	kDefinition	a tool used to cut leather, an ox to tow, drag or pull a boat
@@ -5253,7 +5255,7 @@ U+4A9C 䪜	kDefinition	a shield; a screen, (same as 襜) the low front of a robe
 U+4A9D 䪝	kDefinition	leather thong wound around the handle of a sword
 U+4A9E 䪞	kDefinition	bad; evil; wicked; vice, last name written in the seal type
 U+4AA0 䪠	kDefinition	(same as U+97F2 齏) pulverized; powdered; crumbs; bits
-U+4AA1 䪡	kDefinition	(same as 齏) to fall down; to sink
+U+4AA1 䪡	kDefinition	finely chopped herbs or medicines
 U+4AA2 䪢	kDefinition	smashed; pickled vegetable
 U+4AA3 䪣	kDefinition	(same as 䪢) smashed; pickled vegetable
 U+4AA4 䪤	kDefinition	garlic
@@ -5296,7 +5298,7 @@ U+4ACB 䫋	kDefinition	female attendants or servants, (same as 隤) to fall in r
 U+4ACC 䫌	kDefinition	bowed one's head
 U+4ACD 䫍	kDefinition	(corrupted form of 頫) (interchangeable 俯) to bow one's head; chin down, to wash oneself, to view; to watch
 U+4ACE 䫎	kDefinition	short
-U+4ACF 䫏	kDefinition	(same as 魌) ugly, physical or moral deformity, the mask worn by one who is driving away spirits
+U+4ACF 䫏	kDefinition	ugly; physical or moral deformity; the mask worn by an exorcist
 U+4AD0 䫐	kDefinition	to bend (or lower) one's head; to bow (usually refer to submission or admission of a wrong doing)
 U+4AD1 䫑	kDefinition	good; nice; fine; (same as U+4ACF 䫏; standard form of U+9B4C 魌) ugly, physical or moral deformity, the mask wearing by one who is driven away spirits
 U+4AD2 䫒	kDefinition	disease, in a coma; apoplexy; unconscious; stupor
@@ -5566,7 +5568,7 @@ U+4BDD 䯝	kDefinition	(same as 髓) marrow; pith; essence
 U+4BDE 䯞	kDefinition	bone (the lowest pieces of bone of the spinal column and sides of the abdominal region)
 U+4BDF 䯟	kDefinition	bone, stupid; dull
 U+4BE0 䯠	kDefinition	the five lowest pieces of bone of the spinal column
-U+4BE2 䯢	kDefinition	partial paralysis; hemiplegia -- paralysis of half of one's body, very small; diminutive; minute
+U+4BE2 䯢	kDefinition	partial paralysis, hemiplegia; very small, diminutive, minute
 U+4BE3 䯣	kDefinition	the kneecap; patella, the cranium
 U+4BE4 䯤	kDefinition	boneware used to comb the hair, to bind the hair, (same as 鬠) hair tied in a knot for the mourning rites
 U+4BE5 䯥	kDefinition	with a high skull, dried meat strips
@@ -5625,7 +5627,7 @@ U+4C1A 䰚	kDefinition	the top part of the rice gruel, to chafe; to scour; to ru
 U+4C1B 䰛	kDefinition	(same as 鬲) a large earthen pot, a large iron cauldron
 U+4C1C 䰜	kDefinition	(ancient form of 鬲) a large earthen pot, a large iron cauldron
 U+4C1D 䰝	kDefinition	a large earthen pot for cooking, a large iron cauldron used to cook in old times
-U+4C1E 䰞	kDefinition	(same as U+7151 煮) to cook; to boil; to stew
+U+4C1E 䰞	kDefinition	to cook; to boil; to stew
 U+4C1F 䰟	kDefinition	(same as 魂) the soul, the spiritual part of man that ascends to heaven, the wits; the spiritual faculties
 U+4C20 䰠	kDefinition	god; spirit; immortal, mountain deity
 U+4C21 䰡	kDefinition	a fierce ghost; a malicious spirit; evil spirits
@@ -5706,7 +5708,7 @@ U+4C71 䱱	kDefinition	Parasilurus asotus; small fish, fry; large carp
 U+4C72 䱲	kDefinition	a kind of fish
 U+4C73 䱳	kDefinition	(same as 鱣) a kind of sturgeon; Acipenser mikadoi, (interchangeable 鱔) eels
 U+4C74 䱴	kDefinition	(same as 䱭) tuna
-U+4C75 䱵	kDefinition	a kind of fish; live in the ocean
+U+4C75 䱵	kDefinition	stocky hawkfish (Cirrhitus pinnulatus)
 U+4C76 䱶	kDefinition	a male crab, cod oil
 U+4C77 䱷	kDefinition	(same as 魚 漁) to fish, to seize
 U+4C78 䱸	kDefinition	a family name, (same as 緧) a crupper
@@ -5720,7 +5722,7 @@ U+4C7F 䱿	kDefinition	a kind of fish
 U+4C80 䲀	kDefinition	a kind of fish
 U+4C81 䲁	kDefinition	general term of a kind of fish, a snake-like fish
 U+4C82 䲂	kDefinition	a kind of fish
-U+4C83 䲃	kDefinition	a carp-like fish with chicken feet, spawn or roe
+U+4C83 䲃	kDefinition	a carp-like fish with fins resembling chicken feet
 U+4C84 䲄	kDefinition	(same as 鮸) an ocean fish with long flat body, big mouth, sharp teeth (a cod, same as 鰵)
 U+4C85 䲅	kDefinition	the globefish; blowfish; puffer
 U+4C89 䲉	kDefinition	a kind of fish; tuna
@@ -5745,8 +5747,8 @@ U+4C9B 䲛	kDefinition	an ancient name for tuna, a kind of sturgeon
 U+4C9C 䲜	kDefinition	lots of fish
 U+4C9D 䲝	kDefinition	(same as U+9BE7 鯧) the pomfret
 U+4C9E 䲞	kDefinition	a general name for perch, etc.
-U+4C9F 䲟	kDefinition	(simplified form of 鮣) a kind of fish, live in the ocean, dark brown color with two white vertical marks; flat shaped head
-U+4CA0 䲠	kDefinition	(simplified form 鰆) a kind of fish; long and flat; silver-gray with dark color dots and cross-grained strips
+U+4C9F 䲟	kDefinition	live sharksucker (Echeneis naucrates)
+U+4CA0 䲠	kDefinition	Chinese mackerel, Chinese seerfish (Scomberomorus sinensis)
 U+4CA1 䲡	kDefinition	loach
 U+4CA2 䲢	kDefinition	loach
 U+4CA3 䲣	kDefinition	(simplified form) to fish; to seize
@@ -5800,7 +5802,7 @@ U+4CD4 䳔	kDefinition	a pigeon-like bird; with a comb or crest, a shrike; butch
 U+4CD5 䳕	kDefinition	the pigeon, the turtle dove
 U+4CD6 䳖	kDefinition	flying birds, a kind of bird
 U+4CD7 䳗	kDefinition	(ancient form of 鵝) goose; gander
-U+4CD8 䳘	kDefinition	(same as 䳗,鵝) goose; gander
+U+4CD8 䳘	kDefinition	goose
 U+4CD9 䳙	kDefinition	an egret-like bird, a kind of water bird
 U+4CDA 䳚	kDefinition	a sort of nightingale which is said to sing for the dawn; also the name for a large bat with awing-spread of two feet, a sort of pheasant
 U+4CDB 䳛	kDefinition	(same as 鷃) a small brown speckled bird like the quail
@@ -5863,8 +5865,8 @@ U+4D14 䴔	kDefinition	the fishing cormorant
 U+4D15 䴕	kDefinition	a woodpecker
 U+4D16 䴖	kDefinition	a kind of water bird
 U+4D17 䴗	kDefinition	a shrike
-U+4D18 䴘	kDefinition	a kind of bird
-U+4D19 䴙	kDefinition	a kind of bird resembling the duck; much smaller
+U+4D18 䴘	kDefinition	grebe
+U+4D19 䴙	kDefinition	little grebe, dabchick (Tachybaptus ruficollis)
 U+4D1A 䴚	kDefinition	saltpond; salty marshes
 U+4D1B 䴛	kDefinition	to make decoction of salt
 U+4D1C 䴜	kDefinition	salt
@@ -5894,7 +5896,7 @@ U+4D34 䴴	kDefinition	a kind of cake, a kind of herb medicine, (same as 黏) to
 U+4D35 䴵	kDefinition	(same as 餅) cakes; biscuits; pastry
 U+4D36 䴶	kDefinition	(same as 麷) to boil or stew wheat, to simmer ferment for brewing
 U+4D37 䴷	kDefinition	use the whole piece of barley to ferment for brewing
-U+4D38 䴸	kDefinition	(non-classical form of 麩) bran; refuse
+U+4D38 䴸	kDefinition	bran; refuse
 U+4D39 䴹	kDefinition	cakes; biscuits; pastry, distiller's grains or yeast, (interchangeable 稞) grains ready for grinding; healthy grains, flour, (same as 䴷) use the whole piece of barley to ferment for brewing
 U+4D3A 䴺	kDefinition	cakes; cookies; biscuits; pastries; dumplings
 U+4D3B 䴻	kDefinition	dry food
@@ -5915,7 +5917,7 @@ U+4D49 䵉	kDefinition	Abutilon, grassy plant with fibres from which cloth is ma
 U+4D4A 䵊	kDefinition	(same as 䵍) yellow, used in person's name
 U+4D4B 䵋	kDefinition	yellow, greenish yellow
 U+4D4C 䵌	kDefinition	reddish yellow
-U+4D4D 䵍	kDefinition	yellow, used in person's name
+U+4D4D 䵍	kDefinition	yellow; used in personal names
 U+4D4E 䵎	kDefinition	dark yellow, yellow, bright; well-illuminated
 U+4D4F 䵏	kDefinition	yellow; straw colored
 U+4D50 䵐	kDefinition	yellow, (dialect) yellowish black; dark yellow
@@ -5976,7 +5978,7 @@ U+4D86 䶆	kDefinition	(dialect) a rat; a mouse
 U+4D87 䶇	kDefinition	a rat
 U+4D88 䶈	kDefinition	a kind of rat, known together as the kangaroo
 U+4D89 䶉	kDefinition	guinea pig; a kind of big rat; living in the bamboo grove
-U+4D8A 䶊	kDefinition	(corrupted form) (interchangeable with 衄) to bleed at the nose, a check in battle, to damp ardour, to shrink from; to treat harshly, to be damped; to suffer defeat
+U+4D8A 䶊	kDefinition	nosebleed; to be defeated
 U+4D8B 䶋	kDefinition	sound; sound of the breath
 U+4D8C 䶌	kDefinition	(same as 皰) a pustule or pimple
 U+4D8D 䶍	kDefinition	(same as 嚏) to sneeze
@@ -6005,13 +6007,13 @@ U+4DA3 䶣	kDefinition	to grind the teeth, teeth
 U+4DA4 䶤	kDefinition	sound of chewing bones
 U+4DA5 䶥	kDefinition	(same as 齟) unevenly-fitting teeth, irregular teeth, resplendent with variegated coloration; bright and colorful
 U+4DA6 䶦	kDefinition	upper and lower teeth in order and corresponding each other, to gnaw; to bite
-U+4DA7 䶧	kDefinition	(same as U+9F69 咬) to gnaw; to bite
+U+4DA7 䶧	kDefinition	to gnaw; to bite
 U+4DA8 䶨	kDefinition	in the manner a toothless person chewing food
 U+4DA9 䶩	kDefinition	to gnaw; to bite, well-arranged teeth
 U+4DAA 䶪	kDefinition	sharp teeth; to break something hard like a knife, sand (in food), ugly
 U+4DAB 䶫	kDefinition	fine teeth, irregular teeth
 U+4DAC 䶬	kDefinition	hard fins on the back of a dragon
-U+4DAE 䶮	kDefinition	(simplified form) clever; wise; superior, a person's name (in Earlier Five Dynasties, South Han, meaning flying dragon over the sky)
+U+4DAE 䶮	kDefinition	used in personal names
 U+4DAF 䶯	kDefinition	used in girl's name
 U+4DB0 䶰	kDefinition	feather ornaments
 U+4DB1 䶱	kDefinition	a kind of turtle
@@ -6059,7 +6061,7 @@ U+4E24 两	kDefinition	two, both, pair, couple; ounce
 U+4E25 严	kDefinition	strict, rigorous, rigid; stern
 U+4E26 並	kDefinition	equal to; side by side; also, what is more; both
 U+4E27 丧	kDefinition	mourning; mourn; funeral
-U+4E28 丨	kDefinition	(same as U+3021 HANGZHOU NUMERAL ONE 〡) number one; line; KangXi radical 2
+U+4E28 丨	kDefinition	(same as U+3021 HANGZHOU NUMERAL ONE 〡) number one; line; Kangxi radical 2
 U+4E29 丩	kDefinition	to join or connect the vine
 U+4E2A 个	kDefinition	numerary adjunct, piece; single
 U+4E2B 丫	kDefinition	forked; bifurcation
@@ -6073,7 +6075,7 @@ U+4E32 串	kDefinition	string; relatives; conspire
 U+4E33 丳	kDefinition	spit, grill; a skewer
 U+4E34 临	kDefinition	draw near, approach; descend
 U+4E35 丵	kDefinition	thick (grass)
-U+4E36 丶	kDefinition	dot; KangXi radical 3
+U+4E36 丶	kDefinition	dot; Kangxi radical 3
 U+4E37 丷	kDefinition	“ears-out” component used in some Chinese characters (e.g. U+5151 兑); archaic form of U+516B 八; kwukyel, an archaic hanja-based writing system used in Korea before the invention of hangul
 U+4E38 丸	kDefinition	small round object; pellet, pill
 U+4E39 丹	kDefinition	cinnabar (native HgS); vermilion (artificial HgS used as pigment)
@@ -6082,7 +6084,7 @@ U+4E3B 主	kDefinition	master, chief owner; host; lord
 U+4E3C 丼	kDefinition	bowl of food; well
 U+4E3D 丽	kDefinition	beautiful, magnificent, elegant
 U+4E3E 举	kDefinition	raise, lift up; recommend
-U+4E3F 丿	kDefinition	line; KangXi radical 4
+U+4E3F 丿	kDefinition	line; Kangxi radical 4
 U+4E40 乀	kDefinition	stretch
 U+4E42 乂	kDefinition	govern, control, manage; nurture
 U+4E43 乃	kDefinition	then; really, indeed; as it turned out, after all; namely
@@ -6142,7 +6144,7 @@ U+4E81 亁	kDefinition	dry; dried, as opposed to fresh
 U+4E82 亂	kDefinition	confusion, state of chaos; create chaos, revolt
 U+4E83 亃	kDefinition	name of a kind of animal
 U+4E84 亄	kDefinition	greedy, stingy
-U+4E85 亅	kDefinition	hook; KangXi radical 6
+U+4E85 亅	kDefinition	hook; Kangxi radical 6
 U+4E86 了	kDefinition	to finish; particle of completed action
 U+4E87 亇	kDefinition	kwukyel (old Korean hanja-based script) for “hammer”
 U+4E88 予	kDefinition	I, me; to give
@@ -6168,7 +6170,7 @@ U+4E9C 亜	kDefinition	Asia; second
 U+4E9D 亝	kDefinition	even, regular, uniform all alike; to arrange
 U+4E9E 亞	kDefinition	Asia; second; used as a prefix to names
 U+4E9F 亟	kDefinition	urgently, immediately, extremely
-U+4EA0 亠	kDefinition	head; KangXi radical 8
+U+4EA0 亠	kDefinition	head; Kangxi radical 8
 U+4EA1 亡	kDefinition	death, destroyed; lose, perish
 U+4EA2 亢	kDefinition	high, proud; violent, excessive; skilled; name
 U+4EA4 交	kDefinition	mix; intersect; exchange, communicate; deliver
@@ -6328,6 +6330,7 @@ U+4F62 佢	kDefinition	(Cant.) he, she, it
 U+4F63 佣	kDefinition	commission fee
 U+4F64 佤	kDefinition	the Va (Wa) nationality, living in Yunnan
 U+4F65 佥	kDefinition	all, together, unanimous
+U+4F67 佧	kDefinition	old name for the Wǎ (佤) ethnic group of Yúnnán and Myanmar
 U+4F69 佩	kDefinition	belt ornament, pendant; wear at waist, tie to the belt; respect
 U+4F6A 佪	kDefinition	hesitate
 U+4F6C 佬	kDefinition	(Cant.) man, person; mature
@@ -6392,6 +6395,7 @@ U+4FB4 侴	kDefinition	surname
 U+4FB5 侵	kDefinition	invade, encroach upon, raid
 U+4FB6 侶	kDefinition	companion; associate with
 U+4FB7 侷	kDefinition	narrow, cramped, confined
+U+4FB9 侹	kDefinition	straight
 U+4FBF 便	kDefinition	convenience, ease; expedient
 U+4FC1 俁	kDefinition	big
 U+4FC2 係	kDefinition	bind, tie up; involve, relation
@@ -6477,6 +6481,7 @@ U+502D 倭	kDefinition	dwarf; dwarfish, short
 U+502E 倮	kDefinition	bare, naked, uncovered
 U+5032 倲	kDefinition	(simplified form) rude; barbarous, stupid; dull, last name
 U+5033 倳	kDefinition	to stick in, to stab; to erect
+U+5034 倴	kDefinition	a place in Héběi
 U+5036 倶	kDefinition	all
 U+5039 倹	kDefinition	temperate, frugal, economical
 U+503A 债	kDefinition	debt, loan, liabilities
@@ -6579,6 +6584,7 @@ U+50D5 僕	kDefinition	slave, servant, I
 U+50D6 僖	kDefinition	joy, gladness, delight; surname
 U+50DA 僚	kDefinition	companion, colleague; officials; bureaucracy; a pretty face
 U+50DB 僛	kDefinition	tipsy reel
+U+50DC 僜	kDefinition	Dèng ethnic group of Tibet
 U+50DD 僝	kDefinition	to revile; to abuse
 U+50DE 僞	kDefinition	false, counterfeit, bogus
 U+50E3 僣	kDefinition	assume, usurp
@@ -6599,6 +6605,7 @@ U+50F5 僵	kDefinition	stiff and motionless, stock still
 U+50F6 僶	kDefinition	forcefully
 U+50F9 價	kDefinition	price, value
 U+50FB 僻	kDefinition	out-of-the-way, remote; unorthodox
+U+50FD 僽	kDefinition	haggard; sallow, pallid
 U+50FE 僾	kDefinition	like
 U+50FF 僿	kDefinition	small, minute; lacking sincerity
 U+5100 儀	kDefinition	ceremony, rites gifts; admire
@@ -6645,7 +6652,7 @@ U+513B 儻	kDefinition	if, supposing, in case
 U+513C 儼	kDefinition	grave, respectful, majestic
 U+513D 儽	kDefinition	lazy; tired out, worn fatigued
 U+513E 儾	kDefinition	slow, dull; irresolute
-U+513F 儿	kDefinition	son, child; KangXi radical 10
+U+513F 儿	kDefinition	son, child; Kangxi radical 10
 U+5140 兀	kDefinition	to cut off the feet
 U+5141 允	kDefinition	to grant, to allow, to consent
 U+5142 兂	kDefinition	hairpin, clasp; wear in hair
@@ -6704,7 +6711,7 @@ U+517D 兽	kDefinition	beast, animal; bestial
 U+517E 兾	kDefinition	same as 冀 U+5180 to hope for; to wish
 U+5180 冀	kDefinition	hope for; wish; Hebei province
 U+5181 冁	kDefinition	smile
-U+5182 冂	kDefinition	wide; KangXi radical 13
+U+5182 冂	kDefinition	wide; Kangxi radical 13
 U+5184 冄	kDefinition	tender; weak; gradually alternating
 U+5185 内	kDefinition	inside
 U+5186 円	kDefinition	yen
@@ -6722,7 +6729,7 @@ U+5192 冒	kDefinition	risk, brave, dare
 U+5193 冓	kDefinition	a secluded place; secret cabinet
 U+5194 冔	kDefinition	cap worn during the Yin dynasty
 U+5195 冕	kDefinition	crown; ceremonial cap
-U+5196 冖	kDefinition	cover; KangXi radical 14
+U+5196 冖	kDefinition	cover; Kangxi radical 14
 U+5197 冗	kDefinition	excessive; superfluous
 U+5198 冘	kDefinition	to move on; doubtful, to hesitate
 U+5199 写	kDefinition	write; draw, sketch; compose
@@ -6740,7 +6747,7 @@ U+51A7 冧	kDefinition	(Cant.) a bud; to bend; phonetic 'num' as in 'number'
 U+51A8 冨	kDefinition	abundant, ample; rich, wealthy
 U+51A9 冩	kDefinition	write; draw, sketch; compose
 U+51AA 冪	kDefinition	cover-cloth, cover with cloth
-U+51AB 冫	kDefinition	ice; KangXi radical 15
+U+51AB 冫	kDefinition	ice; Kangxi radical 15
 U+51AC 冬	kDefinition	winter, 11th lunar month
 U+51AF 冯	kDefinition	surname; gallop; by dint of
 U+51B0 冰	kDefinition	ice; ice-cold
@@ -6772,6 +6779,7 @@ U+51D1 凑	kDefinition	piece together, assemble
 U+51D3 凓	kDefinition	shiver; severe cold
 U+51D4 凔	kDefinition	cold
 U+51D6 凖	kDefinition	rule, guideline, standard
+U+51D8 凘	kDefinition	ice floating in freshly-melted water
 U+51D9 凙	kDefinition	an icicle
 U+51DA 凚	kDefinition	cold; chilly
 U+51DB 凛	kDefinition	to shiver with cold or fear
@@ -6798,7 +6806,7 @@ U+51F0 凰	kDefinition	female phoenix
 U+51F1 凱	kDefinition	triumphant; triumph, victory
 U+51F3 凳	kDefinition	bench; stool
 U+51F4 凴	kDefinition	to rely on, depend on; evidence, proof
-U+51F5 凵	kDefinition	receptacle; KangXi radical 17
+U+51F5 凵	kDefinition	receptacle; Kangxi radical 17
 U+51F6 凶	kDefinition	culprit; murder; bad, sad
 U+51F7 凷	kDefinition	dirt clod; piece
 U+51F8 凸	kDefinition	protrude, bulge out, convex
@@ -6915,6 +6923,7 @@ U+527A 剺	kDefinition	mark
 U+527D 剽	kDefinition	rob, plunder; slice off; fast
 U+527E 剾	kDefinition	to pick up with knife
 U+527F 剿	kDefinition	destroy, exterminate, annihilate
+U+5281 劁	kDefinition	geld, castrate
 U+5282 劂	kDefinition	chisel for engraving; engrave
 U+5283 劃	kDefinition	divide, mark off, lay boundary
 U+5284 劄	kDefinition	brief note; official communique
@@ -6933,10 +6942,11 @@ U+5292 劒	kDefinition	sword, dagger, saber
 U+5293 劓	kDefinition	cut off nose
 U+5294 劔	kDefinition	sword, dagger, saber
 U+5296 劖	kDefinition	make into mince; cut
+U+5297 劗	kDefinition	to cut, clip
 U+5298 劘	kDefinition	make into mince
 U+5299 劙	kDefinition	a divide, to partition
 U+529A 劚	kDefinition	cut
-U+529B 力	kDefinition	power, capability, influence
+U+529B 力	kDefinition	power, capability, influence; Kangxi radical 19
 U+529D 劝	kDefinition	recommend, advise, urge
 U+529E 办	kDefinition	manage, do, handle; deal with
 U+529F 功	kDefinition	achievement, merit, good result
@@ -6989,6 +6999,7 @@ U+52E0 勠	kDefinition	join forces, unite
 U+52E2 勢	kDefinition	power, force; tendency
 U+52E3 勣	kDefinition	achievements, conduct deserving
 U+52E4 勤	kDefinition	industrious, diligent, attentive
+U+52E5 勥	kDefinition	to force; tough
 U+52E6 勦	kDefinition	destroy, exterminate, annihilate
 U+52E7 勧	kDefinition	recommend, advise, urge
 U+52E9 勩	kDefinition	work hard; belabored; toil
@@ -7000,7 +7011,7 @@ U+52F3 勳	kDefinition	meritorious deed; merits; rank
 U+52F5 勵	kDefinition	strive; encourage
 U+52F7 勷	kDefinition	urgent; in haste, hurriedly; help
 U+52F8 勸	kDefinition	recommend, advise, urge
-U+52F9 勹	kDefinition	wrap; KangXi radical 20
+U+52F9 勹	kDefinition	wrap; Kangxi radical 20
 U+52FA 勺	kDefinition	spoon, ladle; unit of volume
 U+52FB 勻	kDefinition	equal, impartially, uniform, even
 U+52FC 勼	kDefinition	to hook, entice, inveigle; surname
@@ -7026,7 +7037,7 @@ U+5316 化	kDefinition	change, convert, reform; -ize
 U+5317 北	kDefinition	north; northern; northward
 U+5318 匘	kDefinition	the brain
 U+5319 匙	kDefinition	spoon; surname
-U+531A 匚	kDefinition	box; KangXi radical 22
+U+531A 匚	kDefinition	box; Kangxi radical 22
 U+531C 匜	kDefinition	basin; container for wine
 U+531D 匝	kDefinition	full circle; encircle
 U+531F 匟	kDefinition	divan for two persons
@@ -7041,11 +7052,13 @@ U+532E 匮	kDefinition	to lack
 U+532F 匯	kDefinition	a concourse; to flow together, gather together; (same as U+6ED9 滙) to remit money
 U+5331 匱	kDefinition	to lack
 U+5333 匳	kDefinition	ladies toilet case with mirror
+U+5334 匴	kDefinition	an ancient, bamboo hat box
 U+5335 匵	kDefinition	case; casket
-U+5338 匸	kDefinition	box; KangXi radical 23
+U+5338 匸	kDefinition	box; Kangxi radical 23
 U+5339 匹	kDefinition	bolt of cloth; counter for horses
 U+533A 区	kDefinition	area, district, region, ward
 U+533B 医	kDefinition	cure, heal; doctor, medical
+U+533C 匼	kDefinition	place in Ruìchéng county, Shānxī; ancient term for a scholar's cap
 U+533D 匽	kDefinition	to hide, to secrete, to repress; to bend
 U+533E 匾	kDefinition	flat, round split-bamboo contain
 U+533F 匿	kDefinition	hide; go into hiding
@@ -7087,7 +7100,7 @@ U+5364 卤	kDefinition	salt
 U+5366 卦	kDefinition	fortune telling; tell fortunes
 U+5367 卧	kDefinition	lie down; crouch
 U+5368 卨	kDefinition	used in old names; phonetic seol used in Korean names
-U+5369 卩	kDefinition	seal; KangXi radical 26
+U+5369 卩	kDefinition	seal; Kangxi radical 26
 U+536A 卪	kDefinition	kwukyel
 U+536B 卫	kDefinition	guard, protect, defend
 U+536C 卬	kDefinition	lofty; high; raise; high-priced
@@ -7146,7 +7159,7 @@ U+53B2 厲	kDefinition	whetstone; grind, sharpen; whet
 U+53B3 厳	kDefinition	strict, rigorous, rigid; stern
 U+53B4 厴	kDefinition	shell
 U+53B5 厵	kDefinition	a spring; source
-U+53B6 厶	kDefinition	private, secret; KangXi radical 28
+U+53B6 厶	kDefinition	private, secret; Kangxi radical 28
 U+53B7 厷	kDefinition	the fore-arm; most Chinese-English dictionaries give the upper-arm; round
 U+53B9 厹	kDefinition	spear; tribe
 U+53BA 厺	kDefinition	to go; depart
@@ -7211,7 +7224,7 @@ U+53F8 司	kDefinition	take charge of, control, manage; officer
 U+53F9 叹	kDefinition	sigh, admire
 U+53FA 叺	kDefinition	a straw bag; a tobacco pouch
 U+53FB 叻	kDefinition	used in place names; (Cant.) smart, clever
-U+53FC 叼	kDefinition	holding in mouth
+U+53FC 叼	kDefinition	hold in mouth
 U+53FD 叽	kDefinition	sigh in disapproval; take small
 U+53FE 叾	kDefinition	西貢叾, a place in Hong Kong
 U+5401 吁	kDefinition	interjection 'Alas!'; to sigh
@@ -7261,6 +7274,7 @@ U+5433 吳	kDefinition	one of warring states; surname
 U+5434 吴	kDefinition	name of warring state; surname
 U+5435 吵	kDefinition	argue, dispute; disturb, annoy
 U+5436 吶	kDefinition	raise voice, yell out loud, shout; stammer
+U+5437 吷	kDefinition	a soft sound made by blowing through the mouth
 U+5438 吸	kDefinition	inhale, suck in; absorb; attract
 U+5439 吹	kDefinition	blow; puff; brag, boast
 U+543B 吻	kDefinition	kiss; the lips; coinciding
@@ -7277,6 +7291,7 @@ U+5447 呇	kDefinition	star
 U+5448 呈	kDefinition	submit, show; appear; petition
 U+5449 呉	kDefinition	one of warring states; surname
 U+544A 告	kDefinition	tell, announce, inform; accuse
+U+544B 呋	kDefinition	(呋喃) furan (C₄H₄O)
 U+544C 呌	kDefinition	to call; to summon
 U+544D 呍	kDefinition	(Cant.) phonetic
 U+544E 呎	kDefinition	foot
@@ -7297,6 +7312,7 @@ U+545F 呟	kDefinition	to mutter, grumble, murmur
 U+5460 呠	kDefinition	to spurt; to blow out; to puff out; to snort
 U+5461 呡	kDefinition	the corners of the mouth the lips
 U+5462 呢	kDefinition	interrogative or emphatic final; (Cant.) this
+U+5463 呣	kDefinition	interjection indicating a question or thought (um)
 U+5464 呤	kDefinition	purine
 U+5465 呥	kDefinition	(Cant.) intensifying particle
 U+5466 呦	kDefinition	the bleating of the deer
@@ -7370,6 +7386,7 @@ U+54AF 咯	kDefinition	final particle
 U+54B1 咱	kDefinition	we, us
 U+54B2 咲	kDefinition	smile, laugh, giggle; snicker
 U+54B3 咳	kDefinition	cough
+U+54B4 咴	kDefinition	neigh, whinny
 U+54B5 咵	kDefinition	to revile
 U+54B7 咷	kDefinition	howl, cry loudly
 U+54B8 咸	kDefinition	together; all, completely; united
@@ -7392,6 +7409,7 @@ U+54CB 哋	kDefinition	(Cant.) plural; adverb
 U+54CC 哌	kDefinition	used in translation
 U+54CD 响	kDefinition	make sound, make noise; sound
 U+54CE 哎	kDefinition	interjection of surprise
+U+54CF 哏	kDefinition	something funny
 U+54D0 哐	kDefinition	syllable
 U+54D1 哑	kDefinition	dumb, mute; become hoarse
 U+54D2 哒	kDefinition	a sound made to get a horse to move forward
@@ -7400,7 +7418,7 @@ U+54D4 哔	kDefinition	used in transliterations
 U+54D5 哕	kDefinition	belch; vomit
 U+54D7 哗	kDefinition	rushing sound; gush forward
 U+54D9 哙	kDefinition	swallow, gulp down; greedy
-U+54DA 哚	kDefinition	chemical element; (Cant.) backing, support of someone powerful; a little
+U+54DA 哚	kDefinition	(Cant.) backing, support of someone powerful; a little
 U+54DC 哜	kDefinition	sip
 U+54DD 哝	kDefinition	whisper
 U+54DE 哞	kDefinition	moo
@@ -7420,6 +7438,7 @@ U+54ED 哭	kDefinition	weep, cry, wail
 U+54EE 哮	kDefinition	cough; pant; roar
 U+54F0 哰	kDefinition	incoherent chatter
 U+54F2 哲	kDefinition	wise, sagacious; wise man, sage
+U+54F3 哳	kDefinition	to twitter
 U+54F4 哴	kDefinition	crying of infants
 U+54F5 哵	kDefinition	the cry of a bird
 U+54F6 哶	kDefinition	bleat
@@ -7443,6 +7462,7 @@ U+5511 唑	kDefinition	(chem.) azole
 U+5513 唓	kDefinition	(Cant.) interjection
 U+5514 唔	kDefinition	hold in mouth; bite; (Cant.) not, negation
 U+5516 唖	kDefinition	dumb, mute; become hoarse
+U+5517 唗	kDefinition	interjection: greeting or sigh
 U+551A 唚	kDefinition	vomiting of animals; to use bad language
 U+551B 唛	kDefinition	mark
 U+551E 唞	kDefinition	(Cant.) to gasp; to breathe; to rest
@@ -7479,6 +7499,7 @@ U+5543 啃	kDefinition	gnaw, chew, bite
 U+5544 啄	kDefinition	to peck; (Cant.) to slander
 U+5546 商	kDefinition	commerce, business, trade
 U+5547 啇	kDefinition	to stalk; the stem; the foot; the base
+U+5548 啈	kDefinition	to speak harshly, command sharply
 U+5549 啉	kDefinition	stupid; slow
 U+554A 啊	kDefinition	exclamatory particle
 U+554B 啋	kDefinition	(Cant.) an interjection used to berate someone
@@ -7573,7 +7594,7 @@ U+55B5 喵	kDefinition	the mew of the cat
 U+55B6 営	kDefinition	encampment, barracks; manage
 U+55B7 喷	kDefinition	spurt, blow out, puff out
 U+55B8 喸	kDefinition	place name
-U+55B9 喹	kDefinition	chemical compound
+U+55B9 喹	kDefinition	quinoline
 U+55BA 喺	kDefinition	(Cant.) to be located at
 U+55BB 喻	kDefinition	metaphor, analogy; example; like
 U+55BC 喼	kDefinition	(Cant.) used phonetically in English loan-words (e.g., cap, keep)
@@ -7588,7 +7609,9 @@ U+55C6 嗆	kDefinition	choke by smoke; irritates nose
 U+55C7 嗇	kDefinition	miserly, thrifty, stingy; stopped up, constipated
 U+55C8 嗈	kDefinition	the call of a bird
 U+55C9 嗉	kDefinition	bird's crop; wine pot
+U+55CA 嗊	kDefinition	used in place and other names
 U+55CC 嗌	kDefinition	the throat; to quarrel, choke
+U+55CD 嗍	kDefinition	to suck
 U+55CE 嗎	kDefinition	final interrogative particle
 U+55CF 嗏	kDefinition	(Cant.) imperative final particle
 U+55D0 嗐	kDefinition	alas!
@@ -7606,6 +7629,7 @@ U+55DD 嗝	kDefinition	cackling of fowls to gag, to vomit
 U+55DE 嗞	kDefinition	to consult about, to plan; to report in writing to an equal; a despatch
 U+55DF 嗟	kDefinition	sigh, alas
 U+55E1 嗡	kDefinition	sound of flying bees, airplanes
+U+55E2 嗢	kDefinition	a loud, prolonged laugh
 U+55E3 嗣	kDefinition	to connect, inherit; descendants, heirs
 U+55E4 嗤	kDefinition	laugh at, ridicule, sneer; snort
 U+55E5 嗥	kDefinition	roar, call out, wail; bark, yelp
@@ -7658,10 +7682,12 @@ U+561C 嘜	kDefinition	mark
 U+561E 嘞	kDefinition	(Cant.) final particle used for polite refusal
 U+561F 嘟	kDefinition	sound of horn tooting
 U+5620 嘠	kDefinition	the chirping of birds loud laughter
+U+5621 嘡	kDefinition	onomatopoeic: clang, bang
 U+5622 嘢	kDefinition	(Cant.) thing
 U+5623 嘣	kDefinition	syllable
 U+5624 嘤	kDefinition	seek friends; also used in onomatopoetic expressions
 U+5625 嘥	kDefinition	(Cant.) to waste; all, entirely
+U+5626 嘦	kDefinition	if only; compound form of 只要
 U+5627 嘧	kDefinition	pyrimidine
 U+5628 嘨	kDefinition	roar, howl, scream; whistle
 U+5629 嘩	kDefinition	rushing sound; gush forward
@@ -7687,6 +7713,8 @@ U+5641 噁	kDefinition	nastiness; nauseate: sickening
 U+5642 噂	kDefinition	meet
 U+5643 噃	kDefinition	(Cant.) emphatic final particle
 U+5645 噅	kDefinition	to speak falsely or wrongly; ugly
+U+5646 噆	kDefinition	to hold in the mouth; to bite
+U+5647 噇	kDefinition	eating and drinking without restraint
 U+5649 噉	kDefinition	bite, chew; (Cant.) like this, in this way
 U+564B 噋	kDefinition	to swallow hastily; to gobble up
 U+564C 噌	kDefinition	scold, shout at
@@ -7834,6 +7862,7 @@ U+570C 圌	kDefinition	fence
 U+570D 圍	kDefinition	surround, encircle, corral
 U+570E 圎	kDefinition	circle; round, circular; complete
 U+570F 圏	kDefinition	to circle; a circle; corral
+U+5710 圐	kDefinition	place in Shānyīn county, Shānxī
 U+5712 園	kDefinition	garden; park, orchard
 U+5713 圓	kDefinition	circle; round, circular; complete
 U+5715 圕	kDefinition	library
@@ -7852,6 +7881,7 @@ U+5726 圦	kDefinition	(kokuji) water gate, spout
 U+5727 圧	kDefinition	same as 壓 U+58D3, to press; to oppress; to crush; pressure
 U+5728 在	kDefinition	be at, in, on; consist in, rest
 U+5729 圩	kDefinition	dike, embankment
+U+572A 圪	kDefinition	(圪墶) a pimple; a mound
 U+572C 圬	kDefinition	plaster over with layer of mud
 U+572D 圭	kDefinition	jade pointed at top
 U+572E 圮	kDefinition	destroyed, ruined; to subvert to injure
@@ -7908,6 +7938,7 @@ U+5783 垃	kDefinition	garbage, refuse, waste
 U+5784 垄	kDefinition	grave, mound; ridge in field
 U+5785 垅	kDefinition	mound, grave; ridge in field
 U+5786 垆	kDefinition	black clods of earth; shop, hut
+U+5787 垇	kDefinition	used in place names
 U+5788 垈	kDefinition	used in place names; Japanese -nuta; Korean -dae
 U+578B 型	kDefinition	pattern, model, type; law; mold
 U+578C 垌	kDefinition	a field; used in place names
@@ -7921,6 +7952,7 @@ U+579B 垛	kDefinition	heap, pile; pile up, heap up
 U+579C 垜	kDefinition	heap; buttress; battlements
 U+579D 垝	kDefinition	dilapidated, ruined
 U+579E 垞	kDefinition	small mound; place name; hillock
+U+579F 垟	kDefinition	a cultivated field; used in place names
 U+57A0 垠	kDefinition	boundary, bank of stream or river
 U+57A1 垡	kDefinition	plow soil; place name
 U+57A2 垢	kDefinition	dirt, filth, stains; dirty
@@ -7978,6 +8010,7 @@ U+57F7 執	kDefinition	hold in hand; keep; carry out
 U+57F8 埸	kDefinition	a border; a limit; a dike; a frontier; a boundary
 U+57F9 培	kDefinition	bank up with dirt; cultivate
 U+57FA 基	kDefinition	foundation, base
+U+57FB 埻	kDefinition	bull's-eye, target
 U+57FC 埼	kDefinition	headland
 U+57FD 埽	kDefinition	broom; to sweep, clear away
 U+5800 堀	kDefinition	cave, hole
@@ -7992,7 +8025,8 @@ U+5809 堉	kDefinition	ground, fertile land
 U+580A 堊	kDefinition	white earth; to daub with white mud
 U+580B 堋	kDefinition	bury
 U+580C 堌	kDefinition	dam, dike; used in place names
-U+580E 堎	kDefinition	character used for place names
+U+580D 堍	kDefinition	the flat ground at either end of a bridge
+U+580E 堎	kDefinition	a place in Xīnjiàn county, Jiāngxī
 U+5811 堑	kDefinition	moat, trench, pit, cavity
 U+5815 堕	kDefinition	fall, sink, let fall; degenerate
 U+5816 堖	kDefinition	small, head shaped hill, used in place names
@@ -8022,7 +8056,9 @@ U+583D 堽	kDefinition	mound; used in place names
 U+583F 堿	kDefinition	salty
 U+5840 塀	kDefinition	wall, fence
 U+5841 塁	kDefinition	rampart, military wall
+U+5843 塃	kDefinition	mined ore
 U+5844 塄	kDefinition	elevated bank in field
+U+5845 塅	kDefinition	a large flat area, usually used in place names
 U+5848 塈	kDefinition	paint, decorate
 U+584A 塊	kDefinition	piece, lump; dollar
 U+584B 塋	kDefinition	grave, tomb, cemetery
@@ -8046,6 +8082,7 @@ U+585F 塟	kDefinition	to bury
 U+5861 塡	kDefinition	fill in, fill up; make good
 U+5862 塢	kDefinition	entrenchment, bank, low wall
 U+5864 塤	kDefinition	instrument
+U+5868 塨	kDefinition	used in personal names
 U+5869 塩	kDefinition	salt
 U+586B 填	kDefinition	fill in, fill up; make good
 U+586C 塬	kDefinition	plateau
@@ -8091,9 +8128,12 @@ U+58AB 墫	kDefinition	cup
 U+58AC 墬	kDefinition	to fall, sink
 U+58AE 墮	kDefinition	fall, sink, let fall; degenerate
 U+58B0 墰	kDefinition	an earthenware jar; a jug
+U+58B1 墱	kDefinition	stone steps, stairs up a platform
 U+58B3 墳	kDefinition	grave, mound; bulge; bulging
+U+58B6 墶	kDefinition	(圪墶) a pimple; a mound
 U+58BA 墺	kDefinition	four walls
 U+58BB 墻	kDefinition	wall
+U+58BC 墼	kDefinition	unfired brick
 U+58BE 墾	kDefinition	cultivate, reclaim, to farm land
 U+58C1 壁	kDefinition	partition wall; walls of a house
 U+58C5 壅	kDefinition	to obstruct
@@ -8115,7 +8155,7 @@ U+58D8 壘	kDefinition	rampart, military wall
 U+58D9 壙	kDefinition	tomb, grave: prairie; open wilderness
 U+58DA 壚	kDefinition	black clods of earth; shop, hut
 U+58DC 壜	kDefinition	earthen jar or jug
-U+58DD 壝	kDefinition	a mound, an embankment the earthen altar to the god of the soil
+U+58DD 壝	kDefinition	a mound, embankment; the earthen altar to the god of the soil
 U+58DE 壞	kDefinition	bad, spoil(ed), ruin, destroy
 U+58DF 壟	kDefinition	grave, mound; ridge in field
 U+58E0 壠	kDefinition	mound, grave; ridge in field
@@ -8140,18 +8180,19 @@ U+58FB 壻	kDefinition	son-in-law; husband
 U+58FC 壼	kDefinition	palace corridor or passageway
 U+58FD 壽	kDefinition	old age, long life; lifespan
 U+5900 夀	kDefinition	life; length of life; longevity
-U+5902 夂	kDefinition	go; KangXi radical 34
+U+5902 夂	kDefinition	go; Kangxi radical 34
 U+5904 处	kDefinition	place, locale; department
 U+5905 夅	kDefinition	to descend; to come down from heaven. to send down
 U+5906 夆	kDefinition	resist
 U+5907 备	kDefinition	prepare, ready, perfect
 U+5909 変	kDefinition	change, transform, alter; rebel
-U+590A 夊	kDefinition	KangXi radical 35; go slowly
+U+590A 夊	kDefinition	Kangxi radical 35; go slowly
 U+590B 夋	kDefinition	to dawdle; the emperor Yao's father
 U+590C 夌	kDefinition	to dawdle; the name of the father of the Emperor Yao
 U+590D 复	kDefinition	return; repeat; repeatedly
 U+590F 夏	kDefinition	summer; great, grand, big
 U+5910 夐	kDefinition	long, faraway; pre-eminent
+U+5912 夒	kDefinition	a kind of monkey, macaque
 U+5914 夔	kDefinition	one-legged monster; walrus
 U+5915 夕	kDefinition	evening, night, dusk; slanted
 U+5916 外	kDefinition	out, outside, external; foreign
@@ -8161,6 +8202,7 @@ U+5919 夙	kDefinition	early in morning, dawn; previous
 U+591A 多	kDefinition	much, many; more than, over
 U+591B 夛	kDefinition	much, many; more than, over
 U+591C 夜	kDefinition	night, dark; in night; by night
+U+591D 夝	kDefinition	ancient form of U+6674 晴; clear weather
 U+591F 够	kDefinition	enough, adequate
 U+5920 夠	kDefinition	enough, adequate
 U+5922 夢	kDefinition	dream; visionary; wishful
@@ -8183,11 +8225,13 @@ U+5938 夸	kDefinition	extravagant, luxurious; handsome
 U+5939 夹	kDefinition	be wedged or inserted between
 U+593A 夺	kDefinition	take by force, rob, snatch
 U+593B 夻	kDefinition	fish name
+U+593C 夼	kDefinition	low or swampy land, most often used in place names
 U+593E 夾	kDefinition	be wedged or inserted between
 U+5940 奀	kDefinition	(Cant.) skinny, tiny; to jerk, dangle
 U+5941 奁	kDefinition	lady's vanity case; trousseau
 U+5942 奂	kDefinition	be numerous, brilliant
 U+5944 奄	kDefinition	ere long; remain, tarry; feeble
+U+5945 奅	kDefinition	imaginary; (Cant.) a lie
 U+5947 奇	kDefinition	strange, unusual, uncanny, occult
 U+5948 奈	kDefinition	but, how; bear, stand, endure
 U+5949 奉	kDefinition	offer; receive; serve; respect
@@ -8221,7 +8265,7 @@ U+596C 奬	kDefinition	prize, reward; give award to
 U+596D 奭	kDefinition	red; anger; ire; surname
 U+596E 奮	kDefinition	strive, exert effort; arouse
 U+5970 奰	kDefinition	anger
-U+5973 女	kDefinition	woman, girl; feminine; rad. 38
+U+5973 女	kDefinition	woman, girl; feminine; Kangxi radical 38
 U+5974 奴	kDefinition	slave, servant
 U+5976 奶	kDefinition	milk; woman's breasts; nurse
 U+5978 奸	kDefinition	crafty, villainous, false
@@ -8237,10 +8281,12 @@ U+5987 妇	kDefinition	married women; woman; wife
 U+5988 妈	kDefinition	mother, mama
 U+598A 妊	kDefinition	conceive, be pregnant
 U+598D 妍	kDefinition	beautiful, handsome; seductive
+U+598E 妎	kDefinition	jealous, jealousy
 U+5992 妒	kDefinition	jealous, envious
 U+5993 妓	kDefinition	prostitute
 U+5996 妖	kDefinition	strange, weird, supernatural
 U+5997 妗	kDefinition	wife of mother's brother
+U+5998 妘	kDefinition	surname
 U+5999 妙	kDefinition	mysterious, subtle; exquisite
 U+599D 妝	kDefinition	to adorn oneself, dress up, use make-up
 U+599E 妞	kDefinition	girl
@@ -8269,6 +8315,7 @@ U+59C6 姆	kDefinition	child's governess; matron
 U+59C9 姉	kDefinition	elder sister
 U+59CA 姊	kDefinition	elder sister
 U+59CB 始	kDefinition	begin, start; then, only then
+U+59CC 姌	kDefinition	weak and slender in appearance
 U+59CD 姍	kDefinition	slander; ridicule; proceed slowly
 U+59D0 姐	kDefinition	elder sister, young lady
 U+59D1 姑	kDefinition	father's sister; husband's mother
@@ -8313,6 +8360,7 @@ U+5A0C 娌	kDefinition	brother's wife
 U+5A11 娑	kDefinition	dance, frolic; lounge; saunter
 U+5A12 娒	kDefinition	matron
 U+5A13 娓	kDefinition	comply; complying, agreeable
+U+5A16 娖	kDefinition	cautious, prudent
 U+5A18 娘	kDefinition	mother; young girl; woman; wife
 U+5A1B 娛	kDefinition	pleasure, enjoyment, amusement
 U+5A1C 娜	kDefinition	elegant, graceful, delicate
@@ -8357,7 +8405,7 @@ U+5A74 婴	kDefinition	baby, infant; bother
 U+5A75 婵	kDefinition	beautiful, lovely, pretty, graceful
 U+5A76 婶	kDefinition	wife of father's younger brother
 U+5A77 婷	kDefinition	pretty; attractive; graceful
-U+5A7A 婺	kDefinition	name of a star
+U+5A7A 婺	kDefinition	a river and county in Jiāngxī; ancient name for 女宿, one of the 28 lunar mansions; used in various star names in Aquarius
 U+5A7C 婼	kDefinition	person
 U+5A7E 婾	kDefinition	handsome
 U+5A7F 婿	kDefinition	son-in-law; husband
@@ -8366,6 +8414,7 @@ U+5A86 媆	kDefinition	young, tender, soft, delicate
 U+5A8A 媊	kDefinition	star
 U+5A8D 媍	kDefinition	woman, wife
 U+5A92 媒	kDefinition	go-between, matchmaker; medium
+U+5A94 媔	kDefinition	beautiful, clear eyes
 U+5A95 媕	kDefinition	undecided
 U+5A96 媖	kDefinition	beauty; beautiful
 U+5A9A 媚	kDefinition	charming, attractive; flatter
@@ -8374,6 +8423,7 @@ U+5A9E 媞	kDefinition	at ease
 U+5A9F 媟	kDefinition	lust after, act indecently; lewd
 U+5AA2 媢	kDefinition	be jealous of, be envious
 U+5AA4 媤	kDefinition	husband's family
+U+5AA5 媥	kDefinition	lightly circling; lightly fluttering
 U+5AA7 媧	kDefinition	mythological snail goddess
 U+5AAA 媪	kDefinition	old woman; lower-class woman
 U+5AAC 媬	kDefinition	governess; nurse
@@ -8408,6 +8458,7 @@ U+5AD8 嫘	kDefinition	surname
 U+5ADA 嫚	kDefinition	scorn, despise; be rude, affront
 U+5ADB 嫛	kDefinition	compliant, yielding; easy-going a newborn child
 U+5ADC 嫜	kDefinition	husband's father
+U+5ADF 嫟	kDefinition	intimate; close relation
 U+5AE0 嫠	kDefinition	a widow
 U+5AE1 嫡	kDefinition	legal wife, child of legal wife
 U+5AE3 嫣	kDefinition	charming, fascinating; gay
@@ -8415,6 +8466,7 @@ U+5AE6 嫦	kDefinition	name of a moon goddess
 U+5AE9 嫩	kDefinition	soft, tender, delicate; young
 U+5AEA 嫪	kDefinition	hanker
 U+5AEB 嫫	kDefinition	Huangdi's ugly concubine; nurse
+U+5AED 嫭	kDefinition	beautiful woman
 U+5AF0 嫰	kDefinition	tender, delicate, soft
 U+5AF1 嫱	kDefinition	lady
 U+5AF2 嫲	kDefinition	(Cant.) paternal grandmother
@@ -8493,7 +8545,7 @@ U+5B7C 孼	kDefinition	misfortune; sin, evil
 U+5B7D 孽	kDefinition	evil; son of concubine; ghost
 U+5B7E 孾	kDefinition	a baby, especially a girl, an infant
 U+5B7F 孿	kDefinition	twins
-U+5B80 宀	kDefinition	roof; KangXi radical 40
+U+5B80 宀	kDefinition	roof; Kangxi radical 40
 U+5B81 宁	kDefinition	calm, peaceful, serene; healthy
 U+5B82 宂	kDefinition	scattered, mixed affairs; duties; occupation business
 U+5B83 它	kDefinition	it; other
@@ -8504,10 +8556,11 @@ U+5B88 守	kDefinition	defend, protect, guard, conserve
 U+5B89 安	kDefinition	peaceful, tranquil, quiet
 U+5B8B 宋	kDefinition	Song dynasty; surname
 U+5B8C 完	kDefinition	complete, finish, settle; whole
-U+5B8D 宍	kDefinition	flesh; meat; KangXi radical 130
+U+5B8D 宍	kDefinition	flesh; meat; Kangxi radical 130
 U+5B8F 宏	kDefinition	wide, spacious, great, vast
 U+5B90 宐	kDefinition	right, fitting, seemly
 U+5B93 宓	kDefinition	quiet, silent; in good health
+U+5B94 宔	kDefinition	anciently, a stone box holding an image in an ancestral temple
 U+5B95 宕	kDefinition	stone quarry; cave dwelling
 U+5B97 宗	kDefinition	lineage, ancestry; ancestor, clan
 U+5B98 官	kDefinition	official, public servant
@@ -8585,7 +8638,7 @@ U+5BF0 寰	kDefinition	great domain, country, world
 U+5BF3 寳	kDefinition	treasure, jewel; precious, rare
 U+5BF5 寵	kDefinition	favorite, concubine; favor
 U+5BF6 寶	kDefinition	treasure, jewel; precious, rare
-U+5BF8 寸	kDefinition	inch; small, tiny; KangXi radical 41
+U+5BF8 寸	kDefinition	inch; small, tiny; Kangxi radical 41
 U+5BF9 对	kDefinition	correct, right; facing, opposed
 U+5BFA 寺	kDefinition	court, office; temple, monastery
 U+5BFB 寻	kDefinition	seek, search, look for; ancient
@@ -8624,9 +8677,10 @@ U+5C1D 尝	kDefinition	taste; experience, experiment
 U+5C1E 尞	kDefinition	fuel used for sacrifices
 U+5C1F 尟	kDefinition	surname; fresh
 U+5C20 尠	kDefinition	very few; seldom, rarely
-U+5C22 尢	kDefinition	weak; KangXi radical 43
+U+5C22 尢	kDefinition	weak; Kangxi radical 43
 U+5C23 尣	kDefinition	lame; the first form is Radical 43
 U+5C24 尤	kDefinition	especially, particularly
+U+5C25 尥	kDefinition	a backward kick, as by a mule or horse
 U+5C27 尧	kDefinition	a legendary ancient emperor-sage
 U+5C28 尨	kDefinition	shaggy haired dog; variegated
 U+5C29 尩	kDefinition	weak; a rickety person; emaciated
@@ -8640,7 +8694,7 @@ U+5C32 尲	kDefinition	limp; be embarrassed
 U+5C34 尴	kDefinition	embarrassed; ill at ease
 U+5C36 尶	kDefinition	embarrassed; ill at ease
 U+5C37 尷	kDefinition	embarrassed; ill at ease
-U+5C38 尸	kDefinition	corpse; to impersonate the dead; to preside; KangXi radical 44
+U+5C38 尸	kDefinition	corpse; to impersonate the dead; to preside; Kangxi radical 44
 U+5C39 尹	kDefinition	govern; oversee; director
 U+5C3A 尺	kDefinition	Chinese measure approx. 'foot'
 U+5C3B 尻	kDefinition	end of spine; buttocks, sacrum
@@ -8687,7 +8741,7 @@ U+5C69 屩	kDefinition	straw sandals
 U+5C6A 屪	kDefinition	penis
 U+5C6C 屬	kDefinition	class, category, type; to belong to
 U+5C6D 屭	kDefinition	gigantic strength
-U+5C6E 屮	kDefinition	sprout; KangXi radical 45
+U+5C6E 屮	kDefinition	sprout; Kangxi radical 45
 U+5C6F 屯	kDefinition	village, hamlet; camp; station
 U+5C70 屰	kDefinition	disobedient
 U+5C71 山	kDefinition	mountain, hill, peak
@@ -8701,8 +8755,10 @@ U+5C7F 屿	kDefinition	island
 U+5C80 岀	kDefinition	go out
 U+5C81 岁	kDefinition	year; age; harvest
 U+5C82 岂	kDefinition	how? what?
+U+5C88 岈	kDefinition	嵖岈山, a mountain in Suìpíng county, Hénán
 U+5C8A 岊	kDefinition	foothill
 U+5C8C 岌	kDefinition	perilous, hazardous; high, steep
+U+5C8D 岍	kDefinition	a mountain in Shaanxi
 U+5C90 岐	kDefinition	high; majestic; fork in road
 U+5C91 岑	kDefinition	steep, precipitous; peak
 U+5C94 岔	kDefinition	diverge, branch off; fork in road
@@ -8714,7 +8770,9 @@ U+5C9A 岚	kDefinition	mountain mist, mountain haze
 U+5C9B 岛	kDefinition	island
 U+5C9C 岜	kDefinition	rock mountain
 U+5C9D 岝	kDefinition	name of a mountain in Shandong
+U+5C9E 岞	kDefinition	a mountain in Chāngyì county, Shāndōng
 U+5CA1 岡	kDefinition	ridge or crest of hill
+U+5CA2 岢	kDefinition	a county in Shānxī
 U+5CA3 岣	kDefinition	a hill in Hunan
 U+5CA7 岧	kDefinition	peak; cliff; precipice
 U+5CA8 岨	kDefinition	uneven
@@ -8733,7 +8791,7 @@ U+5CBE 岾	kDefinition	mountain pass (Korean)
 U+5CBF 岿	kDefinition	grand, stately; secure, lasting
 U+5CC0 峀	kDefinition	mountain peak; cave, cavern
 U+5CC1 峁	kDefinition	yellow dirt mount
-U+5CC2 峂	kDefinition	name of place
+U+5CC2 峂	kDefinition	name of a place in Běijīng's Shìhǎidiàn district
 U+5CC3 峃	kDefinition	big rocky mountain
 U+5CC4 峄	kDefinition	a range of peaks in Shandong and Jiangsu; the name of a mountain
 U+5CC7 峇	kDefinition	cave, cavern
@@ -8748,6 +8806,7 @@ U+5CE3 峣	kDefinition	high or tall
 U+5CE4 峤	kDefinition	high pointed mountain
 U+5CE5 峥	kDefinition	high, lofty, noble; steep, perilous
 U+5CE6 峦	kDefinition	mountain range; pointed mountain
+U+5CE7 峧	kDefinition	used in place names
 U+5CE8 峨	kDefinition	lofty
 U+5CE9 峩	kDefinition	lofty
 U+5CEA 峪	kDefinition	valley, ravine
@@ -8827,6 +8886,7 @@ U+5D69 嵩	kDefinition	high, lofty; one of the 5 peaks, situated in Hunan
 U+5D6B 嵫	kDefinition	a hill in Shantung
 U+5D6C 嵬	kDefinition	high; rugged, rocky, precipitous
 U+5D6F 嵯	kDefinition	high, towering; irregular, rugged
+U+5D72 嵲	kDefinition	towering mountain
 U+5D73 嵳	kDefinition	high, towering; irregular, rugged
 U+5D74 嵴	kDefinition	mountain ridge
 U+5D76 嵶	kDefinition	low part of a mountain
@@ -8835,9 +8895,11 @@ U+5D81 嶁	kDefinition	Goulou mountain peak in Hunan
 U+5D82 嶂	kDefinition	cliff; mountain barrier
 U+5D83 嶃	kDefinition	a cliff, a peak
 U+5D84 嶄	kDefinition	high, steep, precipitous; new
+U+5D85 嶅	kDefinition	numerous small rocks on a mountain; used in mountain and place names
 U+5D87 嶇	kDefinition	steep, sheer; rugged, rough
 U+5D8B 嶋	kDefinition	island
 U+5D8C 嶌	kDefinition	island
+U+5D8D 嶍	kDefinition	a mountain in Yúnnán
 U+5D8E 嶎	kDefinition	luxuriant, elegant
 U+5D92 嶒	kDefinition	towering, lofty, steep
 U+5D93 嶓	kDefinition	Boshan, mountain in Shaanxi
@@ -8869,12 +8931,13 @@ U+5DC9 巉	kDefinition	steep, rugged, jagged, precipitous
 U+5DCB 巋	kDefinition	grand, stately; secure, lasting
 U+5DCC 巌	kDefinition	cliff, precipice; cave, grotto
 U+5DCD 巍	kDefinition	high, lofty, majestic, eminent
+U+5DCE 巎	kDefinition	used in personal names
 U+5DD2 巒	kDefinition	mountain range; pointed mountain
 U+5DD3 巓	kDefinition	summit of mountain
 U+5DD4 巔	kDefinition	summit of mountain, mountain top
 U+5DD6 巖	kDefinition	cliff, precipice; cave, grotto
 U+5DD8 巘	kDefinition	summit, peak
-U+5DDB 巛	kDefinition	river; KangXi radical 47
+U+5DDB 巛	kDefinition	river; Kangxi radical 47
 U+5DDD 川	kDefinition	stream, river; flow; boil
 U+5DDE 州	kDefinition	administrative division, state
 U+5DDF 巟	kDefinition	a watery waste; to reach
@@ -8904,7 +8967,7 @@ U+5DFA 巺	kDefinition	5th of the 8 trigrams; South-east; mild, modest, obedient
 U+5DFB 巻	kDefinition	scroll; curl; make a comeback
 U+5DFC 巼	kDefinition	place name
 U+5DFD 巽	kDefinition	5th of the 8 trigrams; south-east; mild, modest, obedient
-U+5DFE 巾	kDefinition	kerchief; towel; turban; KangXi radical number 50
+U+5DFE 巾	kDefinition	kerchief; towel; turban; Kangxi radical 50
 U+5DFF 巿	kDefinition	revolve, make circuit, turn
 U+5E00 帀	kDefinition	to go round, to make a circuit, to make a revolution, to turn round
 U+5E01 币	kDefinition	currency, coins, legal tender
@@ -8933,6 +8996,7 @@ U+5E1C 帜	kDefinition	flag, pennant; sign; fasten
 U+5E1D 帝	kDefinition	supreme ruler, emperor; god
 U+5E1F 帟	kDefinition	tent
 U+5E21 帡	kDefinition	shelter, screen, awning
+U+5E22 帢	kDefinition	a silk hat worn by ancient scholars
 U+5E23 帣	kDefinition	bag
 U+5E25 帥	kDefinition	commander, commander-in-chief
 U+5E26 带	kDefinition	belt, girdle, band, strap, zone
@@ -9060,8 +9124,10 @@ U+5ED0 廐	kDefinition	stable; barnyard
 U+5ED1 廑	kDefinition	a hut; careful
 U+5ED2 廒	kDefinition	a granary
 U+5ED3 廓	kDefinition	broad, wide, open, empty; to expand
+U+5ED4 廔	kDefinition	building of two or more stories
 U+5ED5 廕	kDefinition	shade; protect, shade, cover
 U+5ED6 廖	kDefinition	surname; name of an ancient state
+U+5ED9 廙	kDefinition	respectful
 U+5EDA 廚	kDefinition	kitchen; closet; cupboard
 U+5EDB 廛	kDefinition	a store, shop; ground allotted to a retainer
 U+5EDD 廝	kDefinition	servant
@@ -9080,7 +9146,7 @@ U+5EEC 廬	kDefinition	hut, cottage; name of a mountain
 U+5EF0 廰	kDefinition	hall, central room
 U+5EF1 廱	kDefinition	harmonious; pool; hall
 U+5EF3 廳	kDefinition	hall, central room
-U+5EF4 廴	kDefinition	go; KangXi radical 54
+U+5EF4 廴	kDefinition	go; Kangxi radical 54
 U+5EF5 廵	kDefinition	to go on circuit; to cruise to patrol
 U+5EF6 延	kDefinition	delay, postpone, defer
 U+5EF7 廷	kDefinition	court
@@ -9090,13 +9156,14 @@ U+5EFA 建	kDefinition	build, establish, erect, found
 U+5EFB 廻	kDefinition	circle around; return; curving
 U+5EFC 廼	kDefinition	then, thereupon, only then
 U+5EFD 廽	kDefinition	return, turn around; a time
-U+5EFE 廾	kDefinition	two hands; KangXi radical 55
+U+5EFE 廾	kDefinition	two hands; Kangxi radical 55
 U+5EFF 廿	kDefinition	twenty, twentieth
 U+5F00 开	kDefinition	open; initiate, begin, start
 U+5F01 弁	kDefinition	conical cap worn during Zhou dynasty
 U+5F02 异	kDefinition	different, unusual, strange
 U+5F03 弃	kDefinition	reject, abandon, discard
 U+5F04 弄	kDefinition	do, play or fiddle with; alley
+U+5F06 弆	kDefinition	to collect
 U+5F07 弇	kDefinition	cover over, hide; narrow-necked
 U+5F08 弈	kDefinition	Chinese chess
 U+5F09 弉	kDefinition	large, powerful, stout, thick
@@ -9109,7 +9176,7 @@ U+5F0F 式	kDefinition	style, system, formula, rule
 U+5F10 弐	kDefinition	number two
 U+5F11 弑	kDefinition	to kill one's superior
 U+5F12 弒	kDefinition	to kill one's superior
-U+5F13 弓	kDefinition	bow; curved, arched; KangXi radical number 57
+U+5F13 弓	kDefinition	bow; curved, arched; Kangxi radical 57
 U+5F14 弔	kDefinition	condole, mourn, pity; hang
 U+5F15 引	kDefinition	to pull, draw out, attract; to stretch
 U+5F16 弖	kDefinition	phonetic for 'te' (Japanese)
@@ -9152,8 +9219,8 @@ U+5F4A 彊	kDefinition	stubborn, uncompromising
 U+5F4C 彌	kDefinition	extensive, full; fill; complete
 U+5F4D 彍	kDefinition	to draw a bow to the full
 U+5F4E 彎	kDefinition	bend, curve
-U+5F50 彐	kDefinition	snout; KangXi radical 58
-U+5F51 彑	kDefinition	snout; KangXi radical 58
+U+5F50 彐	kDefinition	snout; Kangxi radical 58
+U+5F51 彑	kDefinition	snout; Kangxi radical 58
 U+5F52 归	kDefinition	return; return to, revert to
 U+5F53 当	kDefinition	bear, accept, undertake; just
 U+5F54 彔	kDefinition	to carve wood
@@ -9167,7 +9234,8 @@ U+5F5B 彛	kDefinition	Yi (nationality); tripod, wine vessel; rule
 U+5F5C 彜	kDefinition	Yi (nationality); tripod, wine vessel; rule
 U+5F5D 彝	kDefinition	Yi (nationality); tripod, wine vessel; rule
 U+5F5E 彞	kDefinition	yi; tripod
-U+5F61 彡	kDefinition	hair; KangXi radical 59
+U+5F60 彠	kDefinition	scale, standard
+U+5F61 彡	kDefinition	hair; Kangxi radical 59
 U+5F62 形	kDefinition	form, shape, appearance
 U+5F64 彤	kDefinition	red, vermilion
 U+5F65 彥	kDefinition	elegant, handsome; learned
@@ -9282,6 +9350,7 @@ U+6003 怃	kDefinition	regretful, disappointed
 U+6004 怄	kDefinition	annoyed
 U+6005 怅	kDefinition	disappointed, dissatisfied
 U+6006 怆	kDefinition	sad, broken-hearted, disconsolate
+U+600A 怊	kDefinition	sad, disappointed
 U+600C 怌	kDefinition	bosom; to carry in the bosom; to cherish
 U+600D 怍	kDefinition	to be ashamed
 U+600E 怎	kDefinition	what? why? how?
@@ -9558,6 +9627,7 @@ U+618E 憎	kDefinition	hate, detest, abhor; hatred
 U+6190 憐	kDefinition	pity, sympathize
 U+6191 憑	kDefinition	lean on, depend on, rely on
 U+6192 憒	kDefinition	confused, troubled, muddle-headed
+U+6193 憓	kDefinition	benefit, favor; follow, obey
 U+6194 憔	kDefinition	be worn-out, emaciated, haggard
 U+6196 憖	kDefinition	cautious; willing; but, moreover
 U+6198 憘	kDefinition	like, love, enjoy; joyful thing
@@ -9581,6 +9651,7 @@ U+61B5 憵	kDefinition	(Cant.) to rush
 U+61B6 憶	kDefinition	remember, reflect upon; memory
 U+61B7 憷	kDefinition	painful; suffering; privation
 U+61B8 憸	kDefinition	to flatter; crafty, having a specious tongue
+U+61B9 憹	kDefinition	upset; to regret
 U+61BA 憺	kDefinition	peace
 U+61BE 憾	kDefinition	to regret, remorse; dissatisfied
 U+61C1 懁	kDefinition	anxious, distressed
@@ -9882,6 +9953,7 @@ U+633D 挽	kDefinition	pull; pull back, draw back
 U+633E 挾	kDefinition	clasp under arm; hold to bosom
 U+633F 挿	kDefinition	insert, stick into; plant
 U+6342 捂	kDefinition	resist
+U+6343 捃	kDefinition	to pick up, collect
 U+6344 捄	kDefinition	long and curved
 U+6345 捅	kDefinition	jab
 U+6346 捆	kDefinition	tie up; bind, truss up; bundle
@@ -9912,6 +9984,7 @@ U+636B 捫	kDefinition	stoke, pat, feel by hand, grope
 U+636C 捬	kDefinition	press down heavily with hands
 U+636D 捭	kDefinition	to open; to spread out
 U+636E 据	kDefinition	to occupy, take possession of; a base, position
+U+636F 捯	kDefinition	pull back continuously on a rope or line with both hands
 U+6371 捱	kDefinition	put off, procrastinate; endure
 U+6372 捲	kDefinition	curl, roll up; curly, rolled up
 U+6375 捵	kDefinition	(Cant.) to hold between the fingers and thumb
@@ -10047,6 +10120,7 @@ U+6416 搖	kDefinition	wag, swing, wave; shake; scull
 U+6417 搗	kDefinition	hull; thresh; beat, attack
 U+6418 搘	kDefinition	prop
 U+6419 搙	kDefinition	to handle; to play with
+U+641B 搛	kDefinition	to pick up with chopsticks
 U+641C 搜	kDefinition	search, seek; investigate
 U+641E 搞	kDefinition	to clear, clarify
 U+6420 搠	kDefinition	to daub; to thrust
@@ -10065,6 +10139,7 @@ U+642D 搭	kDefinition	join together, attach to; add to
 U+642F 搯	kDefinition	take out, pull out
 U+6430 搰	kDefinition	dig; turbid; exert; (Cant.) to shake
 U+6432 搲	kDefinition	to seize, to grasp
+U+6433 搳	kDefinition	boxing; a finger-guessing game
 U+6434 搴	kDefinition	extract; seize; pluck up
 U+6435 搵	kDefinition	wipe off; press down with knuckle; to immerse; (Cant.) to search, look for
 U+6436 搶	kDefinition	plunder, rob, take by force
@@ -10081,6 +10156,7 @@ U+6446 摆	kDefinition	put, place; display; swing, sway
 U+6447 摇	kDefinition	wag, swing, wave; shake; scull
 U+6448 摈	kDefinition	exclude, expel, reject; usher
 U+644A 摊	kDefinition	spread out, open; apportion
+U+644B 摋	kDefinition	to strike with the hand
 U+644E 摎	kDefinition	to strangle; to inquire into
 U+644F 摏	kDefinition	pound; strike against; ram; (Cant.) to hit with the elbow
 U+6450 摐	kDefinition	to hit (a bell or drum)
@@ -10135,6 +10211,7 @@ U+6491 撑	kDefinition	prop up, support; brace
 U+6492 撒	kDefinition	release, cast away, let go; disperse; relax
 U+6493 撓	kDefinition	scratch; disturb, bother; submit
 U+6495 撕	kDefinition	rip, tear; buy cloth
+U+6496 撖	kDefinition	surname
 U+6498 撘	kDefinition	(Cant.) to strike, pound
 U+6499 撙	kDefinition	economize; abide by, comply with
 U+649A 撚	kDefinition	twirl in fingers, tease, toy with
@@ -10247,13 +10324,14 @@ U+652E 攮	kDefinition	to fend off; to stab
 U+652F 支	kDefinition	disperse, pay; support; branch
 U+6530 攰	kDefinition	totally exhausted
 U+6532 攲	kDefinition	up; uneven
-U+6534 攴	kDefinition	rap, tap lightly; KangXi radical 66
+U+6534 攴	kDefinition	rap, tap lightly; Kangxi radical 66
 U+6535 攵	kDefinition	rap, tap; radical number 66
 U+6536 收	kDefinition	gather together, collect; harvest
 U+6537 攷	kDefinition	examine, test; investigate
 U+6538 攸	kDefinition	distant, far; adverbial prefix
 U+6539 改	kDefinition	change, alter; improve, remodel
 U+653B 攻	kDefinition	attack, assault; criticize
+U+653D 攽	kDefinition	to divide, allot; to send to
 U+653E 放	kDefinition	put, release, free, liberate
 U+653F 政	kDefinition	government, political affairs
 U+6541 敁	kDefinition	to weigh in the hand, to estimate; to shake
@@ -10345,6 +10423,7 @@ U+65B0 新	kDefinition	new, recent, fresh, modern
 U+65B2 斲	kDefinition	cut, chop, hack
 U+65B4 斴	kDefinition	the sound of water flowing among rocks
 U+65B5 斵	kDefinition	to cut to pieces; to hack; to chop or hew; to carve for ornaments
+U+65B6 斶	kDefinition	used in personal names
 U+65B7 斷	kDefinition	sever, cut off; interrupt
 U+65B8 斸	kDefinition	cut
 U+65B9 方	kDefinition	a square, rectangle; a region; local
@@ -10377,7 +10456,7 @@ U+65DB 旛	kDefinition	a pennant, a banner
 U+65DC 旜	kDefinition	flag
 U+65DD 旝	kDefinition	banner, flag, streamer; insignia
 U+65DF 旟	kDefinition	an military flag or standard
-U+65E0 无	kDefinition	negative, no, not; KangXi radical 71
+U+65E0 无	kDefinition	negative, no, not; Kangxi radical 71
 U+65E1 旡	kDefinition	choke on something eaten
 U+65E2 既	kDefinition	already; de facto; since; then
 U+65E3 旣	kDefinition	already; de facto; since; then
@@ -10414,6 +10493,7 @@ U+660C 昌	kDefinition	light of sun; good, proper
 U+660E 明	kDefinition	bright, light, brilliant; clear
 U+660F 昏	kDefinition	dusk, nightfall, twilight, dark
 U+6611 昑	kDefinition	bright
+U+6612 昒	kDefinition	daybreak, dawn
 U+6613 易	kDefinition	change; easy
 U+6614 昔	kDefinition	formerly; ancient; in beginning
 U+6615 昕	kDefinition	dawn; early morning; day
@@ -10435,6 +10515,7 @@ U+662D 昭	kDefinition	bright, luminous; illustrious
 U+662F 是	kDefinition	indeed, yes, right; to be; demonstrative pronoun, this, that
 U+6630 昰	kDefinition	variant of 'to be'; summer; name
 U+6631 昱	kDefinition	bright light, sunlight; dazzling
+U+6632 昲	kDefinition	sun-dried
 U+6633 昳	kDefinition	the declining sun in the west
 U+6634 昴	kDefinition	eighteenth of the twenty-eight lunar mansions (宿)
 U+6635 昵	kDefinition	intimate, close; approach
@@ -10548,12 +10629,13 @@ U+66E6 曦	kDefinition	sunlight, sunshine, early dawn
 U+66E8 曨	kDefinition	vague, dim; twilight
 U+66E9 曩	kDefinition	in ancient times, of old, former
 U+66EC 曬	kDefinition	dry in sun, expose to sun
-U+66F0 曰	kDefinition	say; KangXi radical 73
+U+66F0 曰	kDefinition	say; Kangxi radical 73
 U+66F1 曱	kDefinition	(Cant.) cockroach
 U+66F2 曲	kDefinition	crooked, bent; wrong, false
 U+66F3 曳	kDefinition	trail, tow, drag, pull
 U+66F4 更	kDefinition	more, still further, much more; to change, alter
 U+66F5 曵	kDefinition	trail, tow, drag, pull
+U+66F6 曶	kDefinition	used in personal names
 U+66F7 曷	kDefinition	why? what? where?
 U+66F8 書	kDefinition	book, letter, document; writings
 U+66F9 曹	kDefinition	ministry officials; surname
@@ -10565,6 +10647,7 @@ U+6700 最	kDefinition	most, extremely, exceedingly
 U+6701 朁	kDefinition	if, supposing, nevertheless
 U+6703 會	kDefinition	to assemble, meet together; a meeting; an organization
 U+6705 朅	kDefinition	brave
+U+6706 朆	kDefinition	(Wu) not yet
 U+6708 月	kDefinition	moon; month; Kangxi radical 74
 U+6709 有	kDefinition	have, own, possess; exist
 U+670B 朋	kDefinition	friend, pal, acquaintance
@@ -10615,12 +10698,12 @@ U+6746 杆	kDefinition	pole; shaft of spear
 U+6747 杇	kDefinition	loquat
 U+6748 杈	kDefinition	fork of a tree; a pitchfork
 U+6749 杉	kDefinition	various species of pine and fir
-U+674C 杌	kDefinition	the stump f a tree, hence, sterility; a square stool
+U+674C 杌	kDefinition	the stump of a tree, hence, sterility; a square stool
 U+674E 李	kDefinition	plum; judge; surname
 U+674F 杏	kDefinition	apricot; almond
 U+6750 材	kDefinition	material, stuff; timber; talent
 U+6751 村	kDefinition	village, hamlet; uncouth, vulgar
-U+6753 杓	kDefinition	handle of cup, ladle, spoon; name of a constellation
+U+6753 杓	kDefinition	handle of cup, ladle, spoon; name of a constellation (the handle of the Big Dipper)
 U+6755 杕	kDefinition	alone
 U+6756 杖	kDefinition	cane, walking stick
 U+6757 杗	kDefinition	beam
@@ -10663,6 +10746,7 @@ U+678B 枋	kDefinition	sandalwood; tree used as timber
 U+678C 枌	kDefinition	variety of elm with small seeds
 U+678F 枏	kDefinition	a variety of evergreen tree
 U+6790 析	kDefinition	split wood; break apart; divide
+U+6791 枑	kDefinition	anciently, a wooden fence in front of a yamen
 U+6792 枒	kDefinition	the coconut tree; rim
 U+6793 枓	kDefinition	capital
 U+6795 枕	kDefinition	pillow
@@ -10788,6 +10872,7 @@ U+683B 栻	kDefinition	tree
 U+683C 格	kDefinition	pattern, standard, form; style
 U+683D 栽	kDefinition	to cultivate, plant; to care for plants
 U+683E 栾	kDefinition	name of tree; a part of cornice
+U+683F 栿	kDefinition	a beam (archaic)
 U+6840 桀	kDefinition	chicken roost; ancient emperor
 U+6841 桁	kDefinition	cross-beams of roof
 U+6842 桂	kDefinition	cassia or cinnamon
@@ -10797,6 +10882,7 @@ U+6845 桅	kDefinition	mast of ship
 U+6846 框	kDefinition	frame; framework; door frame
 U+6848 案	kDefinition	table, bench; legal case
 U+6849 桉	kDefinition	eucalyptus
+U+684A 桊	kDefinition	a small iron ring or wooden stick worn on the nose of a bull
 U+684B 桋	kDefinition	tree
 U+684C 桌	kDefinition	table, desk, stand
 U+684E 桎	kDefinition	fetters, shackles, handcuffs
@@ -10826,6 +10912,7 @@ U+686C 桬	kDefinition	pear and other trees
 U+686D 桭	kDefinition	eaves; space between two pillars
 U+686E 桮	kDefinition	cup, glass, tumbler
 U+686F 桯	kDefinition	table
+U+6872 桲	kDefinition	quince
 U+6874 桴	kDefinition	raft; drumstick; ridge pole
 U+6875 桵	kDefinition	small thorny bushes
 U+6876 桶	kDefinition	pail, bucket, tub; cask, keg
@@ -10859,6 +10946,7 @@ U+68A6 梦	kDefinition	dream; visionary; wishful
 U+68A7 梧	kDefinition	Chinese parasol tree, Sterculia platanifolia
 U+68A8 梨	kDefinition	pear; opera; cut, slash
 U+68A9 梩	kDefinition	a hod, a basket in which to carry earth
+U+68AB 梫	kDefinition	ancient term for cassia
 U+68AD 梭	kDefinition	weaver's shuttle; go to and fro
 U+68AE 梮	kDefinition	snowshoes
 U+68AF 梯	kDefinition	ladder, steps, stairs; lean
@@ -10922,6 +11010,7 @@ U+6900 椀	kDefinition	bowl; cup; dish
 U+6901 椁	kDefinition	outer-coffin; vault
 U+6904 椄	kDefinition	to graft
 U+6905 椅	kDefinition	chair, seat
+U+6907 椇	kDefinition	(枳椇) Hovenia acerba, Chinese raisin tree
 U+6908 椈	kDefinition	cedar
 U+690A 椊	kDefinition	to fit a handle into a socket; a plug or cork
 U+690B 椋	kDefinition	fruit
@@ -10939,6 +11028,7 @@ U+691D 椝	kDefinition	rules, regulations, customs, law
 U+691F 椟	kDefinition	cabinet, wardrobe; closet
 U+6920 椠	kDefinition	wooden tablet; edition
 U+6924 椤	kDefinition	tree
+U+6925 椥	kDefinition	place in Vietnam
 U+6927 椧	kDefinition	gutter
 U+692A 椪	kDefinition	Machilus nanmu, variety of evergreen
 U+692B 椫	kDefinition	coffin
@@ -10994,6 +11084,7 @@ U+6978 楸	kDefinition	Mallotus japonicus, East Asian mallotus, (J) akamegashiwa
 U+6979 楹	kDefinition	column, pillar; numerary adjunct
 U+697C 楼	kDefinition	building of two or more stories
 U+697D 楽	kDefinition	happy, glad; enjoyable; music
+U+6980 榀	kDefinition	classifier for roof beams
 U+6982 概	kDefinition	generally, approximately
 U+6983 榃	kDefinition	raised path between fields
 U+6984 榄	kDefinition	olive
@@ -11041,6 +11132,7 @@ U+69CE 槎	kDefinition	raft; time, occasion; to hew
 U+69D0 槐	kDefinition	locust tree
 U+69D1 槑	kDefinition	plums, prunes
 U+69D3 槓	kDefinition	lever, pole, crowbar; sharpen; (Cant.) a wardrobe, trunk
+U+69D4 槔	kDefinition	well sweep, water pulley
 U+69D6 槖	kDefinition	a sack; a stamping sound
 U+69D8 様	kDefinition	shape, form, pattern, style
 U+69D9 槙	kDefinition	a twig; an ornamental evergreen
@@ -11061,6 +11153,7 @@ U+69F1 槱	kDefinition	firewood for sacrifice
 U+69F2 槲	kDefinition	type of oak
 U+69F3 槳	kDefinition	oar, paddle
 U+69F9 槹	kDefinition	spar; well-sweep
+U+69FA 槺	kDefinition	(榔槺) cumbersome
 U+69FB 槻	kDefinition	zelkova tree
 U+69FC 槼	kDefinition	rules, regulations, customs, law
 U+69FD 槽	kDefinition	trough; manger; vat, tank; groove; a distillery
@@ -11079,6 +11172,7 @@ U+6A13 樓	kDefinition	building of two or more stories
 U+6A15 樕	kDefinition	shrub
 U+6A16 樖	kDefinition	(Cant.) classifier for plants or trees; a tree-trunk
 U+6A17 樗	kDefinition	Ailanthus glandulosa or A. altissima, a kind of tree useless as timber
+U+6A18 樘	kDefinition	a pillar, doorpost
 U+6A19 標	kDefinition	a mark, symbol, label, sign; standard
 U+6A1A 樚	kDefinition	a pulley, a windlass, a wheel, a block
 U+6A1B 樛	kDefinition	bending branches, bent limbs
@@ -11149,6 +11243,7 @@ U+6A89 檉	kDefinition	type of willow; tamarisk
 U+6A8D 檍	kDefinition	ilex
 U+6A8E 檎	kDefinition	small red apple
 U+6A90 檐	kDefinition	eaves of house; brim, rim
+U+6A91 檑	kDefinition	logs rolled down to defend a city
 U+6A94 檔	kDefinition	shelf; frame, crosspiece
 U+6A96 檖	kDefinition	wild pear tree
 U+6A97 檗	kDefinition	a cork tree
@@ -11170,6 +11265,7 @@ U+6AAE 檮	kDefinition	block of wood; blockhead; stupid
 U+6AAF 檯	kDefinition	table
 U+6AB3 檳	kDefinition	betel-nut, areca nut
 U+6AB4 檴	kDefinition	tree
+U+6AB5 檵	kDefinition	Loropetalum chinense, Chinese fringe flower
 U+6AB8 檸	kDefinition	lemon
 U+6ABB 檻	kDefinition	threshold, door-sill
 U+6ABC 檼	kDefinition	ridge pole; shape wood by use of heat; tool for shaping bent wood
@@ -11196,9 +11292,11 @@ U+6AEB 櫫	kDefinition	wooden peg, post or stick
 U+6AEC 櫬	kDefinition	coffin; tung tree
 U+6AF1 櫱	kDefinition	stump, sprout
 U+6AF3 櫳	kDefinition	cage, pen; set of bars
+U+6AF6 櫶	kDefinition	Excentrodendron hsienmu
 U+6AF8 櫸	kDefinition	type of elm
 U+6AFA 櫺	kDefinition	carved or patterned window sills
 U+6AFB 櫻	kDefinition	cherry, cherry blossom
+U+6AFC 櫼	kDefinition	wedge
 U+6AFD 櫽	kDefinition	shape wood by use of heat; tool for shaping bent wood
 U+6AFE 櫾	kDefinition	the pomelo
 U+6B03 欃	kDefinition	sandalwood; comet
@@ -11217,7 +11315,7 @@ U+6B19 欙	kDefinition	sedan
 U+6B1B 欛	kDefinition	a handle
 U+6B1D 欝	kDefinition	luxuriant; dense, thick; moody
 U+6B1E 欞	kDefinition	the lattice of a window a sill, a lintel
-U+6B20 欠	kDefinition	owe, lack, be deficient; KangXi radical number 76
+U+6B20 欠	kDefinition	owe, lack, be deficient; Kangxi radical 76
 U+6B21 次	kDefinition	order, sequence; next
 U+6B22 欢	kDefinition	happy, pleased, glad; joy; enjoy
 U+6B23 欣	kDefinition	happy, joyous, delighted
@@ -11269,7 +11367,7 @@ U+6B66 武	kDefinition	military; martial, warlike
 U+6B67 歧	kDefinition	fork of road; branching off
 U+6B69 歩	kDefinition	step
 U+6B6A 歪	kDefinition	slant; inclined; askew, awry
-U+6B6F 歯	kDefinition	teeth; gears, cogs; age; a form of KangXi radical 211
+U+6B6F 歯	kDefinition	teeth; gears, cogs; age; a form of Kangxi radical 211
 U+6B70 歰	kDefinition	(Cant.) 歰氣 to argue, wrangle, disagree
 U+6B71 歱	kDefinition	to visit; to imitate
 U+6B72 歲	kDefinition	year; age; harvest
@@ -11310,6 +11408,7 @@ U+6BA1 殡	kDefinition	encoffin; embalm; funeral
 U+6BA2 殢	kDefinition	be in great difficulty, greatly
 U+6BA3 殣	kDefinition	die; death; to starve to death
 U+6BA4 殤	kDefinition	die young; national mourning
+U+6BA5 殥	kDefinition	a far or distant place
 U+6BA8 殨	kDefinition	to open as an ulcer or sore
 U+6BAA 殪	kDefinition	die; kill, exterminate
 U+6BAB 殫	kDefinition	utmost, entirely, quite; use up
@@ -11342,6 +11441,7 @@ U+6BCD 母	kDefinition	mother; female elders; female
 U+6BCE 毎	kDefinition	every
 U+6BCF 每	kDefinition	every, each
 U+6BD0 毐	kDefinition	person of reprehensible morals; immoral; adulterer
+U+6BD1 毑	kDefinition	grandmother, older woman
 U+6BD2 毒	kDefinition	poison, venom; poisonous
 U+6BD3 毓	kDefinition	give birth to; bring up, educate
 U+6BD4 比	kDefinition	to compare, liken; comparison; than
@@ -11365,6 +11465,7 @@ U+6BEF 毯	kDefinition	rug, carpet, blanket
 U+6BF3 毳	kDefinition	fine hair or fur on animals
 U+6BF5 毵	kDefinition	long feathers; scraggy
 U+6BF7 毷	kDefinition	restless
+U+6BF9 毹	kDefinition	rug
 U+6BFB 毻	kDefinition	to molt; to change the coat of animals; (Cant.) muddled, confused
 U+6BFD 毽	kDefinition	a shuttlecock
 U+6BFE 毾	kDefinition	a coarse, woollen serge
@@ -11379,36 +11480,37 @@ U+6C09 氉	kDefinition	restless, melancholy
 U+6C0A 氊	kDefinition	felt; coarse fabrics use for rugs, carpets, wrappers etc.
 U+6C0C 氌	kDefinition	thick rough serge from Tibet
 U+6C0D 氍	kDefinition	fine woollen cloth; a mat used by the emperor in worshipping god
+U+6C0E 氎	kDefinition	fine cotton cloth
 U+6C0F 氏	kDefinition	clan, family; mister
 U+6C10 氐	kDefinition	name of an ancient tribe
 U+6C11 民	kDefinition	people, subjects, citizens
 U+6C13 氓	kDefinition	people; subjects; vassals
-U+6C14 气	kDefinition	steam, vapor; KangXi radical 84
+U+6C14 气	kDefinition	steam, vapor; Kangxi radical 84
 U+6C15 氕	kDefinition	hydrogen-1, protium
-U+6C16 氖	kDefinition	neon
+U+6C16 氖	kDefinition	neon (element 10, Ne)
 U+6C17 気	kDefinition	air, gas, steam, vapor; spirit
 U+6C18 氘	kDefinition	deuterium
-U+6C19 氙	kDefinition	xenon
+U+6C19 氙	kDefinition	xenon (element 54, Xe)
 U+6C1A 氚	kDefinition	tritium
 U+6C1B 氛	kDefinition	gas, vapor, air
 U+6C1C 氜	kDefinition	clear, bright; the sun; heat pertaining to this world; superior; upper; front
-U+6C1D 氝	kDefinition	neon
-U+6C1F 氟	kDefinition	fluorine
-U+6C21 氡	kDefinition	radon
+U+6C1D 氝	kDefinition	neon (element 10, Ne)
+U+6C1F 氟	kDefinition	fluorine (element 9, F)
+U+6C21 氡	kDefinition	radon (element 86, Rn)
 U+6C22 氢	kDefinition	ammonia; hydrogen nitride
 U+6C23 氣	kDefinition	air, gas, steam, vapor; spirit
 U+6C24 氤	kDefinition	hanging fog, misty
 U+6C25 氥	kDefinition	xenon (obsolete; 氙 U+6C19 now in use instead)
-U+6C26 氦	kDefinition	helium
-U+6C27 氧	kDefinition	oxygen
+U+6C26 氦	kDefinition	helium (element 2, He)
+U+6C27 氧	kDefinition	oxygen (element 8, O)
 U+6C28 氨	kDefinition	ammonia; hydrogen nitride
-U+6C29 氩	kDefinition	argon
-U+6C2A 氪	kDefinition	krypton
-U+6C2B 氫	kDefinition	hydrogen
-U+6C2C 氬	kDefinition	argon
+U+6C29 氩	kDefinition	argon (element 18, Ar)
+U+6C2A 氪	kDefinition	krypton (element 36, Kr)
+U+6C2B 氫	kDefinition	hydrogen (element 1, H)
+U+6C2C 氬	kDefinition	argon (element 18, Ar)
 U+6C2D 氭	kDefinition	radon (obsolete; 氡 U+6C21 now in use instead)
-U+6C2E 氮	kDefinition	nitrogen
-U+6C2F 氯	kDefinition	chlorine
+U+6C2E 氮	kDefinition	nitrogen (element 7, N)
+U+6C2F 氯	kDefinition	chlorine (element 17, Cl)
 U+6C30 氰	kDefinition	cyanogen; ethane dinitrile
 U+6C32 氲	kDefinition	life giving influences of nature; spirit of harmony; prosperity
 U+6C33 氳	kDefinition	life giving influences of nature; spirit of harmony; prosperity
@@ -11427,12 +11529,14 @@ U+6C41 汁	kDefinition	juice, liquor, fluid, sap, gravy, sauce
 U+6C42 求	kDefinition	seek; demand, request; beseech
 U+6C46 汆	kDefinition	to parboil; hot water kettle; to boil
 U+6C47 汇	kDefinition	concourse; flow together, gather
+U+6C48 汈	kDefinition	a lake in Húběi
 U+6C49 汉	kDefinition	Chinese people; Chinese language
 U+6C4A 汊	kDefinition	a branching stream
 U+6C4B 汋	kDefinition	to pour
 U+6C4D 汍	kDefinition	weep
 U+6C4E 汎	kDefinition	float, drift; afloat; careless
 U+6C50 汐	kDefinition	night tides, evening ebb tide
+U+6C54 汔	kDefinition	close, almost
 U+6C55 汕	kDefinition	basket for catching fish; bamboo; Swatow (Shantou)
 U+6C57 汗	kDefinition	perspiration, sweat
 U+6C59 汙	kDefinition	filthy, dirty, impure, polluted
@@ -11440,7 +11544,7 @@ U+6C5A 汚	kDefinition	filthy, dirty, impure, polluted
 U+6C5B 汛	kDefinition	high water, flood tides
 U+6C5C 汜	kDefinition	a stream which leaves the main branch then later returns
 U+6C5D 汝	kDefinition	you
-U+6C5E 汞	kDefinition	element mercury
+U+6C5E 汞	kDefinition	mercury (element 80, Hg)
 U+6C5F 江	kDefinition	large river; the Yangzi; surname
 U+6C60 池	kDefinition	pool, pond; moat; cistern
 U+6C61 污	kDefinition	filthy, dirty, impure, polluted
@@ -11500,7 +11604,7 @@ U+6CAE 沮	kDefinition	stop, prevent; defeated, dejected
 U+6CB0 沰	kDefinition	to let drop
 U+6CB1 沱	kDefinition	rivers, streams, waterways; flow
 U+6CB2 沲	kDefinition	float
-U+6CB3 河	kDefinition	river; stream; yellow river
+U+6CB3 河	kDefinition	river; stream; the Yellow River
 U+6CB4 沴	kDefinition	foul and poisonous in confusion; out of harmony
 U+6CB7 沷	kDefinition	to remove evil; to cleanse; to wash away
 U+6CB8 沸	kDefinition	boil, bubble up, gush
@@ -11559,6 +11663,7 @@ U+6CFD 泽	kDefinition	marsh, swamp; grace, brilliance
 U+6CFE 泾	kDefinition	name of a river
 U+6D01 洁	kDefinition	clean, purify, pure
 U+6D04 洄	kDefinition	a back-water; an eddy a whirlpool
+U+6D07 洇	kDefinition	to soak paper, blot
 U+6D0A 洊	kDefinition	flowing water
 U+6D0B 洋	kDefinition	ocean, sea; foreign; western
 U+6D0C 洌	kDefinition	clear
@@ -11621,6 +11726,7 @@ U+6D5A 浚	kDefinition	dredge
 U+6D5B 浛	kDefinition	place in Yingde, Guangdong province
 U+6D5C 浜	kDefinition	creek, stream; beach, sea coast
 U+6D5E 浞	kDefinition	to soak, to steep in water
+U+6D60 浠	kDefinition	a river in Húběi
 U+6D61 浡	kDefinition	burst forth; rise; vigorous
 U+6D63 浣	kDefinition	to wash, to rinse
 U+6D64 浤	kDefinition	beating of ocean; surging of water
@@ -11712,6 +11818,7 @@ U+6DEF 淯	kDefinition	name of river; old name of Baihe in Henan
 U+6DF0 淰	kDefinition	fish; still; (Cant.) thoroughly soaked; a deep sleep
 U+6DF1 深	kDefinition	deep; depth; far; very, extreme
 U+6DF3 淳	kDefinition	honest, simple, unsophisticated; cyanogen; ethane dinitrile
+U+6DF4 淴	kDefinition	to wash, bathe
 U+6DF5 淵	kDefinition	gulf, abyss, deep
 U+6DF6 淶	kDefinition	river in Hebei province; creek
 U+6DF7 混	kDefinition	to mix, blend, mingle; to bumble along
@@ -11771,6 +11878,7 @@ U+6E46 湆	kDefinition	(Cant.) sticky, not smooth, slow
 U+6E49 湉	kDefinition	gentle flow; tranquil
 U+6E4A 湊	kDefinition	piece together, assemble
 U+6E4B 湋	kDefinition	river in Shanxi province
+U+6E4C 湌	kDefinition	to eat
 U+6E4D 湍	kDefinition	rapid water current, rapids
 U+6E4E 湎	kDefinition	flushed with drink, drunk
 U+6E4F 湏	kDefinition	wash face; erroneously borrowed for DKW 43352 'necessary, must'
@@ -11831,7 +11939,7 @@ U+6EAF 溯	kDefinition	go upstream, go against current; formerly
 U+6EB1 溱	kDefinition	river in Henan
 U+6EB2 溲	kDefinition	urinate; soak, drench
 U+6EB3 溳	kDefinition	river in Hubei
-U+6EB4 溴	kDefinition	bromine
+U+6EB4 溴	kDefinition	bromine (element 35, Br)
 U+6EB5 溵	kDefinition	name of a place in Tianjin
 U+6EB6 溶	kDefinition	to melt, dissolve; overflowing with
 U+6EB7 溷	kDefinition	privy, latrine; turbid, dirty
@@ -12009,6 +12117,7 @@ U+6FB6 澶	kDefinition	still water, placid, tranquil
 U+6FB7 澷	kDefinition	water overflowing diffused; spreading
 U+6FB9 澹	kDefinition	calm, quiet, tranquil
 U+6FBC 澼	kDefinition	bleach; wash, clean
+U+6FBD 澽	kDefinition	a river in Shaanxi
 U+6FBE 澾	kDefinition	slippery, smooth
 U+6FC0 激	kDefinition	arouse, excite, incite; quickly
 U+6FC1 濁	kDefinition	muddy, turbid, dirty, filthy
@@ -12080,6 +12189,7 @@ U+7038 瀸	kDefinition	moisten, soak
 U+7039 瀹	kDefinition	to boil; to wash, to cleanse, to soak
 U+703A 瀺	kDefinition	sound
 U+703C 瀼	kDefinition	river in Henan province; flowing
+U+703D 瀽	kDefinition	splash (water); pour (liquid)
 U+703E 瀾	kDefinition	overflowing; waves, ripples
 U+7043 灃	kDefinition	river in Shanxi province
 U+7044 灄	kDefinition	river in Hubei province
@@ -12304,7 +12414,7 @@ U+71CA 燊	kDefinition	luxuriant
 U+71CB 燋	kDefinition	scorch, burn, scald; torch
 U+71CE 燎	kDefinition	to burn, set afire; to illuminate; a signal lamp
 U+71CF 燏	kDefinition	blaze
-U+71D0 燐	kDefinition	phosphorus
+U+71D0 燐	kDefinition	phosphorus (element 15, P)
 U+71D2 燒	kDefinition	burn; bake; heat; roast
 U+71D4 燔	kDefinition	to roast; to burn
 U+71D5 燕	kDefinition	swallow (bird); comfort, enjoy
@@ -12358,7 +12468,7 @@ U+7230 爰	kDefinition	lead on to; therefore, then
 U+7231 爱	kDefinition	love, be fond of, like
 U+7232 爲	kDefinition	do, handle, govern, act; be
 U+7235 爵	kDefinition	feudal title or rank
-U+7236 父	kDefinition	father; KangXi radical 88
+U+7236 父	kDefinition	father; Kangxi radical 88
 U+7237 爷	kDefinition	father, grandfather
 U+7238 爸	kDefinition	father, papa
 U+7239 爹	kDefinition	father, daddy
@@ -12367,7 +12477,7 @@ U+723B 爻	kDefinition	diagrams for divination
 U+723C 爼	kDefinition	a small table or tiered stand filled with meat offerings
 U+723D 爽	kDefinition	happy, cheerful; refreshing
 U+723E 爾	kDefinition	you; that, those; final particle
-U+723F 爿	kDefinition	half of tree trunk; KangXi radical 90
+U+723F 爿	kDefinition	half of tree trunk; Kangxi radical 90
 U+7240 牀	kDefinition	bed, couch; bench; chassis
 U+7241 牁	kDefinition	mooring stake; painter, mooring
 U+7242 牂	kDefinition	female sheep, ewe
@@ -12389,7 +12499,7 @@ U+7255 牕	kDefinition	window
 U+7256 牖	kDefinition	window; lead enlightenment
 U+7258 牘	kDefinition	writing tablet; documents, books
 U+7259 牙	kDefinition	tooth, molars, teeth; serrated
-U+725B 牛	kDefinition	cow, ox, bull; KangXi radical93
+U+725B 牛	kDefinition	cow, ox, bull; Kangxi radical 93
 U+725C 牜	kDefinition	an ox, a cow Radical 93
 U+725D 牝	kDefinition	female of species; deep gorge
 U+725F 牟	kDefinition	make; seek, get; barley; low
@@ -12524,7 +12634,7 @@ U+732A 猪	kDefinition	pig, hog, wild boar
 U+732B 猫	kDefinition	cat
 U+732C 猬	kDefinition	vulgar; wanton; low; many; varied; a hedgehog, porcupine
 U+732E 献	kDefinition	offer, present; show, display
-U+7331 猱	kDefinition	a monkey with yellow hair
+U+7331 猱	kDefinition	a monkey with yellow hair, macaque
 U+7332 猲	kDefinition	smoke or flames from fire; roast
 U+7334 猴	kDefinition	monkey, ape; monkey-like
 U+7336 猶	kDefinition	like, similar to, just like, as
@@ -12578,7 +12688,7 @@ U+737E 獾	kDefinition	the badger
 U+7380 玀	kDefinition	pig; Lolo aboriginal tribe
 U+7381 玁	kDefinition	a dog with a long snout or muzzle
 U+7383 玃	kDefinition	a large ape found in western China
-U+7384 玄	kDefinition	deep, profound, abstruse; KangXi radical 95
+U+7384 玄	kDefinition	deep, profound, abstruse; Kangxi radical 95
 U+7385 玅	kDefinition	mysterious, subtle; exquisite
 U+7386 玆	kDefinition	now, here; this; time, year
 U+7387 率	kDefinition	to lead; ratio; rate; limit
@@ -12917,7 +13027,7 @@ U+758E 疎	kDefinition	neglect; careless, lax
 U+758F 疏	kDefinition	neglect; careless, lax
 U+7590 疐	kDefinition	fall, stumble, falter; hindered
 U+7591 疑	kDefinition	doubt, question, suspect
-U+7592 疒	kDefinition	sick; KangXi radical 104
+U+7592 疒	kDefinition	sick; Kangxi radical 104
 U+7593 疓	kDefinition	fatigued; (Cant.) paralysis of the foot
 U+7594 疔	kDefinition	carbuncle, boil, ulcer
 U+7595 疕	kDefinition	head sores
@@ -13099,7 +13209,7 @@ U+766F 癯	kDefinition	thin, emaciated; worn, tired
 U+7670 癰	kDefinition	carbuncle, sore, ulcer, abscess
 U+7671 癱	kDefinition	paralysis, palsy, numbness
 U+7672 癲	kDefinition	crazy, mad; madness, mania, insanity
-U+7676 癶	kDefinition	legs; KangXi radical 105
+U+7676 癶	kDefinition	legs; Kangxi radical 105
 U+7678 癸	kDefinition	10th heavenly stem
 U+767A 発	kDefinition	issue, dispatch, send out, emit
 U+767B 登	kDefinition	rise, mount, board, climb
@@ -13181,7 +13291,7 @@ U+76E9 盩	kDefinition	callus
 U+76EA 盪	kDefinition	to toss about; to swing; to rock
 U+76EC 盬	kDefinition	salt pit; leisure; pot; drink
 U+76ED 盭	kDefinition	cruel
-U+76EE 目	kDefinition	eye; look, see; division, topic
+U+76EE 目	kDefinition	eye; look, see; division, topic; Kangxi radical 109
 U+76EF 盯	kDefinition	rivet gaze upon, keep eyes on
 U+76F1 盱	kDefinition	wide open eyes; to gaze in astonishment
 U+76F2 盲	kDefinition	blind; unperceptive, shortsighted
@@ -13328,7 +13438,7 @@ U+77D6 矖	kDefinition	to stare at
 U+77D7 矗	kDefinition	straight, upright, erect, lofty
 U+77D9 矙	kDefinition	view
 U+77DA 矚	kDefinition	watch carefully, stare at, focus on
-U+77DB 矛	kDefinition	spear, lance; KangXi radical 110
+U+77DB 矛	kDefinition	spear, lance; Kangxi radical 110
 U+77DC 矜	kDefinition	pity, feel sorry for, show sympathy
 U+77DE 矞	kDefinition	bore with awl; bright, charming
 U+77DF 矟	kDefinition	lance
@@ -13344,7 +13454,7 @@ U+77EE 矮	kDefinition	short, dwarf; low
 U+77EF 矯	kDefinition	correct, rectify, straighten out
 U+77F0 矰	kDefinition	arrow with attached silk cord
 U+77F1 矱	kDefinition	measure, standard, criterion
-U+77F3 石	kDefinition	stone, rock, mineral; rad. 112
+U+77F3 石	kDefinition	stone, rock, mineral; Kangxi radical 112
 U+77F4 矴	kDefinition	anchor; (Cant.) a place
 U+77F6 矶	kDefinition	jetty; submerged rock; eddy
 U+77F8 矸	kDefinition	a rock or cliff
@@ -13392,9 +13502,9 @@ U+7832 砲	kDefinition	gun, cannon
 U+7833 砳	kDefinition	rocky
 U+7834 破	kDefinition	break, ruin, destroy; rout
 U+7835 砵	kDefinition	(Cant.) port (Eng. loan-word), 西矺 a sideboard (Eng. loan-word)
-U+7837 砷	kDefinition	arsenic
+U+7837 砷	kDefinition	arsenic (element 33, As)
 U+7838 砸	kDefinition	smash, crush, break; pound, mash
-U+7839 砹	kDefinition	astatine
+U+7839 砹	kDefinition	astatine (element 85, At)
 U+783A 砺	kDefinition	whetstone; sharpen
 U+783B 砻	kDefinition	grind, sharpen; mill
 U+783C 砼	kDefinition	concrete
@@ -13403,7 +13513,7 @@ U+783F 砿	kDefinition	mine; mineral, ore
 U+7840 础	kDefinition	foundation stone, plinth
 U+7841 硁	kDefinition	the sound of stones knocking together
 U+7843 硃	kDefinition	a red mole; cinnabar
-U+7845 硅	kDefinition	silicon
+U+7845 硅	kDefinition	silicon (element 14, Si)
 U+7847 硇	kDefinition	sal ammoniac
 U+7849 硉	kDefinition	bones of a thin horse
 U+784A 硊	kDefinition	the name of a place in Wuhu county, Anhui province
@@ -13412,7 +13522,7 @@ U+784D 硍	kDefinition	strike
 U+784E 硎	kDefinition	whetstone
 U+784F 硏	kDefinition	grind
 U+7850 硐	kDefinition	variant of U+6D1E 洞, cave; chamber; pit
-U+7852 硒	kDefinition	selenium
+U+7852 硒	kDefinition	selenium (element 34, Se)
 U+7855 硕	kDefinition	great, eminent; large, big
 U+7856 硖	kDefinition	(archaic) town in Hebei province
 U+7857 硗	kDefinition	barren land; sandy soil
@@ -13425,7 +13535,7 @@ U+7864 硤	kDefinition	(archaic) town in Hebei province
 U+7867 硧	kDefinition	a grindstone; (same as U+7850 硐) a cave, cavern
 U+7868 硨	kDefinition	giant clam, Tridacna gigas
 U+786A 硪	kDefinition	a tool for making rammed earth; lofty
-U+786B 硫	kDefinition	sulfur
+U+786B 硫	kDefinition	sulfur (element 16, S)
 U+786C 硬	kDefinition	hard, firm, strong; obstinate
 U+786D 硭	kDefinition	a crude saltpetre
 U+786E 确	kDefinition	sure, certain; real, true
@@ -13448,7 +13558,7 @@ U+7893 碓	kDefinition	pestle
 U+7894 碔	kDefinition	1/2 pr stone
 U+7895 碕	kDefinition	a cape, spit, promontory
 U+7897 碗	kDefinition	bowl, small dish
-U+7898 碘	kDefinition	iodine
+U+7898 碘	kDefinition	iodine (element 53, I)
 U+789A 碚	kDefinition	suburb
 U+789B 碛	kDefinition	sand and gravel
 U+789C 碜	kDefinition	gritty
@@ -13466,8 +13576,8 @@ U+78AD 碭	kDefinition	brilliantly colored stone with veined patterns in it
 U+78AF 碯	kDefinition	agate, cornelian
 U+78B0 碰	kDefinition	collide, bump into
 U+78B1 碱	kDefinition	alkaline, alkali, lye, salt
-U+78B2 碲	kDefinition	tellurium
-U+78B3 碳	kDefinition	carbon
+U+78B2 碲	kDefinition	tellurium (element 52, Te)
+U+78B3 碳	kDefinition	carbon (element 6, C)
 U+78B4 碴	kDefinition	chipped edge of a container
 U+78B6 碶	kDefinition	a flood-gate, a water-gate
 U+78B8 碸	kDefinition	a sulfone (chemical compound)
@@ -13477,7 +13587,7 @@ U+78BC 碼	kDefinition	number, numerals; yard; symbol
 U+78BE 碾	kDefinition	roller, crush; roll
 U+78C1 磁	kDefinition	magnetic; magnetism; porcelain
 U+78C5 磅	kDefinition	pound; weigh
-U+78C7 磇	kDefinition	arsenic
+U+78C7 磇	kDefinition	arsenic (element 33, As)
 U+78C8 磈	kDefinition	an uneven rock
 U+78C9 磉	kDefinition	the stone base or plinth of a pillar
 U+78CA 磊	kDefinition	pile of rocks or stones; great
@@ -13508,7 +13618,7 @@ U+78EF 磯	kDefinition	jetty; submerged rock; eddy
 U+78F2 磲	kDefinition	white button of 6th rank
 U+78F4 磴	kDefinition	steps on ledge, cliff, or hill
 U+78F5 磵	kDefinition	brook, mountain stream
-U+78F7 磷	kDefinition	phosphorus
+U+78F7 磷	kDefinition	phosphorus (element 15, P)
 U+78FA 磺	kDefinition	sulphur; brimstone
 U+78FB 磻	kDefinition	a tributary of the Wei river in Shanxi
 U+78FD 磽	kDefinition	barren land; sandy soil
@@ -13537,7 +13647,7 @@ U+7933 礳	kDefinition	name of place in shan xi province
 U+7934 礴	kDefinition	fill, extend
 U+7935 礵	kDefinition	name of an island in Fujian province
 U+7936 礶	kDefinition	a jug, a pitcher, a jar, a pot
-U+793A 示	kDefinition	show, manifest; demonstrate; Kanxi radical 113
+U+793A 示	kDefinition	show, manifest; demonstrate; Kangxi radical 113
 U+793B 礻	kDefinition	cult; radical number 113
 U+793C 礼	kDefinition	social custom; manners; courtesy; rites
 U+793D 礽	kDefinition	blessings, happiness
@@ -13619,10 +13729,11 @@ U+79B0 禰	kDefinition	one's deceased father
 U+79B1 禱	kDefinition	pray; entreat, beg, plead; prayer
 U+79B3 禳	kDefinition	pray or sacrifice, exorcise
 U+79B4 禴	kDefinition	sacrifice
-U+79B8 禸	kDefinition	rump; KangXi radical 114
+U+79B8 禸	kDefinition	rump; Kangxi radical 114
 U+79B9 禹	kDefinition	legendary hsia dynasty founder
 U+79BA 禺	kDefinition	district; mountain in Zhejiang
 U+79BB 离	kDefinition	rare beast; strange; elegant
+U+79BC 禼	kDefinition	used in personal names
 U+79BD 禽	kDefinition	birds, fowl; surname;; capture
 U+79BE 禾	kDefinition	grain still on stalk; rice plant
 U+79BF 禿	kDefinition	bald, bare, stripped
@@ -13738,7 +13849,7 @@ U+7A6B 穫	kDefinition	harvest, cut grain
 U+7A6D 穭	kDefinition	wild grain
 U+7A6E 穮	kDefinition	weed
 U+7A70 穰	kDefinition	stalks of grain; lush, abundant
-U+7A74 穴	kDefinition	cave, den, hole; KangXi radical 116
+U+7A74 穴	kDefinition	cave, den, hole; Kangxi radical 116
 U+7A75 穵	kDefinition	deep hollow;, gouge, dig out
 U+7A76 究	kDefinition	examine, investigate
 U+7A77 穷	kDefinition	poor, destitute, impoverished
@@ -14112,7 +14223,7 @@ U+7C9F 粟	kDefinition	unhusked millet; grain
 U+7CA2 粢	kDefinition	grain offered in ritual sacrifice; millet
 U+7CA4 粤	kDefinition	Guangdong and Guangxi provinces; initial particle
 U+7CA5 粥	kDefinition	rice gruel, congee
-U+7CA6 粦	kDefinition	phosphorus
+U+7CA6 粦	kDefinition	phosphorus (element 15, P)
 U+7CA7 粧	kDefinition	toilet; make-up; dress up; adorn
 U+7CA8 粨	kDefinition	hectometer
 U+7CAA 粪	kDefinition	manure, dung, excrement, night soil
@@ -14146,7 +14257,7 @@ U+7CD5 糕	kDefinition	cakes, pastry
 U+7CD6 糖	kDefinition	sugar; candy; sweets
 U+7CD7 糗	kDefinition	parched wheat or rice; broken grain
 U+7CD9 糙	kDefinition	coarse, harsh, rough, unpolished rice
-U+7CDC 糜	kDefinition	rice gruel, congee; mashed
+U+7CDC 糜	kDefinition	rice gruel, congee; mashed rice
 U+7CDD 糝	kDefinition	scattered (grains of rice); mixed
 U+7CDE 糞	kDefinition	manure, dung, night soil
 U+7CDF 糟	kDefinition	sediment, dregs; pickle
@@ -14165,7 +14276,7 @@ U+7CF4 糴	kDefinition	purchase grains; store grain
 U+7CF5 糵	kDefinition	fermenting grain; grain which has sprouted; yeast
 U+7CF6 糶	kDefinition	sell grain
 U+7CF8 糸	kDefinition	silk; Kangxi radical 120
-U+7CF9 糹	kDefinition	silk; KangXi radical 120
+U+7CF9 糹	kDefinition	silk; Kangxi radical 120
 U+7CFA 糺	kDefinition	to collaborate; to band together
 U+7CFB 系	kDefinition	system; line, link, connection
 U+7CFE 糾	kDefinition	investigate, inspect
@@ -14461,7 +14572,7 @@ U+7E98 纘	kDefinition	continue, carry on, succeed
 U+7E9A 纚	kDefinition	long; dangling; kerchief; rope
 U+7E9B 纛	kDefinition	a banner, a streamer
 U+7E9C 纜	kDefinition	hawser, heavy-duty rope, cable
-U+7E9F 纟	kDefinition	silk; KangXi radical 120
+U+7E9F 纟	kDefinition	silk; Kangxi radical 120
 U+7EA0 纠	kDefinition	investigate, inspect
 U+7EA1 纡	kDefinition	bend, turn, twist; distort
 U+7EA2 红	kDefinition	red, vermillion; blush, flush
@@ -14634,7 +14745,7 @@ U+7F4D 罍	kDefinition	large earthenware wine jar
 U+7F4E 罎	kDefinition	an earthenware jar, a jug
 U+7F4F 罏	kDefinition	earthen stand for wine jug
 U+7F50 罐	kDefinition	jar, jug, pitcher, pot
-U+7F51 网	kDefinition	net; network; KangXi radical 122
+U+7F51 网	kDefinition	net; network; Kangxi radical 122
 U+7F52 罒	kDefinition	Radical 122
 U+7F54 罔	kDefinition	net; deceive; libel; negative
 U+7F55 罕	kDefinition	rare, scarce; surname
@@ -14702,8 +14813,8 @@ U+7F9E 羞	kDefinition	disgrace, shame; ashamed; shy
 U+7F9F 羟	kDefinition	hydroxide
 U+7FA1 羡	kDefinition	envy, admire; praise; covet
 U+7FA2 羢	kDefinition	fine woolen fabrics
-U+7FA3 羣	kDefinition	(same as U+7FA4 群) group, crowd, multitude, mob
-U+7FA4 群	kDefinition	(same as U+7FA3 羣) group, crowd, multitude, mob
+U+7FA3 羣	kDefinition	group, crowd, multitude, mob
+U+7FA4 群	kDefinition	group, crowd, multitude, mob
 U+7FA5 羥	kDefinition	hydroxyl group
 U+7FA7 羧	kDefinition	carboxyl group
 U+7FA8 羨	kDefinition	envy, admire; praise; covet
@@ -15009,7 +15120,7 @@ U+8141 腁	kDefinition	callus
 U+8146 腆	kDefinition	prosperous; good; protruding
 U+8148 腈	kDefinition	nitrile
 U+8149 腉	kDefinition	nipple, pap
-U+814A 腊	kDefinition	year end sacrifice; dried meat
+U+814A 腊	kDefinition	year-end sacrifice; dried meat
 U+814B 腋	kDefinition	armpit
 U+814C 腌	kDefinition	salt, pickle; be dirty
 U+814D 腍	kDefinition	soft
@@ -15421,8 +15532,8 @@ U+836D 荭	kDefinition	herb
 U+836E 荮	kDefinition	to wrap with grass, bundle
 U+836F 药	kDefinition	leaf of Dahurian angelica plant; medicine
 U+8373 荳	kDefinition	beans, peas; bean-shaped
-U+8375 荵	kDefinition	polemonium
-U+8377 荷	kDefinition	lotus, water lily, holland
+U+8375 荵	kDefinition	various species of the genus Polemonium
+U+8377 荷	kDefinition	lotus, water lily; Holland
 U+8378 荸	kDefinition	water chestnut
 U+837B 荻	kDefinition	reed, Miscanthus saccariflorus
 U+837C 荼	kDefinition	thistle, sowthistle; bitter
@@ -15553,6 +15664,7 @@ U+844E 葎	kDefinition	Humulus japonicus
 U+8451 葑	kDefinition	the rape-turnip
 U+8452 葒	kDefinition	Polygonum orientale, prince's feather
 U+8453 葓	kDefinition	Polygonum orientale, prince's feather'
+U+8456 葖	kDefinition	radish, turnip
 U+8457 著	kDefinition	manifest; (Cant.) to wear
 U+8459 葙	kDefinition	feather cockscomb (Celosia argentea)
 U+845A 葚	kDefinition	mulberry fruit
@@ -16707,7 +16819,7 @@ U+8B9B 讛	kDefinition	talk in one's sleep, somniloquy
 U+8B9C 讜	kDefinition	counsel, advice; speak out
 U+8B9E 讞	kDefinition	to decide, judge; a verdict, decision
 U+8B9F 讟	kDefinition	slander, utter evil words
-U+8BA0 讠	kDefinition	simplified KangXi radical 149
+U+8BA0 讠	kDefinition	simplified Kangxi radical 149
 U+8BA1 计	kDefinition	plan, plot; stratagem; scheme
 U+8BA2 订	kDefinition	draw up agreement; arrange
 U+8BA3 讣	kDefinition	obituary; give notice of death
@@ -17397,7 +17509,7 @@ U+8F1E 輞	kDefinition	exterior rim of wheel, felly
 U+8F1F 輟	kDefinition	stop, suspend, halt
 U+8F20 輠	kDefinition	grease pot hung under axle of cart
 U+8F21 輡	kDefinition	same as 轗 U+8F57, to fail; a difficulty, misfortune
-U+8F24 輤	kDefinition	a pall to cover the hearse
+U+8F24 輤	kDefinition	a pall to cover a hearse
 U+8F25 輥	kDefinition	turn round, revolve; roller
 U+8F26 輦	kDefinition	a handcart; capital city
 U+8F27 輧	kDefinition	curtained carriage used by women
@@ -17522,7 +17634,7 @@ U+8FB1 辱	kDefinition	humiliate, insult, abuse
 U+8FB2 農	kDefinition	agriculture, farming; farmer
 U+8FB3 辳	kDefinition	agriculture, farming; farmer
 U+8FB5 辵	kDefinition	walk; walking; Kangxi radical 162
-U+8FB6 辶	kDefinition	walk; walking; KangXi radical 162
+U+8FB6 辶	kDefinition	walk; walking; Kangxi radical 162
 U+8FB7 辷	kDefinition	smooth, slippery
 U+8FB9 边	kDefinition	edge, margin, side, border
 U+8FBA 辺	kDefinition	edge, margin, side, border
@@ -17915,61 +18027,63 @@ U+91BB 醻	kDefinition	to pledge, thank
 U+91BC 醼	kDefinition	offer food and wine one's guests
 U+91BD 醽	kDefinition	kind of wine
 U+91BE 醾	kDefinition	a kind of liquor
+U+91BF 醿	kDefinition	a kind of liquor
 U+91C0 釀	kDefinition	brew, ferment
 U+91C1 釁	kDefinition	smear with blood in sacrifice; rift, quarrel
 U+91C2 釂	kDefinition	drain
 U+91C3 釃	kDefinition	strain
-U+91C4 釄	kDefinition	wine brew for the second time
+U+91C4 釄	kDefinition	wine brewed for a second time
 U+91C5 釅	kDefinition	thick, strong (beverage)
-U+91C6 釆	kDefinition	distinguish; KangXi radical 165
+U+91C6 釆	kDefinition	distinguish; Kangxi radical 165
 U+91C7 采	kDefinition	collect, gather; pick, pluck
 U+91C8 釈	kDefinition	interpret, elucidate; release
 U+91C9 釉	kDefinition	glaze
 U+91CA 释	kDefinition	interpret, elucidate; release
 U+91CB 釋	kDefinition	interpret, elucidate; release
-U+91CC 里	kDefinition	unit of distance; village; lane
+U+91CC 里	kDefinition	unit of distance; village; lane; Kangxi radical 166
 U+91CD 重	kDefinition	heavy, weighty; double
 U+91CE 野	kDefinition	open country, field; wilderness
 U+91CF 量	kDefinition	measure, quantity, capacity
 U+91D0 釐	kDefinition	manage, control; thousandth part of tael
-U+91D1 金	kDefinition	gold; metals in general; money
-U+91D2 釒	kDefinition	KangXi radical 167
-U+91D3 釓	kDefinition	gadolinium
-U+91D4 釔	kDefinition	yttrium
-U+91D5 釕	kDefinition	ruthenium
+U+91D1 金	kDefinition	gold; metals in general; money; Kangxi radical 167
+U+91D2 釒	kDefinition	Kangxi radical 167
+U+91D3 釓	kDefinition	gadolinium (element 64, Gd)
+U+91D4 釔	kDefinition	yttrium (element 39, Y)
+U+91D5 釕	kDefinition	ruthenium (element 44, Ru)
 U+91D6 釖	kDefinition	knife, sword
 U+91D7 釗	kDefinition	endeavor, strive; encourage; cut
 U+91D8 釘	kDefinition	nail, spike; pursue closely
-U+91D9 釙	kDefinition	polonium
+U+91D9 釙	kDefinition	polonium (element 84, Po)
 U+91DC 釜	kDefinition	cauldron, pot, kettle
 U+91DD 針	kDefinition	needle; pin; tack; acupuncture
 U+91E1 釡	kDefinition	cauldron, pot, kettle
 U+91E3 釣	kDefinition	fish; fishhook; tempt, lure
-U+91E4 釤	kDefinition	samarium
+U+91E4 釤	kDefinition	samarium (element 62, Sm); to swing a sickle to cut (grass or wheat)
 U+91E6 釦	kDefinition	button; buckle, clasp; engrave
 U+91E7 釧	kDefinition	bracelet, armlet
-U+91E9 釩	kDefinition	vanadium
+U+91E9 釩	kDefinition	vanadium (element 23, V)
 U+91EA 釪	kDefinition	an alms bowl; a small bell
-U+91EC 釬	kDefinition	solder
+U+91EC 釬	kDefinition	weld, solder
 U+91ED 釭	kDefinition	tire of wheel; band
 U+91EF 釯	kDefinition	point of sword; sharp point
 U+91F1 釱	kDefinition	fetters; to fetter
 U+91F5 釵	kDefinition	ornamental hairpin
-U+91F7 釷	kDefinition	thorium
-U+91F9 釹	kDefinition	neodymium
+U+91F7 釷	kDefinition	thorium (Th)
+U+91F9 釹	kDefinition	neodymium (Nd)
 U+91FA 釺	kDefinition	tool for boring holes
 U+91FC 釼	kDefinition	sword, dagger, saber
 U+91FD 釽	kDefinition	a farmer's hoeing fork
+U+91FE 釾	kDefinition	obsolete name of einsteinium (Es)
 U+91FF 釿	kDefinition	hew, chop, smooth
-U+9200 鈀	kDefinition	palladium
-U+9201 鈁	kDefinition	francium
+U+9200 鈀	kDefinition	palladium (Pd)
+U+9201 鈁	kDefinition	francium (Fr)
 U+9203 鈃	kDefinition	ancient wine vessel
 U+9204 鈄	kDefinition	a wine flagon
 U+9206 鈆	kDefinition	lead
 U+9207 鈇	kDefinition	an ax; a hatchet
-U+9208 鈈	kDefinition	plutonium
-U+9209 鈉	kDefinition	sodium, natrium; sharpen wood
-U+920A 鈊	kDefinition	gadolinium
+U+9208 鈈	kDefinition	plutonium (Pu)
+U+9209 鈉	kDefinition	sodium (Na); sharpen wood
+U+920A 鈊	kDefinition	gadolinium (element 64, Gd)
 U+920C 鈌	kDefinition	to pierce, to stab; to take
 U+920D 鈍	kDefinition	blunt, obtuse; dull; flat; dull-witted
 U+920E 鈎	kDefinition	hook, barb; sickle; stroke with
@@ -17978,102 +18092,105 @@ U+9211 鈑	kDefinition	plate
 U+9212 鈒	kDefinition	spear; (Cant.) to cut, slice; grass-shears
 U+9214 鈔	kDefinition	paper money, bank notes; copy
 U+9215 鈕	kDefinition	button, knob; surname
+U+921A 鈚	kDefinition	an ancient type of arrow
 U+921E 鈞	kDefinition	unit of measure equivalent to thirty catties
-U+9223 鈣	kDefinition	calcium
-U+9225 鈥	kDefinition	holmium
-U+9226 鈦	kDefinition	titanium
-U+9227 鈧	kDefinition	scandium
+U+9223 鈣	kDefinition	calcium (Ca)
+U+9225 鈥	kDefinition	holmium (Ho)
+U+9226 鈦	kDefinition	titanium (Ti)
+U+9227 鈧	kDefinition	scandium (Sc)
 U+9229 鈩	kDefinition	fireplace, stove, oven, furnace
 U+922A 鈪	kDefinition	(Cant.) bracelet; bangle
 U+922C 鈬	kDefinition	bell; surname
-U+922E 鈮	kDefinition	niobium
-U+9230 鈰	kDefinition	cerium
+U+922E 鈮	kDefinition	niobium (Nb)
+U+9230 鈰	kDefinition	cerium (element 58, Ce)
 U+9233 鈳	kDefinition	a small cauldron; columbium (an older name for niobium)
 U+9234 鈴	kDefinition	bell
-U+9237 鈷	kDefinition	cobalt; household iron cobaltum
+U+9237 鈷	kDefinition	cobalt (Co)
 U+9238 鈸	kDefinition	cymbals
-U+9239 鈹	kDefinition	a needle used in Chinese medicine; a sword, large knife; beryllium
+U+9239 鈹	kDefinition	a needle used in Chinese medicine; a sword, large knife; beryllium (Be)
 U+923A 鈺	kDefinition	rare treasure
-U+923D 鈽	kDefinition	plutonium
-U+923E 鈾	kDefinition	uranium
+U+923D 鈽	kDefinition	plutonium (element 94, Pu)
+U+923E 鈾	kDefinition	uranium (U)
 U+923F 鈿	kDefinition	hairpin; gold inlaid work, filigree
-U+9240 鉀	kDefinition	potassium kalium
+U+9240 鉀	kDefinition	potassium (K)
 U+9244 鉄	kDefinition	iron; strong, solid, firm
 U+9245 鉅	kDefinition	steel, iron; great
 U+9246 鉆	kDefinition	tweezers
-U+9248 鉈	kDefinition	a short spear; thallium
+U+9248 鉈	kDefinition	a short spear; thallium (element 81, Tl)
 U+9249 鉉	kDefinition	device for carrying a tripod
 U+924B 鉋	kDefinition	carpenter's plane
 U+924C 鉌	kDefinition	the bells on the cart in ancient China
-U+924D 鉍	kDefinition	bismuth
+U+924D 鉍	kDefinition	bismuth (Bi)
 U+924E 鉎	kDefinition	(Cant.) to rust
 U+924F 鉏	kDefinition	hoe; eradicate, eliminate
-U+9251 鉑	kDefinition	platinum; thin sheet of metal
-U+9255 鉕	kDefinition	promethium bronze
+U+9251 鉑	kDefinition	platinum (Pt); thin sheet of metal
+U+9255 鉕	kDefinition	promethium (element 145, Pm)
 U+9257 鉗	kDefinition	pincers, pliers, tongs
 U+925A 鉚	kDefinition	rivet
-U+925B 鉛	kDefinition	lead plumbum
+U+925B 鉛	kDefinition	lead (element 82, Pb)
 U+925E 鉞	kDefinition	broad-axe, a battle axe, halberd
 U+9262 鉢	kDefinition	earthenware basin; alms bowl (Sanskrit paatra)
 U+9264 鉤	kDefinition	hook, barb; sickle; stroke with
 U+9265 鉥	kDefinition	needle
 U+9266 鉦	kDefinition	kind of gong used in ancient times by troops on the march
-U+9268 鉨	kDefinition	[nǐ] nihonium (element 113); silk string; [niè] (same as U+9477 鑷) tweezers; [xǐ] (same as U+9269 鉩) a seal
-U+926C 鉬	kDefinition	molybdenum
-U+926D 鉭	kDefinition	tantalum
+U+9268 鉨	kDefinition	[nǐ] nihonium (element 113, Nh); silk string; [niè] (same as U+9477 鑷) tweezers; [xǐ] (same as U+9269 鉩) a seal
+U+926C 鉬	kDefinition	molybdenum (element 42, Mo)
+U+926D 鉭	kDefinition	tantalum (element 73, Ta)
 U+9271 鉱	kDefinition	mine; mineral, ore
-U+9272 鉲	kDefinition	cadmium
+U+9272 鉲	kDefinition	cadmium (element 48, Cd)
 U+9274 鉴	kDefinition	mirror, looking glass; reflect
 U+9276 鉶	kDefinition	sacrificial cauldron
 U+9277 鉷	kDefinition	trigger
 U+9278 鉸	kDefinition	hinge; shears, scissors
-U+927A 鉺	kDefinition	erbium
-U+927B 鉻	kDefinition	chromium
+U+927A 鉺	kDefinition	erbium (element 68, Er)
+U+927B 鉻	kDefinition	chromium (element 24, Cr)
 U+927C 鉼	kDefinition	plate; (Cant.) a penny
 U+927E 鉾	kDefinition	spear
-U+927F 鉿	kDefinition	hafnium
-U+9280 銀	kDefinition	silver; cash, money, wealth
+U+927F 鉿	kDefinition	hafnium (element 72, Hf)
+U+9280 銀	kDefinition	silver (element 47, Ag); cash, money, wealth
 U+9281 銁	kDefinition	a weight of thirty catties
 U+9283 銃	kDefinition	ancient weapon, blunderbuss
-U+9285 銅	kDefinition	copper, brass, bronze cuprum
+U+9285 銅	kDefinition	copper (element 29, Cu); brass, bronze
 U+928D 銍	kDefinition	a sickle
 U+928E 銎	kDefinition	eyehole to hang an axe by
 U+9291 銑	kDefinition	mill
+U+9292 銒	kDefinition	ancient wine vessel
 U+9293 銓	kDefinition	weigh, measure; select officials
 U+9295 銕	kDefinition	iron; strong, solid, firm
 U+9296 銖	kDefinition	unit of weight, one twenty-fourth of a Chinese ounce (liang)
 U+9298 銘	kDefinition	inscribe, engrave; unforgettably
-U+929A 銚	kDefinition	large hoe; surname; a spear brevium
+U+929A 銚	kDefinition	large hoe; surname; a spear
 U+929B 銛	kDefinition	sharp, keen-edged; a kind of hoe
 U+929C 銜	kDefinition	bit; hold in mouth, bite; gag
-U+92A0 銠	kDefinition	rhodium ruthenium
-U+92A3 銣	kDefinition	rubidium
-U+92A5 銥	kDefinition	iridium
-U+92A6 銦	kDefinition	indium
+U+92A0 銠	kDefinition	rhodium (element 45, Rh)
+U+92A3 銣	kDefinition	rubidium (element 37, Rb)
+U+92A5 銥	kDefinition	iridium (element 77, Ir)
+U+92A6 銦	kDefinition	indium (element 49, In)
 U+92A7 銧	kDefinition	point of a sword
 U+92A8 銨	kDefinition	ammonium
-U+92A9 銩	kDefinition	thulium
-U+92AA 銪	kDefinition	europium
-U+92AB 銫	kDefinition	cesium
+U+92A9 銩	kDefinition	thulium (element 69, Tm)
+U+92AA 銪	kDefinition	europium (element 63, Eu)
+U+92AB 銫	kDefinition	caesium/cesium (element 55, Cs)
 U+92AC 銬	kDefinition	shackles, manacle
 U+92AD 銭	kDefinition	money, currency, coins
 U+92AE 銮	kDefinition	bells hung on horse; bells hung
+U+92B1 銱	kDefinition	hasp and staple
 U+92B2 銲	kDefinition	solder, weld; leg armor, greaves
 U+92B3 銳	kDefinition	sharp, keen, acute, pointed
 U+92B6 銶	kDefinition	chisel
 U+92B7 銷	kDefinition	melt, fuse; market, sell; to pass time, finish, cancel
 U+92B9 銹	kDefinition	rust, corrode
-U+92BB 銻	kDefinition	antimony (stibium)
+U+92BB 銻	kDefinition	antimony (element 51, Sb)
 U+92BC 銼	kDefinition	carpenter's file, file smooth
-U+92BE 銾	kDefinition	element mercury
-U+92C1 鋁	kDefinition	aluminum
+U+92BE 銾	kDefinition	mercury (element 80, Hg)
 U+92C2 鋂	kDefinition	bit cup
-U+92C3 鋃	kDefinition	lock lanthanum
-U+92C5 鋅	kDefinition	zincum
+U+92C3 鋃	kDefinition	lock
+U+92C5 鋅	kDefinition	zinc (element 30, Zn)
 U+92C6 鋆	kDefinition	gold; character used in personal name
-U+92C7 鋇	kDefinition	barium
+U+92C7 鋇	kDefinition	barium (element 56, Ba)
 U+92C8 鋈	kDefinition	silver plating
 U+92CA 鋊	kDefinition	a poker; brass filings; to file
+U+92CB 鋋	kDefinition	short, iron-handled spear
 U+92CC 鋌	kDefinition	ingots, bars of metal; hurry
 U+92CF 鋏	kDefinition	tongs, pincers; dagger; sword
 U+92D0 鋐	kDefinition	state in today's Hubei province
@@ -18082,7 +18199,7 @@ U+92D2 鋒	kDefinition	point of spear, sharp point
 U+92D5 鋕	kDefinition	engrave
 U+92D7 鋗	kDefinition	a small basin; rings on a cart of carriage
 U+92D8 鋘	kDefinition	sword
-U+92D9 鋙	kDefinition	misfit; discordant; music instrument; hoe
+U+92D9 鋙	kDefinition	misfit; discordant; musical instrument; hoe
 U+92DA 鋚	kDefinition	iron; bronze decoration on bridle
 U+92DC 鋜	kDefinition	fetters, shackles
 U+92DD 鋝	kDefinition	6 oz; ancient measurement
@@ -18090,18 +18207,20 @@ U+92DF 鋟	kDefinition	carve
 U+92E3 鋣	kDefinition	sword
 U+92E4 鋤	kDefinition	hoe; eradicate
 U+92E5 鋥	kDefinition	polish
-U+92E6 鋦	kDefinition	curium
+U+92E6 鋦	kDefinition	curium (element 96, Cm)
 U+92E7 鋧	kDefinition	small chisel
-U+92E8 鋨	kDefinition	an ancient name for iron; osmium
-U+92E9 鋩	kDefinition	point of sword; sharp point
+U+92E8 鋨	kDefinition	an ancient name for iron; osmium (element 76, Os)
+U+92E9 鋩	kDefinition	point of a sword; sharp point
 U+92EA 鋪	kDefinition	spread out, arrange; shop, store; place to sleep, bed
+U+92EC 鋬	kDefinition	the part of the utensil that is held by the hand
 U+92ED 鋭	kDefinition	sharp
 U+92EE 鋮	kDefinition	person's name
-U+92EF 鋯	kDefinition	zirconium
-U+92F0 鋰	kDefinition	lithium
-U+92F1 鋱	kDefinition	terbium
+U+92EF 鋯	kDefinition	zirconium (element 40, Zr)
+U+92F0 鋰	kDefinition	lithium (element 3, Li)
+U+92F1 鋱	kDefinition	terbium (element 65, Tb)
 U+92F2 鋲	kDefinition	rivet
 U+92F3 鋳	kDefinition	melt, cast; coin, mint
+U+92F6 鋶	kDefinition	matte, a crude mixture of sulfides formed in smelting sulfide ores
 U+92F8 鋸	kDefinition	a saw; to saw; amputate
 U+92F9 鋹	kDefinition	sharp; a keen edge; sharp point
 U+92FA 鋺	kDefinition	a metal bowl
@@ -18109,17 +18228,17 @@ U+92FC 鋼	kDefinition	steel; hard, strong, tough
 U+9301 錁	kDefinition	ingot; acrobatic move
 U+9304 錄	kDefinition	copy, write down, record
 U+9306 錆	kDefinition	the color of a mineral
-U+9307 錇	kDefinition	berkelium
+U+9307 錇	kDefinition	berkelium (element 97, Bk)
 U+9308 錈	kDefinition	to bend iron
 U+930F 錏	kDefinition	soft steel; ammonium
 U+9310 錐	kDefinition	gimlet, awl, drill, auger; bore
-U+9312 錒	kDefinition	actinium
+U+9312 錒	kDefinition	actinium (element 89, Ac)
 U+9314 錔	kDefinition	cap
 U+9315 錕	kDefinition	ancient treasured sword
 U+9318 錘	kDefinition	balance weight on scale; hammer
-U+9319 錙	kDefinition	8 oz; an ancient unit of weight
+U+9319 錙	kDefinition	an ancient unit of weight (one-eighth of a tael)
 U+931A 錚	kDefinition	clanging sound; small gong
-U+931B 錛	kDefinition	adz; adze
+U+931B 錛	kDefinition	adz, adze
 U+931E 錞	kDefinition	instrument
 U+931F 錟	kDefinition	long spear
 U+9320 錠	kDefinition	spindle, slab, cake, tablet
@@ -18130,22 +18249,22 @@ U+9324 錤	kDefinition	hoe
 U+9326 錦	kDefinition	brocade, tapestry; embroidered
 U+9328 錨	kDefinition	anchor
 U+9329 錩	kDefinition	vessel
-U+932B 錫	kDefinition	tin, stannum; bestow, confer
+U+932B 錫	kDefinition	tin (element 50, Sn); bestow, confer
 U+932C 錬	kDefinition	smelt metals
 U+932E 錮	kDefinition	run metal into cracks; confine
 U+932F 錯	kDefinition	error, blunder, mistake, wrong
 U+9332 録	kDefinition	copy
-U+9333 錳	kDefinition	manganese
+U+9333 錳	kDefinition	manganese (element 25, Mn)
 U+9336 錶	kDefinition	a watch, clock
-U+9338 錸	kDefinition	rhenium
+U+9338 錸	kDefinition	rhenium (element 75, Re)
 U+933A 錺	kDefinition	metal jewelry
 U+933B 錻	kDefinition	a tin plate
-U+933C 錼	kDefinition	neptunium (Np)
+U+933C 錼	kDefinition	neptunium (element 93, Np)
 U+933E 錾	kDefinition	engraving tool, chisel
-U+9340 鍀	kDefinition	technetium
+U+9340 鍀	kDefinition	technetium (element 43, Tc)
 U+9341 鍁	kDefinition	shovel
 U+9343 鍃	kDefinition	a kind of tool
-U+9346 鍆	kDefinition	mendelevium (Md)
+U+9346 鍆	kDefinition	mendelevium (element 101, Md)
 U+9347 鍇	kDefinition	high quality iron
 U+9349 鍉	kDefinition	spoon, key
 U+934A 鍊	kDefinition	smelt metals, forge; refine
@@ -18161,7 +18280,7 @@ U+935F 鍟	kDefinition	(Cant.) rust
 U+9360 鍠	kDefinition	weapon
 U+9364 鍤	kDefinition	spade, shovel; marking pin
 U+9365 鍥	kDefinition	sickle; cut, carve, engrave
-U+9369 鍩	kDefinition	nobelium
+U+9369 鍩	kDefinition	nobelium (element 102, No)
 U+936A 鍪	kDefinition	an iron pan; a metal cap
 U+936B 鍫	kDefinition	shovel
 U+936C 鍬	kDefinition	shovel
@@ -18170,16 +18289,16 @@ U+936E 鍮	kDefinition	brass
 U+9370 鍰	kDefinition	measure; money, coins
 U+9371 鍱	kDefinition	thin plates of metal
 U+9375 鍵	kDefinition	door bolt, lock bolt; key
-U+9376 鍶	kDefinition	strontium; an iron utensil
+U+9376 鍶	kDefinition	strontium (element 38, Sr); an iron utensil
 U+9378 鍸	kDefinition	food, gruel
-U+937A 鍺	kDefinition	germanium; metal flashing on the axle of a cart
+U+937A 鍺	kDefinition	germanium (element 32, Ge); metal flashing on the axle of a cart
 U+937C 鍼	kDefinition	needle, pin, tack; prick; inject
 U+937E 鍾	kDefinition	cup, glass, goblet; surname
-U+9382 鎂	kDefinition	magnesium
-U+9384 鎄	kDefinition	iridium einsteinium
+U+9382 鎂	kDefinition	magnesium (element 12, Mg)
+U+9384 鎄	kDefinition	einsteinium (element 99, Es)
 U+9385 鎅	kDefinition	(Cant.) to saw; to cut
-U+9387 鎇	kDefinition	americium
-U+9389 鎉	kDefinition	thallium
+U+9387 鎇	kDefinition	americium (element 95, Am)
+U+9389 鎉	kDefinition	thallium (element 81, Tl)
 U+938A 鎊	kDefinition	pound sterling; to scrape
 U+938B 鎋	kDefinition	the linch-pin of a wheel to govern or control the noise of a barrow
 U+938C 鎌	kDefinition	sickle
@@ -18190,41 +18309,42 @@ U+9392 鎒	kDefinition	to hoe; to weed
 U+9394 鎔	kDefinition	fuse, melt, smelt; mold
 U+9396 鎖	kDefinition	lock, padlock; shackles, chains
 U+9397 鎗	kDefinition	rifle, small arms, hand gun
-U+9398 鎘	kDefinition	cadmium
+U+9398 鎘	kDefinition	cadmium (element 48, Cd)
 U+9399 鎙	kDefinition	large spear; chess board
 U+939A 鎚	kDefinition	hammer, mallet; club
 U+939B 鎛	kDefinition	large bell; hoe, spade
-U+939D 鎝	kDefinition	technetium (Tc, same as 鍀); engrave (same as 鏤); tilling implement
+U+939D 鎝	kDefinition	(TC) technetium (element 43, Tc); engrave; tilling implement
 U+939E 鎞	kDefinition	plowshare; barb, lancet
 U+93A1 鎡	kDefinition	hoe; mattock
-U+93A2 鎢	kDefinition	tungsten (wolfram)
+U+93A2 鎢	kDefinition	tungsten (element 74, W)
 U+93A3 鎣	kDefinition	polish
 U+93A4 鎤	kDefinition	sound of a bell; small bell
-U+93A6 鎦	kDefinition	distil; lutetium; surname
+U+93A6 鎦	kDefinition	distil; (TC) lutetium (element 71, Lu); surname
 U+93A7 鎧	kDefinition	armor, chain mail
-U+93A9 鎩	kDefinition	moult samarium
-U+93AA 鎪	kDefinition	to engrave (metal of wood)
+U+93A9 鎩	kDefinition	to spear
+U+93AA 鎪	kDefinition	to engrave (metal or wood)
 U+93AB 鎫	kDefinition	ornament over the horse's head
 U+93AC 鎬	kDefinition	stove; bright
 U+93AD 鎭	kDefinition	town, market place; suppress
 U+93AE 鎮	kDefinition	town, market place; suppress
 U+93AF 鎯	kDefinition	large hammer
-U+93B0 鎰	kDefinition	measure of weight for gold
-U+93B3 鎳	kDefinition	nickel
-U+93B5 鎵	kDefinition	gallium
-U+93B6 鎶	kDefinition	Copernicium
+U+93B0 鎰	kDefinition	ancient of weight for gold, equal to 20 or 24 taels
+U+93B2 鎲	kDefinition	ancient weapon resembling a pitchfork
+U+93B3 鎳	kDefinition	nickel (element 28, Ni)
+U+93B5 鎵	kDefinition	gallium (element 31, Ga)
+U+93B6 鎶	kDefinition	copernicium (element 112, Cn)
 U+93B8 鎸	kDefinition	engraving tool; carve, engrave
 U+93B9 鎹	kDefinition	a clamp
 U+93BB 鎻	kDefinition	lock, padlock; shackles, chains
-U+93BF 鎿	kDefinition	neptunium (Np)
-U+93C1 鏁	kDefinition	variant of 鎖 U+9396, a lock, padlock; shackles, chains
+U+93BF 鎿	kDefinition	(HK) neptunium (element 93, Np)
+U+93C1 鏁	kDefinition	a lock, padlock; shackles, chains
 U+93C3 鏃	kDefinition	arrowhead, barb; swift, quick
 U+93C7 鏇	kDefinition	lathe
 U+93C8 鏈	kDefinition	chain, wire, cable; chain, shack
 U+93CA 鏊	kDefinition	a flat, iron cooking-plate for cakes
 U+93CC 鏌	kDefinition	sword
 U+93D0 鏐	kDefinition	pure gold
-U+93D1 鏑	kDefinition	dysprosium; the barb of an arrow; the head of a javelin
+U+93D1 鏑	kDefinition	dysprosium (element 66, Dy); the barb of an arrow; the head of a javelin
 U+93D6 鏖	kDefinition	to fight to the end, engage in a fierce battle
 U+93D7 鏗	kDefinition	strike, beat, stroke; jingling
 U+93D8 鏘	kDefinition	tinkle, clang, jingle
@@ -18243,8 +18363,9 @@ U+93E8 鏨	kDefinition	engraving tool, chisel
 U+93F0 鏰	kDefinition	coin, money
 U+93F4 鏴	kDefinition	to plug a hole
 U+93F5 鏵	kDefinition	spade, shovel, plowshare
-U+93F7 鏷	kDefinition	protactinium
+U+93F7 鏷	kDefinition	protactinium (element 91, Pa)
 U+93F9 鏹	kDefinition	coins, money, wealth; (Cant.) 鏹水, sulfuric acid
+U+93FA 鏺	kDefinition	to cut with a sickle
 U+93FB 鏻	kDefinition	phosphonium
 U+93FD 鏽	kDefinition	rust, corrode
 U+93FE 鏾	kDefinition	the trigger of a crossbow; crossbow
@@ -18252,12 +18373,12 @@ U+9400 鐀	kDefinition	a cupboard; a press; a wardrobe shop-counter
 U+9403 鐃	kDefinition	cymbals; hand bell; disturb
 U+9404 鐄	kDefinition	bell
 U+9406 鐆	kDefinition	a lens
-U+9407 鐇	kDefinition	vanadium
+U+9407 鐇	kDefinition	vanadium (element 23, V)
 U+940B 鐋	kDefinition	gong
 U+940D 鐍	kDefinition	hasp of a lock
 U+940F 鐏	kDefinition	cap
 U+9410 鐐	kDefinition	fetters
-U+9412 鐒	kDefinition	lawrencium
+U+9412 鐒	kDefinition	lawrencium (element 103, Lr)
 U+9413 鐓	kDefinition	ferrule; castrate
 U+9414 鐔	kDefinition	dagger; small sword
 U+9416 鐖	kDefinition	hook, barb, catch, spring
@@ -18265,24 +18386,26 @@ U+9418 鐘	kDefinition	clock; bell
 U+9419 鐙	kDefinition	lamp; a kind of cooking vessel
 U+941A 鐚	kDefinition	soft steel; ammonium
 U+941D 鐝	kDefinition	a pick, a hoe
-U+9420 鐠	kDefinition	praseodymium
+U+9420 鐠	kDefinition	praseodymium (element 59, Pr)
 U+9421 鐡	kDefinition	iron; strong, solid, firm
 U+9424 鐤	kDefinition	huge tripod of bronze with two ears; sacrificial vessel
-U+9426 鐦	kDefinition	californium
+U+9425 鐥	kDefinition	to swing a sickle to cut (grass or wheat)
+U+9426 鐦	kDefinition	californium (element 98, Cf)
 U+9427 鐧	kDefinition	kind of rapier
-U+9428 鐨	kDefinition	fermium
+U+9428 鐨	kDefinition	fermium (element 100, Fm)
 U+9429 鐩	kDefinition	lens
 U+942B 鐫	kDefinition	engraving tool; carve, engrave
 U+942E 鐮	kDefinition	sickle
-U+942F 鐯	kDefinition	(simplified form) to dig with a hoe, a big hoe
+U+942F 鐯	kDefinition	to dig with a hoe; a large hoe
 U+9432 鐲	kDefinition	bracelet, armband; small bell
-U+9433 鐳	kDefinition	radium
-U+9435 鐵	kDefinition	iron; strong, solid, firm
+U+9433 鐳	kDefinition	radium (element 88, Ra)
+U+9435 鐵	kDefinition	iron (element 26, Fe); strong, solid, firm
 U+9436 鐶	kDefinition	metal ring; measure of currency
 U+9438 鐸	kDefinition	bell; surname
 U+943A 鐺	kDefinition	frying pan; warming vessel
 U+943B 鐻	kDefinition	drumstick
-U+943F 鐿	kDefinition	ytterbium
+U+943E 鐾	kDefinition	to strop, to sharpen by rubbing against leather, stone, etc.
+U+943F 鐿	kDefinition	ytterbium (element 70, Yb)
 U+9440 鑀	kDefinition	ionium
 U+9444 鑄	kDefinition	melt, cast; coin, mint
 U+9448 鑈	kDefinition	straight; a seal
@@ -18293,7 +18416,7 @@ U+9451 鑑	kDefinition	mirror, looking glass; reflect
 U+9452 鑒	kDefinition	mirror, looking glass; reflect
 U+9453 鑓	kDefinition	spear, lance, javelin
 U+9454 鑔	kDefinition	cymbals
-U+9455 鑕	kDefinition	tungsten, wolfram
+U+9455 鑕	kDefinition	chopping block, executioner's block
 U+945A 鑚	kDefinition	drill, bore; pierce; diamond
 U+945B 鑛	kDefinition	mine; mineral, ore
 U+945E 鑞	kDefinition	solder; tin
@@ -18301,10 +18424,10 @@ U+9460 鑠	kDefinition	melt, smelt; shine
 U+9462 鑢	kDefinition	file, rasp; file; polish; (Cant.) to cut
 U+9463 鑣	kDefinition	bit, bridle; ride
 U+9464 鑤	kDefinition	carpenter's plane
-U+9465 鑥	kDefinition	lutetium
+U+9465 鑥	kDefinition	lutetium (element 71, Lu)
 U+946A 鑪	kDefinition	fireplace, stove, oven, furnace
 U+946B 鑫	kDefinition	used in names
-U+946D 鑭	kDefinition	lanthanum
+U+946D 鑭	kDefinition	lanthanum (element 57, La)
 U+9470 鑰	kDefinition	key; lock
 U+9471 鑱	kDefinition	spade, trowel
 U+9472 鑲	kDefinition	insert, inlay, set, mount; fill
@@ -18314,52 +18437,53 @@ U+9477 鑷	kDefinition	tweezers, forceps, pincers
 U+9479 鑹	kDefinition	pick, poker
 U+947C 鑼	kDefinition	gong
 U+947D 鑽	kDefinition	drill, bore; pierce; diamond
-U+947E 鑾	kDefinition	bells hung on horse; bells hung
+U+947E 鑾	kDefinition	small tinkling bell; bells hung on horse
 U+947F 鑿	kDefinition	chisel; bore, pierce
 U+9481 钁	kDefinition	a mattock; a billhook
-U+9485 钅	kDefinition	gold; money; KangXi radical 167
-U+9486 钆	kDefinition	gadolinium
-U+9487 钇	kDefinition	yttrium
+U+9482 钂	kDefinition	an ancient weapon resembling a pitchfork
+U+9485 钅	kDefinition	gold; money; Kangxi radical 167
+U+9486 钆	kDefinition	gadolinium (element 64, Gd)
+U+9487 钇	kDefinition	yttrium (element 39, Y)
 U+9488 针	kDefinition	needle; pin; tack; acupuncture
 U+9489 钉	kDefinition	nail, spike; pursue closely
 U+948A 钊	kDefinition	endeavor, strive; encourage; cut
-U+948B 钋	kDefinition	polonium
-U+948C 钌	kDefinition	ruthenium
-U+948D 钍	kDefinition	thorium
+U+948B 钋	kDefinition	polonium (element 84, Po)
+U+948C 钌	kDefinition	ruthenium (element 44, Ru)
+U+948D 钍	kDefinition	thorium (element 90, Th)
 U+948E 钎	kDefinition	tool for boring holes
 U+948F 钏	kDefinition	bracelet, armlet
-U+9490 钐	kDefinition	samarium
+U+9490 钐	kDefinition	samarium (element 62, Sm); to swing a sickle to cut (grass or wheat)
 U+9491 钑	kDefinition	spear
-U+9492 钒	kDefinition	vanadium
+U+9492 钒	kDefinition	vanadium (element 23, V)
 U+9493 钓	kDefinition	fish; fishhook; tempt, lure
 U+9494 钔	kDefinition	mendelevium (Md)
-U+9495 钕	kDefinition	neodymium
+U+9495 钕	kDefinition	neodymium (element 60, Nd)
 U+9496 钖	kDefinition	frontlet
 U+9497 钗	kDefinition	ornamental hairpin
 U+9498 钘	kDefinition	ancient wine vessel
-U+9499 钙	kDefinition	calcium
-U+949A 钚	kDefinition	plutonium
-U+949B 钛	kDefinition	titanium
+U+9499 钙	kDefinition	calcium (element 20, Ca)
+U+949A 钚	kDefinition	plutonium (element 94, Pu)
+U+949B 钛	kDefinition	titanium (element 22, Ti)
 U+949C 钜	kDefinition	steel, iron; great
 U+949D 钝	kDefinition	blunt, obtuse; dull; flat; dull-witted
 U+949E 钞	kDefinition	paper money, bank notes; copy
 U+949F 钟	kDefinition	clock; bell
 U+94A0 钠	kDefinition	sodium, natrium; sharpen wood
-U+94A1 钡	kDefinition	barium
+U+94A1 钡	kDefinition	barium (element 56, Ba)
 U+94A2 钢	kDefinition	steel; hard, strong, tough
 U+94A3 钣	kDefinition	plate
 U+94A4 钤	kDefinition	lock, latch; stamp, seal
 U+94A5 钥	kDefinition	key; lock
 U+94A6 钦	kDefinition	respect, admire; respectful
 U+94A7 钧	kDefinition	unit of measure equivalent to thirty catties
-U+94A8 钨	kDefinition	tungsten, wolfram
+U+94A8 钨	kDefinition	tungsten (W)
 U+94A9 钩	kDefinition	hook, barb; sickle; stroke with
-U+94AA 钪	kDefinition	scandium
-U+94AB 钫	kDefinition	francium
-U+94AC 钬	kDefinition	holmium
+U+94AA 钪	kDefinition	scandium (element 21, Sc)
+U+94AB 钫	kDefinition	francium (element 87, Fr)
+U+94AC 钬	kDefinition	holmium (element 67, Ho)
 U+94AD 钭	kDefinition	a wine flagon
 U+94AE 钮	kDefinition	button, knob; surname
-U+94AF 钯	kDefinition	palladium
+U+94AF 钯	kDefinition	palladium (element 46, Pd)
 U+94B0 钰	kDefinition	rare treasure
 U+94B1 钱	kDefinition	money, currency, coins
 U+94B2 钲	kDefinition	kind of gong used in ancient times by troops on the march
@@ -18367,37 +18491,37 @@ U+94B3 钳	kDefinition	pincers, pliers, tongs; to compress
 U+94B4 钴	kDefinition	cobalt; household iron
 U+94B5 钵	kDefinition	earthenware basin; alms bowl
 U+94B6 钶	kDefinition	columbium
-U+94B7 钷	kDefinition	promethium
-U+94B8 钸	kDefinition	plutonium
+U+94B7 钷	kDefinition	promethium (element 61, Pm)
+U+94B8 钸	kDefinition	plutonium (element 94, Pu)
 U+94B9 钹	kDefinition	cymbals
 U+94BA 钺	kDefinition	broad-axe, a battle axe, halberd
 U+94BB 钻	kDefinition	drill, bore; pierce; diamond
-U+94BC 钼	kDefinition	molybdenum
-U+94BD 钽	kDefinition	tantalum
-U+94BE 钾	kDefinition	potassium
+U+94BC 钼	kDefinition	molybdenum (element 42, Mo)
+U+94BD 钽	kDefinition	tantalum (element 73, Ta)
+U+94BE 钾	kDefinition	potassium (element 19, K)
 U+94BF 钿	kDefinition	hairpin; gold inlaid work, filigree
-U+94C0 铀	kDefinition	uranium
+U+94C0 铀	kDefinition	uranium (element 92, U)
 U+94C1 铁	kDefinition	iron; strong, solid, firm
 U+94C2 铂	kDefinition	platinum; thin sheet of metal
 U+94C3 铃	kDefinition	bell
 U+94C4 铄	kDefinition	melt, smelt; shine
-U+94C5 铅	kDefinition	lead
+U+94C5 铅	kDefinition	lead (element 82, Pb)
 U+94C6 铆	kDefinition	rivet
 U+94C7 铇	kDefinition	carpenter's plane
-U+94C8 铈	kDefinition	cerium
+U+94C8 铈	kDefinition	cerium (element 58, Ce)
 U+94C9 铉	kDefinition	device for carrying a tripod
-U+94CA 铊	kDefinition	thallium
-U+94CB 铋	kDefinition	bismuth
-U+94CC 铌	kDefinition	niobium
-U+94CD 铍	kDefinition	beryllium
+U+94CA 铊	kDefinition	thallium (element 81, Tl)
+U+94CB 铋	kDefinition	bismuth (element 83, Bi)
+U+94CC 铌	kDefinition	niobium (element 41, Nb)
+U+94CD 铍	kDefinition	beryllium (element 4, Be)
 U+94CE 铎	kDefinition	bell; surname
 U+94CF 铏	kDefinition	sacrificial cauldron
 U+94D0 铐	kDefinition	shackles, manacles
-U+94D1 铑	kDefinition	rhodium
-U+94D2 铒	kDefinition	erbium
+U+94D1 铑	kDefinition	rhodium (element 45, Rh)
+U+94D2 铒	kDefinition	erbium (element 68, Er)
 U+94D3 铓	kDefinition	point of sword; sharp point
 U+94D4 铔	kDefinition	soft steel; ammonium
-U+94D5 铕	kDefinition	europium
+U+94D5 铕	kDefinition	europium (element 63, Eu)
 U+94D6 铖	kDefinition	person's name
 U+94D7 铗	kDefinition	tongs, pincers; dagger; sword
 U+94D8 铘	kDefinition	sword
@@ -18405,69 +18529,68 @@ U+94D9 铙	kDefinition	cymbals; hand bell; disturb
 U+94DA 铚	kDefinition	a sickle
 U+94DB 铛	kDefinition	frying pan; warming vessel
 U+94DC 铜	kDefinition	copper, brass, bronze
-U+94DD 铝	kDefinition	aluminum
-U+94DF 铟	kDefinition	indium
+U+94DF 铟	kDefinition	indium (element 49, In)
 U+94E0 铠	kDefinition	armor, chain mail
 U+94E1 铡	kDefinition	sickle for cutting grass or hay
 U+94E2 铢	kDefinition	unit of weight, one twenty-fourth of a Chinese ounce (liang)
 U+94E3 铣	kDefinition	mill
 U+94E4 铤	kDefinition	ingots, bars of metal; hurry
-U+94E5 铥	kDefinition	thulium
+U+94E5 铥	kDefinition	thulium (element 69, Tm)
 U+94E6 铦	kDefinition	sharp, keen-edged; a kind of hoe
 U+94E7 铧	kDefinition	spade, shovel, plowshare
 U+94E8 铨	kDefinition	weigh, measure; select officials
 U+94E9 铩	kDefinition	moult
-U+94EA 铪	kDefinition	hafnium
+U+94EA 铪	kDefinition	hafnium (element 72, Hf)
 U+94EB 铫	kDefinition	large hoe; surname; a spear
-U+94EC 铬	kDefinition	chromium
+U+94EC 铬	kDefinition	chromium (element 24, Cr)
 U+94ED 铭	kDefinition	inscribe, engrave
 U+94EE 铮	kDefinition	clanging sound; small gong
 U+94EF 铯	kDefinition	cesium
 U+94F0 铰	kDefinition	hinge; shears, scissors
-U+94F1 铱	kDefinition	iridium
+U+94F1 铱	kDefinition	iridium (element 77, Ir)
 U+94F2 铲	kDefinition	spade, shovel, trowel, scoop
 U+94F3 铳	kDefinition	ancient weapon, blunderbuss
 U+94F4 铴	kDefinition	gong
 U+94F5 铵	kDefinition	ammonium
 U+94F6 银	kDefinition	silver; cash, money, wealth
-U+94F7 铷	kDefinition	rubidium
+U+94F7 铷	kDefinition	rubidium (element 37, Rb)
 U+94F8 铸	kDefinition	melt, cast; coin, mint
-U+94F9 铹	kDefinition	lawrencium (Lr)
+U+94F9 铹	kDefinition	lawrencium (element 103, Lr)
 U+94FA 铺	kDefinition	shop, store; place sleep, bed
 U+94FB 铻	kDefinition	misfit; discordant; music instrument; hoe
-U+94FC 铼	kDefinition	rhenium
-U+94FD 铽	kDefinition	terbium
+U+94FC 铼	kDefinition	rhenium (element 75, Re)
+U+94FD 铽	kDefinition	terbium (element 65, Tb)
 U+94FE 链	kDefinition	chain, wire, cable; chain, shack
 U+94FF 铿	kDefinition	strike, beat, stroke; jingling
 U+9500 销	kDefinition	melt, fuse; market, sell
 U+9501 锁	kDefinition	lock, padlock; shackles, chains
-U+9502 锂	kDefinition	lithium
+U+9502 锂	kDefinition	lithium (element 3, Li)
 U+9503 锃	kDefinition	polish
 U+9504 锄	kDefinition	hoe; eradicate
 U+9505 锅	kDefinition	cooking-pot, saucepan
-U+9506 锆	kDefinition	zirconium
-U+9507 锇	kDefinition	osmium
+U+9506 锆	kDefinition	zirconium (element 40, Zr)
+U+9507 锇	kDefinition	osmium (element 76, Os)
 U+9508 锈	kDefinition	rust, corrode
 U+9509 锉	kDefinition	carpenter's file, file smooth
 U+950A 锊	kDefinition	6 oz; ancient measurement
 U+950B 锋	kDefinition	point of spear, sharp point
-U+950C 锌	kDefinition	zinc
-U+950E 锎	kDefinition	caesium
+U+950C 锌	kDefinition	zinc (element 30, Zn)
+U+950E 锎	kDefinition	caesium/cesium (element 55, Cs)
 U+950F 锏	kDefinition	kind of rapier
 U+9510 锐	kDefinition	sharp, keen, acute, pointed
-U+9511 锑	kDefinition	antimony
+U+9511 锑	kDefinition	antimony (element 51, Sb)
 U+9512 锒	kDefinition	lock
 U+9513 锓	kDefinition	carve
-U+9514 锔	kDefinition	curium
+U+9514 锔	kDefinition	curium (element 96, Cm)
 U+9515 锕	kDefinition	actinium (Ac)
 U+9516 锖	kDefinition	the color of the a mineral
-U+9517 锗	kDefinition	germanium
+U+9517 锗	kDefinition	germanium (element 32, Ge)
 U+9518 锘	kDefinition	nobelium (No)
 U+9519 错	kDefinition	error, blunder, mistake; wrong
 U+951A 锚	kDefinition	anchor
 U+951B 锛	kDefinition	adze
 U+951C 锜	kDefinition	a kind of pen; a kind of chisel
-U+951D 锝	kDefinition	technetium
+U+951D 锝	kDefinition	technetium (element 43, Tc)
 U+951E 锞	kDefinition	ingot; acrobatic move
 U+951F 锟	kDefinition	ancient treasured sword
 U+9520 锠	kDefinition	vessel
@@ -18477,49 +18600,50 @@ U+9523 锣	kDefinition	gong
 U+9524 锤	kDefinition	balance weight on scale; hammer
 U+9525 锥	kDefinition	gimlet, awl, drill, auger; bore
 U+9526 锦	kDefinition	brocade, tapestry; embroidered
-U+9527 锧	kDefinition	tungsten, wolfram
+U+9527 锧	kDefinition	tungsten (element 74, W)
 U+9528 锨	kDefinition	shovel
 U+9529 锩	kDefinition	to bend iron
 U+952A 锪	kDefinition	a kind of tool
-U+952B 锫	kDefinition	berkelium
+U+952B 锫	kDefinition	berkelium (element 97, Bk)
 U+952C 锬	kDefinition	long spear
 U+952D 锭	kDefinition	spindle, slab, cake, tablet
 U+952E 键	kDefinition	door bolt, lock bolt; key
 U+952F 锯	kDefinition	a saw; to saw; amputate
-U+9530 锰	kDefinition	manganese
-U+9531 锱	kDefinition	8 oz; an ancient unit of weight
+U+9530 锰	kDefinition	manganese (element 25, Mn)
+U+9531 锱	kDefinition	an ancient unit of weight (one-eighth of a tael)
 U+9532 锲	kDefinition	sickle; cut, carve, engrave
 U+9534 锴	kDefinition	high quality iron
 U+9535 锵	kDefinition	tinkle, clang, jingle
-U+9536 锶	kDefinition	strontium
+U+9536 锶	kDefinition	strontium (element 38, Sr)
 U+9537 锷	kDefinition	high, lofty; edge of knife
 U+9538 锸	kDefinition	spade, shovel; marking pin
 U+9539 锹	kDefinition	shovel
 U+953A 锺	kDefinition	cup, glass, goblet; surname
 U+953B 锻	kDefinition	forge metal; temper, refine
-U+953C 锼	kDefinition	carve
+U+953C 锼	kDefinition	to engrave (metal or wood)
 U+953D 锽	kDefinition	weapon
 U+953E 锾	kDefinition	measure; money, coins
-U+953F 锿	kDefinition	einsteinium (Es)
+U+953F 锿	kDefinition	einsteinium (element 99, Es)
 U+9540 镀	kDefinition	plate, coat, gild
-U+9541 镁	kDefinition	magnesium
+U+9541 镁	kDefinition	magnesium (element 12, Mg)
 U+9542 镂	kDefinition	carve, inlay, engrave, tattoo
 U+9543 镃	kDefinition	hoe; mattock
-U+9544 镄	kDefinition	fermium
-U+9545 镅	kDefinition	americium
+U+9544 镄	kDefinition	fermium (element 100, Fm)
+U+9545 镅	kDefinition	americium (element 95, Am)
 U+9546 镆	kDefinition	sword
 U+9547 镇	kDefinition	town, market place; suppress
 U+9548 镈	kDefinition	large bell; hoe, spade
-U+9549 镉	kDefinition	cadmium
+U+9549 镉	kDefinition	cadmium (element 48, Cd)
 U+954A 镊	kDefinition	tweezers, forceps, pincers
+U+954B 镋	kDefinition	ancient weapon resembling a pitchfork
 U+954C 镌	kDefinition	engraving tool; carve, engrave
-U+954D 镍	kDefinition	nickel
-U+954E 镎	kDefinition	neptunium (Np)
+U+954D 镍	kDefinition	nickel (element 28, Ni)
+U+954E 镎	kDefinition	(SC) neptunium (element 93, Np)
 U+954F 镏	kDefinition	distil; lutetium; surname
 U+9550 镐	kDefinition	stove; bright
 U+9551 镑	kDefinition	pound sterling
 U+9552 镒	kDefinition	measure of weight for gold
-U+9553 镓	kDefinition	gallium
+U+9553 镓	kDefinition	gallium (element 31, Ga)
 U+9554 镔	kDefinition	high quality iron
 U+9555 镕	kDefinition	fuse, melt, smelt; mold
 U+9556 镖	kDefinition	dart, spear, harpoon; escort
@@ -18528,7 +18652,7 @@ U+9558 镘	kDefinition	trowel
 U+955A 镚	kDefinition	small coin
 U+955B 镛	kDefinition	large bell used as musical instrument
 U+955C 镜	kDefinition	mirror; lens; glass; glasses
-U+955D 镝	kDefinition	dysprosium
+U+955D 镝	kDefinition	dysprosium (element 66, Dy)
 U+955E 镞	kDefinition	arrowhead, barb; swift, quick
 U+955F 镟	kDefinition	lathe
 U+9560 镠	kDefinition	pure gold
@@ -18536,28 +18660,28 @@ U+9561 镡	kDefinition	dagger; small sword
 U+9562 镢	kDefinition	hoe
 U+9563 镣	kDefinition	fetters
 U+9564 镤	kDefinition	protactinium (Pa)
-U+9565 镥	kDefinition	lutetium
+U+9565 镥	kDefinition	lutetium (element 71, Lu)
 U+9566 镦	kDefinition	ferrule; castrate
-U+9567 镧	kDefinition	lanthanum
-U+9568 镨	kDefinition	praseodymium
+U+9567 镧	kDefinition	lanthanum (element 57, La)
+U+9568 镨	kDefinition	praseodymium (element 59, Pr)
 U+9569 镩	kDefinition	pick, poker
 U+956A 镪	kDefinition	coins, money, wealth
 U+956B 镫	kDefinition	lamp; a kind of cooking vessel
 U+956C 镬	kDefinition	cauldron, large iron pot
-U+956D 镭	kDefinition	radium
+U+956D 镭	kDefinition	radium (element 88, Ra)
 U+956E 镮	kDefinition	metal ring; measure of currency
 U+956F 镯	kDefinition	bracelet, armband; small bell
 U+9570 镰	kDefinition	sickle
-U+9571 镱	kDefinition	ytterbium
+U+9571 镱	kDefinition	ytterbium (element 70, Yb)
 U+9572 镲	kDefinition	cymbals
 U+9573 镳	kDefinition	bit, bridle; ride
 U+9574 镴	kDefinition	solder; tin
 U+9575 镵	kDefinition	spade, trowel
 U+9576 镶	kDefinition	insert, inlay, set, mount; fill
-U+9577 長	kDefinition	long; length; excel in; leader
+U+9577 長	kDefinition	long; length; excel in; leader; Kangxi radical 168
 U+9578 镸	kDefinition	long
 U+957F 长	kDefinition	long; length; excel in; leader
-U+9580 門	kDefinition	gate, door, entrance, opening
+U+9580 門	kDefinition	gate, door, entrance, opening; Kangxi radical 169
 U+9582 閂	kDefinition	bolt, latch, crossbar
 U+9583 閃	kDefinition	flash; avoid, dodge, evade
 U+9586 閆	kDefinition	village gate
@@ -18621,6 +18745,7 @@ U+95D7 闗	kDefinition	a frontier pass or gate to shut or close; a custom-house;
 U+95D8 闘	kDefinition	struggle, fight, compete, contend
 U+95DA 闚	kDefinition	flash; flashing; steal look
 U+95DC 關	kDefinition	frontier pass; close; relation
+U+95DD 闝	kDefinition	patronize prostitutes, frequent
 U+95DE 闞	kDefinition	glance, peep; roar, growl
 U+95DF 闟	kDefinition	peacefully; quietly
 U+95E0 闠	kDefinition	gate of a market
@@ -18680,11 +18805,12 @@ U+9618 阘	kDefinition	upper-story door or window
 U+9619 阙	kDefinition	watch tower; palace
 U+961A 阚	kDefinition	glance, peep; roar, growl
 U+961B 阛	kDefinition	wall around market place
-U+961C 阜	kDefinition	mound; abundant, ample, numerous
-U+961D 阝	kDefinition	place; KangXi radical 170
+U+961C 阜	kDefinition	mound; abundant, ample, numerous; Kangxi radical 170
+U+961D 阝	kDefinition	place; Kangxi radical 170
 U+961E 阞	kDefinition	vein
 U+961F 队	kDefinition	team, group; army unit
 U+9621 阡	kDefinition	footpaths between fields; paths
+U+9622 阢	kDefinition	the stump of a tree, hence, sterility; a square stool
 U+9624 阤	kDefinition	hill
 U+9627 阧	kDefinition	sloping, steep; suddenly, abruptly
 U+9628 阨	kDefinition	in distress; adverse; strategic; (Cant.) to swindle
@@ -18732,12 +18858,12 @@ U+9662 院	kDefinition	courtyard, yard, court; school
 U+9663 陣	kDefinition	column, row or file of troops
 U+9664 除	kDefinition	eliminate, remove, except
 U+9665 陥	kDefinition	submerge, sink, plunge; trap
-U+9667 陧	kDefinition	in disorder; a dangerous condition of the State
+U+9667 陧	kDefinition	in disorder
 U+9668 陨	kDefinition	fall, slip; let fall; die
 U+9669 险	kDefinition	narrow pass, strategic point
 U+966A 陪	kDefinition	accompany, be with, keep company
 U+966C 陬	kDefinition	corner, cranny, nook, niche
-U+9670 陰	kDefinition	'female' principle; dark; secret
+U+9670 陰	kDefinition	the passive, female principle in Chinese philosophy (yin); dark; secret
 U+9672 陲	kDefinition	frontier, border
 U+9673 陳	kDefinition	exhibit, display; plead; surname
 U+9674 陴	kDefinition	a parapet on a city wall
@@ -18748,7 +18874,7 @@ U+9678 陸	kDefinition	land, continental; army; an accounting form of U+516D 六
 U+967A 険	kDefinition	narrow pass, strategic point
 U+967B 陻	kDefinition	small hill, mound; bury; dam
 U+967C 陼	kDefinition	islet
-U+967D 陽	kDefinition	'male' principle; light; sun
+U+967D 陽	kDefinition	the active, male principle in Chinese philosophy (yang); light; sun
 U+967E 陾	kDefinition	in file
 U+967F 陿	kDefinition	narrow
 U+9682 隂	kDefinition	shady, secret, dark; mysterious; cold; the negative of female principle in nature
@@ -18786,13 +18912,13 @@ U+96B0 隰	kDefinition	low, damp land, marsh, swamp
 U+96B1 隱	kDefinition	hide, conceal; hidden, secret
 U+96B2 隲	kDefinition	stallion; promote
 U+96B3 隳	kDefinition	to destroy; to overthrow
-U+96B4 隴	kDefinition	mountain located between Shanxi
-U+96B6 隶	kDefinition	subservient; servant; KangXi radical 171
+U+96B4 隴	kDefinition	short name for Gansu Province; a mountain on the border of Gansu and Shaanxi (Mount Long)
+U+96B6 隶	kDefinition	subservient; servant; Kangxi radical 171
 U+96B7 隷	kDefinition	be subservient to; servant
 U+96B8 隸	kDefinition	be subservient to; servant
-U+96B9 隹	kDefinition	bird; Kangxi radical 172
+U+96B9 隹	kDefinition	short-tailed bird; Kangxi radical 172
 U+96BA 隺	kDefinition	a bird flying high ambition
-U+96BB 隻	kDefinition	single, one of pair, lone
+U+96BB 隻	kDefinition	single, one of pair, lone; measure word
 U+96BC 隼	kDefinition	aquiline (nose); a falcon
 U+96BD 隽	kDefinition	superior, outstanding, talented
 U+96BE 难	kDefinition	difficult, arduous, hard; unable
@@ -18825,7 +18951,7 @@ U+96DF 雟	kDefinition	sparrow; revolve; place name
 U+96E0 雠	kDefinition	enemy, rival, opponent
 U+96E2 離	kDefinition	leave, depart; go away; separate
 U+96E3 難	kDefinition	difficult, arduous, hard; unable
-U+96E8 雨	kDefinition	rain; rainy; KangXi radical 173
+U+96E8 雨	kDefinition	rain; rainy; Kangxi radical 173
 U+96E9 雩	kDefinition	offer sacrifice for rain
 U+96EA 雪	kDefinition	snow; wipe away shame, avenge
 U+96EB 雫	kDefinition	a drop, trickle, dripping
@@ -18877,7 +19003,7 @@ U+9732 露	kDefinition	dew; bare, open, exposed
 U+9736 霶	kDefinition	downpouring of rain
 U+9738 霸	kDefinition	rule by might rather than right
 U+9739 霹	kDefinition	thunder, crashing thunder
-U+973D 霽	kDefinition	to clear up after rain; to cease be angry
+U+973D 霽	kDefinition	to clear up after rain; to cease to be angry
 U+973E 霾	kDefinition	misty, foggy; dust storm
 U+9740 靀	kDefinition	drizzling, fine rain; mist
 U+9741 靁	kDefinition	thick, strong
@@ -18886,8 +19012,8 @@ U+9744 靄	kDefinition	cloudy sky, haze; calm, peaceful
 U+9746 靆	kDefinition	cloudy sky; not clear; dark
 U+9748 靈	kDefinition	spirit, soul; spiritual world
 U+9749 靉	kDefinition	cloudy sky; dark, obscure
-U+9751 靑	kDefinition	blue
-U+9752 青	kDefinition	blue, green, black; young
+U+9751 靑	kDefinition	blue, green; young; Kangxi radical 174
+U+9752 青	kDefinition	blue, green; young; Kangxi radical 174
 U+9753 靓	kDefinition	make up face; ornament; quiet
 U+9756 靖	kDefinition	pacify; appease; calm, peaceful
 U+9759 静	kDefinition	quiet, still, motionless; gentle
@@ -18895,15 +19021,15 @@ U+975A 靚	kDefinition	make up face; ornament; quiet; (Cant.) pretty
 U+975B 靛	kDefinition	indigo; any blue dye
 U+975C 靜	kDefinition	quiet, still, motionless; gentle
 U+975D 靝	kDefinition	(in taoism) the heaven
-U+975E 非	kDefinition	not, negative, non-; oppose
+U+975E 非	kDefinition	not, negative, non-; oppose; Kangxi radical 175
 U+9760 靠	kDefinition	lean on, trust, depend on; near
 U+9761 靡	kDefinition	divide, disperse, scatter
-U+9762 面	kDefinition	face; surface; plane; side, dimension
+U+9762 面	kDefinition	face; surface; plane; side, dimension; Kangxi radical 176
 U+9765 靥	kDefinition	dimples
 U+9766 靦	kDefinition	timid, shy, bashful
 U+9767 靧	kDefinition	wash face
 U+9768 靨	kDefinition	dimples
-U+9769 革	kDefinition	leather, animal hides; rad. 177
+U+9769 革	kDefinition	leather, animal hides; Kangxi radical 177
 U+976A 靪	kDefinition	to cobble, to patch
 U+976B 靫	kDefinition	strong and pliable, resilient
 U+976D 靭	kDefinition	strong and pliable, resilient
@@ -18916,32 +19042,36 @@ U+9776 靶	kDefinition	target; splashboard on chariot
 U+9777 靷	kDefinition	the leather belt that connects a horse with a cart
 U+9778 靸	kDefinition	a child's shoes; slippers
 U+977A 靺	kDefinition	stocking; the Tungusic tribe
-U+977C 靼	kDefinition	tartars
+U+977C 靼	kDefinition	Tatars
+U+977D 靽	kDefinition	leather strap on the back of a horse
 U+977F 靿	kDefinition	the leg of a boot
 U+9780 鞀	kDefinition	drum
+U+9781 鞁	kDefinition	tack (of a horse)
 U+9783 鞃	kDefinition	board
 U+9784 鞄	kDefinition	to work hides; leather bag
 U+9785 鞅	kDefinition	leather strap over horse's neck
 U+9786 鞆	kDefinition	an archer's arm-protector
 U+9789 鞉	kDefinition	drum
 U+978B 鞋	kDefinition	shoes, footwear in general
-U+978C 鞌	kDefinition	to try or decide a legal case
+U+978C 鞌	kDefinition	saddle; any saddle-shaped object
 U+978D 鞍	kDefinition	saddle; any saddle-shaped object
 U+978F 鞏	kDefinition	bind; firm, secure, strong
-U+9791 鞑	kDefinition	tatars
+U+9791 鞑	kDefinition	the Tatars
 U+9792 鞒	kDefinition	mud shoe, sledge for the feet
+U+9793 鞓	kDefinition	leather belt
 U+9794 鞔	kDefinition	sides or uppers of shoes to stretch a skin on a frame for a drum; (Cant.) to cover
 U+9797 鞗	kDefinition	reins
 U+9798 鞘	kDefinition	scabbard, sheath
 U+9799 鞙	kDefinition	scabbard; traces, reins
 U+979A 鞚	kDefinition	bridle
 U+979C 鞜	kDefinition	shoes, boots
-U+979D 鞝	kDefinition	the piece of leather used for soles on Chinese shoes. a patch
+U+979D 鞝	kDefinition	the piece of leather used for soles; a patch
 U+979E 鞞	kDefinition	sheath
 U+979F 鞟	kDefinition	skin; leather
 U+97A0 鞠	kDefinition	bow, bend; rear, raise, nourish
 U+97A1 鞡	kDefinition	leg warmer
-U+97A3 鞣	kDefinition	tan, soften
+U+97A3 鞣	kDefinition	tan; soften
+U+97A5 鞥	kDefinition	reins
 U+97A6 鞦	kDefinition	leather stap; swing
 U+97A7 鞧	kDefinition	a leather strap
 U+97A8 鞨	kDefinition	tribe
@@ -18961,14 +19091,14 @@ U+97BD 鞽	kDefinition	mud shoe, sledge for the feet
 U+97BE 鞾	kDefinition	boots
 U+97C0 韀	kDefinition	a saddle fastener
 U+97C1 韁	kDefinition	reins, halter; bridle
-U+97C2 韂	kDefinition	a saddle-flap. trappings
-U+97C3 韃	kDefinition	tatars
+U+97C2 韂	kDefinition	a saddle-flap; trappings
+U+97C3 韃	kDefinition	the Tatars
 U+97C5 韅	kDefinition	harness
 U+97C6 韆	kDefinition	swing
 U+97C8 韈	kDefinition	socks, stockings
 U+97C9 韉	kDefinition	saddle blanket
 U+97CA 韊	kDefinition	a case for a bow
-U+97CB 韋	kDefinition	tanned leather; surname; KangXi radical number 178
+U+97CB 韋	kDefinition	tanned leather; surname; Kangxi radical 178
 U+97CC 韌	kDefinition	strong and pliable, resilient; (Cant.) tough, elastic
 U+97CD 韍	kDefinition	a leather knee-pad worn during sacrifices
 U+97CE 韎	kDefinition	red
@@ -18979,6 +19109,7 @@ U+97D4 韔	kDefinition	a wrapper or case for bow
 U+97D6 韖	kDefinition	tan, soften
 U+97D8 韘	kDefinition	archer's thumb ring
 U+97D9 韙	kDefinition	right; proper; propriety
+U+97DB 韛	kDefinition	bellows
 U+97DC 韜	kDefinition	sheath, scabbard, bow case
 U+97DD 韝	kDefinition	leather arm band
 U+97DE 韞	kDefinition	an orange color; hide, conceal
@@ -18986,7 +19117,7 @@ U+97E0 韠	kDefinition	knee-pad
 U+97E1 韡	kDefinition	gorgeous
 U+97E3 韣	kDefinition	bow-bag
 U+97E4 韤	kDefinition	socks, stockings
-U+97E6 韦	kDefinition	tanned leather; surname; simplified form of KangXi radical number 178
+U+97E6 韦	kDefinition	tanned leather; surname; simplified form of Kangxi radical 178
 U+97E7 韧	kDefinition	strong and pliable, resilient
 U+97E8 韨	kDefinition	a leather knee-pad worn during sacrifices
 U+97E9 韩	kDefinition	fence; surname; Korea
@@ -18998,7 +19129,7 @@ U+97EE 韮	kDefinition	scallion, leek
 U+97EF 韯	kDefinition	wild onions or leeks
 U+97F1 韱	kDefinition	wild onions or leeks
 U+97F2 韲	kDefinition	break or smash into pieces, pulverize
-U+97F3 音	kDefinition	sound, tone, pitch, pronunciation
+U+97F3 音	kDefinition	sound, tone, pitch, pronunciation; Kangxi radical 180
 U+97F5 韵	kDefinition	rhyme; vowel
 U+97F6 韶	kDefinition	music of the emperor Shun; beautiful
 U+97F9 韹	kDefinition	music of bell and drum
@@ -19006,7 +19137,7 @@ U+97FA 韺	kDefinition	music
 U+97FB 韻	kDefinition	rhyme; vowel
 U+97FF 響	kDefinition	make sound, make noise; sound
 U+9800 頀	kDefinition	music
-U+9801 頁	kDefinition	page, sheet, leaf; rad. no. 181
+U+9801 頁	kDefinition	page, sheet, leaf; Kangxi radical 181
 U+9802 頂	kDefinition	top, peak; carry on head; very
 U+9803 頃	kDefinition	a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean
 U+9804 頄	kDefinition	cheekbone
@@ -19084,7 +19215,7 @@ U+9867 顧	kDefinition	look back; look at; look after
 U+986B 顫	kDefinition	shiver, tremble; trembling
 U+986C 顬	kDefinition	the temporal bone
 U+986F 顯	kDefinition	manifest, display; evident, clear
-U+9870 顰	kDefinition	frown, knit brows; with knitted
+U+9870 顰	kDefinition	frown, knit brows
 U+9871 顱	kDefinition	skull
 U+9873 顳	kDefinition	the temporal bone
 U+9874 顴	kDefinition	cheek bones
@@ -19139,11 +19270,11 @@ U+98A4 颤	kDefinition	shiver, tremble; trembling
 U+98A5 颥	kDefinition	the temporal bone
 U+98A6 颦	kDefinition	frown, knit brows; with knitted
 U+98A7 颧	kDefinition	cheek bones
-U+98A8 風	kDefinition	wind; air; manners, atmosphere
+U+98A8 風	kDefinition	wind; air; manners, atmosphere; Kangxi radical 182
 U+98AA 颪	kDefinition	(Japanese) wind blowing down from the mountains
 U+98AB 颫	kDefinition	a storm
 U+98AD 颭	kDefinition	sway in wind
-U+98AE 颮	kDefinition	storm whirlwind
+U+98AE 颮	kDefinition	storm; whirlwind
 U+98AF 颯	kDefinition	the sound of the wind; bleak; melancholy
 U+98B1 颱	kDefinition	typhoon
 U+98B3 颳	kDefinition	to blow
@@ -19177,10 +19308,10 @@ U+98D7 飗	kDefinition	soughing of wind; noise
 U+98D8 飘	kDefinition	whirlwind, cyclone; floating
 U+98D9 飙	kDefinition	whirlwind, stormy gale
 U+98DA 飚	kDefinition	whirlwind
-U+98DB 飛	kDefinition	fly; go quickly; dart; high
+U+98DB 飛	kDefinition	fly; go quickly; dart; high; Kangxi radical 183
 U+98DC 飜	kDefinition	flip over, upset, capsize
 U+98DE 飞	kDefinition	fly; go quickly; dart; high
-U+98DF 食	kDefinition	eat; meal; food; KangXi radical number 184
+U+98DF 食	kDefinition	eat; meal; food; Kangxi radical 184
 U+98E0 飠	kDefinition	eat, food; radical number 184
 U+98E1 飡	kDefinition	meal; eat
 U+98E2 飢	kDefinition	hunger, starving; hungry; a famine
@@ -19204,10 +19335,12 @@ U+98F6 飶	kDefinition	odour
 U+98FC 飼	kDefinition	raise animals; feed; nourish
 U+98FD 飽	kDefinition	eat heartily; eat one's fill
 U+98FE 飾	kDefinition	decorate, ornament, adorn; to deceive
+U+98FF 飿	kDefinition	(餶飿) glutinous rice
 U+9900 餀	kDefinition	tainted food
 U+9901 餁	kDefinition	cooked food; cook until well done
 U+9902 餂	kDefinition	to obtain by hook
 U+9903 餃	kDefinition	stuffed dumplings
+U+9904 餄	kDefinition	(餄餎) buckwheat noodles
 U+9905 餅	kDefinition	rice-cakes, biscuits
 U+9907 餇	kDefinition	food
 U+9908 餈	kDefinition	rice cake
@@ -19215,6 +19348,7 @@ U+9909 餉	kDefinition	rations and pay for soldiers
 U+990A 養	kDefinition	raise, rear, bring up; support
 U+990C 餌	kDefinition	bait; bait, entice; dumplings
 U+990D 餍	kDefinition	be satiated, eat one's full
+U+990E 餎	kDefinition	(餄餎) buckwheat noodles
 U+9910 餐	kDefinition	eat, dine; meal; food
 U+9911 餑	kDefinition	ferrule; cakes, biscuits
 U+9912 餒	kDefinition	hungry, starving, famished
@@ -19246,6 +19380,7 @@ U+9931 餱	kDefinition	dry goods, dry provisions
 U+9932 餲	kDefinition	spoiled, sour, moldy
 U+9933 餳	kDefinition	sugar, syrup; malt sugar; sticky
 U+9935 餵	kDefinition	to feed, to raise
+U+9936 餶	kDefinition	(餶飿) glutinous rice
 U+9937 餷	kDefinition	stir and cook
 U+9938 餸	kDefinition	(Cant.) a side dish of food prepared to accompany rice
 U+9939 餹	kDefinition	sugar; sugared; candy; crystallized sweetmeats
@@ -19297,6 +19432,7 @@ U+996F 饯	kDefinition	farewell party; see off, send off
 U+9970 饰	kDefinition	decorate, ornament, adorn
 U+9971 饱	kDefinition	eat heartily; eat one's fill
 U+9972 饲	kDefinition	raise animals; feed; nourish
+U+9973 饳	kDefinition	(馉饳) glutinous rice
 U+9974 饴	kDefinition	sweet-meats; sweet-cakes; syrup
 U+9975 饵	kDefinition	bait; bait, entice; dumplings
 U+9976 饶	kDefinition	bountiful, abundant, plentiful
@@ -19327,10 +19463,10 @@ U+9992 馒	kDefinition	steamed bread; steamed dumplings
 U+9993 馓	kDefinition	fried round cakes of wheat flour
 U+9994 馔	kDefinition	to feed, support, provide for; food
 U+9995 馕	kDefinition	bread (Persian naan)
-U+9996 首	kDefinition	head; first; leader, chief; a poem
+U+9996 首	kDefinition	head; first; leader, chief; a poem; Kangxi radical 185
 U+9997 馗	kDefinition	cheekbone; path, road; intersection
 U+9998 馘	kDefinition	cut off left ear; tally dead enemy
-U+9999 香	kDefinition	fragrant, sweet-smelling; incense
+U+9999 香	kDefinition	fragrant, sweet-smelling; incense; Kangxi radical 186
 U+999A 馚	kDefinition	aromatic, perfumed
 U+999B 馛	kDefinition	fragrance, fragrant
 U+999D 馝	kDefinition	fragrance
@@ -19339,7 +19475,7 @@ U+99A1 馡	kDefinition	scent
 U+99A5 馥	kDefinition	fragrance, scent, aroma
 U+99A8 馨	kDefinition	fragrant, aromatic; distant fragrance
 U+99A9 馩	kDefinition	aromatic, perfumed
-U+99AC 馬	kDefinition	horse; surname; KangXi radical 187
+U+99AC 馬	kDefinition	horse; surname; Kangxi radical 187
 U+99AD 馭	kDefinition	drive, ride; manage, control
 U+99AE 馮	kDefinition	surname; gallop; by dint of
 U+99B1 馱	kDefinition	carry on back
@@ -19386,7 +19522,7 @@ U+99FB 駻	kDefinition	a fierce horse; to rage, run wild
 U+99FD 駽	kDefinition	grey
 U+99FE 駾	kDefinition	run away
 U+99FF 駿	kDefinition	excellent horse, noble steed
-U+9A01 騁	kDefinition	gallop horse; hasten, hurry
+U+9A01 騁	kDefinition	gallop; hasten, hurry
 U+9A02 騂	kDefinition	red, brown, bay; neat, harmonious
 U+9A03 騃	kDefinition	stupid; foolish
 U+9A04 騄	kDefinition	name of a legendary swift horse
@@ -19395,7 +19531,7 @@ U+9A08 騈	kDefinition	team of horses; associate
 U+9A09 騉	kDefinition	fine horse
 U+9A0B 騋	kDefinition	tall (7 chi) horse
 U+9A0C 騌	kDefinition	a horse's mane; bristles
-U+9A0D 騍	kDefinition	mother horse
+U+9A0D 騍	kDefinition	mare
 U+9A0E 騎	kDefinition	ride horseback; mount; cavalry
 U+9A0F 騏	kDefinition	piebald horse; excellent horse
 U+9A10 騐	kDefinition	to verity, to fulfil; to examine, to hold an inquest
@@ -19407,6 +19543,7 @@ U+9A16 騖	kDefinition	gallop; rush about; pursue, run
 U+9A17 騗	kDefinition	to swindle; to cheat
 U+9A18 騘	kDefinition	a piebald horse
 U+9A19 騙	kDefinition	swindle, cheat out of, defraud
+U+9A1E 騞	kDefinition	the sound of a knife cracking or breaking something; suddenly
 U+9A20 騠	kDefinition	a horse, mule
 U+9A22 騢	kDefinition	bay
 U+9A23 騣	kDefinition	mane
@@ -19439,7 +19576,7 @@ U+9A48 驈	kDefinition	black horses
 U+9A4A 驊	kDefinition	an excellent horse
 U+9A4C 驌	kDefinition	name of a famous horse
 U+9A4D 驍	kDefinition	excellent horse; brave, valiant
-U+9A4F 驏	kDefinition	horse without saddle
+U+9A4F 驏	kDefinition	unsaddled horse
 U+9A52 驒	kDefinition	dappled
 U+9A54 驔	kDefinition	black horse
 U+9A55 驕	kDefinition	spirited horse; haughty
@@ -19457,7 +19594,7 @@ U+9A66 驦	kDefinition	horse
 U+9A69 驩	kDefinition	happy, pleased, glad; joy; to enjoy
 U+9A6A 驪	kDefinition	a pure black horse; a pair of horses
 U+9A6B 驫	kDefinition	horses
-U+9A6C 马	kDefinition	horse; surname; KangXi radical 187
+U+9A6C 马	kDefinition	horse; surname; Kangxi radical 187
 U+9A6D 驭	kDefinition	drive, ride; manage, control
 U+9A6E 驮	kDefinition	carry on back
 U+9A6F 驯	kDefinition	tame, docile, obedient
@@ -19517,9 +19654,10 @@ U+9AA4 骤	kDefinition	procedure; gallop; sudden(ly)
 U+9AA5 骥	kDefinition	thoroughbred horse; refined and
 U+9AA6 骦	kDefinition	horse
 U+9AA7 骧	kDefinition	gallop about with head uplifted
-U+9AA8 骨	kDefinition	bone; skeleton; frame, framework
+U+9AA8 骨	kDefinition	bone; skeleton; frame, framework; Kangxi radical 188
 U+9AA9 骩	kDefinition	muscles, flesh
 U+9AAA 骪	kDefinition	crooked bones
+U+9AAB 骫	kDefinition	bent, crooked
 U+9AAD 骭	kDefinition	shin bone
 U+9AAF 骯	kDefinition	dirty
 U+9AB0 骰	kDefinition	die, dice
@@ -19553,14 +19691,15 @@ U+9AD4 體	kDefinition	body; group, class, body, unit
 U+9AD5 髕	kDefinition	kneecap
 U+9AD6 髖	kDefinition	hipbone; hip
 U+9AD7 髗	kDefinition	the skull; the forehead
-U+9AD8 高	kDefinition	high, tall; lofty, elevated
-U+9AD9 髙	kDefinition	variant of 高 U+9AD8, high, tall; lofty, elevated
+U+9AD8 高	kDefinition	high, tall; lofty, elevated; Kangxi radical 189
+U+9AD9 髙	kDefinition	high, tall; lofty, elevated
 U+9ADE 髞	kDefinition	high, imposing, eminent
-U+9ADF 髟	kDefinition	hair; KangXi radical 190
-U+9AE0 髠	kDefinition	shave head as punishment; prune
-U+9AE1 髡	kDefinition	to shear tree; ancient punishment
+U+9ADF 髟	kDefinition	hair; Kangxi radical 190
+U+9AE0 髠	kDefinition	to shave the head as a punishment; to prune
+U+9AE1 髡	kDefinition	to shave the head as a punishment; to prune
 U+9AE2 髢	kDefinition	wig
 U+9AE3 髣	kDefinition	similar to, like
+U+9AE4 髤	kDefinition	red lacquer; to lacquer
 U+9AE5 髥	kDefinition	beard; mustache
 U+9AE6 髦	kDefinition	flowing hair of young child
 U+9AE7 髧	kDefinition	long hair; (Cant.) to hang down, droop
@@ -19582,15 +19721,15 @@ U+9AFC 髼	kDefinition	unkempt hair
 U+9AFD 髽	kDefinition	to dress the hair
 U+9AFE 髾	kDefinition	tail of a comet; long hair
 U+9B00 鬀	kDefinition	to shave
-U+9B01 鬁	kDefinition	favus
+U+9B01 鬁	kDefinition	favus, tinea favosa; fungal infection of the scalp
 U+9B02 鬂	kDefinition	the hair on the temples
 U+9B03 鬃	kDefinition	mane; neck bristles
 U+9B05 鬅	kDefinition	unkempt hair; loose; flowing hair; (Cant.) 鬅鬠, to be slovenly dressed
 U+9B06 鬆	kDefinition	lax, loose; loosen, relax
-U+9B08 鬈	kDefinition	fine growth of hair curly hair
+U+9B08 鬈	kDefinition	fine growth of hair; curly hair
 U+9B0B 鬋	kDefinition	forelock, bangs
 U+9B0C 鬌	kDefinition	tufts of hair left on the heads of children after shaving
-U+9B0D 鬍	kDefinition	beard, mustache, whiskers
+U+9B0D 鬍	kDefinition	beard; mustache; whiskers
 U+9B0E 鬎	kDefinition	favus, scabies
 U+9B0F 鬏	kDefinition	a coiffure on top of the head
 U+9B10 鬐	kDefinition	horse's mane; fins
@@ -19605,26 +19744,28 @@ U+9B1B 鬛	kDefinition	variant of 鬣 U+9B23, a mane
 U+9B1C 鬜	kDefinition	to go bald
 U+9B1F 鬟	kDefinition	dress hair in coiled knot; maid
 U+9B20 鬠	kDefinition	to make a top knot; (Cant.) 鬅鬠, to be slovenly dressed
-U+9B22 鬢	kDefinition	hair on temples
+U+9B22 鬢	kDefinition	hair on the temples
 U+9B23 鬣	kDefinition	horse's mane; fin; human whiskers
-U+9B25 鬥	kDefinition	struggle, fight, compete, contend
+U+9B25 鬥	kDefinition	struggle, fight, compete, contend; Kangxi radical 191
 U+9B26 鬦	kDefinition	struggle, fight, compete, contend
 U+9B27 鬧	kDefinition	quarrel; dispute hotly
 U+9B28 鬨	kDefinition	boisterous; clamor, noise
 U+9B29 鬩	kDefinition	feud, fight, quarrel
 U+9B2A 鬪	kDefinition	struggle, fight, compete, contend
+U+9B2B 鬫	kDefinition	glance, peep; roar, growl
 U+9B2C 鬬	kDefinition	struggle
 U+9B2D 鬭	kDefinition	struggle, fight, compete, contend; (Cant.) woodwork, carpentry
 U+9B2E 鬮	kDefinition	lots (to be drawn); draw lots
-U+9B2F 鬯	kDefinition	sacrificial wine; unhindered
+U+9B2F 鬯	kDefinition	sacrificial wine; unhindered; Kangxi radical 192
 U+9B30 鬰	kDefinition	luxuriant; dense, thick; moody
 U+9B31 鬱	kDefinition	luxuriant; dense, thick; moody
-U+9B32 鬲	kDefinition	type of caldron with three hollow legs; name of a state; KangXi radical number 193
+U+9B32 鬲	kDefinition	type of caldron with three hollow legs; name of a state; Kangxi radical 193
 U+9B34 鬴	kDefinition	pot
 U+9B35 鬵	kDefinition	big iron pot, caldron
 U+9B37 鬷	kDefinition	pot
 U+9B3B 鬻	kDefinition	sell; child, childish; nourish
-U+9B3C 鬼	kDefinition	ghost; spirit of dead; devil
+U+9B3C 鬼	kDefinition	ghost; spirit of dead; devil; Kangxi radical 194
+U+9B3D 鬽	kDefinition	kind of forest demon, elf
 U+9B41 魁	kDefinition	chief; leader; best; monstrous
 U+9B42 魂	kDefinition	soul, spirit
 U+9B43 魃	kDefinition	drought demon
@@ -19634,7 +19775,7 @@ U+9B46 魆	kDefinition	black
 U+9B47 魇	kDefinition	nightmare, bad dreams
 U+9B48 魈	kDefinition	mischievous, one footed spirit that dwells in the mountains
 U+9B49 魉	kDefinition	a kind of monster
-U+9B4A 魊	kDefinition	a mythical creature said hurl san
+U+9B4A 魊	kDefinition	a mythical, toad-like monster
 U+9B4B 魋	kDefinition	bear
 U+9B4D 魍	kDefinition	demons, mountain spirits
 U+9B4E 魎	kDefinition	a kind of monster
@@ -19643,7 +19784,7 @@ U+9B51 魑	kDefinition	a mountain demon resembling a tiger
 U+9B54 魔	kDefinition	demon, evil spirits; magic power
 U+9B58 魘	kDefinition	nightmare, bad dreams
 U+9B59 魙	kDefinition	death of disembodied spirit; depraved
-U+9B5A 魚	kDefinition	fish; surname; KangXi radical 195
+U+9B5A 魚	kDefinition	fish; surname; Kangxi radical 195
 U+9B5B 魛	kDefinition	the mullet
 U+9B5C 魜	kDefinition	mermaid; manatee
 U+9B5E 魞	kDefinition	fish trap
@@ -19666,6 +19807,9 @@ U+9B83 鮃	kDefinition	a flatfish, flounder
 U+9B84 鮄	kDefinition	gurnard
 U+9B86 鮆	kDefinition	fish
 U+9B89 鮉	kDefinition	bream
+U+9B8A 鮊	kDefinition	common bleak (Alburnus alburnus); various other freshwater fish
+U+9B8C 鮌	kDefinition	a legendary giant fish
+U+9B8D 鮍	kDefinition	Spanish mackerel
 U+9B8E 鮎	kDefinition	sheatfish, Parasilurus asotus
 U+9B90 鮐	kDefinition	blowfish, globefish, tetraodon
 U+9B91 鮑	kDefinition	abalone; dried fish; surname
@@ -19676,6 +19820,7 @@ U+9B9D 鮝	kDefinition	dried fish
 U+9B9E 鮞	kDefinition	roe
 U+9B9F 鮟	kDefinition	anglerfish
 U+9BA0 鮠	kDefinition	a kind of shad with a head like a sturgeon
+U+9BA3 鮣	kDefinition	live sharksucker (Echeneis naucrates)
 U+9BA6 鮦	kDefinition	snakefish
 U+9BA7 鮧	kDefinition	the sheatfish
 U+9BA8 鮨	kDefinition	seasoned rice mixed with fish or vegetables
@@ -19686,13 +19831,14 @@ U+9BAE 鮮	kDefinition	fresh, new, delicious; rare, few
 U+9BB0 鮰	kDefinition	a small sturgeon found in the Yangzi; catfish
 U+9BB8 鮸	kDefinition	Sciaena albiflora; Otolithoides miiuy
 U+9BB9 鮹	kDefinition	an octopus, devilfish
+U+9BBA 鮺	kDefinition	minced and salted fish; a place in Sichuan
 U+9BBB 鮻	kDefinition	dace; Canton dace
 U+9BBF 鮿	kDefinition	dried fish
-U+9BC0 鯀	kDefinition	giant fish; father of the emperor Yu
+U+9BC0 鯀	kDefinition	a legendary giant fish; father of the emperor Yu
 U+9BC1 鯁	kDefinition	fish bones; honest, upright
 U+9BC6 鯆	kDefinition	the skate or ray
-U+9BC7 鯇	kDefinition	carp
-U+9BC8 鯈	kDefinition	fish
+U+9BC7 鯇	kDefinition	grass carp (Ctenopharyngodon idella)
+U+9BC8 鯈	kDefinition	freshwater minnow
 U+9BC9 鯉	kDefinition	carp
 U+9BCA 鯊	kDefinition	shark
 U+9BCB 鯋	kDefinition	shark
@@ -19718,15 +19864,16 @@ U+9BED 鯭	kDefinition	(Cant.) 泥鯭, a kind of fish that lives in turbid water
 U+9BF0 鯰	kDefinition	sheat
 U+9BF1 鯱	kDefinition	mythical dolphin-like fish
 U+9BF4 鯴	kDefinition	cat fish
+U+9BF6 鯶	kDefinition	grass carp (Ctenopharyngodon idella)
 U+9BF7 鯷	kDefinition	anchovy
 U+9BF8 鯸	kDefinition	blowfish
 U+9BFA 鯺	kDefinition	blowfish
 U+9BFD 鯽	kDefinition	Carassius auratus, crucian carp
 U+9BFF 鯿	kDefinition	bream
-U+9C01 鰁	kDefinition	name of fish
+U+9C01 鰁	kDefinition	a kind of carp
 U+9C02 鰂	kDefinition	cuttlefish
 U+9C03 鰃	kDefinition	name of fish
-U+9C06 鰆	kDefinition	Scomberomorus sinensis
+U+9C06 鰆	kDefinition	Chinese mackerel, Chinese seerfish (Scomberomorus sinensis)
 U+9C08 鰈	kDefinition	flatfish; flounder; sole
 U+9C09 鰉	kDefinition	sturgeon
 U+9C0A 鰊	kDefinition	a herring
@@ -19741,8 +19888,9 @@ U+9C15 鰕	kDefinition	shrimp, prawn
 U+9C1B 鰛	kDefinition	sardine
 U+9C1C 鰜	kDefinition	big-mouthed flounder
 U+9C1E 鰞	kDefinition	squid
+U+9C1F 鰟	kDefinition	several species of small carp
 U+9C20 鰠	kDefinition	carp
-U+9C23 鰣	kDefinition	reeves' shad; hilsa herring
+U+9C23 鰣	kDefinition	Reeves' shad (Tenualosa reevesii); ilish, hilsa shad (Tenualosa ilisha)
 U+9C24 鰤	kDefinition	a yellowtail (fish)
 U+9C25 鰥	kDefinition	huge fish; widower; bachelor
 U+9C27 鰧	kDefinition	loach
@@ -19780,21 +19928,21 @@ U+9C57 鱗	kDefinition	fish scales
 U+9C58 鱘	kDefinition	sturgeon
 U+9C5B 鱛	kDefinition	fish name
 U+9C5D 鱝	kDefinition	fish
-U+9C5F 鱟	kDefinition	king crab
+U+9C5F 鱟	kDefinition	horseshoe crab
 U+9C60 鱠	kDefinition	minced fish; hash
 U+9C61 鱡	kDefinition	the cuttle-fish
 U+9C63 鱣	kDefinition	sturgeon
 U+9C67 鱧	kDefinition	snakehead
 U+9C68 鱨	kDefinition	codfish
 U+9C6D 鱭	kDefinition	anchovy
-U+9C6E 鱮	kDefinition	silver carp (Hypophthalmichthys molitrix); bream; (Cant.) 大嶼山 daai6ju4saan1 Lantau Island
+U+9C6E 鱮	kDefinition	silver carp (Hypophthalmichthys molitrix); bream; (Cant.) 大嶼山 daai6jyu4saan1 Lantau Island
 U+9C72 鱲	kDefinition	(Cant.) 赤鱲角, Hong Kong place name
 U+9C76 鱶	kDefinition	a shark
 U+9C77 鱷	kDefinition	crocodile, alligator
 U+9C78 鱸	kDefinition	sea perch, sea bass
 U+9C7A 鱺	kDefinition	eel
 U+9C7B 鱻	kDefinition	fresh, new, delicious; rare, few
-U+9C7C 鱼	kDefinition	fish; surname; KangXi radical 195
+U+9C7C 鱼	kDefinition	fish; surname; Kangxi radical 195
 U+9C7D 鱽	kDefinition	the mullet
 U+9C7E 鱾	kDefinition	name of fish
 U+9C7F 鱿	kDefinition	cuttlefish
@@ -19821,6 +19969,7 @@ U+9C99 鲙	kDefinition	minced fish; hash
 U+9C9A 鲚	kDefinition	anchovy
 U+9C9B 鲛	kDefinition	shark
 U+9C9C 鲜	kDefinition	fresh; delicious; attractive
+U+9C9D 鲝	kDefinition	minced and salted fish; a place in Sichuan
 U+9C9E 鲞	kDefinition	dried fish
 U+9C9F 鲟	kDefinition	sturgeon
 U+9CA0 鲠	kDefinition	fish bones; honest, upright
@@ -19887,7 +20036,7 @@ U+9CDF 鳟	kDefinition	barbel
 U+9CE2 鳢	kDefinition	snakehead
 U+9CE3 鳣	kDefinition	sturgeon
 U+9CE4 鳤	kDefinition	a kind of fish; with a long cylinder body
-U+9CE5 鳥	kDefinition	bird; KangXi radical 196
+U+9CE5 鳥	kDefinition	bird; Kangxi radical 196
 U+9CE6 鳦	kDefinition	swallow
 U+9CE7 鳧	kDefinition	wild duck, teal; swim
 U+9CE9 鳩	kDefinition	pigeon, dove; collect, assemble
@@ -19901,7 +20050,7 @@ U+9CF4 鳴	kDefinition	cry of bird or animal; make sound
 U+9CF6 鳶	kDefinition	kite; Milvus species (various)
 U+9CF7 鳷	kDefinition	jay (Garrulus lidthi)
 U+9CFB 鳻	kDefinition	the wild pigeon
-U+9CFE 鳾	kDefinition	general term for a group of small birds
+U+9CFE 鳾	kDefinition	nuthatch
 U+9D01 鴁	kDefinition	a legendary bird
 U+9D02 鴂	kDefinition	the tailor-bird; the working bird
 U+9D03 鴃	kDefinition	shrike; butcherbird
@@ -19919,7 +20068,7 @@ U+9D1D 鴝	kDefinition	mynah; Erithacus species (various)
 U+9D1E 鴞	kDefinition	owl
 U+9D1F 鴟	kDefinition	kite, horned owl; wine cups
 U+9D20 鴠	kDefinition	a kind of nightingale
-U+9D23 鴣	kDefinition	species of Taiwan pigeon
+U+9D23 鴣	kDefinition	Arborophila species (various)
 U+9D25 鴥	kDefinition	swoop
 U+9D26 鴦	kDefinition	female mandarin duck (Aix galericulata)
 U+9D28 鴨	kDefinition	duck; Anas species (various)
@@ -19929,6 +20078,7 @@ U+9D2C 鴬	kDefinition	oriole, green finch
 U+9D2F 鴯	kDefinition	swallow
 U+9D30 鴰	kDefinition	the crow
 U+9D33 鴳	kDefinition	quail
+U+9D34 鴴	kDefinition	plover
 U+9D37 鴷	kDefinition	a woodpecker
 U+9D3A 鴺	kDefinition	the pelican
 U+9D3B 鴻	kDefinition	species of wild swan; vast
@@ -19937,11 +20087,12 @@ U+9D3E 鴾	kDefinition	a crested ibis
 U+9D3F 鴿	kDefinition	pigeon, dove; Columba species (various)
 U+9D40 鵀	kDefinition	hoopoe
 U+9D41 鵁	kDefinition	the fishing cormorant
-U+9D42 鵂	kDefinition	horned owl, scops chinensis; bird of ill omen
+U+9D42 鵂	kDefinition	owl; bird of ill omen
+U+9D43 鵃	kDefinition	ancient name for a bird with black featers and a short tail
 U+9D44 鵄	kDefinition	variant of 鴟 U+9D1F, kite, horned owl; wine cups
 U+9D51 鵑	kDefinition	cuckoo
 U+9D52 鵒	kDefinition	mynah bird; Acridotheres tristis
-U+9D53 鵓	kDefinition	species of pigeon
+U+9D53 鵓	kDefinition	wood pigeon
 U+9D59 鵙	kDefinition	shrike; Lanius species (various)
 U+9D5A 鵚	kDefinition	moulting, bald
 U+9D5C 鵜	kDefinition	pelican
@@ -19958,7 +20109,8 @@ U+9D6E 鵮	kDefinition	to peck, as birds
 U+9D6F 鵯	kDefinition	Pycnonotus species (various)
 U+9D70 鵰	kDefinition	eagle, vulture; Aquila species (various)
 U+9D72 鵲	kDefinition	magpie; Pica species (various)
-U+9D77 鵷	kDefinition	co-worker
+U+9D76 鵶	kDefinition	crow, raven; Corvus species (various)
+U+9D77 鵷	kDefinition	a legendary bird similar to the phoenix, firebird
 U+9D7B 鵻	kDefinition	pigeon; turtle-dove; a hawk
 U+9D7C 鵼	kDefinition	a fabulous night-bird, grotesque monster
 U+9D7E 鵾	kDefinition	a bird resembling the crane
@@ -19978,6 +20130,7 @@ U+9D98 鶘	kDefinition	pelican
 U+9D9A 鶚	kDefinition	osprey, fishhawk; Pandion haliaetus
 U+9DA1 鶡	kDefinition	crossbill, species of nightingale
 U+9DA2 鶢	kDefinition	a bird which frequents the sea-shore
+U+9DA5 鶥	kDefinition	babbler, Timaliidae species (various); thrush
 U+9DA6 鶦	kDefinition	pelican
 U+9DA9 鶩	kDefinition	duck
 U+9DAA 鶪	kDefinition	a shrike
@@ -19985,6 +20138,7 @@ U+9DAB 鶫	kDefinition	thrush; Turdus naumanni
 U+9DAC 鶬	kDefinition	oriole
 U+9DAF 鶯	kDefinition	oriole, green finch; Sylvia species (various)
 U+9DB1 鶱	kDefinition	to soar
+U+9DB2 鶲	kDefinition	flycatcher
 U+9DB4 鶴	kDefinition	crane; Grus species (various)
 U+9DB5 鶵	kDefinition	chick, fledging; infant, toddler
 U+9DB8 鶸	kDefinition	light yellowish-green
@@ -20002,6 +20156,7 @@ U+9DC4 鷄	kDefinition	chicken
 U+9DC6 鷆	kDefinition	bird name
 U+9DC7 鷇	kDefinition	chicks, fledglings
 U+9DC8 鷈	kDefinition	a kind of bird
+U+9DC9 鷉	kDefinition	grebe
 U+9DCA 鷊	kDefinition	pheasant
 U+9DCF 鷏	kDefinition	Caprimulgus indicus
 U+9DD3 鷓	kDefinition	partridge
@@ -20021,6 +20176,7 @@ U+9DE9 鷩	kDefinition	pheasant
 U+9DEB 鷫	kDefinition	turquoise kingfisher
 U+9DEE 鷮	kDefinition	long-tailed pheasant
 U+9DEF 鷯	kDefinition	wren
+U+9DF0 鷰	kDefinition	swallow (bird)
 U+9DF2 鷲	kDefinition	condor, vulture
 U+9DF3 鷳	kDefinition	the silver pheasant, Lophura nycthemera
 U+9DF4 鷴	kDefinition	silver pheasant badge worn by civil officials of the 5th grade; Lophura species (various)
@@ -20029,13 +20185,13 @@ U+9DF9 鷹	kDefinition	eagle, falcon; Accipiter species (various)
 U+9DFA 鷺	kDefinition	heron, egret; Ardea species (various)
 U+9DFD 鷽	kDefinition	oriental bullfinch, weaver bird; Pyrrhula species (various)
 U+9DFE 鷾	kDefinition	swallow
-U+9DFF 鷿	kDefinition	a kind of bird resembling the duck; much smaller
+U+9DFF 鷿	kDefinition	little grebe, dabchick (Tachybaptus ruficollis)
 U+9E02 鸂	kDefinition	Mandarin duck, Aix galericulata
 U+9E07 鸇	kDefinition	hawk; Butastur indicus
-U+9E0A 鸊	kDefinition	Podiceps ruficollis (a kind of duck)
+U+9E0A 鸊	kDefinition	little grebe, dabchick (Tachybaptus ruficollis)
 U+9E0B 鸋	kDefinition	(archaic) a wren
 U+9E0E 鸎	kDefinition	the mango-bird; the Chinese oriole
-U+9E11 鸑	kDefinition	a large, duck-like waterfowl with red eyes; a young phoenix
+U+9E11 鸑	kDefinition	a legendary waterfowl; a young phoenix
 U+9E12 鸒	kDefinition	eastern jackdaw; Corvus monedula
 U+9E15 鸕	kDefinition	cormorant
 U+9E18 鸘	kDefinition	eagle
@@ -20043,8 +20199,8 @@ U+9E1A 鸚	kDefinition	parrot
 U+9E1B 鸛	kDefinition	crane, Grus japonensis; stork; Ciconia species (various)
 U+9E1C 鸜	kDefinition	a species of mynah
 U+9E1D 鸝	kDefinition	Chinese oriole; Oriolus oriolus
-U+9E1E 鸞	kDefinition	fabulous bird
-U+9E1F 鸟	kDefinition	bird; KangXi radical 196
+U+9E1E 鸞	kDefinition	mythical bird related to the phoenix
+U+9E1F 鸟	kDefinition	bird; Kangxi radical 196
 U+9E20 鸠	kDefinition	pigeon; collect, assemble
 U+9E21 鸡	kDefinition	chicken
 U+9E22 鸢	kDefinition	kite; Milvus species (various)
@@ -20055,7 +20211,7 @@ U+9E26 鸦	kDefinition	crow; Corvus species (various)
 U+9E27 鸧	kDefinition	oriole
 U+9E28 鸨	kDefinition	bustard; procuress; Otis species (various)
 U+9E29 鸩	kDefinition	a bird resembling the secretary falcon
-U+9E2A 鸪	kDefinition	species of Taiwan pigeon
+U+9E2A 鸪	kDefinition	Arborophila species (various)
 U+9E2B 鸫	kDefinition	thrush; Turdus species (various)
 U+9E2C 鸬	kDefinition	cormorant
 U+9E2D 鸭	kDefinition	duck; Anas species (various)
@@ -20123,41 +20279,41 @@ U+9E6F 鹯	kDefinition	hawk; Butastur indicus
 U+9E70 鹰	kDefinition	falcon; Accipiter species (various)
 U+9E73 鹳	kDefinition	crane, Grus japonensis; stork; Ciconia species (various)
 U+9E74 鹴	kDefinition	eagle
-U+9E75 鹵	kDefinition	saline soil; natural salt, rock
+U+9E75 鹵	kDefinition	saline soil; natural salt, rock salt; Kangxi radical 197
 U+9E76 鹶	kDefinition	salty and bitter; pitiful
 U+9E78 鹸	kDefinition	alkaline, alkali, lye, salt
 U+9E79 鹹	kDefinition	salty, briny; salted; pickled
 U+9E7A 鹺	kDefinition	salty; salt
-U+9E7B 鹻	kDefinition	impure carbonate of sodium of natron
+U+9E7B 鹻	kDefinition	impure sodium carbonate
 U+9E7C 鹼	kDefinition	alkaline, alkali, lye, salt
-U+9E7D 鹽	kDefinition	(same as of U+5869 塩) salt
+U+9E7D 鹽	kDefinition	salt
 U+9E7E 鹾	kDefinition	salty; salt
-U+9E7F 鹿	kDefinition	deer; surname; KangXi radical 198
-U+9E80 麀	kDefinition	female deer; roe, doe
+U+9E7F 鹿	kDefinition	deer; surname; Kangxi radical 198
+U+9E80 麀	kDefinition	female deer, doe
 U+9E81 麁	kDefinition	rough, thick, course; rude
-U+9E82 麂	kDefinition	species of deer
+U+9E82 麂	kDefinition	muntjac, barking deer; Muntiacus species (various)
 U+9E83 麃	kDefinition	till, plow
 U+9E84 麄	kDefinition	coarse, rough, rude
 U+9E85 麅	kDefinition	a small spotted deer found in north China
-U+9E87 麇	kDefinition	general name for the hornless deer; to collect to band together
-U+9E88 麈	kDefinition	species of deer
-U+9E8B 麋	kDefinition	elk; surname
+U+9E87 麇	kDefinition	general name for hornless deer; to collect, to band together
+U+9E88 麈	kDefinition	legendary species of deer
+U+9E8B 麋	kDefinition	Père David's deer, milu, elaphure (Elaphurus davidianus); surname
 U+9E8C 麌	kDefinition	stag; herd
 U+9E90 麐	kDefinition	female of Chinese unicorn
 U+9E91 麑	kDefinition	fawn, young deer
 U+9E92 麒	kDefinition	legendary auspicious animal
-U+9E93 麓	kDefinition	foot of hill; foothill
+U+9E93 麓	kDefinition	foothill
 U+9E95 麕	kDefinition	muntjac deer, hornless river deer
 U+9E97 麗	kDefinition	beautiful, magnificent, elegant
 U+9E98 麘	kDefinition	scent
 U+9E9B 麛	kDefinition	fawn
 U+9E9D 麝	kDefinition	musk deer
-U+9E9E 麞	kDefinition	roebuck, Moschus chinloo
+U+9E9E 麞	kDefinition	water deer (Hydropotes inermis)
 U+9E9F 麟	kDefinition	female of Chinese unicorn
 U+9EA0 麠	kDefinition	a large deer
-U+9EA4 麤	kDefinition	rough, coarse, big, rough
-U+9EA5 麥	kDefinition	wheat, barley, oats; KangXi radical number 199
-U+9EA6 麦	kDefinition	wheat, barley, oats; simplified form of KangXi radical number 199
+U+9EA4 麤	kDefinition	rough, coarse
+U+9EA5 麥	kDefinition	wheat, barley, oats; Kangxi radical 199
+U+9EA6 麦	kDefinition	wheat, barley, oats; simplified form of Kangxi radical 199
 U+9EA9 麩	kDefinition	bran
 U+9EAA 麪	kDefinition	flour, noodles, dough
 U+9EAB 麫	kDefinition	flour; vermicelli; dough
@@ -20171,21 +20327,22 @@ U+9EB5 麵	kDefinition	flour, dough, noodles
 U+9EB8 麸	kDefinition	bran
 U+9EB9 麹	kDefinition	yeast, leaven; surname
 U+9EBA 麺	kDefinition	flour, dough, noodles
-U+9EBB 麻	kDefinition	hemp, jute, flax; sesame
+U+9EBB 麻	kDefinition	hemp, jute, flax; sesame; Kangxi radical 200
 U+9EBC 麼	kDefinition	interrogative final particle; insignificant, small, tiny
 U+9EBD 麽	kDefinition	interrogative final particle; insignificant, small, tiny
 U+9EBE 麾	kDefinition	a pennant, flag, banner; to signal to
 U+9EBF 麿	kDefinition	I, personal name marker
-U+9EC3 黃	kDefinition	yellow; surname
+U+9EC3 黃	kDefinition	yellow; surname; Kangxi radical 201
 U+9EC4 黄	kDefinition	yellow; surname
+U+9EC7 黇	kDefinition	fallow deer (Dama dama)
 U+9EC8 黈	kDefinition	yellow; augment, increase
 U+9EC9 黉	kDefinition	school
 U+9ECC 黌	kDefinition	school
-U+9ECD 黍	kDefinition	glutinous millet; KangXi radical number 202
+U+9ECD 黍	kDefinition	glutinous millet; Kangxi radical 202
 U+9ECE 黎	kDefinition	surname; numerous, many; black
 U+9ECF 黏	kDefinition	stick to; glutinous, sticky; glue
 U+9ED0 黐	kDefinition	to stick; sticky
-U+9ED1 黑	kDefinition	black; dark; evil, sinister
+U+9ED1 黑	kDefinition	black; dark; evil, sinister; Kangxi radical 203
 U+9ED2 黒	kDefinition	black; dark; evil
 U+9ED3 黓	kDefinition	black
 U+9ED4 黔	kDefinition	black; Guizhou
@@ -20202,7 +20359,7 @@ U+9EE1 黡	kDefinition	mole, scar, blemish
 U+9EE2 黢	kDefinition	black
 U+9EE4 黤	kDefinition	blue-black
 U+9EE5 黥	kDefinition	to tattoo; to brand the face of criminals
-U+9EE7 黧	kDefinition	a dark, sallow colour
+U+9EE7 黧	kDefinition	a dark, yellowish colour
 U+9EE8 黨	kDefinition	political party, gang, faction
 U+9EE9 黩	kDefinition	to dishonor, defile, corrupt; soiled
 U+9EEA 黪	kDefinition	grey black
@@ -20212,12 +20369,13 @@ U+9EEF 黯	kDefinition	dark, black; sullen, dreary
 U+9EF0 黰	kDefinition	young girl's hair style
 U+9EF2 黲	kDefinition	grey black
 U+9EF4 黴	kDefinition	mold, mildew; bacteria, fungi
+U+9EF5 黵	kDefinition	to soil, stain
 U+9EF6 黶	kDefinition	mole, scar, blemish
 U+9EF7 黷	kDefinition	to dishonor, defile, corrupt; soiled
-U+9EF9 黹	kDefinition	embroidery, needlework; radical
+U+9EF9 黹	kDefinition	embroidery, needlework; Kangxi radical 204
 U+9EFB 黻	kDefinition	special pattern of embroidery
 U+9EFC 黼	kDefinition	embroidered official or sacrificial robe
-U+9EFD 黽	kDefinition	to strive; to endeavor
+U+9EFD 黽	kDefinition	to strive; to endeavor; Kangxi radical 205
 U+9EFE 黾	kDefinition	to strive; to endeavor
 U+9EFF 黿	kDefinition	large turtle, sea turtle
 U+9F02 鼂	kDefinition	a kind of sea turtle; surname
@@ -20226,14 +20384,14 @@ U+9F04 鼄	kDefinition	the spider
 U+9F05 鼅	kDefinition	spider
 U+9F07 鼇	kDefinition	huge sea turtle
 U+9F08 鼈	kDefinition	a fresh-water turtle, Trionyx sinensis
-U+9F09 鼉	kDefinition	large reptile, water lizard
+U+9F09 鼉	kDefinition	Chinese allegator (Alligator sinensis)
 U+9F0B 鼋	kDefinition	large turtle, sea turtle
 U+9F0D 鼍	kDefinition	large reptile, water lizard
-U+9F0E 鼎	kDefinition	large, three-legged bronze caldron
+U+9F0E 鼎	kDefinition	large, three-legged bronze caldron; Kangxi radical 206
 U+9F0F 鼏	kDefinition	cover of tripod caldron
 U+9F10 鼐	kDefinition	incense tripod
 U+9F12 鼒	kDefinition	large tripod caldron with small mouth
-U+9F13 鼓	kDefinition	drum; beat, top, strike
+U+9F13 鼓	kDefinition	drum; beat, top, strike; Kangxi radical 207
 U+9F14 鼔	kDefinition	a drum; to drum, from whence comes: to rouse; to swell; to bulge
 U+9F15 鼕	kDefinition	rattle of drums
 U+9F16 鼖	kDefinition	drum
@@ -20241,18 +20399,21 @@ U+9F17 鼗	kDefinition	small revolving drum with knobs
 U+9F19 鼙	kDefinition	drum carried on horseback
 U+9F1A 鼚	kDefinition	drumming
 U+9F1B 鼛	kDefinition	drum
-U+9F20 鼠	kDefinition	rat, mouse; KangXi radical 208
+U+9F1F 鼟	kDefinition	onomatopoeic, drumming sound
+U+9F20 鼠	kDefinition	rat, mouse; Kangxi radical 208
 U+9F21 鼡	kDefinition	rat, mouse
 U+9F22 鼢	kDefinition	a variety of mole
+U+9F25 鼥	kDefinition	groundhog, woodchuck
 U+9F27 鼧	kDefinition	the marmot
+U+9F29 鼩	kDefinition	shrew
 U+9F2A 鼪	kDefinition	weasel
 U+9F2B 鼫	kDefinition	marmot; squirrel
 U+9F2C 鼬	kDefinition	weasel, Mustela itatsi
 U+9F2F 鼯	kDefinition	flying squirrel
-U+9F34 鼴	kDefinition	a kind of insectivorous rodent
+U+9F34 鼴	kDefinition	mole; Talpidae species (various)
 U+9F37 鼷	kDefinition	a mouse
-U+9F39 鼹	kDefinition	a kind of insectivorous rodent
-U+9F3B 鼻	kDefinition	nose; first; KangXi radical 209
+U+9F39 鼹	kDefinition	mole; Talpidae species (various)
+U+9F3B 鼻	kDefinition	nose; first; Kangxi radical 209
 U+9F3C 鼼	kDefinition	(Cant.) curving upwards
 U+9F3D 鼽	kDefinition	clogged nose
 U+9F3E 鼾	kDefinition	snore loudly
@@ -20262,15 +20423,15 @@ U+9F45 齅	kDefinition	smell; to smell
 U+9F46 齆	kDefinition	stuffed nose
 U+9F47 齇	kDefinition	a pimple or red splotch on the nose
 U+9F48 齈	kDefinition	cold in the head; catarrh of the nose; mucus from the nose
-U+9F49 齉	kDefinition	stoppage of the nose to speak with a nasal twang
-U+9F4A 齊	kDefinition	even, uniform, of equal length
+U+9F49 齉	kDefinition	stoppage of the nose; to speak with a nasal twang
+U+9F4A 齊	kDefinition	even, uniform, of equal length; Kangxi radical 210
 U+9F4B 齋	kDefinition	vegetarian diet; study; to fast, abstain
 U+9F4C 齌	kDefinition	steam
 U+9F4E 齎	kDefinition	take in both hands and offer to
 U+9F4F 齏	kDefinition	break or smash into pieces, pulverize; hash
 U+9F50 齐	kDefinition	even, uniform, of equal length
 U+9F51 齑	kDefinition	break or smash into pieces, pulverize; hash
-U+9F52 齒	kDefinition	teeth; gears, cogs; age; KangXi radical 211
+U+9F52 齒	kDefinition	teeth; gears, cogs; age; Kangxi radical 211
 U+9F54 齔	kDefinition	lose baby teeth and get adult teeth
 U+9F55 齕	kDefinition	gnaw, bite, nibble
 U+9F57 齗	kDefinition	gums (of the teeth); to dispute
@@ -20298,7 +20459,7 @@ U+9F73 齳	kDefinition	toothless
 U+9F75 齵	kDefinition	uneven (teeth)
 U+9F76 齶	kDefinition	palate, roof of mouth
 U+9F77 齷	kDefinition	narrow, small; dirty
-U+9F7F 齿	kDefinition	teeth; gears, cogs; age; simplified form of the KangXi radical number 211
+U+9F7F 齿	kDefinition	teeth; gears, cogs; age; simplified form of the Kangxi radical 211
 U+9F80 龀	kDefinition	lose baby teeth and get adult teeth
 U+9F81 龁	kDefinition	gnaw, bite, nibble
 U+9F82 龂	kDefinition	gums (of the teeth); to dispute
@@ -20312,10 +20473,10 @@ U+9F89 龉	kDefinition	uneven teeth; to disagree
 U+9F8A 龊	kDefinition	narrow, small; dirty
 U+9F8B 龋	kDefinition	tooth decay
 U+9F8C 龌	kDefinition	narrow, small; dirty
-U+9F8D 龍	kDefinition	dragon; symbolic of emperor
+U+9F8D 龍	kDefinition	dragon; Kangxi radical 212
 U+9F8E 龎	kDefinition	disorderly, messy; huge, big
 U+9F90 龐	kDefinition	disorderly, messy; huge, big
-U+9F91 龑	kDefinition	high and bright
+U+9F91 龑	kDefinition	used in personal names
 U+9F92 龒	kDefinition	dragon
 U+9F93 龓	kDefinition	a halter
 U+9F94 龔	kDefinition	give, present; reverential
@@ -20325,11 +20486,11 @@ U+9F98 龘	kDefinition	the appearance of a dragon walking
 U+9F99 龙	kDefinition	dragon; symbolic of emperor
 U+9F9A 龚	kDefinition	give, present; reverential
 U+9F9B 龛	kDefinition	niche, shrine
-U+9F9C 龜	kDefinition	turtle or tortoise; cuckold
+U+9F9C 龜	kDefinition	turtle or tortoise; cuckold; Kangxi radical 213
 U+9F9D 龝	kDefinition	autumn, fall; year
 U+9F9E 龞	kDefinition	turtle
 U+9F9F 龟	kDefinition	turtle or tortoise; cuckold
-U+9FA0 龠	kDefinition	flute; pipe, ancient measure
+U+9FA0 龠	kDefinition	flute; pipe, ancient measure; Kangxi radical 214
 U+9FA1 龡	kDefinition	to blow, exhale
 U+9FA2 龢	kDefinition	in harmony; calm, peaceful
 U+9FA4 龤	kDefinition	to harmonize; to accord with; to agree
@@ -20337,11 +20498,11 @@ U+9FA5 龥	kDefinition	beg, appeal for help
 U+9FC3 鿃	kDefinition	(same as U+7752 睒) to blink, twinkle
 U+9FCD 鿍	kDefinition	hill; long and narrow highland; used in place names; (Cant.) throw up and scatter (as dust)
 U+9FCE 鿎	kDefinition	(tǎ) place name in Zhejiang; (dá) cobblestone, water gate, place name in Guangdong
-U+9FCF 鿏	kDefinition	meitnerium
+U+9FCF 鿏	kDefinition	meitnerium (element 109, Mt)
 U+9FD0 鿐	kDefinition	a kind of clam
 U+9FD2 鿒	kDefinition	caraway
 U+9FD3 鿓	kDefinition	caraway
-U+9FD4 鿔	kDefinition	copernicium
+U+9FD4 鿔	kDefinition	copernicium (element 112, Cn)
 U+9FD5 鿕	kDefinition	Danio chrysotaeniata
 U+9FEB 鿫	kDefinition	oganesson (element 118)
 U+9FEC 鿬	kDefinition	tennessine (element 117)
@@ -20410,7 +20571,7 @@ U+F93C 祿	kDefinition	blessing, happiness, prosperity
 U+F93D 綠	kDefinition	green; chlorine
 U+F93E 菉	kDefinition	the green bamboo; greenish bamboo
 U+F93F 錄	kDefinition	copy, write down, record
-U+F940 鹿	kDefinition	deer; surname; KangXi radical 198
+U+F940 鹿	kDefinition	deer; surname; Kangxi radical 198
 U+F941 論	kDefinition	debate; discuss; discourse
 U+F942 壟	kDefinition	grave, mound; ridge in field
 U+F943 弄	kDefinition	do, play or fiddle with; alley
@@ -20552,7 +20713,7 @@ U+F9CA 流	kDefinition	flow, circulate, drift; class
 U+F9CB 溜	kDefinition	slide, glide, slip; slippery
 U+F9CC 琉	kDefinition	sparkling stone; glazed, opaque
 U+F9CD 留	kDefinition	stop, halt; stay, detain, keep
-U+F9CE 硫	kDefinition	sulfur
+U+F9CE 硫	kDefinition	sulfur (element 16, S)
 U+F9CF 紐	kDefinition	knot; button; handle, knob; tie
 U+F9D0 類	kDefinition	class, group, kind, category
 U+F9D1 六	kDefinition	number six
@@ -20584,7 +20745,7 @@ U+F9EA 離	kDefinition	leave, depart; go away; separate
 U+F9EB 匿	kDefinition	hide; go into hiding
 U+F9EC 溺	kDefinition	drown; submerge in water; indulge
 U+F9ED 吝	kDefinition	stingy, miserly, parsimonious
-U+F9EE 燐	kDefinition	phosphorus
+U+F9EE 燐	kDefinition	phosphorus (element 15, P)
 U+F9EF 璘	kDefinition	luster of jade
 U+F9F0 藺	kDefinition	rush used in making mats; surname
 U+F9F1 隣	kDefinition	neighbor; neighboring; adjacent
@@ -20910,6 +21071,8 @@ U+21C95 𡲕	kDefinition	tray, drawer
 U+21CA2 𡲢	kDefinition	(Cant.) shit
 U+21CAC 𡲬	kDefinition	(Cant.) blunt
 U+21D0E 𡴎	kDefinition	hill
+U+21D32 𡴲	kDefinition	dangerous, precarious; high
+U+21D41 𡵁	kDefinition	dangerous, precarious; high
 U+21ED5 𡻕	kDefinition	year of age
 U+21F71 𡽱	kDefinition	a high hill; the name of a hill
 U+21F9F 𡾟	kDefinition	danger
@@ -21141,6 +21304,7 @@ U+24C07 𤰇	kDefinition	prepare
 U+24C15 𤰕	kDefinition	channels
 U+24C1D 𤰝	kDefinition	channels
 U+24C21 𤰡	kDefinition	farmers
+U+24C48 𤱈	kDefinition	a mǔ (畝), a unit of area roughly equal to 600 square meters
 U+24C6C 𤱬	kDefinition	to clear land
 U+24D10 𤴐	kDefinition	thunder
 U+24D14 𤴔	kDefinition	foot (obs.); bale
@@ -21441,7 +21605,7 @@ U+28B98 𨮘	kDefinition	a fine grade of steel
 U+28C47 𨱇	kDefinition	chisel
 U+28C4D 𨱍	kDefinition	large hammer
 U+28C4E 𨱎	kDefinition	brass
-U+28C4F 𨱏	kDefinition	technetium
+U+28C4F 𨱏	kDefinition	technetium (element 43, Tc)
 U+28C51 𨱑	kDefinition	bell
 U+28C54 𨱔	kDefinition	cap
 U+28C56 𨱖	kDefinition	hooks to hang; to suspend something
@@ -21538,6 +21702,7 @@ U+2A251 𪉑	kDefinition	a bird of ill-omen to the state
 U+2A269 𪉩	kDefinition	variant of 塩 U+5869, salt
 U+2A378 𪍸	kDefinition	young wheat
 U+2A388 𪎈	kDefinition	crumbs of barley; bran; chaff
+U+2A3AD 𪎭	kDefinition	millet
 U+2A3D9 𪏙	kDefinition	a yolk
 U+2A400 𪐀	kDefinition	(Cant.) relationship; together
 U+2A445 𪑅	kDefinition	light black
@@ -21701,7 +21866,7 @@ U+2B418 𫐘	kDefinition	fail
 U+2B4B6 𫒶	kDefinition	armor
 U+2B4E7 𫓧	kDefinition	an ax, hatchet
 U+2B4E9 𫓩	kDefinition	a short spear
-U+2B4EA 𫓪	kDefinition	lead
+U+2B4EA 𫓪	kDefinition	lead (element 82, Pb)
 U+2B4F2 𫓲	kDefinition	a weight of thirty catties
 U+2B4F4 𫓴	kDefinition	spear
 U+2B4F6 𫓶	kDefinition	a small basin; rings on a cart of carriage
@@ -21715,7 +21880,7 @@ U+2B508 𫔈	kDefinition	large spear; chess board
 U+2B50A 𫔊	kDefinition	rust, corrosion
 U+2B50B 𫔋	kDefinition	a branding-iron, to solder
 U+2B50C 𫔌	kDefinition	the trigger of a crossbow; crossbow
-U+2B50D 𫔍	kDefinition	vanadium
+U+2B50D 𫔍	kDefinition	vanadium (element 23, V)
 U+2B50E 𫔎	kDefinition	hasp of a lock
 U+2B514 𫔔	kDefinition	to engrave or carve, as a block for printing
 U+2B535 𫔵	kDefinition	very dense; no break; to cluster together
@@ -21977,7 +22142,7 @@ U+2C461 𬑡	kDefinition	to see; to look at; to gaze
 U+2C48D 𬒍	kDefinition	to fall from or into
 U+2C494 𬒔	kDefinition	place name in Guangdong; (Cant.) for something hard or bulging to press against the body and cause it discomfort
 U+2C495 𬒕	kDefinition	black colored grindstone or whetstone
-U+2C498 𬒘	kDefinition	arsenic
+U+2C498 𬒘	kDefinition	arsenic (element 33, As)
 U+2C4EB 𬓫	kDefinition	autumn, fall; year
 U+2C4F5 𬓵	kDefinition	over-ripe, over-cooked, worn out
 U+2C4FC 𬓼	kDefinition	ruined, decayed; to disintegrate
@@ -22100,6 +22265,7 @@ U+2CAA9 𬪩	kDefinition	strong wine; dense, thick
 U+2CABF 𬪿	kDefinition	a square meter; one hundredth of a 公畝
 U+2CB27 𬬧	kDefinition	solder
 U+2CB2A 𬬪	kDefinition	button; buckle, clasp; engrave
+U+2CB2B 𬬫	kDefinition	an ancient type of arrow
 U+2CB2E 𬬮	kDefinition	sharp; a keen edge; sharp point
 U+2CB30 𬬰	kDefinition	rifle, small arms, hand gun
 U+2CB31 𬬱	kDefinition	hew, chop, smooth
@@ -22126,6 +22292,7 @@ U+2CB7B 𬭻	kDefinition	to cut with shears
 U+2CB7C 𬭼	kDefinition	lens
 U+2CBA2 𬮢	kDefinition	boisterous; clamor, noise
 U+2CBA3 𬮣	kDefinition	the frame of a door or window fixed in a wall
+U+2CBA4 𬮤	kDefinition	small side door; chamber
 U+2CBA5 𬮥	kDefinition	crowd; transliteration of Sanskrit 'kso', e.g. 'aksobhya'
 U+2CBA8 𬮨	kDefinition	sound of a door; to open
 U+2CBAD 𬮭	kDefinition	flash; flashing; steal look
@@ -22144,6 +22311,7 @@ U+2CC57 𬱗	kDefinition	(Cant.) to raise the head
 U+2CC59 𬱙	kDefinition	Zhou dynasty school; disperse; fall apart
 U+2CC5F 𬱟	kDefinition	quiet
 U+2CC63 𬱣	kDefinition	ugly, to bend (or lower) of one's head
+U+2CC66 𬱦	kDefinition	ugly; physical or moral deformity; the mask worn by an exorcist
 U+2CC6C 𬱬	kDefinition	to shake one's head
 U+2CC6E 𬱮	kDefinition	sunken eyes, a hollow
 U+2CC6F 𬱯	kDefinition	the eldest son, to give birth to the first child
@@ -22178,6 +22346,7 @@ U+2CCFA 𬳺	kDefinition	to drive; hasten; navigate
 U+2CCFD 𬳽	kDefinition	crowd
 U+2CD01 𬴁	kDefinition	white from forehead to lips of a horse, reddish (of a horse head), horse head
 U+2CD02 𬴂	kDefinition	horse; run
+U+2CD03 𬴃	kDefinition	the sound of a knife cracking or breaking something; suddenly
 U+2CD05 𬴅	kDefinition	loud, noisy, boisterous; fight
 U+2CD0B 𬴋	kDefinition	black (horse)
 U+2CD10 𬴐	kDefinition	happy, pleased, glad; joy; to enjoy
@@ -22197,7 +22366,7 @@ U+2CDEF 𬷯	kDefinition	species of falcon
 U+2CE05 𬸅	kDefinition	chick, fledging; infant, toddler
 U+2CE0A 𬸊	kDefinition	hoopoe
 U+2CE15 𬸕	kDefinition	the mango-bird; the Chinese oriole
-U+2CE1A 𬸚	kDefinition	a large, duck-like waterfowl with red eyes; a young phoenix
+U+2CE1A 𬸚	kDefinition	a legendary waterfowl; a young phoenix
 U+2CE20 𬸠	kDefinition	a goose
 U+2CE23 𬸣	kDefinition	to soar
 U+2CE26 𬸦	kDefinition	phoenix
@@ -22280,7 +22449,7 @@ U+2EB1E 𮬞	kDefinition	a long narrow fish Trichiurus armatus
 U+2EB1F 𮬟	kDefinition	a kind of fish; small fish; fry, a large amphibious creature, something like the newt but very much larger
 U+2EB20 𮬠	kDefinition	a kind of fish
 U+2EB21 𮬡	kDefinition	a kind of fish; a flashing fly-fish in legend
-U+2EB22 𮬢	kDefinition	a kind of fish; live in the ocean
+U+2EB22 𮬢	kDefinition	stocky hawkfish (Cirrhitus pinnulatus)
 U+2EB23 𮬣	kDefinition	a kind of fish; with long and flat body; small mouth and pointed lips
 U+2EB61 𮭡	kDefinition	a kind of bird
 U+2EB62 𮭢	kDefinition	a legendary bird
@@ -22554,14 +22723,14 @@ U+30F58 𰽘	kDefinition	fetters; to fetter
 U+30F5A 𰽚	kDefinition	mine; mineral, ore
 U+30F5E 𰽞	kDefinition	(Cant.) bracelet; bangle
 U+30F62 𰽢	kDefinition	small chisel
-U+30F69 𰽩	kDefinition	cadmium
+U+30F69 𰽩	kDefinition	cadmium (element 48, Cd)
 U+30F6B 𰽫	kDefinition	(Cant.) to rust
 U+30F6C 𰽬	kDefinition	the bells on the cart in ancient China
 U+30F75 𰽵	kDefinition	point of a sword
 U+30F78 𰽸	kDefinition	to split; to slash or rip open (by means of a knife), jewels or ornaments on a sword, to analyze; to study; to investigate
 U+30F7A 𰽺	kDefinition	agricultural implements; from tools, shining iron, a plectrum from stringed the teeth of a saw
 U+30F7C 𰽼	kDefinition	plate; (Cant.) a penny
-U+30F81 𰾁	kDefinition	element mercury
+U+30F81 𰾁	kDefinition	mercury (element 80, Hg)
 U+30F83 𰾃	kDefinition	fetters, shackles
 U+30F84 𰾄	kDefinition	bit cup
 U+30F86 𰾆	kDefinition	a poker; brass filings; to file
@@ -22577,7 +22746,7 @@ U+30FA4 𰾤	kDefinition	to forge, work
 U+30FA6 𰾦	kDefinition	short spear or lance
 U+30FAA 𰾪	kDefinition	soft steel; ammonium
 U+30FAB 𰾫	kDefinition	mirror, looking glass; reflect
-U+30FAC 𰾬	kDefinition	thallium
+U+30FAC 𰾬	kDefinition	thallium (element 81, Tl)
 U+30FAD 𰾭	kDefinition	ionium
 U+30FAE 𰾮	kDefinition	sickle
 U+30FB8 𰾸	kDefinition	huge tripod of bronze with two ears; sacrificial vessel
@@ -22662,7 +22831,7 @@ U+311EC 𱇬	kDefinition	globefish; blowfish; puffer
 U+311ED 𱇭	kDefinition	to confer; to bestow on an inferior; to reward
 U+311EF 𱇯	kDefinition	an octopus, devilfish
 U+311F0 𱇰	kDefinition	salted fish, globefish; blowfish; puffer
-U+311F1 𱇱	kDefinition	fish
+U+311F1 𱇱	kDefinition	freshwater minnow
 U+311F2 𱇲	kDefinition	globefish; blowfish; puffer
 U+311F3 𱇳	kDefinition	dace; Canton dace
 U+311F7 𱇷	kDefinition	shark

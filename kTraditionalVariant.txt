@@ -50,7 +50,7 @@ U+3CD5 㳕	kTraditionalVariant	U+7061
 U+3CE0 㳠	kTraditionalVariant	U+6FBE
 U+3CE1 㳡	kTraditionalVariant	U+6FC4
 U+3CE2 㳢	kTraditionalVariant	U+23FB7
-U+3CFD 㳽	kTraditionalVariant	U+7030
+U+3CFD 㳽	kTraditionalVariant	U+3CFD U+7030
 U+3D0B 㴋	kTraditionalVariant	U+6F5A
 U+3D89 㶉	kTraditionalVariant	U+9E02
 U+3DB6 㶶	kTraditionalVariant	U+71F6
@@ -146,39 +146,39 @@ U+4D17 䴗	kTraditionalVariant	U+9DAA
 U+4D18 䴘	kTraditionalVariant	U+9DC8 U+9DC9
 U+4D19 䴙	kTraditionalVariant	U+9DFF U+9E0A
 U+4DAE 䶮	kTraditionalVariant	U+9F91
-U+4E07 万	kTraditionalVariant	U+842C
+U+4E07 万	kTraditionalVariant	U+4E07 U+842C
 U+4E0E 与	kTraditionalVariant	U+8207
-U+4E11 丑	kTraditionalVariant	U+919C
+U+4E11 丑	kTraditionalVariant	U+4E11 U+919C
 U+4E13 专	kTraditionalVariant	U+5C08
 U+4E1A 业	kTraditionalVariant	U+696D
 U+4E1B 丛	kTraditionalVariant	U+53E2
 U+4E1C 东	kTraditionalVariant	U+6771
 U+4E1D 丝	kTraditionalVariant	U+7D72
-U+4E22 丢	kTraditionalVariant	U+4E1F
-U+4E24 两	kTraditionalVariant	U+5169
+U+4E22 丢	kTraditionalVariant	U+4E1F U+4E22
+U+4E24 两	kTraditionalVariant	U+4E24 U+5169
 U+4E25 严	kTraditionalVariant	U+56B4
 U+4E27 丧	kTraditionalVariant	U+55AA
-U+4E2A 个	kTraditionalVariant	U+500B
-U+4E30 丰	kTraditionalVariant	U+8C50
+U+4E2A 个	kTraditionalVariant	U+4E2A U+500B
+U+4E30 丰	kTraditionalVariant	U+4E30 U+8C50
 U+4E34 临	kTraditionalVariant	U+81E8
 U+4E3A 为	kTraditionalVariant	U+70BA
 U+4E3D 丽	kTraditionalVariant	U+9E97
 U+4E3E 举	kTraditionalVariant	U+8209
-U+4E48 么	kTraditionalVariant	U+5E7A U+9EBC U+9EBD
-U+4E49 义	kTraditionalVariant	U+7FA9
+U+4E48 么	kTraditionalVariant	U+4E48 U+5E7A U+9EBC U+9EBD
+U+4E49 义	kTraditionalVariant	U+4E49 U+7FA9
 U+4E4C 乌	kTraditionalVariant	U+70CF
-U+4E50 乐	kTraditionalVariant	U+6A02
-U+4E54 乔	kTraditionalVariant	U+55AC
+U+4E50 乐	kTraditionalVariant	U+4E50 U+6A02
+U+4E54 乔	kTraditionalVariant	U+4E54 U+55AC
 U+4E60 习	kTraditionalVariant	U+7FD2
 U+4E61 乡	kTraditionalVariant	U+9109
 U+4E66 书	kTraditionalVariant	U+66F8
 U+4E70 买	kTraditionalVariant	U+8CB7
-U+4E71 乱	kTraditionalVariant	U+4E82
+U+4E71 乱	kTraditionalVariant	U+4E71 U+4E82
 U+4E7E 乾	kTraditionalVariant	U+4E7E
-U+4E86 了	kTraditionalVariant	U+77AD
-U+4E89 争	kTraditionalVariant	U+722D
-U+4E8E 于	kTraditionalVariant	U+65BC
-U+4E8F 亏	kTraditionalVariant	U+8667
+U+4E86 了	kTraditionalVariant	U+4E86 U+77AD
+U+4E89 争	kTraditionalVariant	U+4E89 U+722D
+U+4E8E 于	kTraditionalVariant	U+4E8E U+65BC
+U+4E8F 亏	kTraditionalVariant	U+4E8F U+8667
 U+4E91 云	kTraditionalVariant	U+4E91 U+96F2
 U+4E9A 亚	kTraditionalVariant	U+4E9E
 U+4EA7 产	kTraditionalVariant	U+7522
@@ -187,66 +187,66 @@ U+4EB2 亲	kTraditionalVariant	U+89AA
 U+4EB5 亵	kTraditionalVariant	U+893B
 U+4EB8 亸	kTraditionalVariant	U+56B2
 U+4EBF 亿	kTraditionalVariant	U+5104
-U+4EC5 仅	kTraditionalVariant	U+50C5
-U+4EC6 仆	kTraditionalVariant	U+50D5
-U+4ECE 从	kTraditionalVariant	U+5F9E
+U+4EC5 仅	kTraditionalVariant	U+4EC5 U+50C5
+U+4EC6 仆	kTraditionalVariant	U+4EC6 U+50D5
+U+4ECE 从	kTraditionalVariant	U+4ECE U+5F9E
 U+4ED1 仑	kTraditionalVariant	U+4F96
 U+4ED3 仓	kTraditionalVariant	U+5009
-U+4EEA 仪	kTraditionalVariant	U+5100
+U+4EEA 仪	kTraditionalVariant	U+4EEA U+5100
 U+4EEC 们	kTraditionalVariant	U+5011
-U+4EF7 价	kTraditionalVariant	U+50F9
-U+4F17 众	kTraditionalVariant	U+773E
-U+4F18 优	kTraditionalVariant	U+512A
-U+4F19 伙	kTraditionalVariant	U+5925
-U+4F1A 会	kTraditionalVariant	U+6703
+U+4EF7 价	kTraditionalVariant	U+4EF7 U+50F9
+U+4F17 众	kTraditionalVariant	U+4F17 U+773E
+U+4F18 优	kTraditionalVariant	U+4F18 U+512A
+U+4F19 伙	kTraditionalVariant	U+4F19 U+5925
+U+4F1A 会	kTraditionalVariant	U+4F1A U+6703
 U+4F1B 伛	kTraditionalVariant	U+50B4
 U+4F1E 伞	kTraditionalVariant	U+5098
 U+4F1F 伟	kTraditionalVariant	U+5049
 U+4F20 传	kTraditionalVariant	U+50B3
 U+4F21 伡	kTraditionalVariant	U+4FE5
 U+4F23 伣	kTraditionalVariant	U+4FD4
-U+4F24 伤	kTraditionalVariant	U+50B7
+U+4F24 伤	kTraditionalVariant	U+4F24 U+50B7
 U+4F25 伥	kTraditionalVariant	U+5000
 U+4F26 伦	kTraditionalVariant	U+502B
 U+4F27 伧	kTraditionalVariant	U+5096
 U+4F2A 伪	kTraditionalVariant	U+507D U+50DE
 U+4F2B 伫	kTraditionalVariant	U+4F47
-U+4F53 体	kTraditionalVariant	U+9AD4
+U+4F53 体	kTraditionalVariant	U+4F53 U+9AD4
 U+4F59 余	kTraditionalVariant	U+4F59 U+9918
-U+4F63 佣	kTraditionalVariant	U+50AD
+U+4F63 佣	kTraditionalVariant	U+4F63 U+50AD
 U+4F65 佥	kTraditionalVariant	U+50C9
-U+4FA0 侠	kTraditionalVariant	U+4FE0
+U+4FA0 侠	kTraditionalVariant	U+4FA0 U+4FE0
 U+4FA3 侣	kTraditionalVariant	U+4FB6
 U+4FA5 侥	kTraditionalVariant	U+50E5
 U+4FA6 侦	kTraditionalVariant	U+5075
 U+4FA7 侧	kTraditionalVariant	U+5074
 U+4FA8 侨	kTraditionalVariant	U+50D1
-U+4FA9 侩	kTraditionalVariant	U+5108
+U+4FA9 侩	kTraditionalVariant	U+4FA9 U+5108
 U+4FAA 侪	kTraditionalVariant	U+5115
 U+4FAC 侬	kTraditionalVariant	U+5102
 U+4FE3 俣	kTraditionalVariant	U+4FC1
-U+4FE6 俦	kTraditionalVariant	U+5114
+U+4FE6 俦	kTraditionalVariant	U+4FE6 U+5114
 U+4FE8 俨	kTraditionalVariant	U+513C
 U+4FE9 俩	kTraditionalVariant	U+5006
 U+4FEA 俪	kTraditionalVariant	U+5137
 U+4FEB 俫	kTraditionalVariant	U+5008
 U+4FED 俭	kTraditionalVariant	U+5109
-U+501F 借	kTraditionalVariant	U+85C9
+U+501F 借	kTraditionalVariant	U+501F U+85C9
 U+503A 债	kTraditionalVariant	U+50B5
 U+503E 倾	kTraditionalVariant	U+50BE
-U+506C 偬	kTraditionalVariant	U+50AF
-U+507B 偻	kTraditionalVariant	U+50C2
+U+506C 偬	kTraditionalVariant	U+506C U+50AF
+U+507B 偻	kTraditionalVariant	U+507B U+50C2
 U+507E 偾	kTraditionalVariant	U+50E8
 U+507F 偿	kTraditionalVariant	U+511F
 U+50A5 傥	kTraditionalVariant	U+513B
 U+50A7 傧	kTraditionalVariant	U+5110
 U+50A8 储	kTraditionalVariant	U+5132
 U+50A9 傩	kTraditionalVariant	U+513A
-U+513F 儿	kTraditionalVariant	U+5152
-U+514B 克	kTraditionalVariant	U+524B
-U+5151 兑	kTraditionalVariant	U+514C
+U+513F 儿	kTraditionalVariant	U+513F U+5152
+U+514B 克	kTraditionalVariant	U+514B U+524B
+U+5151 兑	kTraditionalVariant	U+514C U+5151
 U+5156 兖	kTraditionalVariant	U+5157
-U+515A 党	kTraditionalVariant	U+9EE8
+U+515A 党	kTraditionalVariant	U+515A U+9EE8
 U+5170 兰	kTraditionalVariant	U+862D
 U+5173 关	kTraditionalVariant	U+95DC
 U+5174 兴	kTraditionalVariant	U+8208
@@ -254,115 +254,115 @@ U+5179 兹	kTraditionalVariant	U+8332
 U+517B 养	kTraditionalVariant	U+990A
 U+517D 兽	kTraditionalVariant	U+7378
 U+5181 冁	kTraditionalVariant	U+56C5
-U+5185 内	kTraditionalVariant	U+5167
+U+5185 内	kTraditionalVariant	U+5167 U+5185
 U+5188 冈	kTraditionalVariant	U+5CA1
-U+518C 册	kTraditionalVariant	U+518A
+U+518C 册	kTraditionalVariant	U+518A U+518C
 U+5199 写	kTraditionalVariant	U+5BEB
 U+519B 军	kTraditionalVariant	U+8ECD
 U+519C 农	kTraditionalVariant	U+8FB2
-U+51AC 冬	kTraditionalVariant	U+9F15
+U+51AC 冬	kTraditionalVariant	U+51AC U+9F15
 U+51AF 冯	kTraditionalVariant	U+99AE
-U+51B2 冲	kTraditionalVariant	U+6C96 U+885D
+U+51B2 冲	kTraditionalVariant	U+51B2 U+6C96 U+885D
 U+51B3 决	kTraditionalVariant	U+6C7A
-U+51B5 况	kTraditionalVariant	U+6CC1
+U+51B5 况	kTraditionalVariant	U+51B5 U+6CC1
 U+51BB 冻	kTraditionalVariant	U+51CD
 U+51C0 净	kTraditionalVariant	U+51C8
-U+51C6 准	kTraditionalVariant	U+6E96
-U+51C9 凉	kTraditionalVariant	U+6DBC
-U+51CF 减	kTraditionalVariant	U+6E1B
-U+51D1 凑	kTraditionalVariant	U+6E4A
+U+51C6 准	kTraditionalVariant	U+51C6 U+6E96
+U+51C9 凉	kTraditionalVariant	U+51C9 U+6DBC
+U+51CF 减	kTraditionalVariant	U+51CF U+6E1B
+U+51D1 凑	kTraditionalVariant	U+51D1 U+6E4A
 U+51DB 凛	kTraditionalVariant	U+51DC
-U+51E0 几	kTraditionalVariant	U+5E7E
-U+51E4 凤	kTraditionalVariant	U+9CF3
+U+51E0 几	kTraditionalVariant	U+51E0 U+5E7E
+U+51E4 凤	kTraditionalVariant	U+51E4 U+9CF3
 U+51EB 凫	kTraditionalVariant	U+9CE7
-U+51ED 凭	kTraditionalVariant	U+6191
+U+51ED 凭	kTraditionalVariant	U+51ED U+6191
 U+51EF 凯	kTraditionalVariant	U+51F1
 U+51FA 出	kTraditionalVariant	U+51FA U+9F63
 U+51FB 击	kTraditionalVariant	U+64CA
 U+51FF 凿	kTraditionalVariant	U+947F
 U+520D 刍	kTraditionalVariant	U+82BB
-U+5212 划	kTraditionalVariant	U+5283
-U+5218 刘	kTraditionalVariant	U+5289
+U+5212 划	kTraditionalVariant	U+5212 U+5283
+U+5218 刘	kTraditionalVariant	U+5218 U+5289
 U+5219 则	kTraditionalVariant	U+5247
 U+521A 刚	kTraditionalVariant	U+525B
 U+521B 创	kTraditionalVariant	U+5275
-U+5220 删	kTraditionalVariant	U+522A
-U+522B 别	kTraditionalVariant	U+5225
+U+5220 删	kTraditionalVariant	U+5220 U+522A
+U+522B 别	kTraditionalVariant	U+5225 U+522B
 U+522C 刬	kTraditionalVariant	U+5257
 U+522D 刭	kTraditionalVariant	U+5244
-U+522E 刮	kTraditionalVariant	U+98B3
-U+5236 制	kTraditionalVariant	U+88FD
-U+5239 刹	kTraditionalVariant	U+524E
+U+522E 刮	kTraditionalVariant	U+522E U+98B3
+U+5236 制	kTraditionalVariant	U+5236 U+88FD
+U+5239 刹	kTraditionalVariant	U+5239 U+524E
 U+523D 刽	kTraditionalVariant	U+528A
-U+523E 刾	kTraditionalVariant	U+34E8
+U+523E 刾	kTraditionalVariant	U+34E8 U+523E
 U+523F 刿	kTraditionalVariant	U+528C
 U+5240 剀	kTraditionalVariant	U+5274
 U+5242 剂	kTraditionalVariant	U+5291
 U+5250 剐	kTraditionalVariant	U+526E
 U+5251 剑	kTraditionalVariant	U+528D
 U+5265 剥	kTraditionalVariant	U+525D
-U+5267 剧	kTraditionalVariant	U+5287
-U+529D 劝	kTraditionalVariant	U+52F8
-U+529E 办	kTraditionalVariant	U+8FA6
+U+5267 剧	kTraditionalVariant	U+5267 U+5287
+U+529D 劝	kTraditionalVariant	U+529D U+52F8
+U+529E 办	kTraditionalVariant	U+529E U+8FA6
 U+52A1 务	kTraditionalVariant	U+52D9
 U+52A2 劢	kTraditionalVariant	U+52F1
-U+52A8 动	kTraditionalVariant	U+52D5
-U+52B1 励	kTraditionalVariant	U+52F5
+U+52A8 动	kTraditionalVariant	U+52A8 U+52D5
+U+52B1 励	kTraditionalVariant	U+52B1 U+52F5
 U+52B2 劲	kTraditionalVariant	U+52C1
-U+52B3 劳	kTraditionalVariant	U+52DE
-U+52BF 势	kTraditionalVariant	U+52E2
+U+52B3 劳	kTraditionalVariant	U+52B3 U+52DE
+U+52BF 势	kTraditionalVariant	U+52BF U+52E2
 U+52CB 勋	kTraditionalVariant	U+52DB
 U+52DA 勚	kTraditionalVariant	U+52E9
-U+5300 匀	kTraditionalVariant	U+52FB
+U+5300 匀	kTraditionalVariant	U+52FB U+5300
 U+5326 匦	kTraditionalVariant	U+532D
 U+532E 匮	kTraditionalVariant	U+5331
-U+533A 区	kTraditionalVariant	U+5340
-U+533B 医	kTraditionalVariant	U+91AB
-U+5343 千	kTraditionalVariant	U+97C6
+U+533A 区	kTraditionalVariant	U+533A U+5340
+U+533B 医	kTraditionalVariant	U+533B U+91AB
+U+5343 千	kTraditionalVariant	U+5343 U+97C6
 U+534E 华	kTraditionalVariant	U+83EF
 U+534F 协	kTraditionalVariant	U+5354
-U+5355 单	kTraditionalVariant	U+55AE
+U+5355 单	kTraditionalVariant	U+5355 U+55AE
 U+5356 卖	kTraditionalVariant	U+8CE3
-U+535C 卜	kTraditionalVariant	U+8514
+U+535C 卜	kTraditionalVariant	U+535C U+8514
 U+5362 卢	kTraditionalVariant	U+76E7
 U+5364 卤	kTraditionalVariant	U+9E75
 U+536B 卫	kTraditionalVariant	U+885B
-U+5374 却	kTraditionalVariant	U+537B
-U+5377 卷	kTraditionalVariant	U+6372
-U+5382 厂	kTraditionalVariant	U+5EE0
+U+5374 却	kTraditionalVariant	U+5374 U+537B
+U+5377 卷	kTraditionalVariant	U+5377 U+6372
+U+5382 厂	kTraditionalVariant	U+5382 U+5EE0
 U+5385 厅	kTraditionalVariant	U+5EF3
-U+5386 历	kTraditionalVariant	U+66C6 U+6B77
-U+5389 厉	kTraditionalVariant	U+53B2
-U+538B 压	kTraditionalVariant	U+58D3
+U+5386 历	kTraditionalVariant	U+5386 U+66C6 U+6B77
+U+5389 厉	kTraditionalVariant	U+5389 U+53B2
+U+538B 压	kTraditionalVariant	U+538B U+58D3
 U+538C 厌	kTraditionalVariant	U+53AD
 U+538D 厍	kTraditionalVariant	U+5399
 U+5390 厐	kTraditionalVariant	U+9F8E
 U+5395 厕	kTraditionalVariant	U+5EC1
-U+5398 厘	kTraditionalVariant	U+91D0
+U+5398 厘	kTraditionalVariant	U+5398 U+91D0
 U+53A2 厢	kTraditionalVariant	U+5EC2
 U+53A3 厣	kTraditionalVariant	U+53B4
-U+53A6 厦	kTraditionalVariant	U+5EC8
-U+53A8 厨	kTraditionalVariant	U+5EDA
-U+53A9 厩	kTraditionalVariant	U+5EC4
-U+53AE 厮	kTraditionalVariant	U+5EDD
+U+53A6 厦	kTraditionalVariant	U+53A6 U+5EC8
+U+53A8 厨	kTraditionalVariant	U+53A8 U+5EDA
+U+53A9 厩	kTraditionalVariant	U+53A9 U+5EC4
+U+53AE 厮	kTraditionalVariant	U+53AE U+5EDD
 U+53BF 县	kTraditionalVariant	U+7E23
 U+53C1 叁	kTraditionalVariant	U+53C4
-U+53C2 参	kTraditionalVariant	U+53C3
+U+53C2 参	kTraditionalVariant	U+53C2 U+53C3
 U+53C6 叆	kTraditionalVariant	U+9749
 U+53C7 叇	kTraditionalVariant	U+9746
-U+53CC 双	kTraditionalVariant	U+96D9
+U+53CC 双	kTraditionalVariant	U+53CC U+96D9
 U+53D1 发	kTraditionalVariant	U+767C U+9AEE
 U+53D8 变	kTraditionalVariant	U+8B8A
-U+53D9 叙	kTraditionalVariant	U+6558
-U+53E0 叠	kTraditionalVariant	U+758A
-U+53EA 只	kTraditionalVariant	U+53EA U+96BB
+U+53D9 叙	kTraditionalVariant	U+53D9 U+6558
+U+53E0 叠	kTraditionalVariant	U+53E0 U+758A
+U+53EA 只	kTraditionalVariant	U+53EA U+6220 U+96BB
 U+53F0 台	kTraditionalVariant	U+53F0 U+6AAF U+81FA U+98B1
-U+53F6 叶	kTraditionalVariant	U+8449
-U+53F7 号	kTraditionalVariant	U+865F
+U+53F6 叶	kTraditionalVariant	U+53F6 U+8449
+U+53F7 号	kTraditionalVariant	U+53F7 U+865F
 U+53F9 叹	kTraditionalVariant	U+5606
 U+53FD 叽	kTraditionalVariant	U+5630
-U+5401 吁	kTraditionalVariant	U+7C72
-U+5408 合	kTraditionalVariant	U+95A4
+U+5401 吁	kTraditionalVariant	U+5401 U+7C72
+U+5408 合	kTraditionalVariant	U+5408 U+95A4
 U+540C 同	kTraditionalVariant	U+540C U+8855
 U+540E 后	kTraditionalVariant	U+540E U+5F8C
 U+5411 向	kTraditionalVariant	U+5411 U+66CF
@@ -371,9 +371,9 @@ U+5415 吕	kTraditionalVariant	U+5442
 U+5417 吗	kTraditionalVariant	U+55CE
 U+5423 吣	kTraditionalVariant	U+551A
 U+5428 吨	kTraditionalVariant	U+5678
-U+542C 听	kTraditionalVariant	U+807D
+U+542C 听	kTraditionalVariant	U+542C U+807D
 U+542F 启	kTraditionalVariant	U+555F
-U+5434 吴	kTraditionalVariant	U+5433
+U+5434 吴	kTraditionalVariant	U+5433 U+5434
 U+5450 呐	kTraditionalVariant	U+5436
 U+5452 呒	kTraditionalVariant	U+5638
 U+5453 呓	kTraditionalVariant	U+56C8
@@ -384,13 +384,13 @@ U+5458 员	kTraditionalVariant	U+54E1
 U+5459 呙	kTraditionalVariant	U+54BC
 U+545B 呛	kTraditionalVariant	U+55C6
 U+545C 呜	kTraditionalVariant	U+55DA
-U+548F 咏	kTraditionalVariant	U+8A60
+U+548F 咏	kTraditionalVariant	U+548F U+8A60
 U+5499 咙	kTraditionalVariant	U+56A8
 U+549B 咛	kTraditionalVariant	U+5680
 U+549D 咝	kTraditionalVariant	U+565D
-U+54A4 咤	kTraditionalVariant	U+5412
-U+54B8 咸	kTraditionalVariant	U+9E79
-U+54CD 响	kTraditionalVariant	U+97FF
+U+54A4 咤	kTraditionalVariant	U+5412 U+54A4
+U+54B8 咸	kTraditionalVariant	U+54B8 U+9E79
+U+54CD 响	kTraditionalVariant	U+54CD U+97FF
 U+54D1 哑	kTraditionalVariant	U+555E
 U+54D2 哒	kTraditionalVariant	U+5660
 U+54D3 哓	kTraditionalVariant	U+5635
@@ -412,37 +412,37 @@ U+556C 啬	kTraditionalVariant	U+55C7
 U+556D 啭	kTraditionalVariant	U+56C0
 U+556E 啮	kTraditionalVariant	U+5699
 U+556F 啯	kTraditionalVariant	U+5613
-U+5570 啰	kTraditionalVariant	U+56C9
+U+5570 啰	kTraditionalVariant	U+5570 U+56C9
 U+5574 啴	kTraditionalVariant	U+563D
 U+5578 啸	kTraditionalVariant	U+562F
 U+55B7 喷	kTraditionalVariant	U+5674
-U+55BD 喽	kTraditionalVariant	U+560D
+U+55BD 喽	kTraditionalVariant	U+55BD U+560D
 U+55BE 喾	kTraditionalVariant	U+56B3
 U+55EB 嗫	kTraditionalVariant	U+56C1
 U+55F3 嗳	kTraditionalVariant	U+566F
 U+5618 嘘	kTraditionalVariant	U+5653
 U+5624 嘤	kTraditionalVariant	U+56B6
-U+5631 嘱	kTraditionalVariant	U+56D1
+U+5631 嘱	kTraditionalVariant	U+5631 U+56D1
 U+565C 噜	kTraditionalVariant	U+5695
 U+56A3 嚣	kTraditionalVariant	U+56C2
-U+56DE 回	kTraditionalVariant	U+8FF4
+U+56DE 回	kTraditionalVariant	U+56DE U+8FF4
 U+56E2 团	kTraditionalVariant	U+5718
-U+56ED 园	kTraditionalVariant	U+5712
-U+56F0 困	kTraditionalVariant	U+774F
+U+56ED 园	kTraditionalVariant	U+56ED U+5712
+U+56F0 困	kTraditionalVariant	U+56F0 U+774F
 U+56F1 囱	kTraditionalVariant	U+56EA
 U+56F4 围	kTraditionalVariant	U+570D
 U+56F5 囵	kTraditionalVariant	U+5707
 U+56FD 国	kTraditionalVariant	U+570B
-U+56FE 图	kTraditionalVariant	U+5716
+U+56FE 图	kTraditionalVariant	U+56FE U+5716
 U+5706 圆	kTraditionalVariant	U+5713
 U+5723 圣	kTraditionalVariant	U+8056
 U+5739 圹	kTraditionalVariant	U+58D9
 U+573A 场	kTraditionalVariant	U+5834
-U+5742 坂	kTraditionalVariant	U+962A
-U+574F 坏	kTraditionalVariant	U+58DE
-U+5757 块	kTraditionalVariant	U+584A
+U+5742 坂	kTraditionalVariant	U+5742 U+962A
+U+574F 坏	kTraditionalVariant	U+574F U+58DE
+U+5757 块	kTraditionalVariant	U+5757 U+584A
 U+575A 坚	kTraditionalVariant	U+5805
-U+575B 坛	kTraditionalVariant	U+58C7 U+7F48
+U+575B 坛	kTraditionalVariant	U+575B U+58C7 U+7F48
 U+575C 坜	kTraditionalVariant	U+58E2
 U+575D 坝	kTraditionalVariant	U+58E9
 U+575E 坞	kTraditionalVariant	U+5862
@@ -465,20 +465,21 @@ U+57D9 埙	kTraditionalVariant	U+5864
 U+57DA 埚	kTraditionalVariant	U+581D
 U+57EF 埯	kTraditionalVariant	U+57B5
 U+5811 堑	kTraditionalVariant	U+5879
-U+5815 堕	kTraditionalVariant	U+58AE
+U+5815 堕	kTraditionalVariant	U+5815 U+58AE
 U+5846 塆	kTraditionalVariant	U+58EA
 U+5899 墙	kTraditionalVariant	U+7246
-U+58EE 壮	kTraditionalVariant	U+58EF
-U+58F0 声	kTraditionalVariant	U+8072
-U+58F3 壳	kTraditionalVariant	U+6BBC
+U+58EE 壮	kTraditionalVariant	U+58EE U+58EF
+U+58F0 声	kTraditionalVariant	U+58F0 U+8072
+U+58F3 壳	kTraditionalVariant	U+58F3 U+6BBC
 U+58F6 壶	kTraditionalVariant	U+58FA
 U+58F8 壸	kTraditionalVariant	U+58FC
 U+5904 处	kTraditionalVariant	U+8655
 U+5907 备	kTraditionalVariant	U+5099
-U+590D 复	kTraditionalVariant	U+5FA9 U+8907 U+8986
-U+591F 够	kTraditionalVariant	U+5920
-U+5934 头	kTraditionalVariant	U+982D
-U+5938 夸	kTraditionalVariant	U+8A87
+U+590D 复	kTraditionalVariant	U+590D U+5FA9 U+8907 U+8986
+U+591F 够	kTraditionalVariant	U+591F U+5920
+U+5925 夥	kTraditionalVariant	U+5925
+U+5934 头	kTraditionalVariant	U+5934 U+982D
+U+5938 夸	kTraditionalVariant	U+5938 U+8A87
 U+5939 夹	kTraditionalVariant	U+593E
 U+593A 夺	kTraditionalVariant	U+596A
 U+5941 奁	kTraditionalVariant	U+5969
@@ -487,22 +488,22 @@ U+594B 奋	kTraditionalVariant	U+596E
 U+5956 奖	kTraditionalVariant	U+734E
 U+5965 奥	kTraditionalVariant	U+5967
 U+5968 奨	kTraditionalVariant	U+596C
-U+5978 奸	kTraditionalVariant	U+59E6
+U+5978 奸	kTraditionalVariant	U+5978 U+59E6
 U+5986 妆	kTraditionalVariant	U+599D
 U+5987 妇	kTraditionalVariant	U+5A66
 U+5988 妈	kTraditionalVariant	U+5ABD
 U+59A9 妩	kTraditionalVariant	U+5AF5
 U+59AA 妪	kTraditionalVariant	U+5AD7
 U+59AB 妫	kTraditionalVariant	U+5AAF
-U+59D7 姗	kTraditionalVariant	U+59CD
-U+59DC 姜	kTraditionalVariant	U+8591
-U+59F9 姹	kTraditionalVariant	U+597C
-U+5A04 娄	kTraditionalVariant	U+5A41
+U+59D7 姗	kTraditionalVariant	U+59CD U+59D7
+U+59DC 姜	kTraditionalVariant	U+59DC U+8591
+U+59F9 姹	kTraditionalVariant	U+597C U+59F9
+U+5A04 娄	kTraditionalVariant	U+5A04 U+5A41
 U+5A05 娅	kTraditionalVariant	U+5A6D
 U+5A06 娆	kTraditionalVariant	U+5B08
-U+5A07 娇	kTraditionalVariant	U+5B0C
-U+5A08 娈	kTraditionalVariant	U+5B4C
-U+5A31 娱	kTraditionalVariant	U+5A1B
+U+5A07 娇	kTraditionalVariant	U+5A07 U+5B0C
+U+5A08 娈	kTraditionalVariant	U+5A08 U+5B4C
+U+5A31 娱	kTraditionalVariant	U+5A1B U+5A31
 U+5A32 娲	kTraditionalVariant	U+5AA7
 U+5A34 娴	kTraditionalVariant	U+5AFB
 U+5A73 婳	kTraditionalVariant	U+5AFF
@@ -515,41 +516,41 @@ U+5AD2 嫒	kTraditionalVariant	U+5B21
 U+5AD4 嫔	kTraditionalVariant	U+5B2A
 U+5AF1 嫱	kTraditionalVariant	U+5B19
 U+5B37 嬷	kTraditionalVariant	U+5B24
-U+5B59 孙	kTraditionalVariant	U+5B6B
+U+5B59 孙	kTraditionalVariant	U+5B59 U+5B6B
 U+5B66 学	kTraditionalVariant	U+5B78
-U+5B6A 孪	kTraditionalVariant	U+5B7F
-U+5B81 宁	kTraditionalVariant	U+5BE7
-U+5B9D 宝	kTraditionalVariant	U+5BF6
-U+5B9E 实	kTraditionalVariant	U+5BE6
+U+5B6A 孪	kTraditionalVariant	U+5B6A U+5B7F
+U+5B81 宁	kTraditionalVariant	U+5B81 U+5BE7
+U+5B9D 宝	kTraditionalVariant	U+5B9D U+5BF6
+U+5B9E 实	kTraditionalVariant	U+5B9E U+5BE6
 U+5BA0 宠	kTraditionalVariant	U+5BF5
 U+5BA1 审	kTraditionalVariant	U+5BE9
 U+5BAA 宪	kTraditionalVariant	U+61B2
 U+5BAB 宫	kTraditionalVariant	U+5BAE
-U+5BB6 家	kTraditionalVariant	U+50A2
+U+5BB6 家	kTraditionalVariant	U+50A2 U+5BB6
 U+5BBD 宽	kTraditionalVariant	U+5BEC
-U+5BBE 宾	kTraditionalVariant	U+8CD3
+U+5BBE 宾	kTraditionalVariant	U+5BBE U+8CD3
 U+5BDD 寝	kTraditionalVariant	U+5BE2
-U+5BF9 对	kTraditionalVariant	U+5C0D
+U+5BF9 对	kTraditionalVariant	U+5BF9 U+5C0D
 U+5BFB 寻	kTraditionalVariant	U+5C0B
 U+5BFC 导	kTraditionalVariant	U+5C0E
-U+5BFF 寿	kTraditionalVariant	U+58FD
+U+5BFF 寿	kTraditionalVariant	U+58FD U+5BFF
 U+5C06 将	kTraditionalVariant	U+5C07
-U+5C14 尔	kTraditionalVariant	U+723E
+U+5C14 尔	kTraditionalVariant	U+5C14 U+723E
 U+5C18 尘	kTraditionalVariant	U+5875
-U+5C1D 尝	kTraditionalVariant	U+5617
+U+5C1D 尝	kTraditionalVariant	U+5617 U+5C1D
 U+5C27 尧	kTraditionalVariant	U+582F
 U+5C34 尴	kTraditionalVariant	U+5C37
 U+5C38 尸	kTraditionalVariant	U+5C38 U+5C4D
-U+5C3D 尽	kTraditionalVariant	U+5118 U+76E1
+U+5C3D 尽	kTraditionalVariant	U+5118 U+5C3D U+76E1
 U+5C42 层	kTraditionalVariant	U+5C64
 U+5C43 屃	kTraditionalVariant	U+5C53
 U+5C49 屉	kTraditionalVariant	U+5C5C
-U+5C4A 届	kTraditionalVariant	U+5C46
-U+5C5E 属	kTraditionalVariant	U+5C6C
-U+5C61 屡	kTraditionalVariant	U+5C62
+U+5C4A 届	kTraditionalVariant	U+5C46 U+5C4A
+U+5C5E 属	kTraditionalVariant	U+5C5E U+5C6C
+U+5C61 屡	kTraditionalVariant	U+5C61 U+5C62
 U+5C66 屦	kTraditionalVariant	U+5C68
 U+5C7F 屿	kTraditionalVariant	U+5DBC
-U+5C81 岁	kTraditionalVariant	U+6B72
+U+5C81 岁	kTraditionalVariant	U+5C81 U+6B72
 U+5C82 岂	kTraditionalVariant	U+8C48
 U+5C96 岖	kTraditionalVariant	U+5D87
 U+5C97 岗	kTraditionalVariant	U+5D17
@@ -566,7 +567,7 @@ U+5CE1 峡	kTraditionalVariant	U+5CFD
 U+5CE3 峣	kTraditionalVariant	U+5DA2
 U+5CE4 峤	kTraditionalVariant	U+5DA0
 U+5CE5 峥	kTraditionalVariant	U+5D22
-U+5CE6 峦	kTraditionalVariant	U+5DD2
+U+5CE6 峦	kTraditionalVariant	U+5CE6 U+5DD2
 U+5D02 崂	kTraditionalVariant	U+5D97
 U+5D03 崃	kTraditionalVariant	U+5D0D
 U+5D04 崄	kTraditionalVariant	U+5DAE
@@ -579,54 +580,54 @@ U+5DE9 巩	kTraditionalVariant	U+978F
 U+5DEF 巯	kTraditionalVariant	U+5DF0
 U+5E01 币	kTraditionalVariant	U+5E63
 U+5E05 帅	kTraditionalVariant	U+5E25
-U+5E08 师	kTraditionalVariant	U+5E2B
+U+5E08 师	kTraditionalVariant	U+5E08 U+5E2B
 U+5E0F 帏	kTraditionalVariant	U+5E43
 U+5E10 帐	kTraditionalVariant	U+5E33
-U+5E18 帘	kTraditionalVariant	U+7C3E
+U+5E18 帘	kTraditionalVariant	U+5E18 U+7C3E
 U+5E1C 帜	kTraditionalVariant	U+5E5F
 U+5E26 带	kTraditionalVariant	U+5E36
 U+5E27 帧	kTraditionalVariant	U+5E40
-U+5E2E 帮	kTraditionalVariant	U+5E6B
+U+5E2E 帮	kTraditionalVariant	U+5E2E U+5E6B
 U+5E31 帱	kTraditionalVariant	U+5E6C
 U+5E3B 帻	kTraditionalVariant	U+5E58
 U+5E3C 帼	kTraditionalVariant	U+5E57
-U+5E42 幂	kTraditionalVariant	U+51AA
-U+5E72 干	kTraditionalVariant	U+4E7E U+5E79
-U+5E76 并	kTraditionalVariant	U+4E26 U+4F75
-U+5E7F 广	kTraditionalVariant	U+5EE3
-U+5E84 庄	kTraditionalVariant	U+838A
+U+5E42 幂	kTraditionalVariant	U+51AA U+5E42
+U+5E72 干	kTraditionalVariant	U+4E7E U+5E72 U+5E79
+U+5E76 并	kTraditionalVariant	U+4E26 U+4F75 U+5E76
+U+5E7F 广	kTraditionalVariant	U+5E7F U+5EE3
+U+5E84 庄	kTraditionalVariant	U+5E84 U+838A
 U+5E86 庆	kTraditionalVariant	U+6176
-U+5E90 庐	kTraditionalVariant	U+5EEC
+U+5E90 庐	kTraditionalVariant	U+5E90 U+5EEC
 U+5E91 庑	kTraditionalVariant	U+5EE1
 U+5E93 库	kTraditionalVariant	U+5EAB
-U+5E94 应	kTraditionalVariant	U+61C9
-U+5E99 庙	kTraditionalVariant	U+5EDF
+U+5E94 应	kTraditionalVariant	U+5E94 U+61C9
+U+5E99 庙	kTraditionalVariant	U+5E99 U+5EDF
 U+5E9E 庞	kTraditionalVariant	U+9F90
 U+5E9F 废	kTraditionalVariant	U+5EE2
 U+5EBC 庼	kTraditionalVariant	U+5ECE
 U+5EEA 廪	kTraditionalVariant	U+5EE9
-U+5F00 开	kTraditionalVariant	U+958B
+U+5F00 开	kTraditionalVariant	U+5F00 U+958B
 U+5F02 异	kTraditionalVariant	U+7570
-U+5F03 弃	kTraditionalVariant	U+68C4
+U+5F03 弃	kTraditionalVariant	U+5F03 U+68C4
 U+5F11 弑	kTraditionalVariant	U+5F12
 U+5F20 张	kTraditionalVariant	U+5F35
 U+5F25 弥	kTraditionalVariant	U+5F4C
 U+5F2A 弪	kTraditionalVariant	U+5F33
-U+5F2F 弯	kTraditionalVariant	U+5F4E
-U+5F39 弹	kTraditionalVariant	U+5F48
-U+5F3A 强	kTraditionalVariant	U+5F37
-U+5F52 归	kTraditionalVariant	U+6B78
-U+5F53 当	kTraditionalVariant	U+5679 U+7576
+U+5F2F 弯	kTraditionalVariant	U+5F2F U+5F4E
+U+5F39 弹	kTraditionalVariant	U+5F39 U+5F48
+U+5F3A 强	kTraditionalVariant	U+5F37 U+5F3A
+U+5F52 归	kTraditionalVariant	U+5F52 U+6B78
+U+5F53 当	kTraditionalVariant	U+5679 U+5F53 U+7576
 U+5F55 录	kTraditionalVariant	U+9304
 U+5F5D 彝	kTraditionalVariant	U+5F5E
 U+5F5F 彟	kTraditionalVariant	U+5F60
-U+5F66 彦	kTraditionalVariant	U+5F65
+U+5F66 彦	kTraditionalVariant	U+5F65 U+5F66
 U+5F68 彨	kTraditionalVariant	U+5F72
 U+5F7B 彻	kTraditionalVariant	U+5FB9
 U+5F81 征	kTraditionalVariant	U+5F81 U+5FB5
 U+5F84 径	kTraditionalVariant	U+5F91
 U+5F95 徕	kTraditionalVariant	U+5FA0
-U+5FA1 御	kTraditionalVariant	U+79A6
+U+5FA1 御	kTraditionalVariant	U+5FA1 U+79A6
 U+5FA9 復	kTraditionalVariant	U+5FA9
 U+5FB5 徵	kTraditionalVariant	U+5FB5
 U+5FC6 忆	kTraditionalVariant	U+61B6
@@ -634,26 +635,26 @@ U+5FCF 忏	kTraditionalVariant	U+61FA
 U+5FD7 志	kTraditionalVariant	U+5FD7 U+8A8C
 U+5FE7 忧	kTraditionalVariant	U+6182
 U+5FFE 忾	kTraditionalVariant	U+613E
-U+6000 怀	kTraditionalVariant	U+61F7
+U+6000 怀	kTraditionalVariant	U+6000 U+61F7
 U+6001 态	kTraditionalVariant	U+614B
 U+6002 怂	kTraditionalVariant	U+616B
 U+6003 怃	kTraditionalVariant	U+61AE
 U+6004 怄	kTraditionalVariant	U+616A
 U+6005 怅	kTraditionalVariant	U+60B5
 U+6006 怆	kTraditionalVariant	U+6134
-U+601C 怜	kTraditionalVariant	U+6190
+U+601C 怜	kTraditionalVariant	U+601C U+6190
 U+603B 总	kTraditionalVariant	U+7E3D
 U+603C 怼	kTraditionalVariant	U+61DF
 U+603F 怿	kTraditionalVariant	U+61CC
-U+604B 恋	kTraditionalVariant	U+6200
-U+6052 恒	kTraditionalVariant	U+6046
+U+604B 恋	kTraditionalVariant	U+604B U+6200
+U+6052 恒	kTraditionalVariant	U+6046 U+6052
 U+6073 恳	kTraditionalVariant	U+61C7
 U+6076 恶	kTraditionalVariant	U+60E1
 U+6078 恸	kTraditionalVariant	U+615F
 U+6079 恹	kTraditionalVariant	U+61E8
 U+607A 恺	kTraditionalVariant	U+6137
 U+607B 恻	kTraditionalVariant	U+60FB
-U+607C 恼	kTraditionalVariant	U+60F1
+U+607C 恼	kTraditionalVariant	U+607C U+60F1
 U+607D 恽	kTraditionalVariant	U+60F2
 U+60A6 悦	kTraditionalVariant	U+6085
 U+60AB 悫	kTraditionalVariant	U+6128
@@ -662,15 +663,15 @@ U+60AD 悭	kTraditionalVariant	U+6173
 U+60AE 悮	kTraditionalVariant	U+609E
 U+60AF 悯	kTraditionalVariant	U+61AB
 U+60CA 惊	kTraditionalVariant	U+9A5A
-U+60E7 惧	kTraditionalVariant	U+61FC
+U+60E7 惧	kTraditionalVariant	U+60E7 U+61FC
 U+60E8 惨	kTraditionalVariant	U+6158
-U+60E9 惩	kTraditionalVariant	U+61F2
+U+60E9 惩	kTraditionalVariant	U+60E9 U+61F2
 U+60EB 惫	kTraditionalVariant	U+618A
 U+60EC 惬	kTraditionalVariant	U+611C
 U+60ED 惭	kTraditionalVariant	U+615A
 U+60EE 惮	kTraditionalVariant	U+619A
 U+60EF 惯	kTraditionalVariant	U+6163
-U+6120 愠	kTraditionalVariant	U+614D
+U+6120 愠	kTraditionalVariant	U+6120 U+614D
 U+6124 愤	kTraditionalVariant	U+61A4
 U+6126 愦	kTraditionalVariant	U+6192
 U+613F 愿	kTraditionalVariant	U+613F U+9858
@@ -681,30 +682,31 @@ U+61D2 懒	kTraditionalVariant	U+61F6
 U+61D4 懔	kTraditionalVariant	U+61CD
 U+6206 戆	kTraditionalVariant	U+6207
 U+620B 戋	kTraditionalVariant	U+6214
-U+620F 戏	kTraditionalVariant	U+6232
+U+620F 戏	kTraditionalVariant	U+620F U+6232
 U+6217 戗	kTraditionalVariant	U+6227
-U+6218 战	kTraditionalVariant	U+6230
+U+6218 战	kTraditionalVariant	U+6218 U+6230
+U+6220 戠	kTraditionalVariant	U+6220
 U+622C 戬	kTraditionalVariant	U+6229
 U+622F 戯	kTraditionalVariant	U+6231
-U+6237 户	kTraditionalVariant	U+6236
-U+624D 才	kTraditionalVariant	U+7E94
-U+6251 扑	kTraditionalVariant	U+64B2
-U+6267 执	kTraditionalVariant	U+57F7
+U+6237 户	kTraditionalVariant	U+6236 U+6237
+U+624D 才	kTraditionalVariant	U+624D U+7E94
+U+6251 扑	kTraditionalVariant	U+6251 U+64B2
+U+6267 执	kTraditionalVariant	U+57F7 U+6267
 U+6269 扩	kTraditionalVariant	U+64F4
 U+626A 扪	kTraditionalVariant	U+636B
 U+626B 扫	kTraditionalVariant	U+6383
 U+626C 扬	kTraditionalVariant	U+63DA
 U+6270 扰	kTraditionalVariant	U+64FE
-U+6298 折	kTraditionalVariant	U+647A
+U+6298 折	kTraditionalVariant	U+6298 U+647A
 U+629A 抚	kTraditionalVariant	U+64AB
-U+629B 抛	kTraditionalVariant	U+62CB
+U+629B 抛	kTraditionalVariant	U+629B U+62CB
 U+629F 抟	kTraditionalVariant	U+6476
 U+62A0 抠	kTraditionalVariant	U+6473
 U+62A1 抡	kTraditionalVariant	U+6384
 U+62A2 抢	kTraditionalVariant	U+6436
 U+62A4 护	kTraditionalVariant	U+8B77
-U+62A5 报	kTraditionalVariant	U+5831
-U+62C5 担	kTraditionalVariant	U+64D4
+U+62A5 报	kTraditionalVariant	U+5831 U+62A5
+U+62C5 担	kTraditionalVariant	U+62C5 U+64D4
 U+62DF 拟	kTraditionalVariant	U+64EC
 U+62E2 拢	kTraditionalVariant	U+650F
 U+62E3 拣	kTraditionalVariant	U+63C0
@@ -713,32 +715,32 @@ U+62E6 拦	kTraditionalVariant	U+6514
 U+62E7 拧	kTraditionalVariant	U+64F0
 U+62E8 拨	kTraditionalVariant	U+64A5
 U+62E9 择	kTraditionalVariant	U+64C7
-U+6302 挂	kTraditionalVariant	U+639B
+U+6302 挂	kTraditionalVariant	U+6302 U+639B
 U+6319 挙	kTraditionalVariant	U+22E01
 U+631A 挚	kTraditionalVariant	U+646F
-U+631B 挛	kTraditionalVariant	U+6523
+U+631B 挛	kTraditionalVariant	U+631B U+6523
 U+631C 挜	kTraditionalVariant	U+6397
 U+631D 挝	kTraditionalVariant	U+64BE
 U+631E 挞	kTraditionalVariant	U+64BB
-U+631F 挟	kTraditionalVariant	U+633E
+U+631F 挟	kTraditionalVariant	U+631F U+633E
 U+6320 挠	kTraditionalVariant	U+6493
-U+6321 挡	kTraditionalVariant	U+64CB
+U+6321 挡	kTraditionalVariant	U+6321 U+64CB
 U+6322 挢	kTraditionalVariant	U+649F
 U+6323 挣	kTraditionalVariant	U+6399
 U+6324 挤	kTraditionalVariant	U+64E0
 U+6325 挥	kTraditionalVariant	U+63EE
 U+6326 挦	kTraditionalVariant	U+648F
-U+633D 挽	kTraditionalVariant	U+8F13
+U+633D 挽	kTraditionalVariant	U+633D U+8F13
 U+635D 捝	kTraditionalVariant	U+6329
 U+635E 捞	kTraditionalVariant	U+6488
 U+635F 损	kTraditionalVariant	U+640D
 U+6361 捡	kTraditionalVariant	U+64BF
 U+6362 换	kTraditionalVariant	U+63DB
 U+6363 捣	kTraditionalVariant	U+6417
-U+636E 据	kTraditionalVariant	U+64DA
+U+636E 据	kTraditionalVariant	U+636E U+64DA
 U+63B3 掳	kTraditionalVariant	U+64C4
 U+63B4 掴	kTraditionalVariant	U+6451
-U+63B7 掷	kTraditionalVariant	U+64F2
+U+63B7 掷	kTraditionalVariant	U+63B7 U+64F2
 U+63B8 掸	kTraditionalVariant	U+64A3
 U+63BA 掺	kTraditionalVariant	U+647B
 U+63BC 掼	kTraditionalVariant	U+645C
@@ -749,15 +751,16 @@ U+6400 搀	kTraditionalVariant	U+6519
 U+6401 搁	kTraditionalVariant	U+64F1
 U+6402 搂	kTraditionalVariant	U+645F
 U+6405 搅	kTraditionalVariant	U+652A
-U+643A 携	kTraditionalVariant	U+651C
+U+643A 携	kTraditionalVariant	U+643A U+651C
 U+6444 摄	kTraditionalVariant	U+651D
 U+6445 摅	kTraditionalVariant	U+6504
-U+6446 摆	kTraditionalVariant	U+64FA
+U+6446 摆	kTraditionalVariant	U+6446 U+64FA
 U+6447 摇	kTraditionalVariant	U+6416
-U+6448 摈	kTraditionalVariant	U+64EF
-U+644A 摊	kTraditionalVariant	U+6524
+U+6448 摈	kTraditionalVariant	U+6448 U+64EF
+U+644A 摊	kTraditionalVariant	U+644A U+6524
+U+647A 摺	kTraditionalVariant	U+647A
 U+6484 撄	kTraditionalVariant	U+6516
-U+6491 撑	kTraditionalVariant	U+6490
+U+6491 撑	kTraditionalVariant	U+6490 U+6491
 U+64B5 撵	kTraditionalVariant	U+6506
 U+64B7 撷	kTraditionalVariant	U+64F7
 U+64B8 撸	kTraditionalVariant	U+64FC
@@ -768,24 +771,24 @@ U+6512 攒	kTraditionalVariant	U+6522
 U+654C 敌	kTraditionalVariant	U+6575
 U+655B 敛	kTraditionalVariant	U+6582
 U+6569 敩	kTraditionalVariant	U+6586
-U+6570 数	kTraditionalVariant	U+6578
-U+658B 斋	kTraditionalVariant	U+9F4B
+U+6570 数	kTraditionalVariant	U+6570 U+6578
+U+658B 斋	kTraditionalVariant	U+658B U+9F4B
 U+6593 斓	kTraditionalVariant	U+6595
-U+6597 斗	kTraditionalVariant	U+9B25
+U+6597 斗	kTraditionalVariant	U+6597 U+9B25
 U+65A9 斩	kTraditionalVariant	U+65AC
-U+65AD 断	kTraditionalVariant	U+65B7
-U+65CB 旋	kTraditionalVariant	U+93C7
-U+65E0 无	kTraditionalVariant	U+7121
+U+65AD 断	kTraditionalVariant	U+65AD U+65B7
+U+65CB 旋	kTraditionalVariant	U+65CB U+93C7
+U+65E0 无	kTraditionalVariant	U+65E0 U+7121
 U+65E7 旧	kTraditionalVariant	U+820A
-U+65F6 时	kTraditionalVariant	U+6642
-U+65F7 旷	kTraditionalVariant	U+66E0
+U+65F6 时	kTraditionalVariant	U+65F6 U+6642
+U+65F7 旷	kTraditionalVariant	U+65F7 U+66E0
 U+65F8 旸	kTraditionalVariant	U+6698
 U+6619 昙	kTraditionalVariant	U+66C7
-U+663C 昼	kTraditionalVariant	U+665D
+U+663C 昼	kTraditionalVariant	U+663C U+665D
 U+663D 昽	kTraditionalVariant	U+66E8
 U+663E 显	kTraditionalVariant	U+986F
-U+664B 晋	kTraditionalVariant	U+6649
-U+6652 晒	kTraditionalVariant	U+66EC
+U+664B 晋	kTraditionalVariant	U+6649 U+664B
+U+6652 晒	kTraditionalVariant	U+6652 U+66EC
 U+6653 晓	kTraditionalVariant	U+66C9
 U+6654 晔	kTraditionalVariant	U+66C4
 U+6655 晕	kTraditionalVariant	U+6688
@@ -794,23 +797,23 @@ U+6682 暂	kTraditionalVariant	U+66AB
 U+6685 暅	kTraditionalVariant	U+23236
 U+66A7 暧	kTraditionalVariant	U+66D6
 U+66F2 曲	kTraditionalVariant	U+66F2 U+9EAF
-U+672F 术	kTraditionalVariant	U+8853
-U+6731 朱	kTraditionalVariant	U+7843
-U+6734 朴	kTraditionalVariant	U+6A38
-U+673A 机	kTraditionalVariant	U+6A5F
+U+672F 术	kTraditionalVariant	U+672F U+8853
+U+6731 朱	kTraditionalVariant	U+6731 U+7843
+U+6734 朴	kTraditionalVariant	U+6734 U+6A38
+U+673A 机	kTraditionalVariant	U+673A U+6A5F
 U+6740 杀	kTraditionalVariant	U+6BBA
 U+6742 杂	kTraditionalVariant	U+96DC
-U+6743 权	kTraditionalVariant	U+6B0A
-U+6746 杆	kTraditionalVariant	U+687F
+U+6743 权	kTraditionalVariant	U+6743 U+6B0A
+U+6746 杆	kTraditionalVariant	U+6746 U+687F
 U+6761 条	kTraditionalVariant	U+689D
 U+6765 来	kTraditionalVariant	U+4F86
 U+6768 杨	kTraditionalVariant	U+694A
 U+6769 杩	kTraditionalVariant	U+69AA
 U+6770 杰	kTraditionalVariant	U+5091 U+6770
-U+677E 松	kTraditionalVariant	U+9B06
+U+677E 松	kTraditionalVariant	U+677E U+9B06
 U+677F 板	kTraditionalVariant	U+677F U+95C6
 U+6781 极	kTraditionalVariant	U+6781 U+6975
-U+6784 构	kTraditionalVariant	U+69CB
+U+6784 构	kTraditionalVariant	U+6784 U+69CB
 U+679E 枞	kTraditionalVariant	U+6A05
 U+67A2 枢	kTraditionalVariant	U+6A1E
 U+67A3 枣	kTraditionalVariant	U+68D7
@@ -820,12 +823,12 @@ U+67A8 枨	kTraditionalVariant	U+68D6
 U+67AA 枪	kTraditionalVariant	U+69CD
 U+67AB 枫	kTraditionalVariant	U+6953
 U+67AD 枭	kTraditionalVariant	U+689F
-U+67DC 柜	kTraditionalVariant	U+6AC3
+U+67DC 柜	kTraditionalVariant	U+67DC U+6AC3
 U+67E0 柠	kTraditionalVariant	U+6AB8
 U+67FD 柽	kTraditionalVariant	U+6A89
-U+6800 栀	kTraditionalVariant	U+6894
-U+6805 栅	kTraditionalVariant	U+67F5
-U+6807 标	kTraditionalVariant	U+6A19
+U+6800 栀	kTraditionalVariant	U+6800 U+6894
+U+6805 栅	kTraditionalVariant	U+67F5 U+6805
+U+6807 标	kTraditionalVariant	U+6807 U+6A19
 U+6808 栈	kTraditionalVariant	U+68E7
 U+6809 栉	kTraditionalVariant	U+6ADB
 U+680A 栊	kTraditionalVariant	U+6AF3
@@ -834,10 +837,10 @@ U+680C 栌	kTraditionalVariant	U+6AE8
 U+680E 栎	kTraditionalVariant	U+6ADF
 U+680F 栏	kTraditionalVariant	U+6B04
 U+6811 树	kTraditionalVariant	U+6A39
-U+6816 栖	kTraditionalVariant	U+68F2
-U+6817 栗	kTraditionalVariant	U+6144
+U+6816 栖	kTraditionalVariant	U+6816 U+68F2
+U+6817 栗	kTraditionalVariant	U+6144 U+6817
 U+6837 样	kTraditionalVariant	U+6A23
-U+683E 栾	kTraditionalVariant	U+6B12
+U+683E 栾	kTraditionalVariant	U+683E U+6B12
 U+6860 桠	kTraditionalVariant	U+690F
 U+6861 桡	kTraditionalVariant	U+6A48
 U+6862 桢	kTraditionalVariant	U+6968
@@ -849,7 +852,7 @@ U+6867 桧	kTraditionalVariant	U+6A9C
 U+6868 桨	kTraditionalVariant	U+69F3
 U+6869 桩	kTraditionalVariant	U+6A01
 U+686A 桪	kTraditionalVariant	U+6A33
-U+68A6 梦	kTraditionalVariant	U+5922
+U+68A6 梦	kTraditionalVariant	U+5922 U+68A6
 U+68BC 梼	kTraditionalVariant	U+6AAE
 U+68BE 梾	kTraditionalVariant	U+68F6
 U+68BF 梿	kTraditionalVariant	U+69E4
@@ -865,7 +868,7 @@ U+6924 椤	kTraditionalVariant	U+6B0F
 U+692B 椫	kTraditionalVariant	U+6A3F
 U+692D 椭	kTraditionalVariant	U+6A62
 U+692E 椮	kTraditionalVariant	U+69EE
-U+697C 楼	kTraditionalVariant	U+6A13
+U+697C 楼	kTraditionalVariant	U+697C U+6A13
 U+6984 榄	kTraditionalVariant	U+6B16
 U+6985 榅	kTraditionalVariant	U+69B2
 U+6987 榇	kTraditionalVariant	U+6AEC
@@ -883,8 +886,8 @@ U+6A71 橱	kTraditionalVariant	U+6AE5
 U+6A79 橹	kTraditionalVariant	U+6AD3
 U+6A7C 橼	kTraditionalVariant	U+6ADE
 U+6AA9 檩	kTraditionalVariant	U+6A81
-U+6B22 欢	kTraditionalVariant	U+6B61
-U+6B24 欤	kTraditionalVariant	U+6B5F
+U+6B22 欢	kTraditionalVariant	U+6B61 U+6B22
+U+6B24 欤	kTraditionalVariant	U+6B24 U+6B5F
 U+6B27 欧	kTraditionalVariant	U+6B50
 U+6B7C 歼	kTraditionalVariant	U+6BB2
 U+6B81 殁	kTraditionalVariant	U+6B7F
@@ -893,28 +896,28 @@ U+6B8B 残	kTraditionalVariant	U+6B98
 U+6B92 殒	kTraditionalVariant	U+6B9E
 U+6B93 殓	kTraditionalVariant	U+6BAE
 U+6B9A 殚	kTraditionalVariant	U+6BAB
-U+6BA1 殡	kTraditionalVariant	U+6BAF
+U+6BA1 殡	kTraditionalVariant	U+6BA1 U+6BAF
 U+6BB4 殴	kTraditionalVariant	U+6BC6
 U+6BC1 毁	kTraditionalVariant	U+6BC0
 U+6BC2 毂	kTraditionalVariant	U+8F42
 U+6BD5 毕	kTraditionalVariant	U+7562
 U+6BD9 毙	kTraditionalVariant	U+6583
-U+6BE1 毡	kTraditionalVariant	U+6C08
+U+6BE1 毡	kTraditionalVariant	U+6BE1 U+6C08
 U+6BF5 毵	kTraditionalVariant	U+6BFF
 U+6BF6 毶	kTraditionalVariant	U+23BF6
 U+6C07 氇	kTraditionalVariant	U+6C0C
-U+6C14 气	kTraditionalVariant	U+6C23
+U+6C14 气	kTraditionalVariant	U+6C14 U+6C23
 U+6C22 氢	kTraditionalVariant	U+6C2B
 U+6C29 氩	kTraditionalVariant	U+6C2C
 U+6C32 氲	kTraditionalVariant	U+6C33
 U+6C47 汇	kTraditionalVariant	U+532F U+5F59
 U+6C49 汉	kTraditionalVariant	U+6F22
 U+6C64 汤	kTraditionalVariant	U+6E6F
-U+6C79 汹	kTraditionalVariant	U+6D36
-U+6C84 沄	kTraditionalVariant	U+6F90
-U+6C88 沈	kTraditionalVariant	U+700B
+U+6C79 汹	kTraditionalVariant	U+6C79 U+6D36
+U+6C84 沄	kTraditionalVariant	U+6C84 U+6F90
+U+6C88 沈	kTraditionalVariant	U+6C88 U+700B
 U+6C9F 沟	kTraditionalVariant	U+6E9D
-U+6CA1 没	kTraditionalVariant	U+6C92
+U+6CA1 没	kTraditionalVariant	U+6C92 U+6CA1
 U+6CA3 沣	kTraditionalVariant	U+7043
 U+6CA4 沤	kTraditionalVariant	U+6F1A
 U+6CA5 沥	kTraditionalVariant	U+701D
@@ -922,10 +925,10 @@ U+6CA6 沦	kTraditionalVariant	U+6DEA
 U+6CA7 沧	kTraditionalVariant	U+6EC4
 U+6CA8 沨	kTraditionalVariant	U+6E22
 U+6CA9 沩	kTraditionalVariant	U+6E88
-U+6CAA 沪	kTraditionalVariant	U+6EEC
+U+6CAA 沪	kTraditionalVariant	U+6CAA U+6EEC
 U+6CDE 泞	kTraditionalVariant	U+6FD8
 U+6CE8 注	kTraditionalVariant	U+6CE8 U+8A3B
-U+6CEA 泪	kTraditionalVariant	U+6DDA
+U+6CEA 泪	kTraditionalVariant	U+6CEA U+6DDA
 U+6CF6 泶	kTraditionalVariant	U+6FA9
 U+6CF7 泷	kTraditionalVariant	U+7027
 U+6CF8 泸	kTraditionalVariant	U+7018
@@ -935,10 +938,10 @@ U+6CFC 泼	kTraditionalVariant	U+6F51
 U+6CFD 泽	kTraditionalVariant	U+6FA4
 U+6CFE 泾	kTraditionalVariant	U+6D87
 U+6D01 洁	kTraditionalVariant	U+6F54
-U+6D12 洒	kTraditionalVariant	U+7051
-U+6D3C 洼	kTraditionalVariant	U+7AAA
+U+6D12 洒	kTraditionalVariant	U+6D12 U+7051
+U+6D3C 洼	kTraditionalVariant	U+6D3C U+7AAA
 U+6D43 浃	kTraditionalVariant	U+6D79
-U+6D45 浅	kTraditionalVariant	U+6DFA
+U+6D45 浅	kTraditionalVariant	U+6D45 U+6DFA
 U+6D46 浆	kTraditionalVariant	U+6F3F
 U+6D47 浇	kTraditionalVariant	U+6F86
 U+6D48 浈	kTraditionalVariant	U+6E5E
@@ -954,8 +957,8 @@ U+6D52 浒	kTraditionalVariant	U+6EF8
 U+6D53 浓	kTraditionalVariant	U+6FC3
 U+6D54 浔	kTraditionalVariant	U+6F6F
 U+6D55 浕	kTraditionalVariant	U+6FDC
-U+6D82 涂	kTraditionalVariant	U+5857
-U+6D9B 涛	kTraditionalVariant	U+6FE4
+U+6D82 涂	kTraditionalVariant	U+5857 U+6D82
+U+6D9B 涛	kTraditionalVariant	U+6D9B U+6FE4
 U+6D9D 涝	kTraditionalVariant	U+6F87
 U+6D9E 涞	kTraditionalVariant	U+6DF6
 U+6D9F 涟	kTraditionalVariant	U+6F23
@@ -969,7 +972,7 @@ U+6DA7 涧	kTraditionalVariant	U+6F97
 U+6DA8 涨	kTraditionalVariant	U+6F32
 U+6DA9 涩	kTraditionalVariant	U+6F80
 U+6DC0 淀	kTraditionalVariant	U+6FB1
-U+6E0A 渊	kTraditionalVariant	U+6DF5
+U+6E0A 渊	kTraditionalVariant	U+6DF5 U+6E0A
 U+6E0C 渌	kTraditionalVariant	U+6DE5
 U+6E0D 渍	kTraditionalVariant	U+6F2C
 U+6E0E 渎	kTraditionalVariant	U+7006
@@ -978,8 +981,8 @@ U+6E11 渑	kTraditionalVariant	U+6FA0
 U+6E14 渔	kTraditionalVariant	U+6F01
 U+6E16 渖	kTraditionalVariant	U+700B
 U+6E17 渗	kTraditionalVariant	U+6EF2
-U+6E29 温	kTraditionalVariant	U+6EAB
-U+6E7E 湾	kTraditionalVariant	U+7063
+U+6E29 温	kTraditionalVariant	U+6E29 U+6EAB
+U+6E7E 湾	kTraditionalVariant	U+6E7E U+7063
 U+6E7F 湿	kTraditionalVariant	U+6FD5
 U+6E81 溁	kTraditionalVariant	U+6FDA
 U+6E83 溃	kTraditionalVariant	U+6F70
@@ -987,7 +990,7 @@ U+6E85 溅	kTraditionalVariant	U+6FFA
 U+6E86 溆	kTraditionalVariant	U+6F35
 U+6E87 溇	kTraditionalVariant	U+6F0A
 U+6ED7 滗	kTraditionalVariant	U+6F77
-U+6EDA 滚	kTraditionalVariant	U+6EFE
+U+6EDA 滚	kTraditionalVariant	U+6EDA U+6EFE
 U+6EDE 滞	kTraditionalVariant	U+6EEF
 U+6EDF 滟	kTraditionalVariant	U+7067
 U+6EE0 滠	kTraditionalVariant	U+7044
@@ -995,11 +998,11 @@ U+6EE1 满	kTraditionalVariant	U+6EFF
 U+6EE2 滢	kTraditionalVariant	U+7005
 U+6EE4 滤	kTraditionalVariant	U+6FFE
 U+6EE5 滥	kTraditionalVariant	U+6FEB
-U+6EE6 滦	kTraditionalVariant	U+7064
-U+6EE8 滨	kTraditionalVariant	U+6FF1
-U+6EE9 滩	kTraditionalVariant	U+7058
+U+6EE6 滦	kTraditionalVariant	U+6EE6 U+7064
+U+6EE8 滨	kTraditionalVariant	U+6EE8 U+6FF1
+U+6EE9 滩	kTraditionalVariant	U+6EE9 U+7058
 U+6EEA 滪	kTraditionalVariant	U+6FA6
-U+6F13 漓	kTraditionalVariant	U+7055
+U+6F13 漓	kTraditionalVariant	U+6F13 U+7055
 U+6F24 漤	kTraditionalVariant	U+7060
 U+6F46 潆	kTraditionalVariant	U+7020
 U+6F47 潇	kTraditionalVariant	U+701F
@@ -1013,30 +1016,30 @@ U+6FD1 濑	kTraditionalVariant	U+7028
 U+6FD2 濒	kTraditionalVariant	U+7015
 U+704F 灏	kTraditionalVariant	U+705D
 U+706D 灭	kTraditionalVariant	U+6EC5
-U+706F 灯	kTraditionalVariant	U+71C8
+U+706F 灯	kTraditionalVariant	U+706F U+71C8
 U+7075 灵	kTraditionalVariant	U+9748
-U+7076 灶	kTraditionalVariant	U+7AC8
-U+707E 灾	kTraditionalVariant	U+707D
+U+7076 灶	kTraditionalVariant	U+7076 U+7AC8
+U+707E 灾	kTraditionalVariant	U+707D U+707E
 U+707F 灿	kTraditionalVariant	U+71E6
 U+7080 炀	kTraditionalVariant	U+716C
-U+7089 炉	kTraditionalVariant	U+7210
+U+7089 炉	kTraditionalVariant	U+7089 U+7210
 U+709C 炜	kTraditionalVariant	U+7152
 U+709D 炝	kTraditionalVariant	U+7197
-U+70B9 点	kTraditionalVariant	U+9EDE
+U+70B9 点	kTraditionalVariant	U+70B9 U+9EDE
 U+70BC 炼	kTraditionalVariant	U+7149
 U+70BD 炽	kTraditionalVariant	U+71BE
 U+70C1 烁	kTraditionalVariant	U+720D
 U+70C2 烂	kTraditionalVariant	U+721B
 U+70C3 烃	kTraditionalVariant	U+70F4
-U+70DB 烛	kTraditionalVariant	U+71ED
-U+70DF 烟	kTraditionalVariant	U+7159
+U+70DB 烛	kTraditionalVariant	U+70DB U+71ED
+U+70DF 烟	kTraditionalVariant	U+70DF U+7159
 U+70E6 烦	kTraditionalVariant	U+7169
 U+70E7 烧	kTraditionalVariant	U+71D2
 U+70E8 烨	kTraditionalVariant	U+71C1
-U+70E9 烩	kTraditionalVariant	U+71F4
+U+70E9 烩	kTraditionalVariant	U+70E9 U+71F4
 U+70EB 烫	kTraditionalVariant	U+71D9
-U+70EC 烬	kTraditionalVariant	U+71FC
-U+70ED 热	kTraditionalVariant	U+71B1
+U+70EC 烬	kTraditionalVariant	U+70EC U+71FC
+U+70ED 热	kTraditionalVariant	U+70ED U+71B1
 U+7115 焕	kTraditionalVariant	U+7165
 U+7116 焖	kTraditionalVariant	U+71DC
 U+7118 焘	kTraditionalVariant	U+71FE
@@ -1051,51 +1054,51 @@ U+728A 犊	kTraditionalVariant	U+72A2
 U+72B6 状	kTraditionalVariant	U+72C0
 U+72B7 犷	kTraditionalVariant	U+7377
 U+72B8 犸	kTraditionalVariant	U+7341
-U+72B9 犹	kTraditionalVariant	U+7336
+U+72B9 犹	kTraditionalVariant	U+72B9 U+7336
 U+72C8 狈	kTraditionalVariant	U+72FD
 U+72DD 狝	kTraditionalVariant	U+736E
 U+72DE 狞	kTraditionalVariant	U+7370
-U+72EC 独	kTraditionalVariant	U+7368
+U+72EC 独	kTraditionalVariant	U+72EC U+7368
 U+72ED 狭	kTraditionalVariant	U+72F9
 U+72EE 狮	kTraditionalVariant	U+7345
-U+72EF 狯	kTraditionalVariant	U+736A
+U+72EF 狯	kTraditionalVariant	U+72EF U+736A
 U+72F0 狰	kTraditionalVariant	U+7319
 U+72F1 狱	kTraditionalVariant	U+7344
 U+72F2 狲	kTraditionalVariant	U+733B
 U+7303 猃	kTraditionalVariant	U+736B
 U+730E 猎	kTraditionalVariant	U+7375
-U+7315 猕	kTraditionalVariant	U+737C
+U+7315 猕	kTraditionalVariant	U+7315 U+737C
 U+7321 猡	kTraditionalVariant	U+7380
-U+732A 猪	kTraditionalVariant	U+8C6C
-U+732B 猫	kTraditionalVariant	U+8C93
-U+732C 猬	kTraditionalVariant	U+875F
-U+732E 献	kTraditionalVariant	U+737B
+U+732A 猪	kTraditionalVariant	U+732A U+8C6C
+U+732B 猫	kTraditionalVariant	U+732B U+8C93
+U+732C 猬	kTraditionalVariant	U+732C U+875F
+U+732E 献	kTraditionalVariant	U+732E U+737B
 U+736D 獭	kTraditionalVariant	U+737A
 U+7391 玑	kTraditionalVariant	U+74A3
 U+7399 玙	kTraditionalVariant	U+74B5
 U+739A 玚	kTraditionalVariant	U+7452
 U+739B 玛	kTraditionalVariant	U+746A
 U+73AE 玮	kTraditionalVariant	U+744B
-U+73AF 环	kTraditionalVariant	U+74B0
+U+73AF 环	kTraditionalVariant	U+73AF U+74B0
 U+73B0 现	kTraditionalVariant	U+73FE
 U+73B1 玱	kTraditionalVariant	U+7472
 U+73BA 玺	kTraditionalVariant	U+74BD
-U+73D0 珐	kTraditionalVariant	U+743A
+U+73D0 珐	kTraditionalVariant	U+73D0 U+743A
 U+73D1 珑	kTraditionalVariant	U+74CF
 U+73F0 珰	kTraditionalVariant	U+74AB
 U+73F2 珲	kTraditionalVariant	U+743F
 U+740E 琎	kTraditionalVariant	U+74A1
 U+740F 琏	kTraditionalVariant	U+7489
 U+7410 琐	kTraditionalVariant	U+7463
-U+743C 琼	kTraditionalVariant	U+74CA
+U+743C 琼	kTraditionalVariant	U+743C U+74CA
 U+7476 瑶	kTraditionalVariant	U+7464
 U+7477 瑷	kTraditionalVariant	U+74A6
 U+7478 瑸	kTraditionalVariant	U+74B8
 U+748E 璎	kTraditionalVariant	U+74D4
 U+74D2 瓒	kTraditionalVariant	U+74DA
 U+74EF 瓯	kTraditionalVariant	U+750C
-U+7535 电	kTraditionalVariant	U+96FB
-U+753B 画	kTraditionalVariant	U+756B
+U+7535 电	kTraditionalVariant	U+7535 U+96FB
+U+753B 画	kTraditionalVariant	U+753B U+756B
 U+7545 畅	kTraditionalVariant	U+66A2
 U+7574 畴	kTraditionalVariant	U+7587
 U+7596 疖	kTraditionalVariant	U+7664
@@ -1107,12 +1110,12 @@ U+75AC 疬	kTraditionalVariant	U+7667
 U+75AD 疭	kTraditionalVariant	U+7632
 U+75AE 疮	kTraditionalVariant	U+7621
 U+75AF 疯	kTraditionalVariant	U+760B
-U+75B1 疱	kTraditionalVariant	U+76B0
-U+75B4 疴	kTraditionalVariant	U+75FE
-U+75C7 症	kTraditionalVariant	U+7665
+U+75B1 疱	kTraditionalVariant	U+75B1 U+76B0
+U+75B4 疴	kTraditionalVariant	U+75B4 U+75FE
+U+75C7 症	kTraditionalVariant	U+75C7 U+7665
 U+75C8 痈	kTraditionalVariant	U+7670
 U+75C9 痉	kTraditionalVariant	U+75D9
-U+75D2 痒	kTraditionalVariant	U+7662
+U+75D2 痒	kTraditionalVariant	U+75D2 U+7662
 U+75D6 痖	kTraditionalVariant	U+7602
 U+75E8 痨	kTraditionalVariant	U+7646
 U+75EA 痪	kTraditionalVariant	U+7613
@@ -1120,7 +1123,7 @@ U+75EB 痫	kTraditionalVariant	U+7647
 U+7605 瘅	kTraditionalVariant	U+7649
 U+7606 瘆	kTraditionalVariant	U+762E
 U+7617 瘗	kTraditionalVariant	U+761E
-U+7618 瘘	kTraditionalVariant	U+763A
+U+7618 瘘	kTraditionalVariant	U+7618 U+763A
 U+762A 瘪	kTraditionalVariant	U+765F
 U+762B 瘫	kTraditionalVariant	U+7671
 U+763E 瘾	kTraditionalVariant	U+766E
@@ -1129,16 +1132,16 @@ U+765E 癞	kTraditionalVariant	U+7669
 U+7663 癣	kTraditionalVariant	U+766C
 U+766B 癫	kTraditionalVariant	U+7672
 U+7691 皑	kTraditionalVariant	U+769A
-U+76B1 皱	kTraditionalVariant	U+76BA
+U+76B1 皱	kTraditionalVariant	U+76B1 U+76BA
 U+76B2 皲	kTraditionalVariant	U+76B8
 U+76CF 盏	kTraditionalVariant	U+76DE
 U+76D0 盐	kTraditionalVariant	U+9E7D
 U+76D1 监	kTraditionalVariant	U+76E3
-U+76D6 盖	kTraditionalVariant	U+84CB
+U+76D6 盖	kTraditionalVariant	U+76D6 U+84CB
 U+76D7 盗	kTraditionalVariant	U+76DC
 U+76D8 盘	kTraditionalVariant	U+76E4
 U+770D 眍	kTraditionalVariant	U+7798
-U+7726 眦	kTraditionalVariant	U+7725
+U+7726 眦	kTraditionalVariant	U+7725 U+7726
 U+772C 眬	kTraditionalVariant	U+77D3
 U+7740 着	kTraditionalVariant	U+7740 U+8457
 U+7741 睁	kTraditionalVariant	U+775C
@@ -1148,7 +1151,7 @@ U+7786 瞆	kTraditionalVariant	U+77B6
 U+7792 瞒	kTraditionalVariant	U+779E
 U+77A9 瞩	kTraditionalVariant	U+77DA
 U+77AD 瞭	kTraditionalVariant	U+77AD
-U+77EB 矫	kTraditionalVariant	U+77EF
+U+77EB 矫	kTraditionalVariant	U+77EB U+77EF
 U+77F6 矶	kTraditionalVariant	U+78EF
 U+77FE 矾	kTraditionalVariant	U+792C
 U+77FF 矿	kTraditionalVariant	U+7926
@@ -1168,38 +1171,38 @@ U+7856 硖	kTraditionalVariant	U+7864
 U+7857 硗	kTraditionalVariant	U+78FD
 U+7859 硙	kTraditionalVariant	U+78D1
 U+785A 硚	kTraditionalVariant	U+7904
-U+786E 确	kTraditionalVariant	U+78BA
+U+786E 确	kTraditionalVariant	U+786E U+78BA
 U+7875 硵	kTraditionalVariant	U+78E0
 U+7877 硷	kTraditionalVariant	U+7906 U+9E7C
-U+788D 碍	kTraditionalVariant	U+7919
+U+788D 碍	kTraditionalVariant	U+788D U+7919
 U+789B 碛	kTraditionalVariant	U+78E7
 U+789C 碜	kTraditionalVariant	U+78E3
-U+793C 礼	kTraditionalVariant	U+79AE
+U+793C 礼	kTraditionalVariant	U+793C U+79AE
 U+7943 祃	kTraditionalVariant	U+79A1
 U+794E 祎	kTraditionalVariant	U+7995
-U+7962 祢	kTraditionalVariant	U+79B0
+U+7962 祢	kTraditionalVariant	U+7962 U+79B0
 U+796F 祯	kTraditionalVariant	U+798E
-U+7977 祷	kTraditionalVariant	U+79B1
+U+7977 祷	kTraditionalVariant	U+7977 U+79B1
 U+7978 祸	kTraditionalVariant	U+798D
-U+7980 禀	kTraditionalVariant	U+7A1F
+U+7980 禀	kTraditionalVariant	U+7980 U+7A1F
 U+7984 禄	kTraditionalVariant	U+797F
 U+7985 禅	kTraditionalVariant	U+79AA
 U+79BB 离	kTraditionalVariant	U+96E2
-U+79C3 秃	kTraditionalVariant	U+79BF
-U+79C6 秆	kTraditionalVariant	U+7A08
-U+79CB 秋	kTraditionalVariant	U+97A6
-U+79CD 种	kTraditionalVariant	U+7A2E
+U+79C3 秃	kTraditionalVariant	U+79BF U+79C3
+U+79C6 秆	kTraditionalVariant	U+79C6 U+7A08
+U+79CB 秋	kTraditionalVariant	U+79CB U+97A6
+U+79CD 种	kTraditionalVariant	U+79CD U+7A2E
 U+79EF 积	kTraditionalVariant	U+7A4D
-U+79F0 称	kTraditionalVariant	U+7A31
+U+79F0 称	kTraditionalVariant	U+79F0 U+7A31
 U+79FD 秽	kTraditionalVariant	U+7A62
 U+79FE 秾	kTraditionalVariant	U+7A60
 U+7A06 稆	kTraditionalVariant	U+7A6D
 U+7A0E 税	kTraditionalVariant	U+7A05
 U+7A23 稣	kTraditionalVariant	U+7A4C
-U+7A33 稳	kTraditionalVariant	U+7A69
+U+7A33 稳	kTraditionalVariant	U+7A33 U+7A69
 U+7A51 穑	kTraditionalVariant	U+7A61
-U+7A77 穷	kTraditionalVariant	U+7AAE
-U+7A83 窃	kTraditionalVariant	U+7ACA
+U+7A77 穷	kTraditionalVariant	U+7A77 U+7AAE
+U+7A83 窃	kTraditionalVariant	U+7A83 U+7ACA
 U+7A8D 窍	kTraditionalVariant	U+7AC5
 U+7A8E 窎	kTraditionalVariant	U+7AB5
 U+7A91 窑	kTraditionalVariant	U+7AAF
@@ -1211,13 +1214,13 @@ U+7AAD 窭	kTraditionalVariant	U+7AB6
 U+7AD6 竖	kTraditionalVariant	U+8C4E
 U+7ADE 竞	kTraditionalVariant	U+7AF6
 U+7B03 笃	kTraditionalVariant	U+7BE4
-U+7B0B 笋	kTraditionalVariant	U+7B4D
-U+7B14 笔	kTraditionalVariant	U+7B46
+U+7B0B 笋	kTraditionalVariant	U+7B0B U+7B4D
+U+7B14 笔	kTraditionalVariant	U+7B14 U+7B46
 U+7B15 笕	kTraditionalVariant	U+7B67
 U+7B3A 笺	kTraditionalVariant	U+7B8B
 U+7B3C 笼	kTraditionalVariant	U+7C60
 U+7B3E 笾	kTraditionalVariant	U+7C69
-U+7B51 筑	kTraditionalVariant	U+7BC9
+U+7B51 筑	kTraditionalVariant	U+7B51 U+7BC9
 U+7B5A 筚	kTraditionalVariant	U+7BF3
 U+7B5B 筛	kTraditionalVariant	U+7BE9
 U+7B5C 筜	kTraditionalVariant	U+7C39
@@ -1230,29 +1233,29 @@ U+7B93 箓	kTraditionalVariant	U+7C59
 U+7BA6 箦	kTraditionalVariant	U+7C00
 U+7BA7 箧	kTraditionalVariant	U+7BCB
 U+7BA8 箨	kTraditionalVariant	U+7C5C
-U+7BA9 箩	kTraditionalVariant	U+7C6E
+U+7BA9 箩	kTraditionalVariant	U+7BA9 U+7C6E
 U+7BAA 箪	kTraditionalVariant	U+7C1E
 U+7BAB 箫	kTraditionalVariant	U+7C2B
 U+7BD1 篑	kTraditionalVariant	U+7C23
-U+7BD3 篓	kTraditionalVariant	U+7C0D
+U+7BD3 篓	kTraditionalVariant	U+7BD3 U+7C0D
 U+7BEE 篮	kTraditionalVariant	U+7C43
 U+7BEF 篯	kTraditionalVariant	U+7C5B
-U+7BF1 篱	kTraditionalVariant	U+7C6C
+U+7BF1 篱	kTraditionalVariant	U+7BF1 U+7C6C
 U+7C16 簖	kTraditionalVariant	U+7C6A
 U+7C41 籁	kTraditionalVariant	U+7C5F
-U+7C74 籴	kTraditionalVariant	U+7CF4
+U+7C74 籴	kTraditionalVariant	U+7C74 U+7CF4
 U+7C7B 类	kTraditionalVariant	U+985E
 U+7C7C 籼	kTraditionalVariant	U+79C8
-U+7C9C 粜	kTraditionalVariant	U+7CF6
+U+7C9C 粜	kTraditionalVariant	U+7C9C U+7CF6
 U+7C9D 粝	kTraditionalVariant	U+7CF2
 U+7CA4 粤	kTraditionalVariant	U+7CB5
 U+7CAA 粪	kTraditionalVariant	U+7CDE
-U+7CAE 粮	kTraditionalVariant	U+7CE7
+U+7CAE 粮	kTraditionalVariant	U+7CAE U+7CE7
 U+7CC1 糁	kTraditionalVariant	U+7CDD
-U+7CC7 糇	kTraditionalVariant	U+9931
+U+7CC7 糇	kTraditionalVariant	U+7CC7 U+9931
 U+7CFB 系	kTraditionalVariant	U+4FC2 U+7CFB U+7E6B
 U+7D27 紧	kTraditionalVariant	U+7DCA
-U+7D2F 累	kTraditionalVariant	U+7E8D
+U+7D2F 累	kTraditionalVariant	U+7D2F U+7E8D
 U+7D77 絷	kTraditionalVariant	U+7E36
 U+7E9F 纟	kTraditionalVariant	U+7CF9
 U+7EA0 纠	kTraditionalVariant	U+7CFE
@@ -1406,10 +1409,10 @@ U+7F33 缳	kTraditionalVariant	U+7E6F
 U+7F34 缴	kTraditionalVariant	U+7E73
 U+7F35 缵	kTraditionalVariant	U+7E98
 U+7F42 罂	kTraditionalVariant	U+7F4C
-U+7F51 网	kTraditionalVariant	U+7DB2
-U+7F57 罗	kTraditionalVariant	U+7F85
+U+7F51 网	kTraditionalVariant	U+7DB2 U+7F51
+U+7F57 罗	kTraditionalVariant	U+7F57 U+7F85
 U+7F5A 罚	kTraditionalVariant	U+7F70
-U+7F62 罢	kTraditionalVariant	U+7F77
+U+7F62 罢	kTraditionalVariant	U+7F62 U+7F77
 U+7F74 罴	kTraditionalVariant	U+7F86
 U+7F81 羁	kTraditionalVariant	U+7F88
 U+7F9F 羟	kTraditionalVariant	U+7FA5
@@ -1419,67 +1422,68 @@ U+7FDA 翚	kTraditionalVariant	U+7FEC
 U+8022 耢	kTraditionalVariant	U+802E
 U+8027 耧	kTraditionalVariant	U+802C
 U+8038 耸	kTraditionalVariant	U+8073
-U+803B 耻	kTraditionalVariant	U+6065
+U+803B 耻	kTraditionalVariant	U+6065 U+803B
 U+8042 聂	kTraditionalVariant	U+8076
 U+804B 聋	kTraditionalVariant	U+807E
-U+804C 职	kTraditionalVariant	U+8077
+U+804C 职	kTraditionalVariant	U+804C U+8077
 U+804D 聍	kTraditionalVariant	U+8079
-U+8054 联	kTraditionalVariant	U+806F
+U+8054 联	kTraditionalVariant	U+8054 U+806F
 U+8069 聩	kTraditionalVariant	U+8075
 U+806A 聪	kTraditionalVariant	U+8070
 U+8083 肃	kTraditionalVariant	U+8085
 U+80A0 肠	kTraditionalVariant	U+8178
 U+80A4 肤	kTraditionalVariant	U+819A
-U+80AE 肮	kTraditionalVariant	U+9AAF
+U+80AE 肮	kTraditionalVariant	U+80AE U+9AAF
 U+80B4 肴	kTraditionalVariant	U+80B4 U+991A
 U+80BE 肾	kTraditionalVariant	U+814E
 U+80BF 肿	kTraditionalVariant	U+816B
 U+80C0 胀	kTraditionalVariant	U+8139
 U+80C1 胁	kTraditionalVariant	U+8105
-U+80C6 胆	kTraditionalVariant	U+81BD
-U+80DC 胜	kTraditionalVariant	U+52DD
-U+80E1 胡	kTraditionalVariant	U+885A U+9B0D
+U+80C6 胆	kTraditionalVariant	U+80C6 U+81BD
+U+80DC 胜	kTraditionalVariant	U+52DD U+80DC
+U+80E1 胡	kTraditionalVariant	U+80E1 U+885A U+9B0D
 U+80E7 胧	kTraditionalVariant	U+6727
 U+80E8 胨	kTraditionalVariant	U+8156
 U+80EA 胪	kTraditionalVariant	U+81DA
 U+80EB 胫	kTraditionalVariant	U+811B
 U+80F6 胶	kTraditionalVariant	U+81A0
-U+8109 脉	kTraditionalVariant	U+8108
-U+810D 脍	kTraditionalVariant	U+81BE
+U+8109 脉	kTraditionalVariant	U+8108 U+8109
+U+810D 脍	kTraditionalVariant	U+810D U+81BE
 U+810F 脏	kTraditionalVariant	U+81DF U+9AD2
 U+8110 脐	kTraditionalVariant	U+81CD
 U+8111 脑	kTraditionalVariant	U+8166
 U+8113 脓	kTraditionalVariant	U+81BF
-U+8114 脔	kTraditionalVariant	U+81E0
-U+811A 脚	kTraditionalVariant	U+8173
+U+8114 脔	kTraditionalVariant	U+8114 U+81E0
+U+811A 脚	kTraditionalVariant	U+811A U+8173
 U+8131 脱	kTraditionalVariant	U+812B
 U+8136 脶	kTraditionalVariant	U+8161
 U+8138 脸	kTraditionalVariant	U+81C9
-U+814A 腊	kTraditionalVariant	U+81D8
+U+814A 腊	kTraditionalVariant	U+814A U+81D8
 U+8158 腘	kTraditionalVariant	U+8195
-U+816D 腭	kTraditionalVariant	U+9F76
+U+816D 腭	kTraditionalVariant	U+816D U+9F76
 U+817B 腻	kTraditionalVariant	U+81A9
-U+817C 腼	kTraditionalVariant	U+9766
+U+817C 腼	kTraditionalVariant	U+817C U+9766
 U+817D 腽	kTraditionalVariant	U+8183
 U+817E 腾	kTraditionalVariant	U+9A30
-U+8191 膑	kTraditionalVariant	U+81CF
+U+8191 膑	kTraditionalVariant	U+8191 U+81CF
 U+81DC 臜	kTraditionalVariant	U+81E2
+U+81E4 臤	kTraditionalVariant	U+81E4
 U+81F4 致	kTraditionalVariant	U+7DFB U+81F4
 U+8206 舆	kTraditionalVariant	U+8F3F
-U+820D 舍	kTraditionalVariant	U+6368
+U+820D 舍	kTraditionalVariant	U+6368 U+820D
 U+8223 舣	kTraditionalVariant	U+8264
 U+8230 舰	kTraditionalVariant	U+8266
 U+8231 舱	kTraditionalVariant	U+8259
 U+823B 舻	kTraditionalVariant	U+826B
 U+8270 艰	kTraditionalVariant	U+8271
-U+8273 艳	kTraditionalVariant	U+8277
+U+8273 艳	kTraditionalVariant	U+8273 U+8277
 U+827A 艺	kTraditionalVariant	U+85DD
 U+8282 节	kTraditionalVariant	U+7BC0
 U+8288 芈	kTraditionalVariant	U+7F8B
 U+8297 芗	kTraditionalVariant	U+858C
 U+829C 芜	kTraditionalVariant	U+856A
-U+82A6 芦	kTraditionalVariant	U+8606
-U+82B8 芸	kTraditionalVariant	U+8553
+U+82A6 芦	kTraditionalVariant	U+82A6 U+8606
+U+82B8 芸	kTraditionalVariant	U+82B8 U+8553
 U+82C1 苁	kTraditionalVariant	U+84EF
 U+82C7 苇	kTraditionalVariant	U+8466
 U+82C8 苈	kTraditionalVariant	U+85F6
@@ -1487,18 +1491,18 @@ U+82CB 苋	kTraditionalVariant	U+83A7
 U+82CC 苌	kTraditionalVariant	U+8407
 U+82CD 苍	kTraditionalVariant	U+84BC
 U+82CE 苎	kTraditionalVariant	U+82E7
-U+82CF 苏	kTraditionalVariant	U+8607
+U+82CF 苏	kTraditionalVariant	U+82CF U+8607
 U+82E7 苧	kTraditionalVariant	U+85B4
-U+82F9 苹	kTraditionalVariant	U+860B
-U+8303 范	kTraditionalVariant	U+7BC4
+U+82F9 苹	kTraditionalVariant	U+82F9 U+860B
+U+8303 范	kTraditionalVariant	U+7BC4 U+8303
 U+830E 茎	kTraditionalVariant	U+8396
 U+830F 茏	kTraditionalVariant	U+8622
 U+8311 茑	kTraditionalVariant	U+8526
 U+8314 茔	kTraditionalVariant	U+584B
 U+8315 茕	kTraditionalVariant	U+7162
 U+8327 茧	kTraditionalVariant	U+7E6D
-U+8346 荆	kTraditionalVariant	U+834A
-U+8350 荐	kTraditionalVariant	U+85A6
+U+8346 荆	kTraditionalVariant	U+8346 U+834A
+U+8350 荐	kTraditionalVariant	U+8350 U+85A6
 U+8359 荙	kTraditionalVariant	U+8598
 U+835A 荚	kTraditionalVariant	U+83A2
 U+835B 荛	kTraditionalVariant	U+8558
@@ -1508,7 +1512,7 @@ U+835E 荞	kTraditionalVariant	U+854E
 U+835F 荟	kTraditionalVariant	U+8588
 U+8360 荠	kTraditionalVariant	U+85BA
 U+8361 荡	kTraditionalVariant	U+76EA U+8569
-U+8363 荣	kTraditionalVariant	U+69AE
+U+8363 荣	kTraditionalVariant	U+69AE U+8363
 U+8364 荤	kTraditionalVariant	U+8477
 U+8365 荥	kTraditionalVariant	U+6ECE
 U+8366 荦	kTraditionalVariant	U+7296
@@ -1521,7 +1525,7 @@ U+836C 荬	kTraditionalVariant	U+8552
 U+836D 荭	kTraditionalVariant	U+8452
 U+836E 荮	kTraditionalVariant	U+8464
 U+836F 药	kTraditionalVariant	U+85E5
-U+8385 莅	kTraditionalVariant	U+849E
+U+8385 莅	kTraditionalVariant	U+8385 U+849E
 U+83B1 莱	kTraditionalVariant	U+840A
 U+83B2 莲	kTraditionalVariant	U+84EE
 U+83B3 莳	kTraditionalVariant	U+8494
@@ -1533,27 +1537,27 @@ U+83B9 莹	kTraditionalVariant	U+7469
 U+83BA 莺	kTraditionalVariant	U+9DAF
 U+83BC 莼	kTraditionalVariant	U+84F4
 U+841A 萚	kTraditionalVariant	U+8600
-U+841D 萝	kTraditionalVariant	U+863F
+U+841D 萝	kTraditionalVariant	U+841D U+863F
 U+8424 萤	kTraditionalVariant	U+87A2
 U+8425 营	kTraditionalVariant	U+71DF
 U+8426 萦	kTraditionalVariant	U+7E08
 U+8427 萧	kTraditionalVariant	U+856D
 U+8428 萨	kTraditionalVariant	U+85A9
 U+8457 著	kTraditionalVariant	U+8457
-U+8471 葱	kTraditionalVariant	U+8525
+U+8471 葱	kTraditionalVariant	U+8471 U+8525
 U+8487 蒇	kTraditionalVariant	U+8546
 U+8489 蒉	kTraditionalVariant	U+8562
 U+848B 蒋	kTraditionalVariant	U+8523
 U+848C 蒌	kTraditionalVariant	U+851E
-U+8499 蒙	kTraditionalVariant	U+61DE U+6FDB U+77C7
+U+8499 蒙	kTraditionalVariant	U+61DE U+6FDB U+77C7 U+8499
 U+84DD 蓝	kTraditionalVariant	U+85CD
 U+84DF 蓟	kTraditionalVariant	U+858A
 U+84E0 蓠	kTraditionalVariant	U+863A
 U+84E3 蓣	kTraditionalVariant	U+8577
 U+84E5 蓥	kTraditionalVariant	U+93A3
 U+84E6 蓦	kTraditionalVariant	U+9A40
-U+8502 蔂	kTraditionalVariant	U+8646
-U+8511 蔑	kTraditionalVariant	U+884A
+U+8502 蔂	kTraditionalVariant	U+8502 U+8646
+U+8511 蔑	kTraditionalVariant	U+8511 U+884A
 U+8537 蔷	kTraditionalVariant	U+8594
 U+8539 蔹	kTraditionalVariant	U+861E
 U+853A 蔺	kTraditionalVariant	U+85FA
@@ -1564,27 +1568,27 @@ U+8574 蕴	kTraditionalVariant	U+860A
 U+85AE 薮	kTraditionalVariant	U+85EA
 U+85C9 藉	kTraditionalVariant	U+85C9
 U+85D3 藓	kTraditionalVariant	U+861A
-U+8616 蘖	kTraditionalVariant	U+6AF1
+U+8616 蘖	kTraditionalVariant	U+6AF1 U+8616
 U+864F 虏	kTraditionalVariant	U+865C
 U+8651 虑	kTraditionalVariant	U+616E
 U+865A 虚	kTraditionalVariant	U+865B
-U+866B 虫	kTraditionalVariant	U+87F2
-U+866C 虬	kTraditionalVariant	U+866F
+U+866B 虫	kTraditionalVariant	U+866B U+87F2
+U+866C 虬	kTraditionalVariant	U+866C U+866F
 U+866E 虮	kTraditionalVariant	U+87E3
 U+867D 虽	kTraditionalVariant	U+96D6
-U+867E 虾	kTraditionalVariant	U+8766
+U+867E 虾	kTraditionalVariant	U+867E U+8766
 U+867F 虿	kTraditionalVariant	U+8806
 U+8680 蚀	kTraditionalVariant	U+8755
-U+8681 蚁	kTraditionalVariant	U+87FB
+U+8681 蚁	kTraditionalVariant	U+8681 U+87FB
 U+8682 蚂	kTraditionalVariant	U+879E
 U+8683 蚃	kTraditionalVariant	U+8801
-U+8695 蚕	kTraditionalVariant	U+8836
+U+8695 蚕	kTraditionalVariant	U+8695 U+8836
 U+86AC 蚬	kTraditionalVariant	U+8706
 U+86CA 蛊	kTraditionalVariant	U+8831
 U+86CE 蛎	kTraditionalVariant	U+8823
 U+86CF 蛏	kTraditionalVariant	U+87F6
-U+86EE 蛮	kTraditionalVariant	U+883B
-U+86F0 蛰	kTraditionalVariant	U+87C4
+U+86EE 蛮	kTraditionalVariant	U+86EE U+883B
+U+86F0 蛰	kTraditionalVariant	U+86F0 U+87C4
 U+86F1 蛱	kTraditionalVariant	U+86FA
 U+86F2 蛲	kTraditionalVariant	U+87EF
 U+86F3 蛳	kTraditionalVariant	U+8784
@@ -1595,21 +1599,21 @@ U+8721 蜡	kTraditionalVariant	U+8721 U+881F
 U+8747 蝇	kTraditionalVariant	U+8805
 U+8748 蝈	kTraditionalVariant	U+87C8
 U+8749 蝉	kTraditionalVariant	U+87EC
-U+877C 蝼	kTraditionalVariant	U+87BB
+U+877C 蝼	kTraditionalVariant	U+877C U+87BB
 U+877E 蝾	kTraditionalVariant	U+8811
 U+8780 螀	kTraditionalVariant	U+87BF
 U+87A8 螨	kTraditionalVariant	U+87CE
 U+87CF 蟏	kTraditionalVariant	U+8828
-U+8845 衅	kTraditionalVariant	U+91C1
+U+8845 衅	kTraditionalVariant	U+8845 U+91C1
 U+8854 衔	kTraditionalVariant	U+929C
-U+8865 补	kTraditionalVariant	U+88DC
+U+8865 补	kTraditionalVariant	U+8865 U+88DC
 U+8868 表	kTraditionalVariant	U+8868 U+9336
 U+886C 衬	kTraditionalVariant	U+896F
-U+886E 衮	kTraditionalVariant	U+889E
-U+8884 袄	kTraditionalVariant	U+8956
+U+886E 衮	kTraditionalVariant	U+886E U+889E
+U+8884 袄	kTraditionalVariant	U+8884 U+8956
 U+8885 袅	kTraditionalVariant	U+88CA
 U+8886 袆	kTraditionalVariant	U+8918
-U+889C 袜	kTraditionalVariant	U+896A
+U+889C 袜	kTraditionalVariant	U+889C U+896A
 U+88AD 袭	kTraditionalVariant	U+8972
 U+88AF 袯	kTraditionalVariant	U+894F
 U+88C5 装	kTraditionalVariant	U+88DD
@@ -1647,7 +1651,7 @@ U+89E6 触	kTraditionalVariant	U+89F8
 U+89EF 觯	kTraditionalVariant	U+89F6
 U+8A1A 訚	kTraditionalVariant	U+8ABE
 U+8A5F 詟	kTraditionalVariant	U+8B8B
-U+8A89 誉	kTraditionalVariant	U+8B7D
+U+8A89 誉	kTraditionalVariant	U+8A89 U+8B7D
 U+8A8A 誊	kTraditionalVariant	U+8B04
 U+8BA0 讠	kTraditionalVariant	U+8A01
 U+8BA1 计	kTraditionalVariant	U+8A08
@@ -1800,7 +1804,7 @@ U+8C33 谳	kTraditionalVariant	U+8B9E
 U+8C34 谴	kTraditionalVariant	U+8B74
 U+8C35 谵	kTraditionalVariant	U+8B6B
 U+8C36 谶	kTraditionalVariant	U+8B96
-U+8C37 谷	kTraditionalVariant	U+7A40
+U+8C37 谷	kTraditionalVariant	U+7A40 U+8C37
 U+8C6E 豮	kTraditionalVariant	U+8C76
 U+8D1D 贝	kTraditionalVariant	U+8C9D
 U+8D1E 贞	kTraditionalVariant	U+8C9E
@@ -1875,8 +1879,8 @@ U+8D62 赢	kTraditionalVariant	U+8D0F
 U+8D63 赣	kTraditionalVariant	U+8D1B
 U+8D6A 赪	kTraditionalVariant	U+8D6C
 U+8D75 赵	kTraditionalVariant	U+8D99
-U+8D76 赶	kTraditionalVariant	U+8D95
-U+8D8B 趋	kTraditionalVariant	U+8DA8
+U+8D76 赶	kTraditionalVariant	U+8D76 U+8D95
+U+8D8B 趋	kTraditionalVariant	U+8D8B U+8DA8
 U+8DB1 趱	kTraditionalVariant	U+8DB2
 U+8DB8 趸	kTraditionalVariant	U+8E89
 U+8DC3 跃	kTraditionalVariant	U+8E8D
@@ -1888,18 +1892,18 @@ U+8DF7 跷	kTraditionalVariant	U+8E7A
 U+8DF8 跸	kTraditionalVariant	U+8E55
 U+8DF9 跹	kTraditionalVariant	U+8E9A
 U+8DFB 跻	kTraditionalVariant	U+8E8B
-U+8E0A 踊	kTraditionalVariant	U+8E34
+U+8E0A 踊	kTraditionalVariant	U+8E0A U+8E34
 U+8E0C 踌	kTraditionalVariant	U+8E8A
-U+8E2A 踪	kTraditionalVariant	U+8E64
+U+8E2A 踪	kTraditionalVariant	U+8E2A U+8E64
 U+8E2C 踬	kTraditionalVariant	U+8E93
 U+8E2F 踯	kTraditionalVariant	U+8E91
 U+8E51 蹑	kTraditionalVariant	U+8EA1
 U+8E52 蹒	kTraditionalVariant	U+8E63
-U+8E70 蹰	kTraditionalVariant	U+8E95
+U+8E70 蹰	kTraditionalVariant	U+8E70 U+8E95
 U+8E7F 蹿	kTraditionalVariant	U+8EA5
 U+8E8F 躏	kTraditionalVariant	U+8EAA
 U+8E9C 躜	kTraditionalVariant	U+8EA6
-U+8EAF 躯	kTraditionalVariant	U+8EC0
+U+8EAF 躯	kTraditionalVariant	U+8EAF U+8EC0
 U+8F66 车	kTraditionalVariant	U+8ECA
 U+8F67 轧	kTraditionalVariant	U+8ECB
 U+8F68 轨	kTraditionalVariant	U+8ECC
@@ -1953,33 +1957,33 @@ U+8F97 辗	kTraditionalVariant	U+8F3E
 U+8F98 辘	kTraditionalVariant	U+8F46
 U+8F99 辙	kTraditionalVariant	U+8F4D
 U+8F9A 辚	kTraditionalVariant	U+8F54
-U+8F9E 辞	kTraditionalVariant	U+8FAD
+U+8F9E 辞	kTraditionalVariant	U+8F9E U+8FAD
 U+8F9F 辟	kTraditionalVariant	U+8F9F U+95E2
 U+8FA9 辩	kTraditionalVariant	U+8FAF
 U+8FAB 辫	kTraditionalVariant	U+8FAE
-U+8FB9 边	kTraditionalVariant	U+908A
+U+8FB9 边	kTraditionalVariant	U+8FB9 U+908A
 U+8FBD 辽	kTraditionalVariant	U+907C
 U+8FBE 达	kTraditionalVariant	U+9054
-U+8FC1 迁	kTraditionalVariant	U+9077
-U+8FC7 过	kTraditionalVariant	U+904E
+U+8FC1 迁	kTraditionalVariant	U+8FC1 U+9077
+U+8FC7 过	kTraditionalVariant	U+8FC7 U+904E
 U+8FC8 迈	kTraditionalVariant	U+9081
 U+8FD0 运	kTraditionalVariant	U+904B
-U+8FD8 还	kTraditionalVariant	U+9084
-U+8FD9 这	kTraditionalVariant	U+9019
+U+8FD8 还	kTraditionalVariant	U+8FD8 U+9084
+U+8FD9 这	kTraditionalVariant	U+8FD9 U+9019
 U+8FDB 进	kTraditionalVariant	U+9032
-U+8FDC 远	kTraditionalVariant	U+9060
+U+8FDC 远	kTraditionalVariant	U+8FDC U+9060
 U+8FDD 违	kTraditionalVariant	U+9055
 U+8FDE 连	kTraditionalVariant	U+9023
 U+8FDF 迟	kTraditionalVariant	U+9072
-U+8FE9 迩	kTraditionalVariant	U+9087
+U+8FE9 迩	kTraditionalVariant	U+8FE9 U+9087
 U+8FF3 迳	kTraditionalVariant	U+9015
-U+8FF9 迹	kTraditionalVariant	U+8DE1
-U+9002 适	kTraditionalVariant	U+9069
-U+9009 选	kTraditionalVariant	U+9078
-U+900A 逊	kTraditionalVariant	U+905C
-U+9012 递	kTraditionalVariant	U+905E
+U+8FF9 迹	kTraditionalVariant	U+8DE1 U+8FF9
+U+9002 适	kTraditionalVariant	U+9002 U+9069
+U+9009 选	kTraditionalVariant	U+9009 U+9078
+U+900A 逊	kTraditionalVariant	U+900A U+905C
+U+9012 递	kTraditionalVariant	U+9012 U+905E
 U+9026 逦	kTraditionalVariant	U+9090
-U+903B 逻	kTraditionalVariant	U+908F
+U+903B 逻	kTraditionalVariant	U+903B U+908F
 U+9057 遗	kTraditionalVariant	U+907A
 U+9065 遥	kTraditionalVariant	U+9059
 U+9093 邓	kTraditionalVariant	U+9127
@@ -1989,10 +1993,10 @@ U+90AE 邮	kTraditionalVariant	U+90F5
 U+90B9 邹	kTraditionalVariant	U+9112
 U+90BA 邺	kTraditionalVariant	U+9134
 U+90BB 邻	kTraditionalVariant	U+9130
-U+90C1 郁	kTraditionalVariant	U+9B31
+U+90C1 郁	kTraditionalVariant	U+90C1 U+9B31
 U+90CF 郏	kTraditionalVariant	U+90DF
 U+90D0 郐	kTraditionalVariant	U+9136
-U+90D1 郑	kTraditionalVariant	U+912D
+U+90D1 郑	kTraditionalVariant	U+90D1 U+912D
 U+90D3 郓	kTraditionalVariant	U+9106
 U+90E6 郦	kTraditionalVariant	U+9148
 U+90E7 郧	kTraditionalVariant	U+9116
@@ -2006,9 +2010,9 @@ U+917E 酾	kTraditionalVariant	U+91C3
 U+917F 酿	kTraditionalVariant	U+91C0
 U+91C7 采	kTraditionalVariant	U+57F0 U+63A1 U+91C7
 U+91CA 释	kTraditionalVariant	U+91CB
-U+91CC 里	kTraditionalVariant	U+88E1
+U+91CC 里	kTraditionalVariant	U+88E1 U+91CC
 U+9274 鉴	kTraditionalVariant	U+9452
-U+92AE 銮	kTraditionalVariant	U+947E
+U+92AE 銮	kTraditionalVariant	U+92AE U+947E
 U+933E 錾	kTraditionalVariant	U+93E8
 U+9485 钅	kTraditionalVariant	U+91D2
 U+9486 钆	kTraditionalVariant	U+91D3
@@ -2310,7 +2314,7 @@ U+9633 阳	kTraditionalVariant	U+967D
 U+9634 阴	kTraditionalVariant	U+9670
 U+9635 阵	kTraditionalVariant	U+9663
 U+9636 阶	kTraditionalVariant	U+968E
-U+9645 际	kTraditionalVariant	U+969B
+U+9645 际	kTraditionalVariant	U+9645 U+969B
 U+9646 陆	kTraditionalVariant	U+9678
 U+9647 陇	kTraditionalVariant	U+96B4
 U+9648 陈	kTraditionalVariant	U+9673
@@ -2320,21 +2324,21 @@ U+9666 陦	kTraditionalVariant	U+96AF
 U+9667 陧	kTraditionalVariant	U+9689
 U+9668 陨	kTraditionalVariant	U+9695
 U+9669 险	kTraditionalVariant	U+96AA
-U+968F 随	kTraditionalVariant	U+96A8
-U+9690 隐	kTraditionalVariant	U+96B1
-U+96B6 隶	kTraditionalVariant	U+96B8
-U+96BD 隽	kTraditionalVariant	U+96CB
-U+96BE 难	kTraditionalVariant	U+96E3
+U+968F 随	kTraditionalVariant	U+968F U+96A8
+U+9690 隐	kTraditionalVariant	U+9690 U+96B1
+U+96B6 隶	kTraditionalVariant	U+96B6 U+96B8
+U+96BD 隽	kTraditionalVariant	U+96BD U+96CB
+U+96BE 难	kTraditionalVariant	U+96BE U+96E3
 U+96CF 雏	kTraditionalVariant	U+96DB
 U+96E0 雠	kTraditionalVariant	U+8B8E
 U+96F3 雳	kTraditionalVariant	U+9742
 U+96FE 雾	kTraditionalVariant	U+9727
 U+9701 霁	kTraditionalVariant	U+973D
-U+9709 霉	kTraditionalVariant	U+9EF4
-U+9721 霡	kTraditionalVariant	U+9722
+U+9709 霉	kTraditionalVariant	U+9709 U+9EF4
+U+9721 霡	kTraditionalVariant	U+9721 U+9722
 U+972D 霭	kTraditionalVariant	U+9744
 U+9753 靓	kTraditionalVariant	U+975A
-U+9759 静	kTraditionalVariant	U+975C
+U+9759 静	kTraditionalVariant	U+9759 U+975C
 U+9762 面	kTraditionalVariant	U+9762 U+9EB5
 U+9765 靥	kTraditionalVariant	U+9768
 U+9791 鞑	kTraditionalVariant	U+97C3
@@ -2347,7 +2351,7 @@ U+97E9 韩	kTraditionalVariant	U+97D3
 U+97EA 韪	kTraditionalVariant	U+97D9
 U+97EB 韫	kTraditionalVariant	U+97DE
 U+97EC 韬	kTraditionalVariant	U+97DC
-U+97F5 韵	kTraditionalVariant	U+97FB
+U+97F5 韵	kTraditionalVariant	U+97F5 U+97FB
 U+9875 页	kTraditionalVariant	U+9801
 U+9876 顶	kTraditionalVariant	U+9802
 U+9877 顷	kTraditionalVariant	U+9803
@@ -2399,7 +2403,7 @@ U+98A4 颤	kTraditionalVariant	U+986B
 U+98A5 颥	kTraditionalVariant	U+986C
 U+98A6 颦	kTraditionalVariant	U+9870
 U+98A7 颧	kTraditionalVariant	U+9874
-U+98CE 风	kTraditionalVariant	U+98A8
+U+98CE 风	kTraditionalVariant	U+98A8 U+98CE
 U+98CF 飏	kTraditionalVariant	U+98BA
 U+98D0 飐	kTraditionalVariant	U+98AD
 U+98D1 飑	kTraditionalVariant	U+98AE
@@ -2602,7 +2606,7 @@ U+9CBD 鲽	kTraditionalVariant	U+9C08
 U+9CBE 鲾	kTraditionalVariant	U+9C0F
 U+9CBF 鲿	kTraditionalVariant	U+9C68
 U+9CC0 鳀	kTraditionalVariant	U+9BF7
-U+9CC1 鳁	kTraditionalVariant	U+9C2E
+U+9CC1 鳁	kTraditionalVariant	U+9C1B U+9C2E
 U+9CC2 鳂	kTraditionalVariant	U+9C03
 U+9CC3 鳃	kTraditionalVariant	U+9C13
 U+9CC4 鳄	kTraditionalVariant	U+9C10 U+9C77
@@ -2725,19 +2729,19 @@ U+9E72 鹲	kTraditionalVariant	U+9E0F
 U+9E73 鹳	kTraditionalVariant	U+9E1B
 U+9E74 鹴	kTraditionalVariant	U+9E18
 U+9E7E 鹾	kTraditionalVariant	U+9E7A
-U+9EA6 麦	kTraditionalVariant	U+9EA5
+U+9EA6 麦	kTraditionalVariant	U+9EA5 U+9EA6
 U+9EB8 麸	kTraditionalVariant	U+9EA9
 U+9EB9 麹	kTraditionalVariant	U+9EB4
-U+9EC4 黄	kTraditionalVariant	U+9EC3
+U+9EC4 黄	kTraditionalVariant	U+9EC3 U+9EC4
 U+9EC9 黉	kTraditionalVariant	U+9ECC
 U+9EE1 黡	kTraditionalVariant	U+9EF6
 U+9EE9 黩	kTraditionalVariant	U+9EF7
 U+9EEA 黪	kTraditionalVariant	U+9EF2
-U+9EFE 黾	kTraditionalVariant	U+9EFD
+U+9EFE 黾	kTraditionalVariant	U+9EFD U+9EFE
 U+9F0B 鼋	kTraditionalVariant	U+9EFF
 U+9F0D 鼍	kTraditionalVariant	U+9F09
-U+9F17 鼗	kTraditionalVariant	U+9780
-U+9F39 鼹	kTraditionalVariant	U+9F34
+U+9F17 鼗	kTraditionalVariant	U+9780 U+9F17
+U+9F39 鼹	kTraditionalVariant	U+9F34 U+9F39
 U+9F50 齐	kTraditionalVariant	U+9F4A
 U+9F51 齑	kTraditionalVariant	U+9F4F
 U+9F7F 齿	kTraditionalVariant	U+9F52
@@ -2757,7 +2761,7 @@ U+9F8C 龌	kTraditionalVariant	U+9F77
 U+9F99 龙	kTraditionalVariant	U+9F8D
 U+9F9A 龚	kTraditionalVariant	U+9F94
 U+9F9B 龛	kTraditionalVariant	U+9F95
-U+9F9F 龟	kTraditionalVariant	U+9F9C
+U+9F9F 龟	kTraditionalVariant	U+9F9C U+9F9F
 U+9FCE 鿎	kTraditionalVariant	U+40EE
 U+9FCF 鿏	kTraditionalVariant	U+4951
 U+9FD2 鿒	kTraditionalVariant	U+9FD3
@@ -2792,7 +2796,7 @@ U+20B24 𠬤	kTraditionalVariant	U+776A
 U+20BDF 𠯟	kTraditionalVariant	U+54EF
 U+20BE0 𠯠	kTraditionalVariant	U+5645
 U+20C37 𠰷	kTraditionalVariant	U+56A7
-U+20C5E 𠱞	kTraditionalVariant	U+2B75C
+U+20C5E 𠱞	kTraditionalVariant	U+56C3
 U+20CA5 𠲥	kTraditionalVariant	U+2114F
 U+20CDE 𠳞	kTraditionalVariant	U+20DB8
 U+20D22 𠴢	kTraditionalVariant	U+21114
