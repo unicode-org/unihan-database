@@ -10,6 +10,7 @@ Each provisional Unihan database property currently being worked on has its own 
 - [kPhonetic](https://unicode.org/reports/tr38/#kPhonetic).txt
 - [kSemanticVariant](https://unicode.org/reports/tr38/#kSemanticVariant).txt
 - [kSimplifiedVariant](https://unicode.org/reports/tr38/#kSimplifiedVariant).txt
+- [kSpecializedSemanticVariant](https://unicode.org/reports/tr38/#kSpecializedSemanticVariant).txt
 - [kSpoofingVariant](https://unicode.org/reports/tr38/#kSpoofingVariant).txt
 - [kTraditionalVariant](https://unicode.org/reports/tr38/#kTraditionalVariant).txt
 - [kZVariant](https://unicode.org/reports/tr38/#kZVariant).txt
