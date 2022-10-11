@@ -1,0 +1,523 @@
+U+349A 㒚	kSpecializedSemanticVariant	U+6587<kFenn
+U+34B7 㒷	kSpecializedSemanticVariant	U+8208<kFenn
+U+34DF 㓟	kSpecializedSemanticVariant	U+62AB<kMeyerWempe
+U+353E 㔾	kSpecializedSemanticVariant	U+5369<kFenn
+U+36DB 㛛	kSpecializedSemanticVariant	U+5A20<kFenn
+U+3D11 㴑	kSpecializedSemanticVariant	U+6EAF<kFenn
+U+3DC9 㷉	kSpecializedSemanticVariant	U+71A8<kFenn
+U+410D 䄍	kSpecializedSemanticVariant	U+8721
+U+458F 䖏	kSpecializedSemanticVariant	U+8655<kFenn
+U+4E00 一	kSpecializedSemanticVariant	U+58F9
+U+4E03 七	kSpecializedSemanticVariant	U+67D2<kFenn
+U+4E09 三	kSpecializedSemanticVariant	U+53C1<kFenn
+U+4E15 丕	kSpecializedSemanticVariant	U+4EF3<kMeyerWempe
+U+4E2A 个	kSpecializedSemanticVariant	U+500B<kMeyerWempe
+U+4E2D 中	kSpecializedSemanticVariant	U+585A<kFenn
+U+4E3C 丼	kSpecializedSemanticVariant	U+4E95
+U+4E7E 乾	kSpecializedSemanticVariant	U+4E81<kFenn
+U+4E81 亁	kSpecializedSemanticVariant	U+4E7E<kFenn
+U+4E8C 二	kSpecializedSemanticVariant	U+8CB3
+U+4E94 五	kSpecializedSemanticVariant	U+4F0D<kMeyerWempe
+U+4E95 井	kSpecializedSemanticVariant	U+4E3C
+U+4EC7 仇	kSpecializedSemanticVariant	U+8B8E<kFenn U+8B90<kFenn
+U+4ECE 从	kSpecializedSemanticVariant	U+5F9E<kFenn
+U+4ED9 仙	kSpecializedSemanticVariant	U+50CA
+U+4EDF 仟	kSpecializedSemanticVariant	U+5343
+U+4EF3 仳	kSpecializedSemanticVariant	U+4E15<kMeyerWempe
+U+4EFD 份	kSpecializedSemanticVariant	U+5206<kFenn
+U+4F0D 伍	kSpecializedSemanticVariant	U+4E94<kMeyerWempe
+U+4F37 伷	kSpecializedSemanticVariant	U+80C4<kMeyerWempe
+U+4F54 佔	kSpecializedSemanticVariant	U+5360<kFenn
+U+4F60 你	kSpecializedSemanticVariant	U+59B3 U+60A8 U+7962 U+88AE
+U+4F6C 佬	kSpecializedSemanticVariant	U+59C6<kFenn
+U+4F86 來	kSpecializedSemanticVariant	U+8012<kMeyerWempe
+U+4FD3 俓	kSpecializedSemanticVariant	U+52C1<kMeyerWempe
+U+500B 個	kSpecializedSemanticVariant	U+4E2A<kMeyerWempe U+7B87
+U+5016 倖	kSpecializedSemanticVariant	U+56DF<kFenn
+U+504E 偎	kSpecializedSemanticVariant	U+6E28<kMeyerWempe U+9688
+U+507A 偺	kSpecializedSemanticVariant	U+5592<kFenn
+U+5081 傁	kSpecializedSemanticVariant	U+58B0<kMeyerWempe
+U+508D 傍	kSpecializedSemanticVariant	U+65C1<kFenn
+U+50CA 僊	kSpecializedSemanticVariant	U+4ED9
+U+510E 儎	kSpecializedSemanticVariant	U+8F09<kFenn
+U+5121 儡	kSpecializedSemanticVariant	U+9179<kMeyerWempe
+U+516B 八	kSpecializedSemanticVariant	U+634C
+U+516D 六	kSpecializedSemanticVariant	U+9678
+U+51A3 冣	kSpecializedSemanticVariant	U+6700<sSoengmou2003 U+805A<sSoengmou2003
+U+51C8 凈	kSpecializedSemanticVariant	U+6DE8<kMeyerWempe
+U+51E0 几	kSpecializedSemanticVariant	U+5E7E<kFenn
+U+51E6 処	kSpecializedSemanticVariant	U+8655<kFenn
+U+5206 分	kSpecializedSemanticVariant	U+4EFD<kFenn
+U+5212 划	kSpecializedSemanticVariant	U+5283<kFenn
+U+523A 刺	kSpecializedSemanticVariant	U+83BF<kMeyerWempe
+U+5249 剉	kSpecializedSemanticVariant	U+92BC
+U+524C 剌	kSpecializedSemanticVariant	U+5DE4<kFenn
+U+5259 剙	kSpecializedSemanticVariant	U+5275<kFenn
+U+5273 剳	kSpecializedSemanticVariant	U+5284
+U+5275 創	kSpecializedSemanticVariant	U+5259<kFenn
+U+5283 劃	kSpecializedSemanticVariant	U+5212<kFenn
+U+5284 劄	kSpecializedSemanticVariant	U+5273
+U+52B3 劳	kSpecializedSemanticVariant	U+52DE<kFenn
+U+52C1 勁	kSpecializedSemanticVariant	U+4FD3<kMeyerWempe U+5F91
+U+52C5 勅	kSpecializedSemanticVariant	U+52D1<kMeyerWempe U+6555
+U+52D1 勑	kSpecializedSemanticVariant	U+52C5<kMeyerWempe
+U+52DE 勞	kSpecializedSemanticVariant	U+52B3<kFenn
+U+52F0 勰	kSpecializedSemanticVariant	U+8105<kMeyerWempe
+U+531C 匜	kSpecializedSemanticVariant	U+9248<sHanyuDaCidian1986:T
+U+5341 十	kSpecializedSemanticVariant	U+62FE
+U+5343 千	kSpecializedSemanticVariant	U+4EDF
+U+534C 卌	kSpecializedSemanticVariant	U+2099C
+U+5353 卓	kSpecializedSemanticVariant	U+68F9<kMeyerWempe
+U+5360 占	kSpecializedSemanticVariant	U+4F54<kFenn
+U+5369 卩	kSpecializedSemanticVariant	U+353E<kFenn U+7BC0<kFenn
+U+536F 卯	kSpecializedSemanticVariant	U+5918<kHanYu:T
+U+53A8 厨	kSpecializedSemanticVariant	U+2228D
+U+53B6 厶	kSpecializedSemanticVariant	U+67D0<kFenn
+U+53C1 叁	kSpecializedSemanticVariant	U+4E09<kFenn
+U+53C3 參	kSpecializedSemanticVariant	U+53C5<kFenn U+8593<kFenn
+U+53C5 叅	kSpecializedSemanticVariant	U+53C3<kFenn
+U+53C9 叉	kSpecializedSemanticVariant	U+91F5<kMeyerWempe
+U+53CC 双	kSpecializedSemanticVariant	U+96D9<kFenn
+U+53DF 叟	kSpecializedSemanticVariant	U+58B0<kMeyerWempe
+U+53EA 只	kSpecializedSemanticVariant	U+7947
+U+53F7 号	kSpecializedSemanticVariant	U+865F<kFenn
+U+540B 吋	kSpecializedSemanticVariant	U+5BF8
+U+542B 含	kSpecializedSemanticVariant	U+5505<kMeyerWempe
+U+542C 听	kSpecializedSemanticVariant	U+807D<kFenn
+U+5443 呃	kSpecializedSemanticVariant	U+9628<kMeyerWempe
+U+5446 呆	kSpecializedSemanticVariant	U+7343<kMeyerWempe
+U+5474 呴	kSpecializedSemanticVariant	U+8A6C<kMeyerWempe
+U+548C 和	kSpecializedSemanticVariant	U+9FA2<kFenn
+U+54A5 咥	kSpecializedSemanticVariant	U+563B<kMeyerWempe
+U+54AE 咮	kSpecializedSemanticVariant	U+80C4<kMeyerWempe
+U+54B1 咱	kSpecializedSemanticVariant	U+5592<kFenn
+U+54B3 咳	kSpecializedSemanticVariant	U+6B2C<kFenn
+U+54BD 咽	kSpecializedSemanticVariant	U+56A5<kFenn
+U+54FC 哼	kSpecializedSemanticVariant	U+82DB<kFenn
+U+5505 唅	kSpecializedSemanticVariant	U+542B<kMeyerWempe
+U+5509 唉	kSpecializedSemanticVariant	U+6B38<kMeyerWempe
+U+553E 唾	kSpecializedSemanticVariant	U+6DB6<kFenn
+U+554A 啊	kSpecializedSemanticVariant	U+963F<kFenn
+U+5582 喂	kSpecializedSemanticVariant	U+9927 U+9935<kMeyerWempe
+U+5592 喒	kSpecializedSemanticVariant	U+507A<kFenn U+54B1<kFenn
+U+55FB 嗻	kSpecializedSemanticVariant	U+8655<kMeyerWempe
+U+5614 嘔	kSpecializedSemanticVariant	U+616A<kFenn
+U+563B 嘻	kSpecializedSemanticVariant	U+54A5<kMeyerWempe
+U+56A5 嚥	kSpecializedSemanticVariant	U+54BD<kFenn
+U+56D3 囓	kSpecializedSemanticVariant	U+9F67<kMeyerWempe
+U+56DB 四	kSpecializedSemanticVariant	U+8086<kFenn
+U+56DF 囟	kSpecializedSemanticVariant	U+5016<kFenn U+5E78<kFenn U+9856
+U+56EE 囮	kSpecializedSemanticVariant	U+8AE4<kMeyerWempe
+U+5746 坆	kSpecializedSemanticVariant	U+58B3
+U+574F 坏	kSpecializedSemanticVariant	U+576F<kMeyerWempe
+U+5750 坐	kSpecializedSemanticVariant	U+5EA7<kMeyerWempe
+U+576D 坭	kSpecializedSemanticVariant	U+6CE5<kFenn
+U+576F 坯	kSpecializedSemanticVariant	U+574F<kMeyerWempe
+U+57DF 域	kSpecializedSemanticVariant	U+8B7D<kFenn
+U+57FA 基	kSpecializedSemanticVariant	U+628D<kFenn U+62EF<kFenn
+U+5806 堆	kSpecializedSemanticVariant	U+200A4<kFenn
+U+5834 場	kSpecializedSemanticVariant	U+5872
+U+5835 堵	kSpecializedSemanticVariant	U+937A<sHanyuDaCidian1986:T
+U+585A 塚	kSpecializedSemanticVariant	U+4E2D<kFenn
+U+5872 塲	kSpecializedSemanticVariant	U+5834
+U+587E 塾	kSpecializedSemanticVariant	U+5B70<kMeyerWempe
+U+58B0 墰	kSpecializedSemanticVariant	U+5081<kMeyerWempe U+53DF U+7F48
+U+58B3 墳	kSpecializedSemanticVariant	U+5746
+U+58F3 壳	kSpecializedSemanticVariant	U+6BBC<kFenn
+U+58F9 壹	kSpecializedSemanticVariant	U+4E00
+U+5905 夅	kSpecializedSemanticVariant	U+964D<kFenn
+U+5916 外	kSpecializedSemanticVariant	U+8200<kFenn
+U+5917 夗	kSpecializedSemanticVariant	U+5918<kHanYu:T
+U+5918 夘	kSpecializedSemanticVariant	U+5917<kHanYu:TZ U+536F<kHanYu:TZ
+U+5954 奔	kSpecializedSemanticVariant	U+7287<kFenn
+U+5976 奶	kSpecializedSemanticVariant	U+5B2D<kMeyerWempe
+U+59B3 妳	kSpecializedSemanticVariant	U+4F60 U+60A8 U+7962 U+88AE
+U+59C6 姆	kSpecializedSemanticVariant	U+4F6C<kFenn U+59E5<kFenn
+U+59E5 姥	kSpecializedSemanticVariant	U+59C6<kFenn
+U+5A20 娠	kSpecializedSemanticVariant	U+36DB<kFenn U+6696 U+7156<kFenn
+U+5A86 媆	kSpecializedSemanticVariant	U+5AF0<kFenn
+U+5AE9 嫩	kSpecializedSemanticVariant	U+5AF0<kFenn
+U+5AF0 嫰	kSpecializedSemanticVariant	U+5A86<kFenn U+217BE U+5AE9<kFenn
+U+5B2D 嬭	kSpecializedSemanticVariant	U+5976<kMeyerWempe
+U+5B32 嬲	kSpecializedSemanticVariant	U+60F1<kMeyerWempe
+U+5B5B 孛	kSpecializedSemanticVariant	U+67CF<kFenn U+6822<kFenn
+U+5B70 孰	kSpecializedSemanticVariant	U+587E<kMeyerWempe
+U+5B83 它	kSpecializedSemanticVariant	U+7260
+U+5BE0 寠	kSpecializedSemanticVariant	U+7AB6<kMeyerWempe
+U+5BF8 寸	kSpecializedSemanticVariant	U+540B
+U+5BF9 对	kSpecializedSemanticVariant	U+5C0D<kMeyerWempe
+U+5C06 将	kSpecializedSemanticVariant	U+5C07<kFenn
+U+5C07 將	kSpecializedSemanticVariant	U+5C06<kFenn U+757A<kFenn U+7586 U+2456D
+U+5C09 尉	kSpecializedSemanticVariant	U+71A8<kFenn
+U+5C0D 對	kSpecializedSemanticVariant	U+5BF9<kMeyerWempe
+U+5C3F 尿	kSpecializedSemanticVariant	U+6EBA<kFenn
+U+5D0B 崋	kSpecializedSemanticVariant	U+83EF<kHanYu
+U+5DE4 巤	kSpecializedSemanticVariant	U+524C<kFenn U+9B23<kFenn
+U+5E06 帆	kSpecializedSemanticVariant	U+62DA<kFenn
+U+5E1A 帚	kSpecializedSemanticVariant	U+7B92<kFenn
+U+5E78 幸	kSpecializedSemanticVariant	U+56DF<kFenn
+U+5E7E 幾	kSpecializedSemanticVariant	U+51E0<kFenn
+U+5EA7 座	kSpecializedSemanticVariant	U+5750<kMeyerWempe
+U+5F04 弄	kSpecializedSemanticVariant	U+7627<kFenn
+U+5F0D 弍	kSpecializedSemanticVariant	U+8CB3
+U+5F37 強	kSpecializedSemanticVariant	U+5F4A<kFenn
+U+5F3A 强	kSpecializedSemanticVariant	U+5F4A<kFenn
+U+5F4A 彊	kSpecializedSemanticVariant	U+5F37<kFenn U+5F3A<kFenn
+U+5F53 当	kSpecializedSemanticVariant	U+7576<kFenn
+U+5F6B 彫	kSpecializedSemanticVariant	U+9D70
+U+5F80 往	kSpecializedSemanticVariant	U+5F83<kFenn
+U+5F83 徃	kSpecializedSemanticVariant	U+5F80<kFenn
+U+5F91 徑	kSpecializedSemanticVariant	U+52C1<kMeyerWempe
+U+5F9E 從	kSpecializedSemanticVariant	U+4ECE<kFenn
+U+5FA1 御	kSpecializedSemanticVariant	U+99AD<kMeyerWempe
+U+6038 怸	kSpecializedSemanticVariant	U+6089<kHanYu:TZ
+U+604B 恋	kSpecializedSemanticVariant	U+6200<kFenn
+U+6089 悉	kSpecializedSemanticVariant	U+6038
+U+60A8 您	kSpecializedSemanticVariant	U+4F60 U+59B3 U+7962 U+88AE
+U+60F1 惱	kSpecializedSemanticVariant	U+5B32<kMeyerWempe
+U+60FA 惺	kSpecializedSemanticVariant	U+9192<kMeyerWempe
+U+6108 愈	kSpecializedSemanticVariant	U+7609<kFenn
+U+612C 愬	kSpecializedSemanticVariant	U+8A34<kFenn
+U+613F 愿	kSpecializedSemanticVariant	U+9858<kHanYu:T
+U+616A 慪	kSpecializedSemanticVariant	U+5614<kFenn
+U+6182 憂	kSpecializedSemanticVariant	U+61EE<kHanYu
+U+61C9 應	kSpecializedSemanticVariant	U+786C<kFenn
+U+61EE 懮	kSpecializedSemanticVariant	U+6182<kHanYu
+U+6200 戀	kSpecializedSemanticVariant	U+604B<kFenn
+U+6241 扁	kSpecializedSemanticVariant	U+8251<kFenn
+U+624D 才	kSpecializedSemanticVariant	U+7E94<kFenn U+8CA1<kFenn
+U+6258 托	kSpecializedSemanticVariant	U+62D3<kMeyerWempe
+U+628D 抍	kSpecializedSemanticVariant	U+57FA<kFenn
+U+6298 折	kSpecializedSemanticVariant	U+7FFC<kFenn U+62C3<kFenn
+U+62AB 披	kSpecializedSemanticVariant	U+34DF<kMeyerWempe
+U+62AC 抬	kSpecializedSemanticVariant	U+64E1<kHanYu
+U+62C3 拃	kSpecializedSemanticVariant	U+6298<kFenn
+U+62C5 担	kSpecializedSemanticVariant	U+64D4<kFenn
+U+62C6 拆	kSpecializedSemanticVariant	U+8CAC<kFenn
+U+62C8 拈	kSpecializedSemanticVariant	U+6541<kFenn
+U+62D3 拓	kSpecializedSemanticVariant	U+6258<kMeyerWempe U+646D
+U+62DA 拚	kSpecializedSemanticVariant	U+5E06<kFenn
+U+62EF 拯	kSpecializedSemanticVariant	U+57FA<kFenn
+U+62FC 拼	kSpecializedSemanticVariant	U+79C9<kMeyerWempe
+U+62FD 拽	kSpecializedSemanticVariant	U+66F3<kFenn
+U+62FE 拾	kSpecializedSemanticVariant	U+5341
+U+6309 按	kSpecializedSemanticVariant	U+6435<kFenn
+U+633D 挽	kSpecializedSemanticVariant	U+6387<kMeyerWempe
+U+6349 捉	kSpecializedSemanticVariant	U+6753<kMeyerWempe
+U+634C 捌	kSpecializedSemanticVariant	U+516B
+U+6368 捨	kSpecializedSemanticVariant	U+820D<kMeyerWempe
+U+6387 掇	kSpecializedSemanticVariant	U+633D<kMeyerWempe
+U+6389 掉	kSpecializedSemanticVariant	U+68F9<kMeyerWempe U+6AC2
+U+63A9 掩	kSpecializedSemanticVariant	U+63DC U+63DE<kMeyerWempe
+U+63C5 揅	kSpecializedSemanticVariant	U+7814<kMeyerWempe
+U+63DC 揜	kSpecializedSemanticVariant	U+63A9<kMeyerWempe
+U+63DD 揝	kSpecializedSemanticVariant	U+6522<kFenn
+U+63DE 揞	kSpecializedSemanticVariant	U+63A9<kMeyerWempe
+U+63ED 揭	kSpecializedSemanticVariant	U+7D50<kFenn
+U+6435 搵	kSpecializedSemanticVariant	U+6309<kFenn
+U+6454 摔	kSpecializedSemanticVariant	U+7529<kFenn
+U+646D 摭	kSpecializedSemanticVariant	U+62D3<kMeyerWempe
+U+6474 摴	kSpecializedSemanticVariant	U+8212
+U+648D 撍	kSpecializedSemanticVariant	U+6522<kFenn
+U+64A2 撢	kSpecializedSemanticVariant	U+64A3
+U+64A3 撣	kSpecializedSemanticVariant	U+64A2
+U+64C4 擄	kSpecializedSemanticVariant	U+865C<kFenn
+U+64D4 擔	kSpecializedSemanticVariant	U+62C5<kFenn
+U+64E1 擡	kSpecializedSemanticVariant	U+62AC<kHanYu
+U+6522 攢	kSpecializedSemanticVariant	U+63DD<kFenn U+648D<kFenn
+U+6541 敁	kSpecializedSemanticVariant	U+62C8<kFenn
+U+6555 敕	kSpecializedSemanticVariant	U+52C5<kMeyerWempe
+U+6587 文	kSpecializedSemanticVariant	U+349A<kFenn U+7A69<kFenn
+U+658B 斋	kSpecializedSemanticVariant	U+9F4A<kFenn
+U+658D 斍	kSpecializedSemanticVariant	U+89BA<kFenn
+U+659D 斝	kSpecializedSemanticVariant	U+6A9F<kMeyerWempe
+U+65C1 旁	kSpecializedSemanticVariant	U+508D<kFenn
+U+6641 晁	kSpecializedSemanticVariant	U+671D<kMeyerWempe
+U+6670 晰	kSpecializedSemanticVariant	U+6673<kMeyerWempe
+U+6673 晳	kSpecializedSemanticVariant	U+6670<kMeyerWempe
+U+6696 暖	kSpecializedSemanticVariant	U+5A20<kFenn U+7156<kFenn
+U+66F3 曳	kSpecializedSemanticVariant	U+62FD<kFenn
+U+6700 最	kSpecializedSemanticVariant	U+51A3<sSoengmou2003
+U+671D 朝	kSpecializedSemanticVariant	U+6641<kMeyerWempe
+U+671F 期	kSpecializedSemanticVariant	U+901E<kFenn
+U+6726 朦	kSpecializedSemanticVariant	U+77C7
+U+6727 朧	kSpecializedSemanticVariant	U+77D3
+U+6735 朵	kSpecializedSemanticVariant	U+6736<kMeyerWempe
+U+6736 朶	kSpecializedSemanticVariant	U+6735<kMeyerWempe
+U+6753 杓	kSpecializedSemanticVariant	U+6349<kMeyerWempe
+U+67CF 柏	kSpecializedSemanticVariant	U+5B5B<kFenn
+U+67D0 某	kSpecializedSemanticVariant	U+53B6<kFenn
+U+67D2 柒	kSpecializedSemanticVariant	U+4E03<kFenn
+U+6822 栢	kSpecializedSemanticVariant	U+5B5B<kFenn
+U+684C 桌	kSpecializedSemanticVariant	U+68F9<kFenn
+U+68F9 棹	kSpecializedSemanticVariant	U+5353<kMeyerWempe U+6389 U+684C
+U+69A8 榨	kSpecializedSemanticVariant	U+9162<kMeyerWempe
+U+6A9F 檟	kSpecializedSemanticVariant	U+659D<kMeyerWempe
+U+6AC2 櫂	kSpecializedSemanticVariant	U+6389<kMeyerWempe
+U+6AFB 櫻	kSpecializedSemanticVariant	U+8621<kMeyerWempe
+U+6B2C 欬	kSpecializedSemanticVariant	U+54B3<kFenn
+U+6B38 欸	kSpecializedSemanticVariant	U+5509<kMeyerWempe
+U+6B79 歹	kSpecializedSemanticVariant	U+239B5<kHanYu:T U+239B6<kHanYu:T
+U+6B8D 殍	kSpecializedSemanticVariant	U+83A9<kMeyerWempe
+U+6BBB 殻	kSpecializedSemanticVariant	U+6BBC<kFenn
+U+6BBC 殼	kSpecializedSemanticVariant	U+58F3<kFenn U+6BBB<kFenn
+U+6BC9 毉	kSpecializedSemanticVariant	U+747F<kHanYu:TZ U+91AB<kHanYu:TZ
+U+6C68 汨	kSpecializedSemanticVariant	U+6C69
+U+6C69 汩	kSpecializedSemanticVariant	U+6C68
+U+6C6B 汫	kSpecializedSemanticVariant	U+9631<kHanYu
+U+6C88 沈	kSpecializedSemanticVariant	U+6C89<kFenn
+U+6C89 沉	kSpecializedSemanticVariant	U+6C88<kFenn
+U+6C92 沒	kSpecializedSemanticVariant	U+6CA1<kFenn
+U+6CA1 没	kSpecializedSemanticVariant	U+6C92<kFenn
+U+6CE1 泡	kSpecializedSemanticVariant	U+7B94<kMeyerWempe
+U+6CE5 泥	kSpecializedSemanticVariant	U+576D<kFenn
+U+6DB6 涶	kSpecializedSemanticVariant	U+553E<kFenn
+U+6DE1 淡	kSpecializedSemanticVariant	U+6FB9<kMeyerWempe
+U+6DE8 淨	kSpecializedSemanticVariant	U+51C8<kMeyerWempe
+U+6E28 渨	kSpecializedSemanticVariant	U+504E<kMeyerWempe
+U+6E51 湑	kSpecializedSemanticVariant	U+9191<kMeyerWempe
+U+6EAF 溯	kSpecializedSemanticVariant	U+3D11<kFenn
+U+6EBA 溺	kSpecializedSemanticVariant	U+5C3F<kFenn
+U+6EFE 滾	kSpecializedSemanticVariant	U+83CC<kMeyerWempe
+U+6F66 潦	kSpecializedSemanticVariant	U+6F87<kFenn
+U+6F87 澇	kSpecializedSemanticVariant	U+6F66<kFenn
+U+6FB9 澹	kSpecializedSemanticVariant	U+6DE1<kMeyerWempe
+U+70AB 炫	kSpecializedSemanticVariant	U+8852
+U+70AE 炮	kSpecializedSemanticVariant	U+70B0<kFenn
+U+70B0 炰	kSpecializedSemanticVariant	U+70AE<kFenn
+U+70B8 炸	kSpecializedSemanticVariant	U+7160<kFenn
+U+70DF 烟	kSpecializedSemanticVariant	U+83F8
+U+7156 煖	kSpecializedSemanticVariant	U+5A20<kFenn U+6696<kFenn U+8AFC
+U+7159 煙	kSpecializedSemanticVariant	U+83F8
+U+7160 煠	kSpecializedSemanticVariant	U+70B8<kFenn
+U+71A8 熨	kSpecializedSemanticVariant	U+3DC9<kFenn U+5C09<kFenn
+U+71D5 燕	kSpecializedSemanticVariant	U+9DF0<sSoengmou2003:T
+U+7260 牠	kSpecializedSemanticVariant	U+5B83
+U+7274 牴	kSpecializedSemanticVariant	U+7274 U+89DD
+U+7284 犄	kSpecializedSemanticVariant	U+8E26<kFenn
+U+7287 犇	kSpecializedSemanticVariant	U+5954<kFenn
+U+7343 獃	kSpecializedSemanticVariant	U+5446<kMeyerWempe
+U+747F 瑿	kSpecializedSemanticVariant	U+6BC9<kHanYu:T
+U+7529 甩	kSpecializedSemanticVariant	U+6454<kFenn
+U+753B 画	kSpecializedSemanticVariant	U+756B<kMeyerWempe
+U+754A 畊	kSpecializedSemanticVariant	U+8015<kFenn
+U+756B 畫	kSpecializedSemanticVariant	U+753B<kMeyerWempe
+U+7576 當	kSpecializedSemanticVariant	U+5F53<kFenn
+U+757A 畺	kSpecializedSemanticVariant	U+5C07<kFenn
+U+7586 疆	kSpecializedSemanticVariant	U+5C07<kFenn
+U+75F2 痲	kSpecializedSemanticVariant	U+75F3<kMeyerWempe
+U+75F3 痳	kSpecializedSemanticVariant	U+75F2<kMeyerWempe
+U+7609 瘉	kSpecializedSemanticVariant	U+6108<kFenn
+U+7627 瘧	kSpecializedSemanticVariant	U+5F04<kFenn
+U+76EA 盪	kSpecializedSemanticVariant	U+903F<kFenn U+28329<kFenn
+U+7720 眠	kSpecializedSemanticVariant	U+7DE1<kMeyerWempe
+U+7740 着	kSpecializedSemanticVariant	U+8457<kFenn
+U+77C7 矇	kSpecializedSemanticVariant	U+6726
+U+77D3 矓	kSpecializedSemanticVariant	U+6727
+U+77F0 矰	kSpecializedSemanticVariant	U+8E6D<kMeyerWempe
+U+7814 研	kSpecializedSemanticVariant	U+63C5<kMeyerWempe
+U+786C 硬	kSpecializedSemanticVariant	U+61C9<kFenn
+U+7947 祇	kSpecializedSemanticVariant	U+53EA
+U+7962 祢	kSpecializedSemanticVariant	U+4F60 U+59B3 U+60A8 U+88AE
+U+79BB 离	kSpecializedSemanticVariant	U+96E2<kFenn
+U+79C9 秉	kSpecializedSemanticVariant	U+62FC<kMeyerWempe
+U+79E4 秤	kSpecializedSemanticVariant	U+7A31<kMeyerWempe
+U+7A31 稱	kSpecializedSemanticVariant	U+79E4<kMeyerWempe
+U+7A4E 穎	kSpecializedSemanticVariant	U+7F72<kMeyerWempe
+U+7A69 穩	kSpecializedSemanticVariant	U+6587<kFenn
+U+7A95 窕	kSpecializedSemanticVariant	U+963F<kMeyerWempe
+U+7AB6 窶	kSpecializedSemanticVariant	U+5BE0<kMeyerWempe
+U+7ADC 竜	kSpecializedSemanticVariant	U+9F8D
+U+7B87 箇	kSpecializedSemanticVariant	U+500B<kMeyerWempe
+U+7B92 箒	kSpecializedSemanticVariant	U+5E1A<kFenn
+U+7B94 箔	kSpecializedSemanticVariant	U+6CE1<kMeyerWempe
+U+7BC0 節	kSpecializedSemanticVariant	U+5369<kFenn
+U+7C98 粘	kSpecializedSemanticVariant	U+9ECF<kMeyerWempe
+U+7D50 結	kSpecializedSemanticVariant	U+63ED<kFenn
+U+7D56 絖	kSpecializedSemanticVariant	U+7E8A<kMeyerWempe
+U+7D63 絣	kSpecializedSemanticVariant	U+80CC<kFenn
+U+7DE1 緡	kSpecializedSemanticVariant	U+7720<kMeyerWempe
+U+7E15 縕	kSpecializedSemanticVariant	U+97DE<kMeyerWempe
+U+7E62 繢	kSpecializedSemanticVariant	U+7E6A<kMeyerWempe
+U+7E6A 繪	kSpecializedSemanticVariant	U+7E62<kMeyerWempe
+U+7E82 纂	kSpecializedSemanticVariant	U+81C7<kFenn U+243B1<kFenn
+U+7E8A 纊	kSpecializedSemanticVariant	U+7D56<kMeyerWempe
+U+7E94 纔	kSpecializedSemanticVariant	U+624D<kFenn
+U+7F48 罈	kSpecializedSemanticVariant	U+58B0<kMeyerWempe
+U+7F72 署	kSpecializedSemanticVariant	U+7A4E<kMeyerWempe
+U+7FB6 羶	kSpecializedSemanticVariant	U+81BB
+U+7FFC 翼	kSpecializedSemanticVariant	U+6298<kFenn
+U+8012 耒	kSpecializedSemanticVariant	U+4F86<kMeyerWempe
+U+8015 耕	kSpecializedSemanticVariant	U+754A<kFenn
+U+805A 聚	kSpecializedSemanticVariant	U+51A3<sSoengmou2003
+U+807D 聽	kSpecializedSemanticVariant	U+542C<kFenn
+U+8086 肆	kSpecializedSemanticVariant	U+56DB<kFenn
+U+8095 肕	kSpecializedSemanticVariant	U+97CC<kMeyerWempe
+U+80C4 胄	kSpecializedSemanticVariant	U+4F37<kMeyerWempe U+54AE
+U+80CC 背	kSpecializedSemanticVariant	U+7D63<kFenn
+U+8105 脅	kSpecializedSemanticVariant	U+52F0<kMeyerWempe
+U+8108 脈	kSpecializedSemanticVariant	U+8847<kFenn
+U+8109 脉	kSpecializedSemanticVariant	U+8847<kFenn
+U+814C 腌	kSpecializedSemanticVariant	U+9183 U+9AAF<kFenn
+U+81BB 膻	kSpecializedSemanticVariant	U+7FB6
+U+81BE 膾	kSpecializedSemanticVariant	U+9C60<kMeyerWempe
+U+81C7 臇	kSpecializedSemanticVariant	U+7E82<kFenn
+U+8200 舀	kSpecializedSemanticVariant	U+5916<kFenn
+U+8208 興	kSpecializedSemanticVariant	U+34B7<kFenn
+U+820D 舍	kSpecializedSemanticVariant	U+6368<kMeyerWempe
+U+8212 舒	kSpecializedSemanticVariant	U+6474
+U+8216 舖	kSpecializedSemanticVariant	U+92EA<kMeyerWempe
+U+8251 艑	kSpecializedSemanticVariant	U+6241<kFenn
+U+82DB 苛	kSpecializedSemanticVariant	U+54FC<kFenn
+U+83A9 莩	kSpecializedSemanticVariant	U+6B8D<kMeyerWempe
+U+83BF 莿	kSpecializedSemanticVariant	U+523A<kMeyerWempe
+U+83CC 菌	kSpecializedSemanticVariant	U+6EFE<kMeyerWempe
+U+83EF 華	kSpecializedSemanticVariant	U+5D0B<kHanYu U+8550<kFenn
+U+83F8 菸	kSpecializedSemanticVariant	U+70DF U+7159
+U+8457 著	kSpecializedSemanticVariant	U+7740<kFenn U+87AB<kFenn
+U+851E 蔞	kSpecializedSemanticVariant	U+8938<kMeyerWempe
+U+8534 蔴	kSpecializedSemanticVariant	U+9EBB<kMeyerWempe
+U+8550 蕐	kSpecializedSemanticVariant	U+83EF<kFenn
+U+8593 薓	kSpecializedSemanticVariant	U+53C3<kFenn
+U+8621 蘡	kSpecializedSemanticVariant	U+6AFB<kMeyerWempe:Z
+U+8655 處	kSpecializedSemanticVariant	U+51E6<kFenn U+55FB U+458F<kFenn
+U+865C 虜	kSpecializedSemanticVariant	U+64C4<kFenn
+U+865F 號	kSpecializedSemanticVariant	U+53F7<kFenn
+U+870B 蜋	kSpecializedSemanticVariant	U+8782<kMeyerWempe
+U+8721 蜡	kSpecializedSemanticVariant	U+410D U+881F<kFenn
+U+8728 蜨	kSpecializedSemanticVariant	U+8776<kFenn
+U+8766 蝦	kSpecializedSemanticVariant	U+9C15<kFenn
+U+8776 蝶	kSpecializedSemanticVariant	U+8728<kFenn
+U+8782 螂	kSpecializedSemanticVariant	U+870B<kMeyerWempe
+U+87AB 螫	kSpecializedSemanticVariant	U+8457<kFenn
+U+881F 蠟	kSpecializedSemanticVariant	U+8721<kFenn
+U+8847 衇	kSpecializedSemanticVariant	U+8108<kFenn U+8109<kFenn
+U+8852 衒	kSpecializedSemanticVariant	U+70AB
+U+8863 衣	kSpecializedSemanticVariant	U+8864<kFenn
+U+8864 衤	kSpecializedSemanticVariant	U+8863<kFenn
+U+88AE 袮	kSpecializedSemanticVariant	U+4F60 U+59B3 U+60A8 U+7962
+U+88CF 裏	kSpecializedSemanticVariant	U+88E1<kMeyerWempe
+U+88D2 裒	kSpecializedSemanticVariant	U+9D04<kMeyerWempe
+U+88E1 裡	kSpecializedSemanticVariant	U+88CF<kMeyerWempe
+U+8938 褸	kSpecializedSemanticVariant	U+851E<kMeyerWempe
+U+895C 襜	kSpecializedSemanticVariant	U+8F26<kMeyerWempe
+U+898C 覌	kSpecializedSemanticVariant	U+89C0<kFenn
+U+89BA 覺	kSpecializedSemanticVariant	U+658D<kFenn
+U+89C0 觀	kSpecializedSemanticVariant	U+898C<kFenn
+U+89DD 觝	kSpecializedSemanticVariant	U+7274
+U+89E3 解	kSpecializedSemanticVariant	U+89E7<kFenn
+U+89E7 觧	kSpecializedSemanticVariant	U+89E3<kFenn
+U+8A34 訴	kSpecializedSemanticVariant	U+612C<kFenn
+U+8A50 詐	kSpecializedSemanticVariant	U+279FB U+91A1<kFenn
+U+8A6C 詬	kSpecializedSemanticVariant	U+5474<kMeyerWempe
+U+8AE4 諤	kSpecializedSemanticVariant	U+56EE<kMeyerWempe
+U+8AFC 諼	kSpecializedSemanticVariant	U+7156<kMeyerWempe
+U+8B7D 譽	kSpecializedSemanticVariant	U+57DF<kFenn
+U+8B8E 讎	kSpecializedSemanticVariant	U+4EC7<kFenn
+U+8B90 讐	kSpecializedSemanticVariant	U+4EC7<kFenn
+U+8CA1 財	kSpecializedSemanticVariant	U+624D<kFenn
+U+8CAC 責	kSpecializedSemanticVariant	U+62C6<kFenn
+U+8CB3 貳	kSpecializedSemanticVariant	U+4E8C U+5F0D
+U+8CFA 賺	kSpecializedSemanticVariant	U+8D03<kFenn U+27E16<kFenn
+U+8D03 贃	kSpecializedSemanticVariant	U+8CFA<kFenn
+U+8D84 趄	kSpecializedSemanticVariant	U+8DD9<kMeyerWempe
+U+8DD0 跐	kSpecializedSemanticVariant	U+8DF4<kFenn
+U+8DD9 跙	kSpecializedSemanticVariant	U+8D84<kMeyerWempe
+U+8DE1 跡	kSpecializedSemanticVariant	U+901F<kMeyerWempe
+U+8DF4 跴	kSpecializedSemanticVariant	U+8DD0<kFenn
+U+8E26 踦	kSpecializedSemanticVariant	U+7284<kFenn
+U+8E5F 蹟	kSpecializedSemanticVariant	U+901F<kMeyerWempe
+U+8E6D 蹭	kSpecializedSemanticVariant	U+77F0<kMeyerWempe
+U+8E76 蹶	kSpecializedSemanticVariant	U+8E77<kFenn
+U+8E77 蹷	kSpecializedSemanticVariant	U+8E76<kFenn
+U+8EF2 軲	kSpecializedSemanticVariant	U+8F42<kFenn
+U+8F09 載	kSpecializedSemanticVariant	U+510E<kFenn
+U+8F26 輦	kSpecializedSemanticVariant	U+895C<kMeyerWempe
+U+8F42 轂	kSpecializedSemanticVariant	U+8EF2<kFenn
+U+8FC6 迆	kSpecializedSemanticVariant	U+8FE4
+U+8FD9 这	kSpecializedSemanticVariant	U+9019<kFenn
+U+8FDC 远	kSpecializedSemanticVariant	U+9060<kFenn
+U+8FE4 迤	kSpecializedSemanticVariant	U+8FC6
+U+8FE8 迨	kSpecializedSemanticVariant	U+902E<kFenn
+U+8FF9 迹	kSpecializedSemanticVariant	U+901F<kMeyerWempe
+U+9019 這	kSpecializedSemanticVariant	U+8FD9<kFenn
+U+901E 逞	kSpecializedSemanticVariant	U+671F<kFenn
+U+901F 速	kSpecializedSemanticVariant	U+8DE1<kMeyerWempe U+8E5F U+8FF9
+U+902E 逮	kSpecializedSemanticVariant	U+8FE8<kFenn
+U+903F 逿	kSpecializedSemanticVariant	U+76EA<kFenn U+28329<kFenn
+U+9060 遠	kSpecializedSemanticVariant	U+8FDC<kFenn
+U+9149 酉	kSpecializedSemanticVariant	U+914B<kFenn
+U+914B 酋	kSpecializedSemanticVariant	U+9149<kFenn
+U+9162 酢	kSpecializedSemanticVariant	U+69A8<kMeyerWempe
+U+9179 酹	kSpecializedSemanticVariant	U+5121<kMeyerWempe
+U+9183 醃	kSpecializedSemanticVariant	U+814C
+U+9191 醑	kSpecializedSemanticVariant	U+6E51<kMeyerWempe
+U+9192 醒	kSpecializedSemanticVariant	U+60FA<kMeyerWempe
+U+91A1 醡	kSpecializedSemanticVariant	U+8A50<kFenn
+U+91AB 醫	kSpecializedSemanticVariant	U+6BC9<kHanYu:T
+U+91F5 釵	kSpecializedSemanticVariant	U+53C9<kMeyerWempe
+U+9248 鉈	kSpecializedSemanticVariant	U+531C<sHanyuDaCidian1986:TZ
+U+92BC 銼	kSpecializedSemanticVariant	U+5249
+U+92EA 鋪	kSpecializedSemanticVariant	U+8216<kMeyerWempe
+U+937A 鍺	kSpecializedSemanticVariant	U+5835<sHanyuDaCidian1986:TZ
+U+9580 門	kSpecializedSemanticVariant	U+95E8<kFenn
+U+9592 閒	kSpecializedSemanticVariant	U+9593<kMeyerWempe
+U+9593 間	kSpecializedSemanticVariant	U+9592<kMeyerWempe
+U+95E8 门	kSpecializedSemanticVariant	U+9580<kFenn
+U+9616 阖	kSpecializedSemanticVariant	U+2CBA4<sGZJZD1989:T
+U+9628 阨	kSpecializedSemanticVariant	U+5443<kMeyerWempe
+U+9631 阱	kSpecializedSemanticVariant	U+6C6B<kHanYu
+U+963F 阿	kSpecializedSemanticVariant	U+554A<kFenn U+7A95
+U+964D 降	kSpecializedSemanticVariant	U+5905<kFenn
+U+9663 陣	kSpecializedSemanticVariant	U+9673<kMeyerWempe
+U+9673 陳	kSpecializedSemanticVariant	U+9663<kMeyerWempe
+U+9678 陸	kSpecializedSemanticVariant	U+516D
+U+9688 隈	kSpecializedSemanticVariant	U+504E<kMeyerWempe
+U+96BE 难	kSpecializedSemanticVariant	U+96E3<kFenn
+U+96D5 雕	kSpecializedSemanticVariant	U+9D70
+U+96D9 雙	kSpecializedSemanticVariant	U+53CC<kFenn
+U+96E2 離	kSpecializedSemanticVariant	U+79BB<kFenn
+U+96E3 難	kSpecializedSemanticVariant	U+96BE<kFenn
+U+96E8 雨	kSpecializedSemanticVariant	U+99AD<kFenn
+U+978B 鞋	kSpecializedSemanticVariant	U+292E7
+U+97CC 韌	kSpecializedSemanticVariant	U+8095<kMeyerWempe
+U+97DE 韞	kSpecializedSemanticVariant	U+7E15<kMeyerWempe
+U+9856 顖	kSpecializedSemanticVariant	U+56DF<kFenn
+U+9858 願	kSpecializedSemanticVariant	U+613F
+U+9912 餒	kSpecializedSemanticVariant	U+9927<kMeyerWempe
+U+9927 餧	kSpecializedSemanticVariant	U+5582<kMeyerWempe U+9912
+U+9935 餵	kSpecializedSemanticVariant	U+5582<kMeyerWempe
+U+99AD 馭	kSpecializedSemanticVariant	U+5FA1<kMeyerWempe U+96E8
+U+9AAF 骯	kSpecializedSemanticVariant	U+814C<kFenn
+U+9ABE 骾	kSpecializedSemanticVariant	U+9BC1<kMeyerWempe
+U+9B23 鬣	kSpecializedSemanticVariant	U+5DE4<kFenn
+U+9BC1 鯁	kSpecializedSemanticVariant	U+9ABE<kMeyerWempe
+U+9C15 鰕	kSpecializedSemanticVariant	U+8766<kFenn
+U+9C60 鱠	kSpecializedSemanticVariant	U+81BE<kMeyerWempe
+U+9D04 鴄	kSpecializedSemanticVariant	U+88D2<kMeyerWempe
+U+9D70 鵰	kSpecializedSemanticVariant	U+5F6B U+96D5
+U+9DF0 鷰	kSpecializedSemanticVariant	U+71D5<sSoengmou2003:TZ
+U+9EBB 麻	kSpecializedSemanticVariant	U+8534<kMeyerWempe
+U+9ECF 黏	kSpecializedSemanticVariant	U+7C98<kMeyerWempe
+U+9F4A 齊	kSpecializedSemanticVariant	U+658B<kFenn U+9F4B<kFenn U+9F50<kFenn
+U+9F4B 齋	kSpecializedSemanticVariant	U+9F4A<kFenn
+U+9F50 齐	kSpecializedSemanticVariant	U+9F4A<kFenn
+U+9F67 齧	kSpecializedSemanticVariant	U+56D3<kMeyerWempe
+U+9F8D 龍	kSpecializedSemanticVariant	U+7ADC
+U+9FA2 龢	kSpecializedSemanticVariant	U+548C<kFenn
+U+200A4 𠂤	kSpecializedSemanticVariant	U+5806<kFenn
+U+2098C 𠦌	kSpecializedSemanticVariant	U+2099C
+U+2099C 𠦜	kSpecializedSemanticVariant	U+534C U+2098C
+U+217BE 𡞾	kSpecializedSemanticVariant	U+5AF0<kFenn
+U+2228D 𢊍	kSpecializedSemanticVariant	U+53A8
+U+239B5 𣦵	kSpecializedSemanticVariant	U+6B79<kHanYu:TZ
+U+239B6 𣦶	kSpecializedSemanticVariant	U+6B79<kHanYu:TZ
+U+243B1 𤎱	kSpecializedSemanticVariant	U+7E82<kFenn
+U+2456D 𤕭	kSpecializedSemanticVariant	U+5C07<kFenn
+U+279FB 𧧻	kSpecializedSemanticVariant	U+8A50<kHanYu:TZ
+U+27E16 𧸖	kSpecializedSemanticVariant	U+8CFA<kFenn
+U+28329 𨌩	kSpecializedSemanticVariant	U+76EA<kFenn U+903F<kFenn
+U+292E7 𩋧	kSpecializedSemanticVariant	U+978B
+U+2AA17 𪨗	kSpecializedSemanticVariant	U+2B3CB<kXHC1983
+U+2B3CB 𫏋	kSpecializedSemanticVariant	U+2AA17<kXHC1983
+U+2CBA4 𬮤	kSpecializedSemanticVariant	U+9616<sGZJZD1989:TZ

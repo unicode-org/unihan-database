@@ -436,6 +436,7 @@ U+5367 卧	kSemanticVariant	U+81E5<kHKGlyph
 U+5369 卩	kSemanticVariant	U+353E<kMatthews
 U+536C 卬	kSemanticVariant	U+536D<kMatthews
 U+536D 卭	kSemanticVariant	U+536C<kMatthews
+U+536F 卯	kSemanticVariant	U+623C<kCihaiT:T,kHanYu:T
 U+5371 危	kSemanticVariant	U+21D32<kHanYu:T U+21D41<kHanYu:T
 U+5373 即	kSemanticVariant	U+537D<kLau,kMatthews
 U+5374 却	kSemanticVariant	U+537B<kLau,kMatthews,kMeyerWempe
@@ -667,6 +668,7 @@ U+5864 塤	kSemanticVariant	U+58CE<kMatthews,kMeyerWempe
 U+5869 塩	kSemanticVariant	U+9E7D<kMatthews
 U+5872 塲	kSemanticVariant	U+5834<kLau,kMatthews,kMeyerWempe
 U+5879 塹	kSemanticVariant	U+58CD<kMatthews,kMeyerWempe
+U+587C 塼	kSemanticVariant	U+78DA<sSoengmou2003:TZ
 U+5888 墈	kSemanticVariant	U+78E1<kLau,kMatthews
 U+5896 墖	kSemanticVariant	U+5854<kFenn
 U+589D 墝	kSemanticVariant	U+78FD<kMatthews
@@ -844,6 +846,7 @@ U+5D84 嶄	kSemanticVariant	U+5DC9<kMatthews
 U+5D87 嶇	kSemanticVariant	U+380A<kMatthews,kMeyerWempe
 U+5D8E 嶎	kSemanticVariant	U+851A<kMatthews
 U+5D9D 嶝	kSemanticVariant	U+78F4<kMatthews
+U+5DA9 嶩	kSemanticVariant	U+65F3<sSoengmou2003:TZ
 U+5DC9 巉	kSemanticVariant	U+5D84<kMatthews
 U+5DCD 巍	kSemanticVariant	U+9B4F<kMeyerWempe
 U+5DD6 巖	kSemanticVariant	U+5CA9<kLau,kMatthews,kMeyerWempe
@@ -905,7 +908,7 @@ U+5EFC 廼	kSemanticVariant	U+4E43<kMatthews U+8FFA<kMatthews
 U+5EFF 廿	kSemanticVariant	U+5344<kMatthews
 U+5F00 开	kSemanticVariant	U+5E75<kFenn
 U+5F08 弈	kSemanticVariant	U+5955<kFenn
-U+5F0A 弊	kSemanticVariant	U+21681<kFenn
+U+5F0A 弊	kSemanticVariant	U+21681<kFenn,sSoengmou2003:T
 U+5F0B 弋	kSemanticVariant	U+2237A<kHanYu:T
 U+5F0C 弌	kSemanticVariant	U+4E00<kLau,kMatthews,kMeyerWempe U+58F9<kLau,kMatthews,kMeyerWempe
 U+5F0D 弍	kSemanticVariant	U+4E8C<kMatthews,kMeyerWempe U+8CB3<kMeyerWempe
@@ -1030,6 +1033,7 @@ U+622F 戯	kSemanticVariant	U+6232<kMatthews
 U+6231 戱	kSemanticVariant	U+6232<kLau
 U+6232 戲	kSemanticVariant	U+622F<kMatthews U+6231<kLau
 U+6239 戹	kSemanticVariant	U+5384<kMatthews
+U+623C 戼	kSemanticVariant	U+536F<kCihaiT:TZ,kHanYu:TZ
 U+6245 扅	kSemanticVariant	U+624A<kMatthews
 U+624A 扊	kSemanticVariant	U+6245<kMatthews
 U+624B 手	kSemanticVariant	U+624C<kMatthews
@@ -1204,6 +1208,7 @@ U+65DB 旛	kSemanticVariant	U+5E61<kFenn
 U+65E0 无	kSemanticVariant	U+7121<kFenn
 U+65E7 旧	kSemanticVariant	U+820A<kMatthews,kMeyerWempe
 U+65EA 旪	kSemanticVariant	U+5354<kMatthews
+U+65F3 旳	kSemanticVariant	U+5DA9<sSoengmou2003:T
 U+65F6 时	kSemanticVariant	U+6642<kFenn U+65F9<kFenn
 U+65F9 旹	kSemanticVariant	U+65F6<kFenn U+6642<kLau,kMatthews
 U+6602 昂	kSemanticVariant	U+663B<kMatthews
@@ -1753,6 +1758,7 @@ U+767E 百	kSemanticVariant	U+4F70<kMatthews,kMeyerWempe
 U+7681 皁	kSemanticVariant	U+7682<kMatthews,kMeyerWempe
 U+7682 皂	kSemanticVariant	U+7681<kMatthews,kMeyerWempe
 U+7683 皃	kSemanticVariant	U+8C8E<kMatthews U+8C8C<kFenn
+U+7684 的	kSemanticVariant	U+65F3<sSoengmou2003:T
 U+768B 皋	kSemanticVariant	U+81EF<kMatthews U+777E<kMatthews
 U+768E 皎	kSemanticVariant	U+3FDF<kMatthews U+76A6<kFenn
 U+7693 皓	kSemanticVariant	U+9865<kMatthews U+769D<kMatthews
@@ -1839,7 +1845,7 @@ U+78C7 磇	kSemanticVariant	U+7812<kMatthews,kMeyerWempe
 U+78CA 磊	kSemanticVariant	U+78E5<kMatthews
 U+78CC 磌	kSemanticVariant	U+27C0A<kMeyerWempe
 U+78D2 磒	kSemanticVariant	U+9695<kLau,kMatthews,kMeyerWempe
-U+78DA 磚	kSemanticVariant	U+750E<kLau,kMatthews,kMeyerWempe
+U+78DA 磚	kSemanticVariant	U+587C<sSoengmou2003:T U+750E<kLau,kMatthews,kMeyerWempe
 U+78DB 磛	kSemanticVariant	U+5D83<kMeyerWempe
 U+78E1 磡	kSemanticVariant	U+5888<kLau,kMatthews
 U+78E5 磥	kSemanticVariant	U+78CA<kMatthews
@@ -1963,6 +1969,7 @@ U+7BEA 篪	kSemanticVariant	U+7B8E<kMatthews
 U+7BF4 篴	kSemanticVariant	U+7B1B<kFenn
 U+7BFA 篺	kSemanticVariant	U+68D1<kMeyerWempe
 U+7C01 簁	kSemanticVariant	U+7BE9<kMatthews U+7C1B<kMatthews
+U+7C0B 簋	kSemanticVariant	U+23A95<sSoengmou2003:T U+23A98<sSoengmou2003:T
 U+7C0C 簌	kSemanticVariant	U+96DD<kCowles
 U+7C12 簒	kSemanticVariant	U+7BE1<kMatthews
 U+7C15 簕	kSemanticVariant	U+7AFB<kMeyerWempe
@@ -2515,8 +2522,6 @@ U+89E3 解	kSemanticVariant	U+89E7<kLau,kMatthews
 U+89E5 觥	kSemanticVariant	U+89F5<kMatthews,kMeyerWempe
 U+89E7 觧	kSemanticVariant	U+89E3<kLau,kMatthews
 U+89F5 觵	kSemanticVariant	U+89E5<kMatthews,kMeyerWempe
-U+8A00 言	kSemanticVariant	U+8A01
-U+8A01 訁	kSemanticVariant	U+8A00
 U+8A07 訇	kSemanticVariant	U+22550<kMeyerWempe U+6E39<kMeyerWempe U+25500
 U+8A15 訕	kSemanticVariant	U+8D78<sSoengmou2003:T
 U+8A17 託	kSemanticVariant	U+4F82<kMatthews
@@ -3234,8 +3239,8 @@ U+9FA4 龤	kSemanticVariant	U+8AE7<kMatthews
 U+9FA5 龥	kSemanticVariant	U+7C72<kLau,kMatthews,kMeyerWempe
 U+9FCC 鿌	kSemanticVariant	U+6DBC
 U+FA11 﨑	kSemanticVariant	U+37E2 U+57FC U+5D0E<kMorohashi:Z U+5D5C U+7895 U+966D U+2550E
-U+FA17 益	kSemanticVariant	U+76CA<kMeyerWempe
-U+FA18 礼	kSemanticVariant	U+793C<kMatthews U+79AE<kMatthews
+U+FA17 益	kSemanticVariant	U+76CA<kMeyerWempe
+U+FA18 礼	kSemanticVariant	U+793C<kMatthews U+79AE<kMatthews
 U+2009D 𠂝	kSemanticVariant	U+531D<kHanYu U+773E
 U+200A4 𠂤	kSemanticVariant	U+23CE8<kLau
 U+2018C 𠆌	kSemanticVariant	U+5EB8
@@ -3261,7 +3266,7 @@ U+21148 𡅈	kSemanticVariant	U+56B9<kMeyerWempe
 U+21219 𡈙	kSemanticVariant	U+56EE<kFenn
 U+2145E 𡑞	kSemanticVariant	U+96A7<kLau,kMeyerWempe
 U+21483 𡒃	kSemanticVariant	U+96A9<kMeyerWempe
-U+21681 𡚁	kSemanticVariant	U+5F0A<kFenn
+U+21681 𡚁	kSemanticVariant	U+5F0A<kFenn,sSoengmou2003:TZ
 U+21731 𡜱	kSemanticVariant	U+5AC9<kFenn
 U+217BE 𡞾	kSemanticVariant	U+5AE9<kMeyerWempe
 U+21A34 𡨴	kSemanticVariant	U+5BE7<kMeyerWempe
@@ -3301,6 +3306,8 @@ U+2325E 𣉞	kSemanticVariant	U+66A0<kMeyerWempe
 U+234CC 𣓌	kSemanticVariant	U+69F9<kMeyerWempe
 U+2353C 𣔼	kSemanticVariant	U+7AFF<kLau
 U+23A10 𣨐	kSemanticVariant	U+6B82<kHanYu:TZ
+U+23A95 𣪕	kSemanticVariant	U+7C0B<sSoengmou2003:TZ
+U+23A98 𣪘	kSemanticVariant	U+7C0B<sSoengmou2003:TZ
 U+23CE8 𣳨	kSemanticVariant	U+200A4<kLau
 U+23F7D 𣽽	kSemanticVariant	U+6F78
 U+2418D 𤆍	kSemanticVariant	U+8D64<kFenn
@@ -3398,6 +3405,6 @@ U+2BF6E 𫽮	kSemanticVariant	U+64CB<kFennIndex:T,kLau:T,kMeyerWempe U+6529<kFen
 U+2C454 𬑔	kSemanticVariant	U+8846<kFennIndex
 U+2C461 𬑡	kSemanticVariant	U+7785<kFennIndex:T U+77C1<kFennIndex:T
 U+2D016 𭀖	kSemanticVariant	U+5398<kFennIndex:T U+91D0<kFennIndex:T U+2D016<kFennIndex:T
-U+2F817 冗	kSemanticVariant	U+5197<kMeyerWempe
-U+2F835 灰	kSemanticVariant	U+7070<kFenn
-U+2F8D2 冒	kSemanticVariant	U+5192<kHKGlyph
+U+2F817 冗	kSemanticVariant	U+5197<kMeyerWempe
+U+2F835 灰	kSemanticVariant	U+7070<kFenn
+U+2F8D2 冒	kSemanticVariant	U+5192<kHKGlyph

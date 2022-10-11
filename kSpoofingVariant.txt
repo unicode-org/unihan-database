@@ -21,11 +21,8 @@ U+46B6 䚶	kSpoofingVariant	U+8A1E
 U+48B4 䢴	kSpoofingVariant	U+9097
 U+4C17 䰗	kSpoofingVariant	U+29C18
 U+4C45 䱅	kSpoofingVariant	U+9B87
-U+4E86 了	kSpoofingVariant	U+20110
-U+4E8C 二	kSpoofingVariant	U+2011E U+2011F U+20120
 U+4F45 佅	kSpoofingVariant	U+201F1
 U+5098 傘	kSpoofingVariant	U+20302
-U+5175 兵	kSpoofingVariant	U+2050A
 U+51D0 凐	kSpoofingVariant	U+6E6E
 U+51D1 凑	kSpoofingVariant	U+6E4A
 U+51D2 凒	kSpoofingVariant	U+6EB0
@@ -37,10 +34,7 @@ U+51D9 凙	kSpoofingVariant	U+6FA4
 U+51DA 凚	kSpoofingVariant	U+6FBF
 U+51DC 凜	kSpoofingVariant	U+6F9F
 U+51DF 凟	kSpoofingVariant	U+7006
-U+5341 十	kSpoofingVariant	U+2C09B
-U+5344 卄	kSpoofingVariant	U+535D U+8279
-U+535D 卝	kSpoofingVariant	U+5344 U+8279
-U+53F1 叱	kSpoofingVariant	U+2B738
+U+53F1 叱	kSpoofingVariant	U+20B9F
 U+5409 吉	kSpoofingVariant	U+20BB7
 U+5473 味	kSpoofingVariant	U+20C0C
 U+5553 啓	kSpoofingVariant	U+555F
@@ -50,14 +44,12 @@ U+5668 器	kSpoofingVariant	U+20F96
 U+5794 垔	kSpoofingVariant	U+212B9
 U+58B6 墶	kSpoofingVariant	U+2143F
 U+58EC 壬	kSpoofingVariant	U+2123C
-U+5929 天	kSpoofingVariant	U+2BBDB
 U+59B9 妹	kSpoofingVariant	U+59BA
 U+59BA 妺	kSpoofingVariant	U+59B9
 U+5AB2 媲	kSpoofingVariant	U+2180C
 U+5D52 嵒	kSpoofingVariant	U+55A6
 U+5DFD 巽	kSpoofingVariant	U+22049
 U+5E50 幐	kSpoofingVariant	U+3B3A
-U+5EF6 延	kSpoofingVariant	U+2231B
 U+62B9 抹	kSpoofingVariant	U+62BA
 U+62BA 抺	kSpoofingVariant	U+62B9
 U+652C 攬	kSpoofingVariant	U+2D8C4
@@ -129,9 +121,7 @@ U+7422 琢	kSpoofingVariant	U+24968
 U+7464 瑤	kSpoofingVariant	U+7476
 U+7468 瑨	kSpoofingVariant	U+24A01
 U+7476 瑶	kSpoofingVariant	U+7464
-U+7530 田	kSpoofingVariant	U+2BB42
 U+7589 疉	kSpoofingVariant	U+24D01
-U+76EE 目	kSpoofingVariant	U+211A4
 U+7714 眔	kSpoofingVariant	U+25133
 U+771B 眛	kSpoofingVariant	U+771C
 U+771C 眜	kSpoofingVariant	U+771B
@@ -155,7 +145,6 @@ U+81ED 臭	kSpoofingVariant	U+26900
 U+81F4 致	kSpoofingVariant	U+26936
 U+8200 舀	kSpoofingVariant	U+2695D
 U+821D 舝	kSpoofingVariant	U+246C9
-U+8279 艹	kSpoofingVariant	U+5344 U+535D
 U+82B2 芲	kSpoofingVariant	U+30C28
 U+8412 萒	kSpoofingVariant	U+26CC6
 U+8481 蒁	kSpoofingVariant	U+26CEF
@@ -180,15 +169,10 @@ U+9B87 鮇	kSpoofingVariant	U+4C45
 U+9F9D 龝	kSpoofingVariant	U+418B
 U+9FC3 鿃	kSpoofingVariant	U+4039
 U+200C1 𠃁	kSpoofingVariant	U+24C6E
-U+20110 𠄐	kSpoofingVariant	U+4E86
-U+2011E 𠄞	kSpoofingVariant	U+4E8C U+2011F U+20120
-U+2011F 𠄟	kSpoofingVariant	U+4E8C U+2011E U+20120
-U+20120 𠄠	kSpoofingVariant	U+4E8C U+2011E U+2011F
 U+201F1 𠇱	kSpoofingVariant	U+4F45
 U+20302 𠌂	kSpoofingVariant	U+5098
 U+20457 𠑗	kSpoofingVariant	U+34A8
 U+20500 𠔀	kSpoofingVariant	U+2232C
-U+2050A 𠔊	kSpoofingVariant	U+5175
 U+20553 𠕓	kSpoofingVariant	U+21D0A
 U+2055B 𠕛	kSpoofingVariant	U+20C6C
 U+205E5 𠗥	kSpoofingVariant	U+6E46
@@ -216,12 +200,11 @@ U+20620 𠘠	kSpoofingVariant	U+7024
 U+20623 𠘣	kSpoofingVariant	U+7042
 U+20727 𠜧	kSpoofingVariant	U+20730
 U+20730 𠜰	kSpoofingVariant	U+20727
-U+20B9F 𠮟	kSpoofingVariant	U+2B738
+U+20B9F 𠮟	kSpoofingVariant	U+53F1
 U+20BB7 𠮷	kSpoofingVariant	U+5409
 U+20C0C 𠰌	kSpoofingVariant	U+5473
 U+20C6C 𠱬	kSpoofingVariant	U+2055B
 U+20F96 𠾖	kSpoofingVariant	U+5668
-U+211A4 𡆤	kSpoofingVariant	U+76EE
 U+2123C 𡈼	kSpoofingVariant	U+58EC
 U+212B9 𡊹	kSpoofingVariant	U+5794
 U+2143F 𡐿	kSpoofingVariant	U+58B6
@@ -229,7 +212,6 @@ U+2180C 𡠌	kSpoofingVariant	U+5AB2
 U+21D0A 𡴊	kSpoofingVariant	U+20553
 U+21D0C 𡴌	kSpoofingVariant	U+24C12
 U+22049 𢁉	kSpoofingVariant	U+5DFD
-U+2231B 𢌛	kSpoofingVariant	U+5EF6
 U+2232C 𢌬	kSpoofingVariant	U+20500
 U+230B7 𣂷	kSpoofingVariant	U+65B3
 U+23377 𣍷	kSpoofingVariant	U+813C
@@ -286,10 +268,6 @@ U+29516 𩔖	kSpoofingVariant	U+985E
 U+29C18 𩰘	kSpoofingVariant	U+4C17
 U+2ACDD 𪳝	kSpoofingVariant	U+69F1
 U+2B736 𫜶	kSpoofingVariant	U+3B3F
-U+2B738 𫜸	kSpoofingVariant	U+53F1 U+20B9F
-U+2BB42 𫭂	kSpoofingVariant	U+7530
-U+2BBDB 𫯛	kSpoofingVariant	U+5929
-U+2C09B 𬂛	kSpoofingVariant	U+5341
 U+2D8C4 𭣄	kSpoofingVariant	U+652C
 U+2E30B 𮌋	kSpoofingVariant	U+809E
 U+30C28 𰰨	kSpoofingVariant	U+82B2
