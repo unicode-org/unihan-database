@@ -6571,6 +6571,7 @@ U+6EF1 滱	kPhonetic	590
 U+6EF2 滲	kPhonetic	23
 U+6EF3 滳	kPhonetic	1159*
 U+6EF4 滴	kPhonetic	1326
+U+6EF6 滶	kPhonetic	966
 U+6EF7 滷	kPhonetic	822
 U+6EF8 滸	kPhonetic	518
 U+6EF9 滹	kPhonetic	379
