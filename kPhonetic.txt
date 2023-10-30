@@ -9813,7 +9813,7 @@ U+840C 萌	kPhonetic	903
 U+840D 萍	kPhonetic	1058A
 U+840E 萎	kPhonetic	1425
 U+840F 萏	kPhonetic	421
-U+8411 萑	kPhonetic	216x 285
+U+8411 萑	kPhonetic	285
 U+8413 萓	kPhonetic	1541*
 U+8418 萘	kPhonetic	987
 U+841D 萝	kPhonetic	828
@@ -15149,7 +15149,7 @@ U+26E17 𦸗	kPhonetic	175*
 U+26E1B 𦸛	kPhonetic	51*
 U+26EA3 𦺣	kPhonetic	506*
 U+26EA5 𦺥	kPhonetic	1354*
-U+26F09 𦼉	kPhonetic	216x*
+U+26F09 𦼉	kPhonetic	285*
 U+26F2A 𦼪	kPhonetic	887*
 U+26F2F 𦼯	kPhonetic	307
 U+26F4F 𦽏	kPhonetic	390*
