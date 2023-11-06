@@ -2601,6 +2601,7 @@ U+55D6 嗖	kPhonetic	1143
 U+55D9 嗙	kPhonetic	1081
 U+55DA 嗚	kPhonetic	1459
 U+55DB 嗛	kPhonetic	615
+U+55DC 嗜	kPhonetic	603
 U+55DD 嗝	kPhonetic	542
 U+55DE 嗞	kPhonetic	132
 U+55DF 嗟	kPhonetic	12
