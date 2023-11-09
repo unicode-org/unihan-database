@@ -3593,6 +3593,7 @@ U+5C86 岆	kPhonetic	1594*
 U+5C88 岈	kPhonetic	951*
 U+5C8C 岌	kPhonetic	581
 U+5C8D 岍	kPhonetic	617
+U+5C8E 岎	kPhonetic	353*
 U+5C8F 岏	kPhonetic	1624
 U+5C90 岐	kPhonetic	130
 U+5C91 岑	kPhonetic	565 1122
