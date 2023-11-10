@@ -12124,6 +12124,7 @@ U+936D 鍭	kPhonetic	446
 U+936F 鍯	kPhonetic	327*
 U+9370 鍰	kPhonetic	1468
 U+9371 鍱	kPhonetic	1590
+U+9373 鍳	kPhonetic	544*
 U+9374 鍴	kPhonetic	1383*
 U+9375 鍵	kPhonetic	620
 U+9376 鍶	kPhonetic	1174
