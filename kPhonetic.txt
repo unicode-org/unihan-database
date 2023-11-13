@@ -2569,6 +2569,7 @@ U+55AB 喫	kPhonetic	564
 U+55AC 喬	kPhonetic	636 637
 U+55AD 喭	kPhonetic	1580
 U+55AE 單	kPhonetic	1294
+U+55AF 喯	kPhonetic	1019*
 U+55B1 喱	kPhonetic	787
 U+55B2 喲	kPhonetic	1523
 U+55B3 喳	kPhonetic	13
