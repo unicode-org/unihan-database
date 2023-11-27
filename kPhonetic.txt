@@ -1116,6 +1116,7 @@ U+4BD9 䯙	kPhonetic	1073*
 U+4BDC 䯜	kPhonetic	1559*
 U+4BDE 䯞	kPhonetic	700
 U+4BF7 䯷	kPhonetic	1659*
+U+4BF8 䯸	kPhonetic	160*
 U+4BFC 䯼	kPhonetic	1328*
 U+4BFD 䯽	kPhonetic	1028*
 U+4BFE 䯾	kPhonetic	80*
