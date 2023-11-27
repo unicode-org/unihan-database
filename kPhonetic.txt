@@ -13560,6 +13560,7 @@ U+9E1C 鸜	kPhonetic	674
 U+9E1D 鸝	kPhonetic	772
 U+9E1E 鸞	kPhonetic	833
 U+9E1F 鸟	kPhonetic	982
+U+9E21 鸡	kPhonetic	427*
 U+9E22 鸢	kPhonetic	1558*
 U+9E26 鸦	kPhonetic	951*
 U+9E2F 鸯	kPhonetic	1528*
