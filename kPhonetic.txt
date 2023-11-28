@@ -4908,6 +4908,7 @@ U+643E 搾	kPhonetic	15
 U+643F 搿	kPhonetic	509
 U+6440 摀	kPhonetic	1459
 U+6441 摁	kPhonetic	1480A
+U+6445 摅	kPhonetic	843*
 U+644E 摎	kPhonetic	819
 U+644F 摏	kPhonetic	323
 U+6450 摐	kPhonetic	329
@@ -6566,6 +6567,7 @@ U+6ED3 滓	kPhonetic	241
 U+6ED4 滔	kPhonetic	1599*
 U+6ED5 滕	kPhonetic	1208 1316
 U+6ED9 滙	kPhonetic	1413 1465
+U+6EE4 滤	kPhonetic	843*
 U+6EE6 滦	kPhonetic	833A
 U+6EEB 滫	kPhonetic	1137
 U+6EEC 滬	kPhonetic	1462A
@@ -16067,4 +16069,7 @@ U+2B5EE 𫗮	kPhonetic	1457*
 U+2B623 𫘣	kPhonetic	502*
 U+2B699 𫚙	kPhonetic	1073*
 U+2B6E2 𫛢	kPhonetic	267*
+U+2E8F6 𮣶	kPhonetic	843*
+U+300A6 𰂦	kPhonetic	843*
+U+30C6E 𰱮	kPhonetic	843*
 U+31317 𱌗	kPhonetic	56
