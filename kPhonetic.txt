@@ -6985,6 +6985,7 @@ U+71FF 燿	kPhonetic	1327
 U+7205 爅	kPhonetic	875*
 U+7206 爆	kPhonetic	1072
 U+7207 爇	kPhonetic	962A 1593
+U+7208 爈	kPhonetic	843*
 U+720A 爊	kPhonetic	1062*
 U+720D 爍	kPhonetic	972
 U+7210 爐	kPhonetic	820A
