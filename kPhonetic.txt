@@ -1394,6 +1394,7 @@ U+4F0F 伏	kPhonetic	399
 U+4F10 伐	kPhonetic	360
 U+4F11 休	kPhonetic	1505
 U+4F15 伕	kPhonetic	380
+U+4F17 众	kPhonetic	324*
 U+4F18 优	kPhonetic	1511*
 U+4F19 伙	kPhonetic	370
 U+4F1A 会	kPhonetic	1466
@@ -16070,6 +16071,7 @@ U+2B5EE 𫗮	kPhonetic	1457*
 U+2B623 𫘣	kPhonetic	502*
 U+2B699 𫚙	kPhonetic	1073*
 U+2B6E2 𫛢	kPhonetic	267*
+U+2C454 𬑔	kPhonetic	324
 U+2E8F6 𮣶	kPhonetic	843*
 U+300A6 𰂦	kPhonetic	843*
 U+30C6E 𰱮	kPhonetic	843*
