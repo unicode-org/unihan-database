@@ -6792,7 +6792,7 @@ U+707F 灿	kPhonetic	1103
 U+7081 炁	kPhonetic	599
 U+7084 炄	kPhonetic	90*
 U+7085 炅	kPhonetic	741 1501
-U+7089 炉	kPhonetic	1462
+U+7089 炉	kPhonetic	820A 1462
 U+708A 炊	kPhonetic	160 294
 U+708E 炎	kPhonetic	1568
 U+7091 炑	kPhonetic	932*
