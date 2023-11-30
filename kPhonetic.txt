@@ -13010,6 +13010,7 @@ U+99B4 馴	kPhonetic	273
 U+99B5 馵	kPhonetic	265
 U+99B9 馹	kPhonetic	1501 1560
 U+99BD 馽	kPhonetic	322
+U+99BF 馿	kPhonetic	820A* 1462*
 U+99C0 駀	kPhonetic	1511*
 U+99C1 駁	kPhonetic	553 1077
 U+99C3 駃	kPhonetic	667
@@ -13132,6 +13133,7 @@ U+9A66 驦	kPhonetic	1161
 U+9A69 驩	kPhonetic	761
 U+9A6A 驪	kPhonetic	772
 U+9A6C 马	kPhonetic	863
+U+9A74 驴	kPhonetic	820A* 1462*
 U+9A78 驸	kPhonetic	392*
 U+9A7B 驻	kPhonetic	263*
 U+9A7D 驽	kPhonetic	984*
