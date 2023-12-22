@@ -1325,6 +1325,7 @@ U+4EAF 亯	kPhonetic	316 464
 U+4EB1 亱	kPhonetic	170 1296 1522
 U+4EB2 亲	kPhonetic	64 1124
 U+4EB3 亳	kPhonetic	637
+U+4EB5 亵	kPhonetic	962*
 U+4EB6 亶	kPhonetic	1298
 U+4EB7 亷	kPhonetic	615
 U+4EB8 亸	kPhonetic	1294
