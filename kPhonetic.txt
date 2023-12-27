@@ -10950,6 +10950,7 @@ U+8BD8 诘	kPhonetic	582*
 U+8BD9 诙	kPhonetic	394*
 U+8BDB 诛	kPhonetic	260*
 U+8BE1 诡	kPhonetic	959*
+U+8BE6 详	kPhonetic	1530*
 U+8BE7 诧	kPhonetic	17*
 U+8BEC 诬	kPhonetic	912*
 U+8BED 语	kPhonetic	947*
