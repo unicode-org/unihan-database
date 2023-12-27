@@ -9131,7 +9131,7 @@ U+7FCE 翎	kPhonetic	812
 U+7FCF 翏	kPhonetic	819
 U+7FD0 翐	kPhonetic	1135
 U+7FD2 習	kPhonetic	39
-U+7FD4 翔	kPhonetic	1530
+U+7FD4 翔	kPhonetic	1530*
 U+7FD5 翕	kPhonetic	509 1497
 U+7FDB 翛	kPhonetic	1510
 U+7FDF 翟	kPhonetic	16A 1327
@@ -16065,6 +16065,7 @@ U+2A6BB 𪚻	kPhonetic	1528*
 U+2AA9D 𪪝	kPhonetic	1653*
 U+2AEB9 𪺹	kPhonetic	984*
 U+2B138 𫄸	kPhonetic	350*
+U+2B167 𫅧	kPhonetic	1530
 U+2B370 𫍰	kPhonetic	1174*
 U+2B372 𫍲	kPhonetic	1143*
 U+2B404 𫐄	kPhonetic	963*
