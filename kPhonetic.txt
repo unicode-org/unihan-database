@@ -954,6 +954,7 @@ U+48CD 䣍	kPhonetic	1562*
 U+48D0 䣐	kPhonetic	1582*
 U+48D6 䣖	kPhonetic	1496*
 U+48DE 䣞	kPhonetic	1561A*
+U+48DF 䣟	kPhonetic	25*
 U+48E4 䣤	kPhonetic	372*
 U+48E7 䣧	kPhonetic	1558*
 U+48E9 䣩	kPhonetic	1385*
