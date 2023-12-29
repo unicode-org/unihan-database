@@ -11830,6 +11830,7 @@ U+9177 酷	kPhonetic	642
 U+9178 酸	kPhonetic	313
 U+9179 酹	kPhonetic	835
 U+917A 酺	kPhonetic	1073*
+U+917F 酿	kPhonetic	796* 1160*
 U+9181 醁	kPhonetic	849
 U+9183 醃	kPhonetic	1562
 U+9184 醄	kPhonetic	1362*
