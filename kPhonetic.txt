@@ -10205,6 +10205,7 @@ U+86BF 蚿	kPhonetic	1623
 U+86C0 蛀	kPhonetic	263
 U+86C6 蛆	kPhonetic	97
 U+86C7 蛇	kPhonetic	1368
+U+86C8 蛈	kPhonetic	1135*
 U+86C9 蛉	kPhonetic	812
 U+86CB 蛋	kPhonetic	1297
 U+86CC 蛌	kPhonetic	696
