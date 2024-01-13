@@ -290,6 +290,7 @@ U+3A00 㨀	kPhonetic	1054*
 U+3A04 㨄	kPhonetic	80*
 U+3A05 㨅	kPhonetic	1643*
 U+3A07 㨇	kPhonetic	1075*
+U+3A08 㨈	kPhonetic	56*
 U+3A09 㨉	kPhonetic	352
 U+3A10 㨐	kPhonetic	1068*
 U+3A15 㨕	kPhonetic	1586*
