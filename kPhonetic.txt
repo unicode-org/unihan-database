@@ -14119,7 +14119,7 @@ U+21B7D 𡭽	kPhonetic	740
 U+21B82 𡮂	kPhonetic	740
 U+21BA6 𡮦	kPhonetic	231*
 U+21BC2 𡯂	kPhonetic	1455
-U+21BC9 𡯉	kPhonetic	546*
+U+21BC9 𡯉	kPhonetic	1519*
 U+21BCE 𡯎	kPhonetic	923
 U+21BE8 𡯨	kPhonetic	236*
 U+21BF3 𡯳	kPhonetic	1028*
@@ -14706,7 +14706,7 @@ U+24CC3 𤳃	kPhonetic	1512*
 U+24D14 𤴔	kPhonetic	1226
 U+24D21 𤴡	kPhonetic	135 1309
 U+24D23 𤴣	kPhonetic	1027A*
-U+24D28 𤴨	kPhonetic	546*
+U+24D28 𤴨	kPhonetic	1519*
 U+24D2F 𤴯	kPhonetic	1627
 U+24D40 𤵀	kPhonetic	599*
 U+24D4A 𤵊	kPhonetic	1385*
