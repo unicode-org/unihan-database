@@ -4920,6 +4920,8 @@ U+6451 摑	kPhonetic	748
 U+6452 摒	kPhonetic	1055A
 U+6453 摓	kPhonetic	410
 U+6454 摔	kPhonetic	1278
+U+6455 摕	kPhonetic	1287*
+U+6456 摖	kPhonetic	54*
 U+6457 摗	kPhonetic	1230*
 U+6458 摘	kPhonetic	1326
 U+645B 摛	kPhonetic	786
