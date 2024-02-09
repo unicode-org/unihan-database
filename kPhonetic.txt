@@ -13970,6 +13970,7 @@ U+20B22 𠬢	kPhonetic	1519
 U+20B24 𠬤	kPhonetic	1560
 U+20B36 𠬶	kPhonetic	60
 U+20B6F 𠭯	kPhonetic	9*
+U+20B9F 𠮟	kPhonetic	75*
 U+20BA6 𠮦	kPhonetic	219 1353
 U+20BB3 𠮳	kPhonetic	1166*
 U+20BB5 𠮵	kPhonetic	1166*
