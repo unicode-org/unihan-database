@@ -16085,8 +16085,13 @@ U+2B5EE 𫗮	kPhonetic	1457*
 U+2B623 𫘣	kPhonetic	502*
 U+2B699 𫚙	kPhonetic	386*
 U+2B6E2 𫛢	kPhonetic	267*
+U+2BE8A 𫺊	kPhonetic	56
 U+2C454 𬑔	kPhonetic	324
+U+2CBC0 𬯀	kPhonetic	56
 U+2E8F6 𮣶	kPhonetic	843*
 U+300A6 𰂦	kPhonetic	843*
+U+308EC 𰣬	kPhonetic	56
+U+30A26 𰨦	kPhonetic	56
 U+30C6E 𰱮	kPhonetic	843*
 U+31317 𱌗	kPhonetic	56
+U+31318 𱌘	kPhonetic	56
