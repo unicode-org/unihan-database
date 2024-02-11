@@ -16095,6 +16095,7 @@ U+300A6 𰂦	kPhonetic	843*
 U+308EC 𰣬	kPhonetic	56
 U+30A26 𰨦	kPhonetic	56
 U+30C6E 𰱮	kPhonetic	843*
+U+30C85 𰲅	kPhonetic	56*
 U+31317 𱌗	kPhonetic	56
 U+31318 𱌘	kPhonetic	56
 U+322A6 𲊦	kPhonetic	56
