@@ -5129,6 +5129,7 @@ U+6584 斄	kPhonetic	787
 U+6585 斅	kPhonetic	494
 U+6587 文	kPhonetic	877
 U+6588 斈	kPhonetic	494 877
+U+6589 斉	kPhonetic	56
 U+658B 斋	kPhonetic	56 1537
 U+658C 斌	kPhonetic	877 1016
 U+658E 斎	kPhonetic	56
