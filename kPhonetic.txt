@@ -2175,7 +2175,7 @@ U+5365 卥	kPhonetic	118
 U+5366 卦	kPhonetic	699 710
 U+5367 卧	kPhonetic	968
 U+5369 卩	kPhonetic	208 1081
-U+536B 卫	kPhonetic	208
+U+536B 卫	kPhonetic	208 1433
 U+536C 卬	kPhonetic	684 974
 U+536D 卭	kPhonetic	684 974
 U+536E 卮	kPhonetic	131 208
