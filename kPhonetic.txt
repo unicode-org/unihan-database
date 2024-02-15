@@ -14225,7 +14225,7 @@ U+22136 𢄶	kPhonetic	1415*
 U+2213A 𢄺	kPhonetic	216*
 U+22151 𢅑	kPhonetic	1110*
 U+22165 𢅥	kPhonetic	266
-U+2219F 𢆟	kPhonetic	1512*
+U+2219F 𢆟	kPhonetic	1055*
 U+221C1 𢇁	kPhonetic	1170
 U+221C2 𢇂	kPhonetic	706
 U+221C7 𢇇	kPhonetic	706
