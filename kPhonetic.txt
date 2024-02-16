@@ -1229,7 +1229,7 @@ U+4E18 丘	kPhonetic	1506
 U+4E19 丙	kPhonetic	1053
 U+4E1A 业	kPhonetic	1589
 U+4E1B 丛	kPhonetic	295
-U+4E1C 东	kPhonetic	549 1403
+U+4E1C 东	kPhonetic	1403
 U+4E1E 丞	kPhonetic	1210
 U+4E21 両	kPhonetic	799
 U+4E22 丢	kPhonetic	519 1350
@@ -16086,6 +16086,7 @@ U+2B5EE 𫗮	kPhonetic	1457*
 U+2B623 𫘣	kPhonetic	502*
 U+2B699 𫚙	kPhonetic	386*
 U+2B6E2 𫛢	kPhonetic	267*
+U+2B823 𫠣	kPhonetic	549
 U+2BE8A 𫺊	kPhonetic	56
 U+2C454 𬑔	kPhonetic	324
 U+2CBC0 𬯀	kPhonetic	56
