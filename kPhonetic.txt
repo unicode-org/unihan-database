@@ -870,6 +870,7 @@ U+468B 䚋	kPhonetic	1628*
 U+46A1 䚡	kPhonetic	1174*
 U+46A9 䚩	kPhonetic	647*
 U+46C4 䛄	kPhonetic	1622*
+U+46C6 䛆	kPhonetic	1512*
 U+46FC 䛼	kPhonetic	1427
 U+470A 䜊	kPhonetic	231
 U+470B 䜋	kPhonetic	716
