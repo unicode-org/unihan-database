@@ -6221,6 +6221,7 @@ U+6CB1 沱	kPhonetic	1368
 U+6CB3 河	kPhonetic	487
 U+6CB4 沴	kPhonetic	65
 U+6CB6 沶	kPhonetic	1180
+U+6CB7 沷	kPhonetic	1027*
 U+6CB8 沸	kPhonetic	358
 U+6CB9 油	kPhonetic	1512
 U+6CBB 治	kPhonetic	148 1373
