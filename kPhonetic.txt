@@ -8992,9 +8992,10 @@ U+7E88 纈	kPhonetic	634
 U+7E8A 纊	kPhonetic	750
 U+7E8B 纋	kPhonetic	1504
 U+7E8C 續	kPhonetic	1395
+U+7E8F 纏	kPhonetic	195
 U+7E8D 纍	kPhonetic	838 841
 U+7E91 纑	kPhonetic	820A
-U+7E92 纒	kPhonetic	195
+U+7E92 纒	kPhonetic	195*
 U+7E93 纓	kPhonetic	1583A
 U+7E94 纔	kPhonetic	24
 U+7E95 纕	kPhonetic	1160
@@ -9030,6 +9031,7 @@ U+7F12 缒	kPhonetic	286*
 U+7F15 缕	kPhonetic	780
 U+7F18 缘	kPhonetic	1400*
 U+7F1B 缛	kPhonetic	1650*
+U+7F20 缠	kPhonetic	195*
 U+7F27 缧	kPhonetic	842*
 U+7F2B 缫	kPhonetic	51*
 U+7F2E 缮	kPhonetic	1203*
