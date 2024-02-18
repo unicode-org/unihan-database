@@ -3093,6 +3093,7 @@ U+5934 头	kPhonetic	1320 1322
 U+5937 夷	kPhonetic	1542
 U+5938 夸	kPhonetic	701 1602B
 U+5939 夹	kPhonetic	550
+U+593A 夺	kPhonetic	277* 1388A*
 U+593E 夾	kPhonetic	550
 U+5943 奃	kPhonetic	1307*
 U+5944 奄	kPhonetic	1562
