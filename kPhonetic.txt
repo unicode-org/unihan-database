@@ -4945,7 +4945,7 @@ U+6469 摩	kPhonetic	862
 U+646B 摫	kPhonetic	718
 U+646D 摭	kPhonetic	1238
 U+646F 摯	kPhonetic	69 962
-U+6470 摰	kPhonetic	69 962
+U+6470 摰	kPhonetic	962
 U+6472 摲	kPhonetic	21
 U+6473 摳	kPhonetic	678
 U+6474 摴	kPhonetic	1602C
@@ -13136,7 +13136,7 @@ U+9A42 驂	kPhonetic	23
 U+9A43 驃	kPhonetic	1066
 U+9A44 驄	kPhonetic	326
 U+9A45 驅	kPhonetic	678
-U+9A47 驇	kPhonetic	69
+U+9A47 驇	kPhonetic	962*
 U+9A48 驈	kPhonetic	1450
 U+9A4A 驊	kPhonetic	1410
 U+9A4C 驌	kPhonetic	1261
@@ -13555,7 +13555,7 @@ U+9DD3 鷓	kPhonetic	1238
 U+9DD5 鷕	kPhonetic	1435
 U+9DD6 鷖	kPhonetic	1534A
 U+9DD7 鷗	kPhonetic	678
-U+9DD9 鷙	kPhonetic	304*
+U+9DD9 鷙	kPhonetic	69
 U+9DDE 鷞	kPhonetic	1233
 U+9DDF 鷟	kPhonetic	306
 U+9DE2 鷢	kPhonetic	668*
