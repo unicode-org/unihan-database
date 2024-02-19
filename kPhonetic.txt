@@ -3367,6 +3367,7 @@ U+5B47 孇	kPhonetic	1162*
 U+5B4B 孋	kPhonetic	772
 U+5B4C 孌	kPhonetic	833
 U+5B50 子	kPhonetic	134
+U+5B51 孑	kPhonetic	134 633
 U+5B53 孓	kPhonetic	134 688
 U+5B54 孔	kPhonetic	526
 U+5B55 孕	kPhonetic	938 1493
@@ -14113,7 +14114,7 @@ U+218B9 𡢹	kPhonetic	940*
 U+218D5 𡣕	kPhonetic	1018
 U+218E2 𡣢	kPhonetic	1425*
 U+21936 𡤶	kPhonetic	1418*
-U+2193C 𡤼	kPhonetic	134 633
+U+2193C 𡤼	kPhonetic	134*
 U+21949 𡥉	kPhonetic	958
 U+21976 𡥶	kPhonetic	1614*
 U+21978 𡥸	kPhonetic	1493*
