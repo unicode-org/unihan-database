@@ -4944,7 +4944,7 @@ U+6467 摧	kPhonetic	293
 U+6469 摩	kPhonetic	862
 U+646B 摫	kPhonetic	718
 U+646D 摭	kPhonetic	1238
-U+646F 摯	kPhonetic	69 962
+U+646F 摯	kPhonetic	69
 U+6470 摰	kPhonetic	69 962
 U+6472 摲	kPhonetic	21
 U+6473 摳	kPhonetic	678
@@ -6853,7 +6853,7 @@ U+70DF 烟	kPhonetic	1480
 U+70E2 烢	kPhonetic	17*
 U+70E3 烣	kPhonetic	394*
 U+70E4 烤	kPhonetic	425
-U+70ED 热	kPhonetic	1593
+U+70ED 热	kPhonetic	962 1593
 U+70EE 烮	kPhonetic	814*
 U+70EF 烯	kPhonetic	451
 U+70F0 烰	kPhonetic	378*
@@ -14598,7 +14598,7 @@ U+24350 𤍐	kPhonetic	1393*
 U+24352 𤍒	kPhonetic	51*
 U+24353 𤍓	kPhonetic	1521*
 U+24356 𤍖	kPhonetic	21*
-U+24360 𤍠	kPhonetic	962
+U+24360 𤍠	kPhonetic	69* 962
 U+24364 𤍤	kPhonetic	110*
 U+243D7 𤏗	kPhonetic	1120*
 U+24423 𤐣	kPhonetic	1341*
