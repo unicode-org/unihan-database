@@ -12457,6 +12457,7 @@ U+95E4 闤	kPhonetic	1419
 U+95E5 闥	kPhonetic	1306
 U+95E8 门	kPhonetic	929
 U+95EB 闫	kPhonetic	1100
+U+95EF 闯	kPhonetic	255*
 U+95F4 间	kPhonetic	547
 U+95F6 闶	kPhonetic	660*
 U+9600 阀	kPhonetic	360*
