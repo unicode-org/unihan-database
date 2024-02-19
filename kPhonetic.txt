@@ -1847,7 +1847,7 @@ U+5192 冒	kPhonetic	919 933
 U+5193 冓	kPhonetic	589
 U+5194 冔	kPhonetic	516
 U+5195 冕	kPhonetic	899
-U+5197 冗	kPhonetic	16 596 1477 1487
+U+5197 冗	kPhonetic	596 1477 1487
 U+5198 冘	kPhonetic	1477 1487
 U+5199 写	kPhonetic	1150 1195
 U+519B 军	kPhonetic	723
