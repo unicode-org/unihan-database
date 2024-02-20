@@ -8383,6 +8383,7 @@ U+7AD2 竒	kPhonetic	602
 U+7AD3 竓	kPhonetic	767
 U+7AD4 竔	kPhonetic	767 1205
 U+7AD5 竕	kPhonetic	767
+U+7AD6 竖	kPhonetic	1241C* 1322*
 U+7AD8 竘	kPhonetic	673
 U+7AD9 站	kPhonetic	177
 U+7ADA 竚	kPhonetic	267
