@@ -530,7 +530,7 @@ U+3F38 㼸	kPhonetic	1657*
 U+3F3D 㼽	kPhonetic	1233*
 U+3F42 㽂	kPhonetic	1497*
 U+3F44 㽄	kPhonetic	1173*
-U+3F4F 㽏	kPhonetic	509*
+U+3F4F 㽏	kPhonetic	509* 650*
 U+3F5C 㽜	kPhonetic	1622*
 U+3F62 㽢	kPhonetic	1562*
 U+3F65 㽥	kPhonetic	1509
