@@ -12037,7 +12037,7 @@ U+9298 銘	kPhonetic	901
 U+929A 銚	kPhonetic	1221
 U+929B 銛	kPhonetic	736 1332
 U+929C 銜	kPhonetic	566
-U+929C 銞	kPhonetic	318*
+U+929E 銞	kPhonetic	318*
 U+92A0 銠	kPhonetic	824
 U+92A1 銡	kPhonetic	582*
 U+92A3 銣	kPhonetic	1606
