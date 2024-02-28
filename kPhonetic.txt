@@ -2674,7 +2674,7 @@ U+5632 嘲	kPhonetic	217
 U+5634 嘴	kPhonetic	287
 U+5635 嘵	kPhonetic	1598
 U+5636 嘶	kPhonetic	1173
-U+5637 嘷	kPhonetic	63
+U+5637 嘷	kPhonetic	639
 U+5639 嘹	kPhonetic	817
 U+563B 嘻	kPhonetic	455
 U+563D 嘽	kPhonetic	1294
@@ -2692,6 +2692,7 @@ U+564D 噍	kPhonetic	216
 U+564E 噎	kPhonetic	1500
 U+564F 噏	kPhonetic	1497
 U+5650 噐	kPhonetic	459
+U+5651 噑	kPhonetic	639
 U+5653 噓	kPhonetic	515*
 U+5654 噔	kPhonetic	1315
 U+5658 噘	kPhonetic	668
@@ -5812,6 +5813,7 @@ U+69F2 槲	kPhonetic	522
 U+69F3 槳	kPhonetic	112
 U+69F5 槵	kPhonetic	1421*
 U+69F7 槷	kPhonetic	962
+U+69F9 槹	kPhonetic	639
 U+69FA 槺	kPhonetic	504*
 U+69FB 槻	kPhonetic	718
 U+69FC 槼	kPhonetic	718
@@ -5882,6 +5884,7 @@ U+6A67 橧	kPhonetic	68
 U+6A68 橨	kPhonetic	1020*
 U+6A6B 橫	kPhonetic	1458
 U+6A6D 橭	kPhonetic	753
+U+6A70 橰	kPhonetic	639
 U+6A78 橸	kPhonetic	200*
 U+6A79 橹	kPhonetic	823
 U+6A80 檀	kPhonetic	1298
