@@ -785,13 +785,13 @@ U+4470 䑰	kPhonetic	1071*
 U+4479 䑹	kPhonetic	1141*
 U+447B 䑻	kPhonetic	1508*
 U+4488 䒈	kPhonetic	1020*
-U+448A 䒊	kPhonetic	1188*
+U+448A 䒊	kPhonetic	428*
 U+448B 䒋	kPhonetic	1528*
-U+448C 䒌	kPhonetic	1188*
-U+448D 䒍	kPhonetic	1188*
-U+448E 䒎	kPhonetic	1188*
-U+448F 䒏	kPhonetic	1188*
-U+4490 䒐	kPhonetic	1188*
+U+448C 䒌	kPhonetic	902*
+U+448D 䒍	kPhonetic	1081*
+U+448E 䒎	kPhonetic	924*
+U+448F 䒏	kPhonetic	68*
+U+4490 䒐	kPhonetic	934*
 U+4496 䒖	kPhonetic	1267*
 U+4497 䒗	kPhonetic	440*
 U+449B 䒛	kPhonetic	1420*
@@ -9596,7 +9596,7 @@ U+8271 艱	kPhonetic	546 575
 U+8272 色	kPhonetic	208 1188
 U+8273 艳	kPhonetic	1188*
 U+8274 艴	kPhonetic	358
-U+8275 艵	kPhonetic	1188*
+U+8275 艵	kPhonetic	1055*
 U+8276 艶	kPhonetic	1188*
 U+8277 艷	kPhonetic	1188*
 U+8278 艸	kPhonetic	213 228
