@@ -3899,6 +3899,7 @@ U+5E7D 幽	kPhonetic	1595
 U+5E7E 幾	kPhonetic	598
 U+5E7F 广	kPhonetic	750 1458
 U+5E80 庀	kPhonetic	1033
+U+5E83 広	kPhonetic	750*
 U+5E84 庄	kPhonetic	250 251 252
 U+5E85 庅	kPhonetic	862 920 1595
 U+5E86 庆	kPhonetic	476 1288
