@@ -9909,7 +9909,7 @@ U+8472 葲	kPhonetic	280*
 U+8473 葳	kPhonetic	1424
 U+8475 葵	kPhonetic	714
 U+8476 葶	kPhonetic	1344*
-U+8477 葷	kPhonetic	723 979
+U+8477 葷	kPhonetic	723
 U+8478 葸	kPhonetic	1174
 U+8479 葹	kPhonetic	1168
 U+847A 葺	kPhonetic	70
