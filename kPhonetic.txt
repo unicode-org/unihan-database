@@ -6792,7 +6792,7 @@ U+7049 灉	kPhonetic	1653A
 U+704B 灋	kPhonetic	347 519
 U+704C 灌	kPhonetic	761
 U+7053 灓	kPhonetic	833
-U+7054 灔	kPhonetic	1188*
+U+7054 灔	kPhonetic	771*
 U+7055 灕	kPhonetic	786A
 U+7056 灖	kPhonetic	890*
 U+7058 灘	kPhonetic	942
@@ -9602,11 +9602,11 @@ U+826F 良	kPhonetic	796
 U+8270 艰	kPhonetic	546 575
 U+8271 艱	kPhonetic	546 575
 U+8272 色	kPhonetic	208 1188
-U+8273 艳	kPhonetic	1188*
+U+8273 艳	kPhonetic	404* 407*
 U+8274 艴	kPhonetic	358
 U+8275 艵	kPhonetic	1055*
-U+8276 艶	kPhonetic	1188*
-U+8277 艷	kPhonetic	1188*
+U+8276 艶	kPhonetic	771*
+U+8277 艷	kPhonetic	404*
 U+8278 艸	kPhonetic	213 228
 U+8279 艹	kPhonetic	213 228
 U+827A 艺	kPhonetic	962A 1634
