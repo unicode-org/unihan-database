@@ -12908,7 +12908,7 @@ U+989B 颛	kPhonetic	1383*
 U+989E 颞	kPhonetic	979*
 U+98A5 颥	kPhonetic	1250*
 U+98A8 風	kPhonetic	342 408
-U+98A9 颩	kPhonetic	1101*
+U+98A9 颩	kPhonetic	408*
 U+98AC 颬	kPhonetic	951*
 U+98AD 颭	kPhonetic	177
 U+98AF 颯	kPhonetic	767
