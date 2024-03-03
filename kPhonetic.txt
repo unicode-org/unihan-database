@@ -11527,6 +11527,7 @@ U+8F82 辂	kPhonetic	825
 U+8F85 辅	kPhonetic	386*
 U+8F90 辐	kPhonetic	398*
 U+8F91 辑	kPhonetic	70*
+U+8F96 辖	kPhonetic	491*
 U+8F98 辘	kPhonetic	848*
 U+8F9B 辛	kPhonetic	242 1124
 U+8F9C 辜	kPhonetic	753
@@ -16136,6 +16137,7 @@ U+2BE8A 𫺊	kPhonetic	56
 U+2C3E6 𬏦	kPhonetic	346*
 U+2C454 𬑔	kPhonetic	324
 U+2CDA0 𬶠	kPhonetic	549*
+U+2CB6A 𬭪	kPhonetic	491*
 U+2CBC0 𬯀	kPhonetic	56
 U+2DA70 𭩰	kPhonetic	346*
 U+2E681 𮚁	kPhonetic	56
