@@ -2492,6 +2492,7 @@ U+5517 唗	kPhonetic	82
 U+5518 唘	kPhonetic	1157
 U+5519 唙	kPhonetic	1328
 U+551A 唚	kPhonetic	60
+U+5520 唠	kPhonetic	821*
 U+5523 唣	kPhonetic	226
 U+5527 唧	kPhonetic	165
 U+5529 唩	kPhonetic	1425*
@@ -3671,6 +3672,7 @@ U+5CFA 峺	kPhonetic	578*
 U+5CFB 峻	kPhonetic	313
 U+5CFD 峽	kPhonetic	550
 U+5CFF 峿	kPhonetic	947
+U+5D02 崂	kPhonetic	821*
 U+5D03 崃	kPhonetic	829
 U+5D06 崆	kPhonetic	525
 U+5D07 崇	kPhonetic	321 1277
@@ -4761,6 +4763,7 @@ U+6355 捕	kPhonetic	386
 U+6357 捗	kPhonetic	1071*
 U+6358 捘	kPhonetic	313
 U+635D 捝	kPhonetic	1392
+U+635E 捞	kPhonetic	821*
 U+6364 捤	kPhonetic	891*
 U+6365 捥	kPhonetic	1622A
 U+6366 捦	kPhonetic	566
@@ -6395,6 +6398,7 @@ U+6D96 涖	kPhonetic	792 1436
 U+6D97 涗	kPhonetic	1392
 U+6D98 涘	kPhonetic	1549A
 U+6D9A 涚	kPhonetic	1392
+U+6D9D 涝	kPhonetic	821*
 U+6D9E 涞	kPhonetic	829
 U+6DA5 涥	kPhonetic	433*
 U+6DA9 涩	kPhonetic	1185
@@ -7628,6 +7632,7 @@ U+75E3 痣	kPhonetic	143
 U+75E4 痤	kPhonetic	236
 U+75E6 痦	kPhonetic	947*
 U+75E7 痧	kPhonetic	1096
+U+75E8 痨	kPhonetic	821*
 U+75EC 痬	kPhonetic	1559*
 U+75ED 痭	kPhonetic	1024*
 U+75EE 痮	kPhonetic	123
@@ -9766,7 +9771,7 @@ U+8357 荗	kPhonetic	262*
 U+8360 荠	kPhonetic	56
 U+8363 荣	kPhonetic	1451 1587*
 U+8365 荥	kPhonetic	1587*
-U+8366 荦	kPhonetic	1587*
+U+8366 荦	kPhonetic	821* 1587*
 U+8367 荧	kPhonetic	1587*
 U+8371 荱	kPhonetic	891*
 U+8373 荳	kPhonetic	1322
@@ -16145,6 +16150,7 @@ U+2B699 𫚙	kPhonetic	386*
 U+2B6E2 𫛢	kPhonetic	267*
 U+2B823 𫠣	kPhonetic	549
 U+2BE8A 𫺊	kPhonetic	56
+U+2BE98 𫺘	kPhonetic	821*
 U+2C3E6 𬏦	kPhonetic	346*
 U+2C454 𬑔	kPhonetic	324
 U+2CDA0 𬶠	kPhonetic	549*
