@@ -16057,7 +16057,7 @@ U+2A3D9 𪏙	kPhonetic	1458*
 U+2A3DA 𪏚	kPhonetic	1628*
 U+2A3DF 𪏟	kPhonetic	921*
 U+2A3E6 𪏦	kPhonetic	1236*
-U+2A3EE 𪏮	kPhonetic	1236*
+U+2A3EE 𪏮	kPhonetic	990*
 U+2A3F3 𪏳	kPhonetic	1461*
 U+2A3F4 𪏴	kPhonetic	571*
 U+2A3F5 𪏵	kPhonetic	1236*
