@@ -474,7 +474,7 @@ U+3E27 㸧	kPhonetic	951*
 U+3E32 㸲	kPhonetic	10*
 U+3E33 㸳	kPhonetic	812*
 U+3E36 㸶	kPhonetic	1480*
-U+3E37 㸷	kPhonetic	964*
+U+3E37 㸷	kPhonetic	539A*
 U+3E38 㸸	kPhonetic	449*
 U+3E3A 㸺	kPhonetic	1096*
 U+3E43 㹃	kPhonetic	365*
@@ -11984,7 +11984,7 @@ U+9212 鈒	kPhonetic	581
 U+9214 鈔	kPhonetic	1220
 U+9215 鈕	kPhonetic	90
 U+921A 鈚	kPhonetic	1030*
-U+921D 鈝	kPhonetic	964*
+U+921D 鈝	kPhonetic	566*
 U+921E 鈞	kPhonetic	1442
 U+9221 鈡	kPhonetic	322 1406
 U+9223 鈣	kPhonetic	644
