@@ -185,6 +185,7 @@ U+3829 㠩	kPhonetic	374 922
 U+382F 㠯	kPhonetic	1550
 U+3833 㠳	kPhonetic	1489
 U+383E 㠾	kPhonetic	1622*
+U+3840 㡀	kPhonetic	1013A*
 U+3843 㡃	kPhonetic	375
 U+3846 㡆	kPhonetic	375
 U+384B 㡋	kPhonetic	1562*
@@ -16074,7 +16075,7 @@ U+2A3FF 𪏿	kPhonetic	260*
 U+2A402 𪐂	kPhonetic	665*
 U+2A403 𪐃	kPhonetic	411*
 U+2A404 𪐄	kPhonetic	1029*
-U+2A406 𪐆	kPhonetic	1236*
+U+2A406 𪐆	kPhonetic	1013A*
 U+2A408 𪐈	kPhonetic	332*
 U+2A40B 𪐋	kPhonetic	615*
 U+2A40D 𪐍	kPhonetic	808*
