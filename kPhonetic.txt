@@ -6471,6 +6471,7 @@ U+6DFC 淼	kPhonetic	1253
 U+6E03 渃	kPhonetic	1526*
 U+6E05 清	kPhonetic	203
 U+6E08 済	kPhonetic	56*
+U+6E11 渑	kPhonetic	879*
 U+6E17 渗	kPhonetic	23
 U+6E18 渘	kPhonetic	1509*
 U+6E19 渙	kPhonetic	1469
@@ -9048,6 +9049,7 @@ U+7EE0 绠	kPhonetic	578*
 U+7EE3 绣	kPhonetic	1145*
 U+7EE5 绥	kPhonetic	1369*
 U+7EEC 绬	kPhonetic	1582*
+U+7EF3 绳	kPhonetic	879*
 U+7EF7 绷	kPhonetic	1024*
 U+7EF8 绸	kPhonetic	80*
 U+7EF9 绹	kPhonetic	1362*
@@ -10321,6 +10323,7 @@ U+873F 蜿	kPhonetic	1622A
 U+8740 蝀	kPhonetic	1403
 U+8743 蝃	kPhonetic	283
 U+8744 蝄	kPhonetic	799 926
+U+8747 蝇	kPhonetic	879*
 U+874C 蝌	kPhonetic	369
 U+874D 蝍	kPhonetic	165
 U+874E 蝎	kPhonetic	510
