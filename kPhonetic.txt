@@ -944,7 +944,7 @@ U+486D 䡭	kPhonetic	1139*
 U+4873 䡳	kPhonetic	1173*
 U+4880 䢀	kPhonetic	440*
 U+4885 䢅	kPhonetic	1129*
-U+4888 䢈	kPhonetic	1129*
+U+4888 䢈	kPhonetic	1466*
 U+488D 䢍	kPhonetic	373*
 U+4891 䢑	kPhonetic	1307*
 U+4895 䢕	kPhonetic	1279*
@@ -5354,7 +5354,7 @@ U+66DA 曚	kPhonetic	935
 U+66DB 曛	kPhonetic	350
 U+66DC 曜	kPhonetic	1327
 U+66DD 曝	kPhonetic	1072
-U+66DF 曟	kPhonetic	1129*
+U+66DF 曟	kPhonetic	200*
 U+66E0 曠	kPhonetic	750
 U+66E1 曡	kPhonetic	1347
 U+66E6 曦	kPhonetic	453
@@ -15508,7 +15508,7 @@ U+28408 𨐈	kPhonetic	749*
 U+2840D 𨐍	kPhonetic	1101*
 U+2841B 𨐛	kPhonetic	983*
 U+28421 𨐡	kPhonetic	385*
-U+2844C 𨑌	kPhonetic	1129*
+U+2844C 𨑌	kPhonetic	841*
 U+28460 𨑠	kPhonetic	174*
 U+2846B 𨑫	kPhonetic	1511*
 U+28483 𨒃	kPhonetic	1089*
