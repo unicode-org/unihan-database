@@ -9066,6 +9066,7 @@ U+7F27 缧	kPhonetic	842*
 U+7F2B 缫	kPhonetic	51*
 U+7F2E 缮	kPhonetic	1203*
 U+7F31 缱	kPhonetic	469*
+U+7F34 缴	kPhonetic	635*
 U+7F36 缶	kPhonetic	362
 U+7F38 缸	kPhonetic	684
 U+7F39 缹	kPhonetic	362*
@@ -16160,6 +16161,7 @@ U+2C3E6 𬏦	kPhonetic	346*
 U+2C454 𬑔	kPhonetic	324
 U+2CDA0 𬶠	kPhonetic	549*
 U+2CB6A 𬭪	kPhonetic	491*
+U+2CB7B 𬭻	kPhonetic	635*
 U+2CBC0 𬯀	kPhonetic	56
 U+2DA70 𭩰	kPhonetic	346*
 U+2E681 𮚁	kPhonetic	56
