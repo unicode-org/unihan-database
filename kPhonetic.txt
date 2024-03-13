@@ -6661,6 +6661,7 @@ U+6F3C 漼	kPhonetic	293
 U+6F3E 漾	kPhonetic	1530B
 U+6F3F 漿	kPhonetic	112
 U+6F41 潁	kPhonetic	628
+U+6F47 潇	kPhonetic	1219*
 U+6F4C 潌	kPhonetic	74*
 U+6F4F 潏	kPhonetic	1450
 U+6F50 潐	kPhonetic	216
@@ -10397,6 +10398,7 @@ U+87C7 蟇	kPhonetic	921
 U+87C8 蟈	kPhonetic	748
 U+87CA 蟊	kPhonetic	869
 U+87CB 蟋	kPhonetic	1186
+U+87CF 蟏	kPhonetic	1219*
 U+87D1 蟑	kPhonetic	110
 U+87D2 蟒	kPhonetic	924
 U+87DA 蟚	kPhonetic	1007
