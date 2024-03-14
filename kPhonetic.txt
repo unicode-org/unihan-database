@@ -14517,7 +14517,7 @@ U+23536 𣔶	kPhonetic	345A*
 U+2353B 𣔻	kPhonetic	1317*
 U+23543 𣕃	kPhonetic	1607*
 U+23547 𣕇	kPhonetic	1158*
-U+2357E 𣕾	kPhonetic	1059*
+U+2357E 𣕾	kPhonetic	776*
 U+23584 𣖄	kPhonetic	41*
 U+235AC 𣖬	kPhonetic	669*
 U+235F5 𣗵	kPhonetic	656*
