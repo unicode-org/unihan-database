@@ -13458,6 +13458,7 @@ U+9C54 鱔	kPhonetic	1203
 U+9C56 鱖	kPhonetic	668
 U+9C57 鱗	kPhonetic	852
 U+9C58 鱘	kPhonetic	62
+U+9C5D 鱝	kPhonetic	1020*
 U+9C5F 鱟	kPhonetic	494
 U+9C60 鱠	kPhonetic	1466
 U+9C63 鱣	kPhonetic	1298
@@ -16172,6 +16173,7 @@ U+2B413 𫐓	kPhonetic	1509*
 U+2B416 𫐖	kPhonetic	819*
 U+2B4F2 𫓲	kPhonetic	318*
 U+2B500 𫔀	kPhonetic	549*
+U+2B501 𫔁	kPhonetic	1020*
 U+2B5E6 𫗦	kPhonetic	386*
 U+2B5EE 𫗮	kPhonetic	1457*
 U+2B623 𫘣	kPhonetic	502*
@@ -16206,6 +16208,7 @@ U+30C6E 𰱮	kPhonetic	843*
 U+30C85 𰲅	kPhonetic	56*
 U+30D2F 𰴯	kPhonetic	1587*
 U+30D79 𰵹	kPhonetic	979*
+U+31100 𱄀	kPhonetic	1020*
 U+3115E 𱅞	kPhonetic	534*
 U+311FF 𱇿	kPhonetic	1261*
 U+31317 𱌗	kPhonetic	56
