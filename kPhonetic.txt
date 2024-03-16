@@ -3656,7 +3656,7 @@ U+5CD7 峗	kPhonetic	959*
 U+5CD9 峙	kPhonetic	149
 U+5CDD 峝	kPhonetic	1407
 U+5CDE 峞	kPhonetic	959*
-U+5CE5 峥	kPhonetic	32
+U+5CE5 峥	kPhonetic	32*
 U+5CE6 峦	kPhonetic	833
 U+5CE8 峨	kPhonetic	967
 U+5CE9 峩	kPhonetic	967
@@ -4728,7 +4728,7 @@ U+6316 挖	kPhonetic	1422
 U+6317 挗	kPhonetic	1542*
 U+6318 挘	kPhonetic	836*
 U+631B 挛	kPhonetic	833
-U+6323 挣	kPhonetic	32
+U+6323 挣	kPhonetic	32*
 U+6324 挤	kPhonetic	56
 U+6328 挨	kPhonetic	1549A
 U+6329 挩	kPhonetic	1392
@@ -7883,7 +7883,7 @@ U+773C 眼	kPhonetic	575
 U+773E 眾	kPhonetic	324*
 U+773F 眿	kPhonetic	1452*
 U+7740 着	kPhonetic	94
-U+7741 睁	kPhonetic	32
+U+7741 睁	kPhonetic	32*
 U+7745 睅	kPhonetic	502
 U+7746 睆	kPhonetic	1624
 U+7747 睇	kPhonetic	1310
@@ -12728,7 +12728,7 @@ U+9751 靑	kPhonetic	203
 U+9752 青	kPhonetic	203 1130
 U+9756 靖	kPhonetic	203
 U+9758 靘	kPhonetic	203
-U+9759 静	kPhonetic	32
+U+9759 静	kPhonetic	32*
 U+975A 靚	kPhonetic	203
 U+975B 靛	kPhonetic	1342
 U+975C 靜	kPhonetic	32
