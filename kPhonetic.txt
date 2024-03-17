@@ -4355,7 +4355,7 @@ U+60E7 惧	kPhonetic	674 677
 U+60E8 惨	kPhonetic	23
 U+60E9 惩	kPhonetic	199
 U+60EA 惪	kPhonetic	171
-U+60EB 惫	kPhonetic	1174*
+U+60EB 惫	kPhonetic	1034*
 U+60F0 惰	kPhonetic	1367
 U+60F1 惱	kPhonetic	985
 U+60F2 惲	kPhonetic	723
