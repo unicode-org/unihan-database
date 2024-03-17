@@ -2098,7 +2098,7 @@ U+52E4 勤	kPhonetic	574
 U+52E6 勦	kPhonetic	51
 U+52E9 勩	kPhonetic	1115A
 U+52EF 勯	kPhonetic	1298
-U+52F0 勰	kPhonetic	1174*
+U+52F0 勰	kPhonetic	478*
 U+52F1 勱	kPhonetic	866
 U+52F3 勳	kPhonetic	350
 U+52F5 勵	kPhonetic	773
