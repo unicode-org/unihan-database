@@ -6366,7 +6366,7 @@ U+6D3E 派	kPhonetic	1000
 U+6D3F 洿	kPhonetic	701
 U+6D40 浀	kPhonetic	683*
 U+6D41 流	kPhonetic	779
-U+6D44 浄	kPhonetic	32
+U+6D44 浄	kPhonetic	32*
 U+6D4A 浊	kPhonetic	1264
 U+6D4C 浌	kPhonetic	360*
 U+6D4E 济	kPhonetic	56
