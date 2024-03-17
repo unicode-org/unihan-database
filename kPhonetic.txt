@@ -4077,7 +4077,7 @@ U+5F64 彤	kPhonetic	1295
 U+5F65 彥	kPhonetic	877 1580
 U+5F66 彦	kPhonetic	1580
 U+5F67 彧	kPhonetic	1416
-U+5F68 彨	kPhonetic	772
+U+5F68 彨	kPhonetic	772*
 U+5F69 彩	kPhonetic	245
 U+5F6A 彪	kPhonetic	384 1063
 U+5F6B 彫	kPhonetic	80
@@ -6804,6 +6804,7 @@ U+7043 灃	kPhonetic	404
 U+7049 灉	kPhonetic	1653A
 U+704B 灋	kPhonetic	347 519
 U+704C 灌	kPhonetic	761
+U+7051 灑	kPhonetic	772
 U+7053 灓	kPhonetic	833
 U+7054 灔	kPhonetic	771*
 U+7055 灕	kPhonetic	786A
@@ -11696,7 +11697,7 @@ U+904D 遍	kPhonetic	1042
 U+904E 過	kPhonetic	700 745
 U+904F 遏	kPhonetic	510
 U+9050 遐	kPhonetic	534
-U+9051 遑	kPhonetic	772 1457
+U+9051 遑	kPhonetic	1457
 U+9052 遒	kPhonetic	1513A
 U+9053 道	kPhonetic	1144 1357
 U+9054 達	kPhonetic	1306
