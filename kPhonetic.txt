@@ -406,7 +406,7 @@ U+3C76 㱶	kPhonetic	1007*
 U+3C7F 㱿	kPhonetic	493
 U+3C80 㲀	kPhonetic	1129*
 U+3C81 㲁	kPhonetic	525*
-U+3C86 㲆	kPhonetic	812*
+U+3C86 㲆	kPhonetic	477*
 U+3C88 㲈	kPhonetic	219
 U+3C89 㲉	kPhonetic	493
 U+3C97 㲗	kPhonetic	378*
