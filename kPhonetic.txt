@@ -2164,7 +2164,7 @@ U+5341 十	kPhonetic	1132
 U+5342 卂	kPhonetic	1267
 U+5343 千	kPhonetic	183 192
 U+5344 卄	kPhonetic	1132 1552
-U+5345 卅	kPhonetic	78 113 1097 1100
+U+5345 卅	kPhonetic	78 1097 1100 1132
 U+5347 升	kPhonetic	1205 1340
 U+5348 午	kPhonetic	950
 U+5349 卉	kPhonetic	1425A
