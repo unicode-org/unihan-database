@@ -3650,7 +3650,7 @@ U+5CB4 岴	kPhonetic	1506*
 U+5CB5 岵	kPhonetic	753
 U+5CB7 岷	kPhonetic	878
 U+5CB8 岸	kPhonetic	653
-U+5CBA 岺	kPhonetic	812A
+U+5CBA 岺	kPhonetic	812A*
 U+5CBB 岻	kPhonetic	1307*
 U+5CBC 岼	kPhonetic	1058*
 U+5CC0 峀	kPhonetic	1512*
