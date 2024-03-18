@@ -13871,7 +13871,7 @@ U+9F5E 齞	kPhonetic	140
 U+9F5F 齟	kPhonetic	97
 U+9F60 齠	kPhonetic	219
 U+9F61 齡	kPhonetic	812
-U+9F62 齢	kPhonetic	812
+U+9F62 齢	kPhonetic	812*
 U+9F63 齣	kPhonetic	673
 U+9F65 齥	kPhonetic	1472*
 U+9F66 齦	kPhonetic	575
@@ -13924,6 +13924,7 @@ U+F98D 轢	kPhonetic	972
 U+F98E 年	kPhonetic	977
 U+F995 秊	kPhonetic	977
 U+F9A4 捻	kPhonetic	976
+U+F9A8 令	kPhonetic	812
 U+F9AA 寧	kPhonetic	978
 U+F9BF 樂	kPhonetic	972
 U+F9E3 泥	kPhonetic	946
