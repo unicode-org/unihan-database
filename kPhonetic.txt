@@ -6152,7 +6152,7 @@ U+6C0E 氎	kPhonetic	1347
 U+6C0F 氏	kPhonetic	1184
 U+6C10 氐	kPhonetic	1184 1307
 U+6C11 民	kPhonetic	878
-U+6C12 氒	kPhonetic	1184*
+U+6C12 氒	kPhonetic	1132*
 U+6C13 氓	kPhonetic	878 922
 U+6C14 气	kPhonetic	460 461
 U+6C16 氖	kPhonetic	938
@@ -8027,7 +8027,7 @@ U+781F 砟	kPhonetic	10
 U+7820 砠	kPhonetic	97
 U+7822 砢	kPhonetic	487
 U+7823 砣	kPhonetic	1368
-U+7825 砥	kPhonetic	1184* 1307
+U+7825 砥	kPhonetic	1307
 U+7826 砦	kPhonetic	156
 U+7827 砧	kPhonetic	177
 U+782D 砭	kPhonetic	359 1043
@@ -15835,7 +15835,7 @@ U+293FA 𩏺	kPhonetic	372*
 U+29453 𩑓	kPhonetic	1267*
 U+29458 𩑘	kPhonetic	1588*
 U+29463 𩑣	kPhonetic	1511*
-U+29465 𩑥	kPhonetic	1184*
+U+29465 𩑥	kPhonetic	1588*
 U+29473 𩑳	kPhonetic	1058*
 U+29474 𩑴	kPhonetic	1507*
 U+29479 𩑹	kPhonetic	1623*
