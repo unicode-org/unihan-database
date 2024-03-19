@@ -15557,7 +15557,7 @@ U+283AC 𨎬	kPhonetic	1598*
 U+283F9 𨏹	kPhonetic	372*
 U+28405 𨐅	kPhonetic	1240*
 U+28408 𨐈	kPhonetic	749*
-U+2840D 𨐍	kPhonetic	1101*
+U+2840D 𨐍	kPhonetic	1124*
 U+2841B 𨐛	kPhonetic	983*
 U+28421 𨐡	kPhonetic	385*
 U+2844C 𨑌	kPhonetic	841*
