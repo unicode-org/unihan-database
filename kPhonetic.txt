@@ -8917,7 +8917,7 @@ U+7DCE 緎	kPhonetic	1416
 U+7DD0 緐	kPhonetic	927
 U+7DD2 緒	kPhonetic	94
 U+7DD3 緓	kPhonetic	1582*
-U+7DD6 緖	kPhonetic	94
+U+7DD6 緖	kPhonetic	94*
 U+7DD7 緗	kPhonetic	1165
 U+7DD8 緘	kPhonetic	419
 U+7DD9 緙	kPhonetic	543
@@ -10374,6 +10374,7 @@ U+8766 蝦	kPhonetic	534
 U+8767 蝧	kPhonetic	1582*
 U+8768 蝨	kPhonetic	1134
 U+876A 蝪	kPhonetic	1529*
+U+876B 蝫	kPhonetic	94*
 U+876E 蝮	kPhonetic	403
 U+876F 蝯	kPhonetic	1468
 U+8771 蝱	kPhonetic	922
@@ -13930,6 +13931,7 @@ U+F9BF 樂	kPhonetic	972
 U+F9E3 泥	kPhonetic	946
 U+FA0C 兀	kPhonetic	963
 U+FA1E 羽	kPhonetic	1613
+U+FA5B 者	kPhonetic	94
 U+20001 𠀁	kPhonetic	1635
 U+2001D 𠀝	kPhonetic	1166*
 U+20041 𠁁	kPhonetic	1324
