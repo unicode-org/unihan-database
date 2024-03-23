@@ -416,7 +416,7 @@ U+3C9F 㲟	kPhonetic	1582*
 U+3CA8 㲨	kPhonetic	1658*
 U+3CAC 㲬	kPhonetic	216*
 U+3CB2 㲲	kPhonetic	1347
-U+3CB3 㲳	kPhonetic	1307*
+U+3CB3 㲳	kPhonetic	1135* 1307*
 U+3CC1 㳁	kPhonetic	58*
 U+3CC4 㳄	kPhonetic	467 1578
 U+3CCB 㳋	kPhonetic	1506*
