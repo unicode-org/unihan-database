@@ -1413,7 +1413,7 @@ U+4F10 伐	kPhonetic	360
 U+4F11 休	kPhonetic	1505
 U+4F15 伕	kPhonetic	380
 U+4F17 众	kPhonetic	324
-U+4F18 优	kPhonetic	1511*
+U+4F18 优	kPhonetic	1504* 1511*
 U+4F19 伙	kPhonetic	370
 U+4F1A 会	kPhonetic	1466
 U+4F1E 伞	kPhonetic	1106
@@ -4615,7 +4615,7 @@ U+626B 扫	kPhonetic	81
 U+626D 扭	kPhonetic	90
 U+626E 扮	kPhonetic	353
 U+626F 扯	kPhonetic	95 135
-U+6270 扰	kPhonetic	1511*
+U+6270 扰	kPhonetic	1504* 1511*
 U+6271 扱	kPhonetic	581
 U+6273 扳	kPhonetic	339 341 1006
 U+6275 扵	kPhonetic	1601
@@ -9260,6 +9260,7 @@ U+8027 耧	kPhonetic	780
 U+8028 耨	kPhonetic	1650
 U+802A 耪	kPhonetic	1081
 U+802C 耬	kPhonetic	780
+U+8030 耰	kPhonetic	1504*
 U+8033 耳	kPhonetic	1546
 U+8034 耴	kPhonetic	205 1634A
 U+8036 耶	kPhonetic	1520 1546
@@ -16229,6 +16230,7 @@ U+30651 𰙑	kPhonetic	1261*
 U+308EC 𰣬	kPhonetic	56
 U+30A26 𰨦	kPhonetic	56
 U+30B29 𰬩	kPhonetic	1261*
+U+30B40 𰭀	kPhonetic	1504*
 U+30C48 𰱈	kPhonetic	1587*
 U+30C6E 𰱮	kPhonetic	843*
 U+30C85 𰲅	kPhonetic	56*
