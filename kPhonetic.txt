@@ -16167,7 +16167,7 @@ U+2A573 𪕳	kPhonetic	1174*
 U+2A580 𪖀	kPhonetic	107*
 U+2A589 𪖉	kPhonetic	1173*
 U+2A58B 𪖋	kPhonetic	210*
-U+2A595 𪖕	kPhonetic	951*
+U+2A595 𪖕	kPhonetic	1031*
 U+2A59B 𪖛	kPhonetic	1506*
 U+2A5A5 𪖥	kPhonetic	451*
 U+2A5B6 𪖶	kPhonetic	1278*
