@@ -11365,7 +11365,7 @@ U+8E39 踹	kPhonetic	1383
 U+8E3A 踺	kPhonetic	620*
 U+8E3C 踼	kPhonetic	1529
 U+8E3D 踽	kPhonetic	1614
-U+8E3E 踾	kPhonetic	156
+U+8E3E 踾	kPhonetic	398*
 U+8E40 蹀	kPhonetic	1590
 U+8E41 蹁	kPhonetic	1042
 U+8E42 蹂	kPhonetic	1509
