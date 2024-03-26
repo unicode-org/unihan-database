@@ -1286,7 +1286,7 @@ U+4E4E 乎	kPhonetic	389
 U+4E4F 乏	kPhonetic	359
 U+4E50 乐	kPhonetic	972
 U+4E52 乒	kPhonetic	1052
-U+4E53 乓	kPhonetic	1506*
+U+4E53 乓	kPhonetic	1052
 U+4E56 乖	kPhonetic	702
 U+4E58 乘	kPhonetic	1211
 U+4E59 乙	kPhonetic	1535 1634
