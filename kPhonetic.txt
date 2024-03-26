@@ -13394,6 +13394,7 @@ U+9B6D 魭	kPhonetic	1624
 U+9B6F 魯	kPhonetic	823
 U+9B74 魴	kPhonetic	373
 U+9B76 魶	kPhonetic	986
+U+9B77 魷	kPhonetic	1511*
 U+9B80 鮀	kPhonetic	1368
 U+9B83 鮃	kPhonetic	1058
 U+9B84 鮄	kPhonetic	358
