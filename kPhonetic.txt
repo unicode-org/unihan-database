@@ -3593,7 +3593,7 @@ U+5C50 屐	kPhonetic	130 605
 U+5C51 屑	kPhonetic	220 1176 1216
 U+5C52 屒	kPhonetic	1129*
 U+5C53 屓	kPhonetic	1176
-U+5C54 屔	kPhonetic	1506*
+U+5C54 屔	kPhonetic	946*
 U+5C55 展	kPhonetic	187
 U+5C56 屖	kPhonetic	1112A
 U+5C57 屗	kPhonetic	891*
@@ -10233,7 +10233,7 @@ U+8653 虓	kPhonetic	384 587
 U+8654 虔	kPhonetic	877
 U+8655 處	kPhonetic	1239
 U+8656 虖	kPhonetic	379 389
-U+8657 虗	kPhonetic	1506*
+U+8657 虗	kPhonetic	383*
 U+8658 虘	kPhonetic	9 97
 U+8659 虙	kPhonetic	383
 U+865A 虚	kPhonetic	383 515
@@ -14591,7 +14591,7 @@ U+23896 𣢖	kPhonetic	467*
 U+2389C 𣢜	kPhonetic	1507*
 U+238A0 𣢠	kPhonetic	1059*
 U+238A1 𣢡	kPhonetic	1107A*
-U+238A5 𣢥	kPhonetic	1506*
+U+238A5 𣢥	kPhonetic	467*
 U+238AA 𣢪	kPhonetic	959*
 U+238BA 𣢺	kPhonetic	497*
 U+238BE 𣢾	kPhonetic	396
