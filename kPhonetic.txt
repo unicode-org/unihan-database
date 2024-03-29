@@ -339,6 +339,7 @@ U+3AA8 㪨	kPhonetic	1203*
 U+3AAF 㪯	kPhonetic	672 877A
 U+3AB5 㪵	kPhonetic	1089*
 U+3AB6 㪶	kPhonetic	1002*
+U+3AC0 㫀	kPhonetic	119*
 U+3AC4 㫄	kPhonetic	373
 U+3ACA 㫊	kPhonetic	487
 U+3AD6 㫖	kPhonetic	1166
@@ -850,6 +851,7 @@ U+4592 䖒	kPhonetic	1322
 U+4598 䖘	kPhonetic	1360*
 U+45A4 䖤	kPhonetic	1622*
 U+45B3 䖳	kPhonetic	17
+U+45C9 䗉	kPhonetic	119*
 U+45CE 䗎	kPhonetic	1478*
 U+45D1 䗑	kPhonetic	1645*
 U+45FD 䗽	kPhonetic	1430*
@@ -904,6 +906,7 @@ U+4777 䝷	kPhonetic	133
 U+477D 䝽	kPhonetic	953*
 U+477F 䝿	kPhonetic	1609*
 U+4783 䞃	kPhonetic	142*
+U+478E 䞎	kPhonetic	119*
 U+4792 䞒	kPhonetic	1407*
 U+4793 䞓	kPhonetic	623
 U+4794 䞔	kPhonetic	891*
@@ -5327,6 +5330,7 @@ U+667A 智	kPhonetic	133
 U+667B 晻	kPhonetic	1562
 U+667C 晼	kPhonetic	1622A
 U+667E 晾	kPhonetic	622
+U+667F 晿	kPhonetic	119*
 U+6684 暄	kPhonetic	1244
 U+6687 暇	kPhonetic	534
 U+6688 暈	kPhonetic	723
@@ -10881,6 +10885,7 @@ U+8AA6 誦	kPhonetic	1660
 U+8AA8 誨	kPhonetic	927
 U+8AAA 說	kPhonetic	1392
 U+8AAC 説	kPhonetic	1392
+U+8AAF 誯	kPhonetic	119*
 U+8AB0 誰	kPhonetic	285
 U+8AB2 課	kPhonetic	744
 U+8AB3 誳	kPhonetic	1449
@@ -15454,6 +15459,7 @@ U+27D8A 𧶊	kPhonetic	1628*
 U+27D94 𧶔	kPhonetic	1348*
 U+27D96 𧶖	kPhonetic	451*
 U+27DA1 𧶡	kPhonetic	884*
+U+27DA7 𧶧	kPhonetic	119*
 U+27DB2 𧶲	kPhonetic	1383*
 U+27DB5 𧶵	kPhonetic	41*
 U+27DBA 𧶺	kPhonetic	1344*
@@ -16226,6 +16232,7 @@ U+2CDA0 𬶠	kPhonetic	549*
 U+2CB6A 𬭪	kPhonetic	491*
 U+2CB7B 𬭻	kPhonetic	635*
 U+2CBC0 𬯀	kPhonetic	56
+U+2CE36 𬸶	kPhonetic	119*
 U+2DA70 𭩰	kPhonetic	346*
 U+2E681 𮚁	kPhonetic	56
 U+2E8F6 𮣶	kPhonetic	843*
