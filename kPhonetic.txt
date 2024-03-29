@@ -6212,6 +6212,7 @@ U+6C5D 汝	kPhonetic	990
 U+6C5E 汞	kPhonetic	530 684
 U+6C5F 江	kPhonetic	655 684
 U+6C60 池	kPhonetic	1471
+U+6C61 污	kPhonetic	1602B*
 U+6C66 汦	kPhonetic	1184*
 U+6C67 汧	kPhonetic	617
 U+6C68 汨	kPhonetic	1501
