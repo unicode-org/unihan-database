@@ -9064,6 +9064,7 @@ U+7E98 纘	kPhonetic	28
 U+7E9A 纚	kPhonetic	772
 U+7E9B 纛	kPhonetic	1396
 U+7E9C 纜	kPhonetic	765
+U+7EA0 纠	kPhonetic	583*
 U+7EA1 纡	kPhonetic	1602*
 U+7EA8 纨	kPhonetic	1627*
 U+7EAB 纫	kPhonetic	1492*
