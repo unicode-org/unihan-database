@@ -345,7 +345,7 @@ U+3AD6 㫖	kPhonetic	1166
 U+3AD7 㫗	kPhonetic	1638*
 U+3ADA 㫚	kPhonetic	1638*
 U+3AE4 㫤	kPhonetic	1452*
-U+3AEF 㫯	kPhonetic	963*
+U+3AEF 㫯	kPhonetic	919*
 U+3B02 㬂	kPhonetic	1607*
 U+3B09 㬉	kPhonetic	1631
 U+3B0B 㬋	kPhonetic	446*
