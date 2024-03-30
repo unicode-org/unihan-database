@@ -14055,7 +14055,7 @@ U+20860 𠡠	kPhonetic	829
 U+20863 𠡣	kPhonetic	578*
 U+2086E 𠡮	kPhonetic	1024*
 U+20893 𠢓	kPhonetic	921*
-U+208A2 𠢢	kPhonetic	1509*
+U+208A2 𠢢	kPhonetic	1507* 1509*
 U+208A4 𠢤	kPhonetic	668*
 U+208A9 𠢩	kPhonetic	1598*
 U+208B1 𠢱	kPhonetic	567*
