@@ -544,7 +544,7 @@ U+3F5C 㽜	kPhonetic	1622*
 U+3F62 㽢	kPhonetic	1562*
 U+3F65 㽥	kPhonetic	1509
 U+3F6C 㽬	kPhonetic	398*
-U+3F70 㽰	kPhonetic	1024*
+U+3F70 㽰	kPhonetic	1226*
 U+3F73 㽳	kPhonetic	1602*
 U+3F74 㽴	kPhonetic	116*
 U+3F79 㽹	kPhonetic	339*
