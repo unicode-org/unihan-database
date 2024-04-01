@@ -2159,7 +2159,7 @@ U+5333 匳	kPhonetic	182
 U+5334 匴	kPhonetic	1246
 U+5335 匵	kPhonetic	1395
 U+5336 匶	kPhonetic	593
-U+5339 匹	kPhonetic	1008 1027
+U+5339 匹	kPhonetic	1008 1027A
 U+533A 区	kPhonetic	678
 U+533B 医	kPhonetic	159 1534
 U+533D 匽	kPhonetic	1574
@@ -7604,7 +7604,7 @@ U+7586 疆	kPhonetic	607A
 U+7587 疇	kPhonetic	1149
 U+7588 疈	kPhonetic	398
 U+758A 疊	kPhonetic	1347
-U+758B 疋	kPhonetic	1027 1027A 1226
+U+758B 疋	kPhonetic	1027A 1226
 U+758C 疌	kPhonetic	211
 U+758E 疎	kPhonetic	309 779 1226
 U+758F 疏	kPhonetic	779 1226
@@ -14839,7 +14839,7 @@ U+24CB6 𤲶	kPhonetic	940*
 U+24CC3 𤳃	kPhonetic	1512*
 U+24D14 𤴔	kPhonetic	1226
 U+24D21 𤴡	kPhonetic	135 1309
-U+24D23 𤴣	kPhonetic	1027A*
+U+24D23 𤴣	kPhonetic	1040*
 U+24D28 𤴨	kPhonetic	1519*
 U+24D2F 𤴯	kPhonetic	1627
 U+24D40 𤵀	kPhonetic	599*
