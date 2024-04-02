@@ -9056,8 +9056,8 @@ U+7E88 纈	kPhonetic	634
 U+7E8A 纊	kPhonetic	750
 U+7E8B 纋	kPhonetic	1504
 U+7E8C 續	kPhonetic	1395
-U+7E8F 纏	kPhonetic	195
 U+7E8D 纍	kPhonetic	838 841
+U+7E8F 纏	kPhonetic	195
 U+7E91 纑	kPhonetic	820A
 U+7E92 纒	kPhonetic	195*
 U+7E93 纓	kPhonetic	1583A
@@ -16203,9 +16203,9 @@ U+2A6AD 𪚭	kPhonetic	584*
 U+2A6B9 𪚹	kPhonetic	263*
 U+2A6BB 𪚻	kPhonetic	1528*
 U+2AA9D 𪪝	kPhonetic	1653*
+U+2ABE0 𪯠	kPhonetic	56
 U+2ACCD 𪳍	kPhonetic	979*
 U+2AEB9 𪺹	kPhonetic	984*
-U+2ABE0 𪯠	kPhonetic	56
 U+2B138 𫄸	kPhonetic	350*
 U+2B167 𫅧	kPhonetic	1530
 U+2B1E6 𫇦	kPhonetic	1587
@@ -16230,10 +16230,10 @@ U+2BE8A 𫺊	kPhonetic	56
 U+2BE98 𫺘	kPhonetic	821*
 U+2C3E6 𬏦	kPhonetic	346*
 U+2C454 𬑔	kPhonetic	324
-U+2CDA0 𬶠	kPhonetic	549*
 U+2CB6A 𬭪	kPhonetic	491*
 U+2CB7B 𬭻	kPhonetic	635*
 U+2CBC0 𬯀	kPhonetic	56
+U+2CDA0 𬶠	kPhonetic	549*
 U+2CE36 𬸶	kPhonetic	119*
 U+2DA70 𭩰	kPhonetic	346*
 U+2E681 𮚁	kPhonetic	56
