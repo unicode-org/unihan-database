@@ -2844,6 +2844,7 @@ U+571D 圝	kPhonetic	833*
 U+571E 圞	kPhonetic	833A
 U+571F 土	kPhonetic	1359
 U+5723 圣	kPhonetic	204 1207
+U+5724 圤	kPhonetic	544 1094*
 U+5727 圧	kPhonetic	1565A
 U+5728 在	kPhonetic	244 247
 U+5729 圩	kPhonetic	515 1602
@@ -7828,7 +7829,7 @@ U+76CB 盋	kPhonetic	1027
 U+76CC 盌	kPhonetic	1622
 U+76CD 盍	kPhonetic	508 519
 U+76CE 盎	kPhonetic	1528
-U+76D0 盐	kPhonetic	1094
+U+76D0 盐	kPhonetic	544 1094
 U+76D1 监	kPhonetic	544
 U+76D2 盒	kPhonetic	509
 U+76D4 盔	kPhonetic	394
