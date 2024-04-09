@@ -4162,7 +4162,7 @@ U+5FC9 忉	kPhonetic	1353
 U+5FCC 忌	kPhonetic	597 600
 U+5FCD 忍	kPhonetic	1482 1492
 U+5FD0 忐	kPhonetic	1118 1299
-U+5FD1 忑	kPhonetic	1118
+U+5FD1 忑	kPhonetic	1118 1299
 U+5FD2 忒	kPhonetic	1329 1558
 U+5FD3 忓	kPhonetic	653
 U+5FD4 忔	kPhonetic	440*
