@@ -93,6 +93,7 @@ U+35D6 㗖	kPhonetic	1599*
 U+35E7 㗧	kPhonetic	74*
 U+35E9 㗩	kPhonetic	39
 U+35ED 㗭	kPhonetic	1186*
+U+35FC 㗼	kPhonetic	1589*
 U+3601 㘁	kPhonetic	638*
 U+360A 㘊	kPhonetic	35*
 U+362B 㘫	kPhonetic	103*
@@ -16229,6 +16230,7 @@ U+2B699 𫚙	kPhonetic	386*
 U+2B6A5 𫚥	kPhonetic	534*
 U+2B6E2 𫛢	kPhonetic	267*
 U+2B823 𫠣	kPhonetic	549
+U+2BA64 𫩤	kPhonetic	1589*
 U+2BE8A 𫺊	kPhonetic	56
 U+2BE98 𫺘	kPhonetic	821*
 U+2C3E6 𬏦	kPhonetic	346*
