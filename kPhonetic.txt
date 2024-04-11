@@ -5666,6 +5666,7 @@ U+68B8 梸	kPhonetic	790*
 U+68B9 梹	kPhonetic	1018 1052
 U+68BD 梽	kPhonetic	143*
 U+68C1 棁	kPhonetic	1392
+U+68C2 棂	kPhonetic	809*
 U+68C3 棃	kPhonetic	791
 U+68C4 棄	kPhonetic	456
 U+68C5 棅	kPhonetic	1054
@@ -6004,6 +6005,7 @@ U+6B18 欘	kPhonetic	1265
 U+6B19 欙	kPhonetic	838
 U+6B1A 欚	kPhonetic	770*
 U+6B1D 欝	kPhonetic	1448
+U+6B1E 欞	kPhonetic	809*
 U+6B20 欠	kPhonetic	467
 U+6B21 次	kPhonetic	160 1552
 U+6B23 欣	kPhonetic	571 1481
