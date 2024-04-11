@@ -2746,6 +2746,7 @@ U+5676 噶	kPhonetic	662
 U+5677 噷	kPhonetic	1473A
 U+5678 噸	kPhonetic	1385*
 U+5679 噹	kPhonetic	1377
+U+567C 噼	kPhonetic	1040*
 U+567D 噽	kPhonetic	1035*
 U+5680 嚀	kPhonetic	978
 U+5681 嚁	kPhonetic	16A*
