@@ -1281,7 +1281,7 @@ U+4E43 乃	kPhonetic	938
 U+4E45 久	kPhonetic	586 587
 U+4E46 乆	kPhonetic	1444
 U+4E47 乇	kPhonetic	1312
-U+4E48 么	kPhonetic	159 862 920 1595
+U+4E48 么	kPhonetic	862 920 1595
 U+4E49 义	kPhonetic	11 967 1554
 U+4E4B 之	kPhonetic	127 135 213
 U+4E4C 乌	kPhonetic	982
