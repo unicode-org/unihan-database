@@ -14805,7 +14805,7 @@ U+2488A 𤢊	kPhonetic	826*
 U+248AD 𤢭	kPhonetic	482*
 U+248BA 𤢺	kPhonetic	634*
 U+248E5 𤣥	kPhonetic	1623
-U+248E8 𤣨	kPhonetic	1623*
+U+248E8 𤣨	kPhonetic	510*
 U+248F2 𤣲	kPhonetic	1267*
 U+248F9 𤣹	kPhonetic	1443*
 U+2490B 𤤋	kPhonetic	1594*
