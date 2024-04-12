@@ -11820,7 +11820,7 @@ U+90BC 邼	kPhonetic	505*
 U+90BD 邽	kPhonetic	710
 U+90BE 邾	kPhonetic	260
 U+90BF 邿	kPhonetic	149
-U+90C1 郁	kPhonetic	1517
+U+90C1 郁	kPhonetic	1448 1517
 U+90C3 郃	kPhonetic	509
 U+90C4 郄	kPhonetic	606 681 739
 U+90C5 郅	kPhonetic	141
