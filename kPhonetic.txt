@@ -14470,7 +14470,7 @@ U+22839 𢠹	kPhonetic	1173*
 U+22840 𢡀	kPhonetic	431*
 U+22842 𢡂	kPhonetic	1380*
 U+22843 𢡃	kPhonetic	1421*
-U+22875 𢡵	kPhonetic	1537*
+U+22875 𢡵	kPhonetic	1537A*
 U+228BA 𢢺	kPhonetic	934
 U+228D8 𢣘	kPhonetic	1430*
 U+228FC 𢣼	kPhonetic	45*
@@ -15167,7 +15167,7 @@ U+2649C 𦒜	kPhonetic	1298*
 U+264B4 𦒴	kPhonetic	824*
 U+264CE 𦓎	kPhonetic	1537*
 U+264D3 𦓓	kPhonetic	1537*
-U+264D4 𦓔	kPhonetic	1537*
+U+264D4 𦓔	kPhonetic	1537A*
 U+264D5 𦓕	kPhonetic	1472*
 U+264D6 𦓖	kPhonetic	1482*
 U+264E5 𦓥	kPhonetic	830*
