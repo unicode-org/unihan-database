@@ -13541,7 +13541,7 @@ U+9CD5 鳕	kPhonetic	1248*
 U+9CD8 鳘	kPhonetic	880*
 U+9CDD 鳝	kPhonetic	1203*
 U+9CDF 鳟	kPhonetic	270*
-U+9CE1 鳡	kPhonetic	566A*
+U+9CE1 鳡	kPhonetic	652*
 U+9CE5 鳥	kPhonetic	982
 U+9CE7 鳧	kPhonetic	390 596 982
 U+9CE9 鳩	kPhonetic	587
@@ -15664,7 +15664,7 @@ U+28863 𨡣	kPhonetic	976*
 U+28871 𨡱	kPhonetic	385*
 U+288AA 𨢪	kPhonetic	51*
 U+288C1 𨣁	kPhonetic	1203*
-U+288DD 𨣝	kPhonetic	566A*
+U+288DD 𨣝	kPhonetic	652*
 U+28903 𨤃	kPhonetic	258*
 U+28915 𨤕	kPhonetic	1562*
 U+28918 𨤘	kPhonetic	1046*
@@ -16110,7 +16110,7 @@ U+2A245 𪉅	kPhonetic	1193*
 U+2A250 𪉐	kPhonetic	1607*
 U+2A268 𪉨	kPhonetic	119*
 U+2A27B 𪉻	kPhonetic	1277*
-U+2A284 𪊄	kPhonetic	566A*
+U+2A284 𪊄	kPhonetic	652*
 U+2A28D 𪊍	kPhonetic	150*
 U+2A295 𪊕	kPhonetic	1030*
 U+2A2EC 𪋬	kPhonetic	1604*
