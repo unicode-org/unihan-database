@@ -15475,7 +15475,7 @@ U+27DC7 𧷇	kPhonetic	315
 U+27DD0 𧷐	kPhonetic	1020*
 U+27DFF 𧷿	kPhonetic	1354*
 U+27E08 𧸈	kPhonetic	1018*
-U+27E2B 𧸫	kPhonetic	1628*
+U+27E2B 𧸫	kPhonetic	725*
 U+27E32 𧸲	kPhonetic	72*
 U+27E3D 𧸽	kPhonetic	1432*
 U+27E4C 𧹌	kPhonetic	129*
