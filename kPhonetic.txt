@@ -1049,6 +1049,7 @@ U+4A43 䩃	kPhonetic	1030*
 U+4A46 䩆	kPhonetic	10*
 U+4A49 䩉	kPhonetic	386*
 U+4A52 䩒	kPhonetic	1602*
+U+4A57 䩗	kPhonetic	997*
 U+4A59 䩙	kPhonetic	1623*
 U+4A5A 䩚	kPhonetic	1307*
 U+4A5B 䩛	kPhonetic	1059*
