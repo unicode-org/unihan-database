@@ -8658,6 +8658,7 @@ U+7C28 簨	kPhonetic	1270
 U+7C2A 簪	kPhonetic	25
 U+7C2B 簫	kPhonetic	1261
 U+7C2C 簬	kPhonetic	826*
+U+7C2E 簮	kPhonetic	25*
 U+7C30 簰	kPhonetic	1001
 U+7C33 簳	kPhonetic	654A
 U+7C34 簴	kPhonetic	515A
@@ -12353,6 +12354,7 @@ U+940F 鐏	kPhonetic	270
 U+9410 鐐	kPhonetic	817
 U+9413 鐓	kPhonetic	1398
 U+9414 鐔	kPhonetic	1292
+U+9415 鐕	kPhonetic	25*
 U+9418 鐘	kPhonetic	1406
 U+9419 鐙	kPhonetic	1315
 U+941C 鐜	kPhonetic	1398*
@@ -16264,6 +16266,7 @@ U+30C6E 𰱮	kPhonetic	843*
 U+30C85 𰲅	kPhonetic	56*
 U+30D2F 𰴯	kPhonetic	1587*
 U+30D79 𰵹	kPhonetic	979*
+U+30FB7 𰾷	kPhonetic	25*
 U+31100 𱄀	kPhonetic	1020*
 U+3115E 𱅞	kPhonetic	534*
 U+311FF 𱇿	kPhonetic	1261*
