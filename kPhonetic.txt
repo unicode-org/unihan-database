@@ -10165,7 +10165,7 @@ U+85B7 薷	kPhonetic	1250
 U+85B8 薸	kPhonetic	1066A
 U+85B9 薹	kPhonetic	1374
 U+85BA 薺	kPhonetic	56*
-U+85BB 薻	kPhonetic	52 1567
+U+85BB 薻	kPhonetic	52
 U+85BF 薿	kPhonetic	1538A
 U+85C1 藁	kPhonetic	637 637A
 U+85C2 藂	kPhonetic	290
@@ -12528,7 +12528,7 @@ U+95B5 閵	kPhonetic	855 929
 U+95B6 閶	kPhonetic	119
 U+95B7 閷	kPhonetic	46
 U+95B9 閹	kPhonetic	1562
-U+95BB 閻	kPhonetic	421
+U+95BB 閻	kPhonetic	421 1567
 U+95BC 閼	kPhonetic	1601
 U+95BD 閽	kPhonetic	351
 U+95BE 閾	kPhonetic	1416
