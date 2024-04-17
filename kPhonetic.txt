@@ -2017,6 +2017,7 @@ U+525F 剟	kPhonetic	283
 U+5260 剠	kPhonetic	622
 U+5261 剡	kPhonetic	1568
 U+5264 剤	kPhonetic	56*
+U+5265 剥	kPhonetic	849*
 U+5266 剦	kPhonetic	1562*
 U+5267 剧	kPhonetic	671
 U+5268 剨	kPhonetic	1414
@@ -6505,6 +6506,7 @@ U+6DFC 淼	kPhonetic	1253
 U+6E03 渃	kPhonetic	1526*
 U+6E05 清	kPhonetic	203
 U+6E08 済	kPhonetic	56*
+U+6E0C 渌	kPhonetic	849*
 U+6E11 渑	kPhonetic	879*
 U+6E17 渗	kPhonetic	23
 U+6E18 渘	kPhonetic	1509*
@@ -8226,6 +8228,7 @@ U+797F 祿	kPhonetic	849
 U+7980 禀	kPhonetic	777 1020A
 U+7981 禁	kPhonetic	567 776
 U+7982 禂	kPhonetic	80
+U+7984 禄	kPhonetic	849*
 U+798A 禊	kPhonetic	564
 U+798B 禋	kPhonetic	1478
 U+798D 禍	kPhonetic	700
@@ -9101,6 +9104,7 @@ U+7EF7 绷	kPhonetic	1024*
 U+7EF8 绸	kPhonetic	80*
 U+7EF9 绹	kPhonetic	1362*
 U+7EFC 综	kPhonetic	321*
+U+7EFF 绿	kPhonetic	849*
 U+7F03 缃	kPhonetic	1165*
 U+7F09 缉	kPhonetic	70*
 U+7F0C 缌	kPhonetic	1174*
@@ -16232,6 +16236,7 @@ U+2B501 𫔁	kPhonetic	1020*
 U+2B5E6 𫗦	kPhonetic	386*
 U+2B5EE 𫗮	kPhonetic	1457*
 U+2B623 𫘣	kPhonetic	502*
+U+2B627 𫘧	kPhonetic	849*
 U+2B699 𫚙	kPhonetic	386*
 U+2B6A5 𫚥	kPhonetic	534*
 U+2B6E2 𫛢	kPhonetic	267*
