@@ -130,7 +130,7 @@ U+370F 㜏	kPhonetic	1628*
 U+3712 㜒	kPhonetic	1608*
 U+371D 㜝	kPhonetic	1564*
 U+372B 㜫	kPhonetic	888A
-U+3744 㝄	kPhonetic	1385*
+U+3744 㝄	kPhonetic	316* 1385*
 U+3745 㝅	kPhonetic	493
 U+374D 㝍	kPhonetic	1150
 U+3754 㝔	kPhonetic	553 1594
