@@ -3188,7 +3188,7 @@ U+599D 妝	kPhonetic	121
 U+599E 妞	kPhonetic	90
 U+599F 妟	kPhonetic	1574
 U+59A3 妣	kPhonetic	1030
-U+59A4 妤	kPhonetic	141 1603
+U+59A4 妤	kPhonetic	1603
 U+59A5 妥	kPhonetic	990 1369
 U+59A8 妨	kPhonetic	373
 U+59AC 妬	kPhonetic	1157
