@@ -15254,7 +15254,7 @@ U+26963 𦥣	kPhonetic	1511*
 U+2696C 𦥬	kPhonetic	10*
 U+2696D 𦥭	kPhonetic	1561*
 U+2696F 𦥯	kPhonetic	494
-U+2698C 𦦌	kPhonetic	1599*
+U+2698C 𦦌	kPhonetic	219* 1599*
 U+26995 𦦕	kPhonetic	41*
 U+26998 𦦘	kPhonetic	41*
 U+26999 𦦙	kPhonetic	672 1616
