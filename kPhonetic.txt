@@ -14074,7 +14074,7 @@ U+208A4 𠢤	kPhonetic	668*
 U+208A9 𠢩	kPhonetic	1598*
 U+208B1 𠢱	kPhonetic	567*
 U+208B5 𠢵	kPhonetic	567*
-U+208C9 𠣉	kPhonetic	1250*
+U+208C9 𠣉	kPhonetic	899*
 U+208D1 𠣑	kPhonetic	1009*
 U+208D2 𠣒	kPhonetic	1486*
 U+208D5 𠣕	kPhonetic	1009*
