@@ -9037,7 +9037,7 @@ U+7E56 繖	kPhonetic	1105
 U+7E58 繘	kPhonetic	1450
 U+7E59 繙	kPhonetic	338
 U+7E5A 繚	kPhonetic	817
-U+7E5B 繛	kPhonetic	1224*
+U+7E5B 繛	kPhonetic	108*
 U+7E5C 繜	kPhonetic	270*
 U+7E5E 繞	kPhonetic	1598
 U+7E5F 繟	kPhonetic	1294
