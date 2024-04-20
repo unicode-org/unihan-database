@@ -13979,7 +13979,7 @@ U+2010C 𠄌	kPhonetic	666
 U+20123 𠄣	kPhonetic	579
 U+20159 𠅙	kPhonetic	622
 U+20164 𠅤	kPhonetic	1174*
-U+20199 𠆙	kPhonetic	1344*
+U+20199 𠆙	kPhonetic	1552*
 U+201C6 𠇆	kPhonetic	34
 U+201D8 𠇘	kPhonetic	1637*
 U+201F1 𠇱	kPhonetic	931
@@ -14183,7 +14183,7 @@ U+21098 𡂘	kPhonetic	1062*
 U+210E6 𡃦	kPhonetic	855*
 U+210E7 𡃧	kPhonetic	515A
 U+21132 𡄲	kPhonetic	1606*
-U+21144 𡅄	kPhonetic	1344*
+U+21144 𡅄	kPhonetic	1294*
 U+21161 𡅡	kPhonetic	971*
 U+21165 𡅥	kPhonetic	1333*
 U+21166 𡅦	kPhonetic	588*
