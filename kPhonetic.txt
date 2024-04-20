@@ -11077,7 +11077,7 @@ U+8BF1 诱	kPhonetic	1145*
 U+8BF3 诳	kPhonetic	751*
 U+8BF5 诵	kPhonetic	1660*
 U+8BFA 诺	kPhonetic	1526*
-U+8BFC 诼	kPhonetic	510
+U+8BFC 诼	kPhonetic	1323*
 U+8BFF 诿	kPhonetic	1425*
 U+8C00 谀	kPhonetic	1609*
 U+8C02 谂	kPhonetic	976*
