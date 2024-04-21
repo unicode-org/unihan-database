@@ -15996,7 +15996,7 @@ U+299ED 𩧭	kPhonetic	1135*
 U+299EE 𩧮	kPhonetic	814*
 U+299F2 𩧲	kPhonetic	1407*
 U+29A04 𩨄	kPhonetic	1143*
-U+29A05 𩨅	kPhonetic	1143*
+U+29A05 𩨅	kPhonetic	1439*
 U+29A06 𩨆	kPhonetic	1344*
 U+29A12 𩨒	kPhonetic	596
 U+29A18 𩨘	kPhonetic	440*
