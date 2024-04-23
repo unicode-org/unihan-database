@@ -11459,6 +11459,7 @@ U+8E84 躄	kPhonetic	1040
 U+8E85 躅	kPhonetic	1264
 U+8E87 躇	kPhonetic	264
 U+8E89 躉	kPhonetic	866
+U+8E8A 躊	kPhonetic	1149*
 U+8E8B 躋	kPhonetic	56*
 U+8E8D 躍	kPhonetic	1327
 U+8E90 躐	kPhonetic	813*
