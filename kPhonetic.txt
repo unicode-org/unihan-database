@@ -14266,7 +14266,7 @@ U+21C05 𡰅	kPhonetic	963*
 U+21C06 𡰆	kPhonetic	980*
 U+21C10 𡰐	kPhonetic	515*
 U+21C1A 𡰚	kPhonetic	852*
-U+21C1E 𡰞	kPhonetic	963*
+U+21C1E 𡰞	kPhonetic	761*
 U+21C38 𡰸	kPhonetic	130
 U+21C3D 𡰽	kPhonetic	1511*
 U+21C46 𡱆	kPhonetic	1053*
