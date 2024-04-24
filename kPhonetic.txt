@@ -42,9 +42,9 @@ U+34E6 㓦	kPhonetic	1002*
 U+34F7 㓷	kPhonetic	980*
 U+34FD 㓽	kPhonetic	1277*
 U+3522 㔢	kPhonetic	284
-U+3528 㔨	kPhonetic	1009*
-U+3529 㔩	kPhonetic	1009*
-U+352A 㔪	kPhonetic	1009*
+U+3528 㔨	kPhonetic	1082*
+U+3529 㔩	kPhonetic	508*
+U+352A 㔪	kPhonetic	822*
 U+3530 㔰	kPhonetic	970*
 U+3531 㔱	kPhonetic	1609*
 U+3537 㔷	kPhonetic	1053*
@@ -2130,19 +2130,19 @@ U+5303 匃	kPhonetic	644
 U+5304 匄	kPhonetic	644
 U+5305 包	kPhonetic	1009 1011
 U+5306 匆	kPhonetic	327
-U+5307 匇	kPhonetic	1009*
+U+5307 匇	kPhonetic	170*
 U+5308 匈	kPhonetic	523
 U+5309 匉	kPhonetic	1058*
 U+530A 匊	kPhonetic	680
 U+530B 匋	kPhonetic	1362
-U+530C 匌	kPhonetic	1009*
+U+530C 匌	kPhonetic	509*
 U+530D 匍	kPhonetic	386 1073D
 U+530E 匎	kPhonetic	1562*
 U+530F 匏	kPhonetic	1011
 U+5310 匐	kPhonetic	398 1004
-U+5311 匑	kPhonetic	1009*
-U+5312 匒	kPhonetic	1009*
-U+5314 匔	kPhonetic	1009*
+U+5311 匑	kPhonetic	685*
+U+5312 匒	kPhonetic	1301*
+U+5314 匔	kPhonetic	685*
 U+5315 匕	kPhonetic	1033
 U+5316 化	kPhonetic	335
 U+5317 北	kPhonetic	1014
@@ -6859,7 +6859,7 @@ U+706B 火	kPhonetic	370
 U+706D 灭	kPhonetic	907
 U+706F 灯	kPhonetic	1315 1340
 U+7070 灰	kPhonetic	370 394
-U+7073 灳	kPhonetic	1009*
+U+7073 灳	kPhonetic	370*
 U+7075 灵	kPhonetic	809
 U+7076 灶	kPhonetic	225 1359
 U+7077 灷	kPhonetic	1209
@@ -14066,12 +14066,12 @@ U+208B5 𠢵	kPhonetic	567*
 U+208C9 𠣉	kPhonetic	899*
 U+208D1 𠣑	kPhonetic	1009*
 U+208D2 𠣒	kPhonetic	1486*
-U+208D5 𠣕	kPhonetic	1009*
+U+208D5 𠣕	kPhonetic	263*
 U+208D6 𠣖	kPhonetic	1623*
-U+208D8 𠣘	kPhonetic	1009*
-U+208F0 𠣰	kPhonetic	1009*
-U+2090A 𠤊	kPhonetic	1009*
-U+2090D 𠤍	kPhonetic	1009*
+U+208D8 𠣘	kPhonetic	77*
+U+208F0 𠣰	kPhonetic	94*
+U+2090A 𠤊	kPhonetic	685A*
+U+2090D 𠤍	kPhonetic	761*
 U+2090E 𠤎	kPhonetic	75
 U+2090F 𠤏	kPhonetic	1033 1067
 U+20915 𠤕	kPhonetic	159 1538
