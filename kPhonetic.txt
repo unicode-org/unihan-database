@@ -14985,7 +14985,7 @@ U+256DE 𥛞	kPhonetic	848*
 U+256E8 𥛨	kPhonetic	1099*
 U+256F1 𥛱	kPhonetic	1007*
 U+25703 𥜃	kPhonetic	638*
-U+25740 𥝀	kPhonetic	1614*
+U+25740 𥝀	kPhonetic	1471*
 U+25742 𥝂	kPhonetic	1607*
 U+25762 𥝢	kPhonetic	791
 U+2577F 𥝿	kPhonetic	532*
