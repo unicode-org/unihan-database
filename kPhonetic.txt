@@ -1931,7 +1931,7 @@ U+51E8 凨	kPhonetic	408
 U+51E9 凩	kPhonetic	932*
 U+51EB 凫	kPhonetic	596
 U+51ED 凭	kPhonetic	1023 1476B
-U+51EE 凮	kPhonetic	1002*
+U+51EE 凮	kPhonetic	408*
 U+51F0 凰	kPhonetic	1457
 U+51F1 凱	kPhonetic	454
 U+51F3 凳	kPhonetic	1315
@@ -14952,7 +14952,7 @@ U+25382 𥎂	kPhonetic	1658*
 U+25390 𥎐	kPhonetic	734A*
 U+25398 𥎘	kPhonetic	1250*
 U+253B8 𥎸	kPhonetic	1623*
-U+253C4 𥏄	kPhonetic	1002*
+U+253C4 𥏄	kPhonetic	159* 1002*
 U+253D2 𥏒	kPhonetic	947*
 U+253D5 𥏕	kPhonetic	1447*
 U+253D8 𥏘	kPhonetic	1449*
