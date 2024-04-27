@@ -11251,7 +11251,7 @@ U+8D21 贡	kPhonetic	684*
 U+8D29 贩	kPhonetic	339*
 U+8D2D 购	kPhonetic	584*
 U+8D37 贷	kPhonetic	1370*
-U+8D3C 贼	kPhonetic	1659*
+U+8D3C 贼	kPhonetic	20*
 U+8D47 赇	kPhonetic	592*
 U+8D48 赈	kPhonetic	1129*
 U+8D49 赉	kPhonetic	829
