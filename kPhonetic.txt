@@ -14952,7 +14952,7 @@ U+25382 𥎂	kPhonetic	1658*
 U+25390 𥎐	kPhonetic	734A*
 U+25398 𥎘	kPhonetic	1250*
 U+253B8 𥎸	kPhonetic	1623*
-U+253C4 𥏄	kPhonetic	159* 1002*
+U+253C4 𥏄	kPhonetic	159*
 U+253D2 𥏒	kPhonetic	947*
 U+253D5 𥏕	kPhonetic	1447*
 U+253D8 𥏘	kPhonetic	1449*
