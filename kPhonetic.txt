@@ -14269,7 +14269,7 @@ U+21C1A 𡰚	kPhonetic	852*
 U+21C1E 𡰞	kPhonetic	761*
 U+21C38 𡰸	kPhonetic	130
 U+21C3D 𡰽	kPhonetic	1511*
-U+21C46 𡱆	kPhonetic	1053*
+U+21C46 𡱆	kPhonetic	1176*
 U+21C49 𡱉	kPhonetic	1443*
 U+21C50 𡱐	kPhonetic	1542*
 U+21C7D 𡱽	kPhonetic	356*
