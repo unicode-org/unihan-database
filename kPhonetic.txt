@@ -7911,7 +7911,7 @@ U+7726 眦	kPhonetic	156
 U+7728 眨	kPhonetic	36 359
 U+7729 眩	kPhonetic	1623
 U+772A 眪	kPhonetic	1053*
-U+772B 眫	kPhonetic	1089*
+U+772B 眫	kPhonetic	933*
 U+772D 眭	kPhonetic	710
 U+772E 眮	kPhonetic	1407*
 U+772F 眯	kPhonetic	873
