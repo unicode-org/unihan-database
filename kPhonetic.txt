@@ -2705,6 +2705,7 @@ U+5636 嘶	kPhonetic	1173
 U+5637 嘷	kPhonetic	639
 U+5639 嘹	kPhonetic	817
 U+563B 嘻	kPhonetic	455
+U+563C 嘼	kPhonetic	1146*
 U+563D 嘽	kPhonetic	1294
 U+563F 嘿	kPhonetic	431
 U+5640 噀	kPhonetic	1270
