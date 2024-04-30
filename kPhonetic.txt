@@ -14830,7 +14830,7 @@ U+24BBD 𤮽	kPhonetic	650*
 U+24BC4 𤯄	kPhonetic	1184*
 U+24BCC 𤯌	kPhonetic	650*
 U+24BE1 𤯡	kPhonetic	1130*
-U+24BE5 𤯥	kPhonetic	1606*
+U+24BE5 𤯥	kPhonetic	1130*
 U+24BFB 𤯻	kPhonetic	935*
 U+24C05 𤰅	kPhonetic	1662*
 U+24C07 𤰇	kPhonetic	1034
