@@ -4014,7 +4014,7 @@ U+5EEC 廬	kPhonetic	820A
 U+5EEF 廯	kPhonetic	1200*
 U+5EF1 廱	kPhonetic	1653A
 U+5EF3 廳	kPhonetic	1343
-U+5EF4 廴	kPhonetic	888 1491
+U+5EF4 廴	kPhonetic	1491
 U+5EF5 廵	kPhonetic	273
 U+5EF6 延	kPhonetic	201 1578
 U+5EF7 廷	kPhonetic	1345 1346A
