@@ -11699,7 +11699,7 @@ U+8FFE 迾	kPhonetic	814
 U+8FFF 迿	kPhonetic	318
 U+9000 退	kPhonetic	575 1394
 U+9001 送	kPhonetic	1209 1276
-U+9002 适	kPhonetic	13 736 1189 1218
+U+9002 适	kPhonetic	736 1189 1218
 U+9003 逃	kPhonetic	1221
 U+9004 逄	kPhonetic	659
 U+9005 逅	kPhonetic	449
