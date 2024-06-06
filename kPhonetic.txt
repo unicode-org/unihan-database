@@ -92,6 +92,7 @@ U+35CF 㗏	kPhonetic	1411*
 U+35D2 㗒	kPhonetic	993*
 U+35D3 㗓	kPhonetic	286*
 U+35D6 㗖	kPhonetic	1599*
+U+35E4 㗤	kPhonetic	175*
 U+35E7 㗧	kPhonetic	74*
 U+35E9 㗩	kPhonetic	39
 U+35ED 㗭	kPhonetic	1186*
@@ -156,6 +157,7 @@ U+3795 㞕	kPhonetic	1502
 U+3797 㞗	kPhonetic	592*
 U+3798 㞘	kPhonetic	1323*
 U+379A 㞚	kPhonetic	41*
+U+379D 㞝	kPhonetic	175*
 U+37A2 㞢	kPhonetic	126 213
 U+37B4 㞴	kPhonetic	1184*
 U+37BB 㞻	kPhonetic	484*
@@ -860,6 +862,7 @@ U+45B3 䖳	kPhonetic	17
 U+45C9 䗉	kPhonetic	119*
 U+45CE 䗎	kPhonetic	1478*
 U+45D1 䗑	kPhonetic	1645*
+U+45E9 䗩	kPhonetic	175*
 U+45FD 䗽	kPhonetic	1430*
 U+4610 䘐	kPhonetic	1492
 U+4611 䘑	kPhonetic	1452
@@ -877,6 +880,7 @@ U+4640 䙀	kPhonetic	1024*
 U+4644 䙄	kPhonetic	41*
 U+4645 䙅	kPhonetic	1596*
 U+4654 䙔	kPhonetic	678
+U+4658 䙘	kPhonetic	175*
 U+4660 䙠	kPhonetic	668*
 U+4666 䙦	kPhonetic	934*
 U+4669 䙩	kPhonetic	935*
@@ -947,6 +951,7 @@ U+4813 䠓	kPhonetic	93A*
 U+4817 䠗	kPhonetic	91*
 U+481C 䠜	kPhonetic	1658*
 U+481D 䠝	kPhonetic	1628*
+U+481E 䠞	kPhonetic	175*
 U+4821 䠡	kPhonetic	9*
 U+4831 䠱	kPhonetic	1265
 U+4837 䠷	kPhonetic	1221*
@@ -1714,6 +1719,7 @@ U+50B2 傲	kPhonetic	966
 U+50B3 傳	kPhonetic	269
 U+50B4 傴	kPhonetic	678
 U+50B5 債	kPhonetic	16
+U+50B6 傶	kPhonetic	175*
 U+50B7 傷	kPhonetic	1163
 U+50B8 傸	kPhonetic	1233*
 U+50B9 傹	kPhonetic	625*
@@ -3031,6 +3037,7 @@ U+587F 塿	kPhonetic	780
 U+5880 墀	kPhonetic	1113
 U+5881 墁	kPhonetic	867
 U+5883 境	kPhonetic	625
+U+5884 墄	kPhonetic	175*
 U+5885 墅	kPhonetic	1521
 U+5886 墆	kPhonetic	1287
 U+5888 墈	kPhonetic	495
@@ -5003,6 +5010,7 @@ U+6470 摰	kPhonetic	962
 U+6472 摲	kPhonetic	21
 U+6473 摳	kPhonetic	678
 U+6474 摴	kPhonetic	1602C
+U+6475 摵	kPhonetic	175*
 U+6476 摶	kPhonetic	269
 U+6477 摷	kPhonetic	51*
 U+6478 摸	kPhonetic	921
@@ -8161,6 +8169,7 @@ U+78E3 磣	kPhonetic	23
 U+78E6 磦	kPhonetic	1066
 U+78E7 磧	kPhonetic	16
 U+78E8 磨	kPhonetic	862
+U+78E9 磩	kPhonetic	175*
 U+78EC 磬	kPhonetic	477
 U+78EF 磯	kPhonetic	598
 U+78F0 磰	kPhonetic	1203*
@@ -9018,6 +9027,7 @@ U+7E28 縨	kPhonetic	376*
 U+7E29 縩	kPhonetic	54
 U+7E2A 縪	kPhonetic	1026
 U+7E2B 縫	kPhonetic	410
+U+7E2C 縬	kPhonetic	175*
 U+7E2D 縭	kPhonetic	786
 U+7E2E 縮	kPhonetic	1260
 U+7E30 縰	kPhonetic	1099
@@ -15151,6 +15161,7 @@ U+261BE 𦆾	kPhonetic	1278*
 U+2620C 𦈌	kPhonetic	309*
 U+26211 𦈑	kPhonetic	1478*
 U+26214 𦈔	kPhonetic	735*
+U+2621A 𦈚	kPhonetic	175*
 U+2621F 𦈟	kPhonetic	567*
 U+26221 𦈡	kPhonetic	1250*
 U+2623A 𦈺	kPhonetic	80*
