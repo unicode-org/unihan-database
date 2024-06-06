@@ -1935,7 +1935,7 @@ U+51E6 処	kPhonetic	265A 1239
 U+51E8 凨	kPhonetic	408
 U+51E9 凩	kPhonetic	932*
 U+51EB 凫	kPhonetic	596
-U+51ED 凭	kPhonetic	1023 1476B
+U+51ED 凭	kPhonetic	409* 1023 1476B
 U+51EE 凮	kPhonetic	408*
 U+51F0 凰	kPhonetic	1457
 U+51F1 凱	kPhonetic	454
