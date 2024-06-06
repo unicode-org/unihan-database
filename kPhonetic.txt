@@ -7757,6 +7757,7 @@ U+7626 瘦	kPhonetic	1143
 U+7627 瘧	kPhonetic	1525
 U+7628 瘨	kPhonetic	63
 U+7629 瘩	kPhonetic	1301
+U+762A 瘪	kPhonetic	1060*
 U+762C 瘬	kPhonetic	111*
 U+762D 瘭	kPhonetic	1066
 U+762F 瘯	kPhonetic	306
