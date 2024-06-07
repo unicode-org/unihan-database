@@ -397,6 +397,7 @@ U+3BF2 㯲	kPhonetic	567*
 U+3BF3 㯳	kPhonetic	627
 U+3BFA 㯺	kPhonetic	544
 U+3BFD 㯽	kPhonetic	1018
+U+3C04 㰄	kPhonetic	190*
 U+3C0B 㰋	kPhonetic	1022*
 U+3C1A 㰚	kPhonetic	786A*
 U+3C2E 㰮	kPhonetic	1129*
