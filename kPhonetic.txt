@@ -3864,7 +3864,8 @@ U+5DF9 巹	kPhonetic	1210
 U+5DFD 巽	kPhonetic	1270
 U+5DFE 巾	kPhonetic	570
 U+5DFF 巿	kPhonetic	138 357 1179
-U+5E00 帀	kPhonetic	34 1013
+U+5E00 帀	kPhonetic	34
+U+5E01 币	kPhonetic	1013
 U+5E02 市	kPhonetic	357 1179
 U+5E03 布	kPhonetic	393 1069
 U+5E05 帅	kPhonetic	1171 1389
