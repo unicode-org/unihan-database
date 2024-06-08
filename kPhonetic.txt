@@ -1994,7 +1994,7 @@ U+5227 刧	kPhonetic	519
 U+5228 刨	kPhonetic	1011
 U+5229 利	kPhonetic	790
 U+522A 刪	kPhonetic	19
-U+522B 别	kPhonetic	1061
+U+522B 别	kPhonetic	1013* 1061
 U+522E 刮	kPhonetic	736
 U+5230 到	kPhonetic	1353A
 U+5231 刱	kPhonetic	103
@@ -13586,6 +13586,7 @@ U+9CC6 鳆	kPhonetic	403*
 U+9CC7 鳇	kPhonetic	1457*
 U+9CC8 鳈	kPhonetic	280*
 U+9CD5 鳕	kPhonetic	1248*
+U+9CD6 鳖	kPhonetic	1013*
 U+9CD8 鳘	kPhonetic	880*
 U+9CDD 鳝	kPhonetic	1203*
 U+9CDF 鳟	kPhonetic	270*
@@ -16263,6 +16264,7 @@ U+2B627 𫘧	kPhonetic	849*
 U+2B699 𫚙	kPhonetic	386*
 U+2B6A5 𫚥	kPhonetic	534*
 U+2B6E2 𫛢	kPhonetic	267*
+U+2B701 𫜁	kPhonetic	1013*
 U+2B823 𫠣	kPhonetic	549
 U+2BA64 𫩤	kPhonetic	1589*
 U+2BE8A 𫺊	kPhonetic	56
@@ -16302,6 +16304,7 @@ U+31052 𱁒	kPhonetic	1390*
 U+31100 𱄀	kPhonetic	1020*
 U+3115E 𱅞	kPhonetic	534*
 U+311FF 𱇿	kPhonetic	1261*
+U+31307 𱌇	kPhonetic	1013*
 U+31317 𱌗	kPhonetic	56
 U+31318 𱌘	kPhonetic	56
 U+322A6 𲊦	kPhonetic	56
