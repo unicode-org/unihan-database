@@ -11015,7 +11015,7 @@ U+8B1D 謝	kPhonetic	1155
 U+8B1E 謞	kPhonetic	637
 U+8B1F 謟	kPhonetic	1599
 U+8B20 謠	kPhonetic	1597
-U+8B21 謡	kPhonetic	1597
+U+8B21 謡	kPhonetic	1597*
 U+8B26 謦	kPhonetic	477A
 U+8B28 謨	kPhonetic	921
 U+8B2B 謫	kPhonetic	1326
@@ -11798,7 +11798,7 @@ U+9060 遠	kPhonetic	1626 1632
 U+9061 遡	kPhonetic	1231*
 U+9062 遢	kPhonetic	1305
 U+9063 遣	kPhonetic	469
-U+9065 遥	kPhonetic	1597
+U+9065 遥	kPhonetic	1597*
 U+9067 遧	kPhonetic	110*
 U+9068 遨	kPhonetic	966
 U+9069 適	kPhonetic	1189 1326
