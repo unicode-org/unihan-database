@@ -12544,6 +12544,7 @@ U+9565 镥	kPhonetic	823
 U+9566 镦	kPhonetic	1398*
 U+9572 镲	kPhonetic	45*
 U+9573 镳	kPhonetic	1062*
+U+9576 镶	kPhonetic	1160*
 U+9577 長	kPhonetic	123
 U+9578 镸	kPhonetic	123
 U+957A 镺	kPhonetic	1594*
@@ -13350,6 +13351,7 @@ U+9A9F 骟	kPhonetic	1202*
 U+9AA3 骣	kPhonetic	1107*
 U+9AA5 骥	kPhonetic	601*
 U+9AA6 骦	kPhonetic	1161*
+U+9AA7 骧	kPhonetic	1160*
 U+9AA8 骨	kPhonetic	700 735
 U+9AAB 骫	kPhonetic	1627
 U+9AAC 骬	kPhonetic	1602*
@@ -16278,6 +16280,7 @@ U+2B500 𫔀	kPhonetic	549*
 U+2B501 𫔁	kPhonetic	1020*
 U+2B5E6 𫗦	kPhonetic	386*
 U+2B5EE 𫗮	kPhonetic	1457*
+U+2B5F5 𫗵	kPhonetic	1160*
 U+2B623 𫘣	kPhonetic	502*
 U+2B627 𫘧	kPhonetic	849*
 U+2B699 𫚙	kPhonetic	386*
@@ -16291,6 +16294,7 @@ U+2BE98 𫺘	kPhonetic	821*
 U+2C02E 𬀮	kPhonetic	1390*
 U+2C3E6 𬏦	kPhonetic	346*
 U+2C454 𬑔	kPhonetic	324
+U+2C64B 𬙋	kPhonetic	1160*
 U+2CB6A 𬭪	kPhonetic	491*
 U+2CB7B 𬭻	kPhonetic	635*
 U+2CBC0 𬯀	kPhonetic	56
