@@ -10632,6 +10632,7 @@ U+88A4 袤	kPhonetic	869
 U+88A7 袧	kPhonetic	673
 U+88AA 袪	kPhonetic	519
 U+88AB 被	kPhonetic	1038
+U+88AD 袭	kPhonetic	38* 856*
 U+88AF 袯	kPhonetic	346*
 U+88B1 袱	kPhonetic	399
 U+88B4 袴	kPhonetic	701
