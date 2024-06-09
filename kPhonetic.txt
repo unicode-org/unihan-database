@@ -9661,7 +9661,7 @@ U+822A 航	kPhonetic	660
 U+822B 舫	kPhonetic	373
 U+822C 般	kPhonetic	1087
 U+822D 舭	kPhonetic	1030*
-U+8230 舰	kPhonetic	621
+U+8230 舰	kPhonetic	544* 621*
 U+8232 舲	kPhonetic	812
 U+8233 舳	kPhonetic	1512
 U+8234 舴	kPhonetic	10
