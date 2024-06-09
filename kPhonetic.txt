@@ -11095,7 +11095,7 @@ U+8B9A 讚	kPhonetic	28
 U+8B9C 讜	kPhonetic	1378
 U+8B9E 讞	kPhonetic	471
 U+8B9F 讟	kPhonetic	1395
-U+8BA9 让	kPhonetic	1160 1166
+U+8BA9 让	kPhonetic	1160* 1166*
 U+8BAB 讫	kPhonetic	440*
 U+8BAF 讯	kPhonetic	1267*
 U+8BB1 讱	kPhonetic	1492*
