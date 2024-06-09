@@ -9135,6 +9135,7 @@ U+7EC3 练	kPhonetic	549*
 U+7ECA 绊	kPhonetic	1089*
 U+7ED1 绑	kPhonetic	1080*
 U+7ED2 绒	kPhonetic	1659*
+U+7ED4 绔	kPhonetic	701*
 U+7EDA 绚	kPhonetic	318*
 U+7EDD 绝	kPhonetic	1188*
 U+7EE0 绠	kPhonetic	578*
