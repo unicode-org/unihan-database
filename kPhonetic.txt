@@ -10803,7 +10803,7 @@ U+89BD 覽	kPhonetic	544 765
 U+89BF 覿	kPhonetic	1395
 U+89C0 觀	kPhonetic	761
 U+89C1 见	kPhonetic	621
-U+89C8 览	kPhonetic	765
+U+89C8 览	kPhonetic	544* 765*
 U+89D2 角	kPhonetic	647
 U+89D3 觓	kPhonetic	583
 U+89D4 觔	kPhonetic	573 647
