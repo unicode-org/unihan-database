@@ -7603,7 +7603,7 @@ U+7518 甘	kPhonetic	564A 650
 U+751A 甚	kPhonetic	1123
 U+751B 甛	kPhonetic	650 1332
 U+751C 甜	kPhonetic	650 1332
-U+751D 甝	kPhonetic	833
+U+751D 甝	kPhonetic	650*
 U+751E 甞	kPhonetic	1167
 U+751F 生	kPhonetic	1107A 1130
 U+7521 甡	kPhonetic	1130
