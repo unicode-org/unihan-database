@@ -3565,7 +3565,7 @@ U+5BFA 寺	kPhonetic	135 149
 U+5BFB 寻	kPhonetic	277
 U+5BFC 导	kPhonetic	597 1357
 U+5BFD 寽	kPhonetic	835
-U+5BFF 寿	kPhonetic	445
+U+5BFF 寿	kPhonetic	445 1149
 U+5C00 尀	kPhonetic	1076
 U+5C01 封	kPhonetic	406 407
 U+5C03 尃	kPhonetic	381 386
