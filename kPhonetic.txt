@@ -2877,7 +2877,7 @@ U+5716 圖	kPhonetic	1364
 U+5718 團	kPhonetic	1386
 U+571B 圛	kPhonetic	1560
 U+571C 圜	kPhonetic	1419
-U+571D 圝	kPhonetic	833*
+U+571D 圝	kPhonetic	833
 U+571E 圞	kPhonetic	833A
 U+571F 土	kPhonetic	1359
 U+5723 圣	kPhonetic	204 1207
