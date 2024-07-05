@@ -9131,6 +9131,7 @@ U+7E8A 纊	kPhonetic	750
 U+7E8B 纋	kPhonetic	1504
 U+7E8C 續	kPhonetic	1395
 U+7E8D 纍	kPhonetic	838 841
+U+7E8E 纎	kPhonetic	183*
 U+7E8F 纏	kPhonetic	195
 U+7E91 纑	kPhonetic	820A
 U+7E92 纒	kPhonetic	195*
