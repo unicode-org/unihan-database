@@ -4204,6 +4204,7 @@ U+5FC5 必	kPhonetic	1059
 U+5FC9 忉	kPhonetic	1353
 U+5FCC 忌	kPhonetic	597 600
 U+5FCD 忍	kPhonetic	1482 1492
+U+5FCF 忏	kPhonetic	183*
 U+5FD0 忐	kPhonetic	1118 1299
 U+5FD1 忑	kPhonetic	1118 1299
 U+5FD2 忒	kPhonetic	1329 1558
@@ -6120,6 +6121,7 @@ U+6B78 歸	kPhonetic	81 708
 U+6B79 歹	kPhonetic	1284
 U+6B7A 歺	kPhonetic	1285
 U+6B7B 死	kPhonetic	1155A 1284
+U+6B7C 歼	kPhonetic	183*
 U+6B7E 歾	kPhonetic	883
 U+6B7F 歿	kPhonetic	930
 U+6B80 殀	kPhonetic	1594
@@ -9152,6 +9154,7 @@ U+7E9B 纛	kPhonetic	1396
 U+7E9C 纜	kPhonetic	765
 U+7EA0 纠	kPhonetic	583*
 U+7EA1 纡	kPhonetic	1602*
+U+7EA4 纤	kPhonetic	183*
 U+7EA8 纨	kPhonetic	1627*
 U+7EAB 纫	kPhonetic	1492*
 U+7EAC 纬	kPhonetic	1433*
@@ -11177,6 +11180,7 @@ U+8C22 谢	kPhonetic	1155*
 U+8C23 谣	kPhonetic	1597*
 U+8C2C 谬	kPhonetic	819*
 U+8C34 谴	kPhonetic	469*
+U+8C36 谶	kPhonetic	183*
 U+8C37 谷	kPhonetic	493 681 739
 U+8C38 谸	kPhonetic	192*
 U+8C3A 谺	kPhonetic	951*
