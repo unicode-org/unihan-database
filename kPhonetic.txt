@@ -9198,7 +9198,7 @@ U+7EE5 绥	kPhonetic	1369*
 U+7EEC 绬	kPhonetic	1582*
 U+7EED 续	kPhonetic	1395*
 U+7EF3 绳	kPhonetic	879*
-U+7EF7 绷	kPhonetic	1024*
+U+7EF7 绷	kPhonetic	1024* 1024A*
 U+7EF8 绸	kPhonetic	80*
 U+7EF9 绹	kPhonetic	1362*
 U+7EFC 综	kPhonetic	321*
