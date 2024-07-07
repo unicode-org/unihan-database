@@ -11153,6 +11153,7 @@ U+8B82 讂	kPhonetic	513
 U+8B85 讅	kPhonetic	1121
 U+8B86 讆	kPhonetic	1433
 U+8B87 讇	kPhonetic	1567
+U+8B89 讉	kPhonetic	1432*
 U+8B8A 變	kPhonetic	833
 U+8B8B 讋	kPhonetic	1575
 U+8B8C 讌	kPhonetic	1573
@@ -11881,6 +11882,7 @@ U+9052 遒	kPhonetic	1513A
 U+9053 道	kPhonetic	1144 1357
 U+9054 達	kPhonetic	1306
 U+9055 違	kPhonetic	1433
+U+9057 遗	kPhonetic	1432*
 U+9058 遘	kPhonetic	589
 U+9059 遙	kPhonetic	1597
 U+905A 遚	kPhonetic	1143*
@@ -15509,6 +15511,7 @@ U+27404 𧐄	kPhonetic	1651*
 U+2740C 𧐌	kPhonetic	1435*
 U+27413 𧐓	kPhonetic	1521*
 U+27444 𧑄	kPhonetic	324
+U+274AD 𧒭	kPhonetic	1432*
 U+274CD 𧓍	kPhonetic	1018
 U+27525 𧔥	kPhonetic	1432*
 U+2754F 𧕏	kPhonetic	1215
@@ -16413,6 +16416,7 @@ U+2CDA0 𬶠	kPhonetic	549*
 U+2CE05 𬸅	kPhonetic	234*
 U+2CE36 𬸶	kPhonetic	119*
 U+2D39C 𭎜	kPhonetic	1149*
+U+2D3F8 𭏸	kPhonetic	1432*
 U+2DA70 𭩰	kPhonetic	346*
 U+2E64B 𮙋	kPhonetic	1395*
 U+2E681 𮚁	kPhonetic	56
