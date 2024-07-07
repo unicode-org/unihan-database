@@ -137,7 +137,7 @@ U+371D 㜝	kPhonetic	1564*
 U+372B 㜫	kPhonetic	888A
 U+3744 㝄	kPhonetic	316* 1385*
 U+3745 㝅	kPhonetic	493
-U+374D 㝍	kPhonetic	1150
+U+374D 㝍	kPhonetic	1150*
 U+3754 㝔	kPhonetic	553 1594
 U+375B 㝛	kPhonetic	1260
 U+3761 㝡	kPhonetic	289 295
@@ -6401,6 +6401,7 @@ U+6CF2 泲	kPhonetic	139
 U+6CF3 泳	kPhonetic	1452
 U+6CF5 泵	kPhonetic	1015
 U+6CF7 泷	kPhonetic	856*
+U+6CFB 泻	kPhonetic	1150*
 U+6CFC 泼	kPhonetic	346*
 U+6CFF 泿	kPhonetic	575
 U+6D01 洁	kPhonetic	582 630
