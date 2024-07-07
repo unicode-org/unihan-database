@@ -1671,6 +1671,7 @@ U+5053 偓	kPhonetic	1408
 U+5055 偕	kPhonetic	537
 U+5056 偖	kPhonetic	94*
 U+5057 偗	kPhonetic	1108*
+U+5058 偘	kPhonetic	498* 1021*
 U+505A 做	kPhonetic	753
 U+505B 偛	kPhonetic	41*
 U+505C 停	kPhonetic	1344
