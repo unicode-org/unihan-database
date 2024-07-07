@@ -4347,7 +4347,7 @@ U+6080 悀	kPhonetic	1660*
 U+6081 悁	kPhonetic	1621
 U+6083 悃	kPhonetic	731
 U+6084 悄	kPhonetic	220
-U+6085 悅	kPhonetic	1392
+U+6085 悅	kPhonetic	1392*
 U+6088 悈	kPhonetic	540
 U+6089 悉	kPhonetic	1186
 U+608A 悊	kPhonetic	207
@@ -4810,7 +4810,7 @@ U+631B 挛	kPhonetic	833*
 U+6323 挣	kPhonetic	32*
 U+6324 挤	kPhonetic	56
 U+6328 挨	kPhonetic	1549A
-U+6329 挩	kPhonetic	1392
+U+6329 挩	kPhonetic	1392*
 U+632A 挪	kPhonetic	937
 U+632B 挫	kPhonetic	236
 U+632D 挭	kPhonetic	578*
@@ -5723,7 +5723,7 @@ U+68AE 梮	kPhonetic	682
 U+68AF 梯	kPhonetic	1310
 U+68B0 械	kPhonetic	540
 U+68B1 梱	kPhonetic	731
-U+68B2 梲	kPhonetic	1392
+U+68B2 梲	kPhonetic	1392*
 U+68B3 梳	kPhonetic	779
 U+68B4 梴	kPhonetic	1578
 U+68B5 梵	kPhonetic	342
@@ -6499,7 +6499,7 @@ U+6D93 涓	kPhonetic	1621
 U+6D94 涔	kPhonetic	1122
 U+6D95 涕	kPhonetic	1310
 U+6D96 涖	kPhonetic	792 1436
-U+6D97 涗	kPhonetic	1392
+U+6D97 涗	kPhonetic	1392*
 U+6D98 涘	kPhonetic	1549A
 U+6D9A 涚	kPhonetic	1392
 U+6D9B 涛	kPhonetic	1149*
@@ -8408,7 +8408,7 @@ U+79FF 秿	kPhonetic	386*
 U+7A00 稀	kPhonetic	451
 U+7A02 稂	kPhonetic	796
 U+7A03 稃	kPhonetic	378
-U+7A05 稅	kPhonetic	1392
+U+7A05 稅	kPhonetic	1392*
 U+7A08 稈	kPhonetic	502
 U+7A09 稉	kPhonetic	578
 U+7A0A 稊	kPhonetic	1310
@@ -9551,7 +9551,7 @@ U+8123 脣	kPhonetic	1129 1272
 U+8124 脤	kPhonetic	1129
 U+8127 脧	kPhonetic	313
 U+8129 脩	kPhonetic	1137 1510
-U+812B 脫	kPhonetic	1392
+U+812B 脫	kPhonetic	1392*
 U+812C 脬	kPhonetic	378
 U+812D 脭	kPhonetic	204*
 U+812E 脮	kPhonetic	1369*
@@ -10448,7 +10448,7 @@ U+86F4 蛴	kPhonetic	56
 U+86F8 蛸	kPhonetic	220
 U+86F9 蛹	kPhonetic	1660
 U+86FA 蛺	kPhonetic	550
-U+86FB 蛻	kPhonetic	1392
+U+86FB 蛻	kPhonetic	1392*
 U+86FC 蛼	kPhonetic	96
 U+86FE 蛾	kPhonetic	967
 U+8700 蜀	kPhonetic	1264
@@ -11018,7 +11018,7 @@ U+8AA4 誤	kPhonetic	948
 U+8AA5 誥	kPhonetic	642
 U+8AA6 誦	kPhonetic	1660
 U+8AA8 誨	kPhonetic	927
-U+8AAA 說	kPhonetic	1392
+U+8AAA 說	kPhonetic	1392*
 U+8AAC 説	kPhonetic	1392
 U+8AAF 誯	kPhonetic	119*
 U+8AB0 誰	kPhonetic	285
@@ -12665,7 +12665,7 @@ U+95A9 閩	kPhonetic	929
 U+95AB 閫	kPhonetic	731
 U+95AC 閬	kPhonetic	796
 U+95AD 閭	kPhonetic	840
-U+95B1 閱	kPhonetic	1392
+U+95B1 閱	kPhonetic	1392*
 U+95B2 閲	kPhonetic	1392
 U+95B5 閵	kPhonetic	855 929
 U+95B6 閶	kPhonetic	119
