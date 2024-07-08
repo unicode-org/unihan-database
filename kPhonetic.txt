@@ -16437,6 +16437,7 @@ U+2C64B 𬙋	kPhonetic	1160*
 U+2C847 𬡇	kPhonetic	863*
 U+2C8AA 𬢪	kPhonetic	1149*
 U+2C8C0 𬣀	kPhonetic	1433*
+U+2CB56 𬭖	kPhonetic	1024*
 U+2CB6A 𬭪	kPhonetic	491*
 U+2CB7B 𬭻	kPhonetic	635*
 U+2CBC0 𬯀	kPhonetic	56
@@ -16487,6 +16488,7 @@ U+30CF8 𰳸	kPhonetic	1390*
 U+30D2F 𰴯	kPhonetic	1587*
 U+30D79 𰵹	kPhonetic	979*
 U+30E83 𰺃	kPhonetic	1390*
+U+30E8F 𰺏	kPhonetic	1024*
 U+30E97 𰺗	kPhonetic	544*
 U+30FAB 𰾫	kPhonetic	544*
 U+30FB7 𰾷	kPhonetic	25*
