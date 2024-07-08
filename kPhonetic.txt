@@ -3213,7 +3213,7 @@ U+5973 女	kPhonetic	990
 U+5974 奴	kPhonetic	984 990
 U+5975 奵	kPhonetic	1340
 U+5976 奶	kPhonetic	938 1547
-U+5978 奸	kPhonetic	653
+U+5978 奸	kPhonetic	545* 653
 U+5979 她	kPhonetic	1471
 U+597D 好	kPhonetic	481
 U+597F 奿	kPhonetic	1627*
