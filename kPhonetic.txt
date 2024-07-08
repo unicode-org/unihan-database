@@ -8234,7 +8234,7 @@ U+78D0 磐	kPhonetic	1087
 U+78D2 磒	kPhonetic	1628
 U+78D4 磔	kPhonetic	631
 U+78D5 磕	kPhonetic	508
-U+78D7 磗	kPhonetic	269
+U+78D7 磗	kPhonetic	381*
 U+78DA 磚	kPhonetic	269
 U+78DE 磞	kPhonetic	1024A*
 U+78E0 磠	kPhonetic	822
