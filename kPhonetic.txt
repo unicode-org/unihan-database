@@ -9195,6 +9195,7 @@ U+7EAB 纫	kPhonetic	1492*
 U+7EAC 纬	kPhonetic	1433*
 U+7EAF 纯	kPhonetic	1385*
 U+7EB0 纰	kPhonetic	1030*
+U+7EB4 纴	kPhonetic	1476*
 U+7EB8 纸	kPhonetic	1184*
 U+7EBA 纺	kPhonetic	373*
 U+7EC0 绀	kPhonetic	650*
@@ -13295,6 +13296,7 @@ U+995C 饜	kPhonetic	1565A
 U+995D 饝	kPhonetic	920B
 U+995E 饞	kPhonetic	24
 U+995F 饟	kPhonetic	1160
+U+996A 饪	kPhonetic	1476*
 U+9982 馂	kPhonetic	313*
 U+998F 馏	kPhonetic	782
 U+9996 首	kPhonetic	1144
@@ -16406,6 +16408,7 @@ U+2B699 𫚙	kPhonetic	386*
 U+2B6A5 𫚥	kPhonetic	534*
 U+2B6E2 𫛢	kPhonetic	267*
 U+2B701 𫜁	kPhonetic	1013*
+U+2B7C3 𫟃	kPhonetic	1476*
 U+2B823 𫠣	kPhonetic	549
 U+2B892 𫢒	kPhonetic	856*
 U+2BA64 𫩤	kPhonetic	1589*
