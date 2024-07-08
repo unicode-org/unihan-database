@@ -3014,7 +3014,7 @@ U+5809 堉	kPhonetic	1648A
 U+580A 堊	kPhonetic	2
 U+580B 堋	kPhonetic	1024
 U+580D 堍	kPhonetic	1360
-U+5815 堕	kPhonetic	1367*
+U+5815 堕	kPhonetic	298*
 U+5818 堘	kPhonetic	1208
 U+5819 堙	kPhonetic	1478
 U+581D 堝	kPhonetic	700
@@ -5801,7 +5801,7 @@ U+691E 椞	kPhonetic	1192*
 U+691F 椟	kPhonetic	1395*
 U+6924 椤	kPhonetic	828
 U+6925 椥	kPhonetic	133*
-U+692D 椭	kPhonetic	1367*
+U+692D 椭	kPhonetic	298*
 U+692E 椮	kPhonetic	23
 U+692F 椯	kPhonetic	1383*
 U+6930 椰	kPhonetic	1520
@@ -12810,7 +12810,7 @@ U+968A 隊	kPhonetic	1257 1391
 U+968B 隋	kPhonetic	298 1367
 U+968D 隍	kPhonetic	1457
 U+968E 階	kPhonetic	537
-U+968F 随	kPhonetic	299
+U+968F 随	kPhonetic	298* 299
 U+9690 隐	kPhonetic	1483
 U+9694 隔	kPhonetic	542
 U+9695 隕	kPhonetic	1628
