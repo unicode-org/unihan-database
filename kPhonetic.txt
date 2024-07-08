@@ -1960,6 +1960,7 @@ U+51E9 凩	kPhonetic	932*
 U+51EB 凫	kPhonetic	596
 U+51ED 凭	kPhonetic	409* 1023 1476B
 U+51EE 凮	kPhonetic	408*
+U+51EF 凯	kPhonetic	454*
 U+51F0 凰	kPhonetic	1457
 U+51F1 凱	kPhonetic	454
 U+51F3 凳	kPhonetic	1315
@@ -2020,6 +2021,7 @@ U+5239 刹	kPhonetic	46
 U+523A 刺	kPhonetic	161
 U+523B 刻	kPhonetic	490
 U+523C 刼	kPhonetic	519
+U+5240 剀	kPhonetic	454*
 U+5241 剁	kPhonetic	1366
 U+5242 剂	kPhonetic	56
 U+5243 剃	kPhonetic	1310
@@ -2963,6 +2965,7 @@ U+57A3 垣	kPhonetic	1467
 U+57A6 垦	kPhonetic	575
 U+57A7 垧	kPhonetic	466
 U+57AE 垮	kPhonetic	701
+U+57B2 垲	kPhonetic	454*
 U+57B8 垸	kPhonetic	1624
 U+57BA 垺	kPhonetic	378
 U+57BB 垻	kPhonetic	997 1083
@@ -4343,6 +4346,7 @@ U+606F 息	kPhonetic	146 1187
 U+6070 恰	kPhonetic	509
 U+6073 恳	kPhonetic	575
 U+6076 恶	kPhonetic	994A
+U+607A 恺	kPhonetic	454*
 U+607F 恿	kPhonetic	1660
 U+6080 悀	kPhonetic	1660*
 U+6081 悁	kPhonetic	1621
@@ -7883,6 +7887,7 @@ U+768A 皊	kPhonetic	812*
 U+768B 皋	kPhonetic	639 1003
 U+768E 皎	kPhonetic	553
 U+7690 皐	kPhonetic	639 1003
+U+7691 皑	kPhonetic	454*
 U+7693 皓	kPhonetic	483 642
 U+7694 皔	kPhonetic	502*
 U+7695 皕	kPhonetic	1002 1039
@@ -10889,6 +10894,7 @@ U+89BF 覿	kPhonetic	1395
 U+89C0 觀	kPhonetic	761
 U+89C1 见	kPhonetic	621
 U+89C8 览	kPhonetic	544* 765*
+U+89CA 觊	kPhonetic	454*
 U+89CC 觌	kPhonetic	1395*
 U+89CF 觏	kPhonetic	589*
 U+89D2 角	kPhonetic	647
@@ -12581,6 +12587,7 @@ U+94CB 铋	kPhonetic	1059*
 U+94D1 铑	kPhonetic	824*
 U+94DC 铜	kPhonetic	1407*
 U+94DF 铟	kPhonetic	1480*
+U+94E0 铠	kPhonetic	454*
 U+94E2 铢	kPhonetic	260*
 U+94E5 铥	kPhonetic	1350*
 U+94ED 铭	kPhonetic	901*
@@ -12716,6 +12723,7 @@ U+95EF 闯	kPhonetic	255*
 U+95F1 闱	kPhonetic	1433*
 U+95F4 间	kPhonetic	547
 U+95F6 闶	kPhonetic	660*
+U+95FF 闿	kPhonetic	454*
 U+9600 阀	kPhonetic	360*
 U+9602 阂	kPhonetic	490*
 U+9609 阉	kPhonetic	1562*
@@ -16388,6 +16396,7 @@ U+2B4F2 𫓲	kPhonetic	318*
 U+2B500 𫔀	kPhonetic	549*
 U+2B501 𫔁	kPhonetic	1020*
 U+2B595 𫖕	kPhonetic	589*
+U+2B5AE 𫖮	kPhonetic	454*
 U+2B5E6 𫗦	kPhonetic	386*
 U+2B5EE 𫗮	kPhonetic	1457*
 U+2B5F5 𫗵	kPhonetic	1160*
@@ -16454,6 +16463,7 @@ U+30C50 𰱐	kPhonetic	1395*
 U+30C6E 𰱮	kPhonetic	843*
 U+30C85 𰲅	kPhonetic	56*
 U+30CB4 𰲴	kPhonetic	856*
+U+30CB9 𰲹	kPhonetic	454*
 U+30CF8 𰳸	kPhonetic	1390*
 U+30D2F 𰴯	kPhonetic	1587*
 U+30D79 𰵹	kPhonetic	979*
