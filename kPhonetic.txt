@@ -14384,7 +14384,7 @@ U+21541 𡕁	kPhonetic	1181*
 U+21550 𡕐	kPhonetic	80*
 U+21570 𡕰	kPhonetic	320
 U+215B2 𡖲	kPhonetic	1365* 1369*
-U+215E4 𡗤	kPhonetic	636
+U+215E4 𡗤	kPhonetic	1337*
 U+215E5 𡗥	kPhonetic	1385*
 U+215F8 𡗸	kPhonetic	10*
 U+215F9 𡗹	kPhonetic	1049*
