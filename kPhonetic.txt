@@ -4643,14 +4643,14 @@ U+6222 戢	kPhonetic	70 71
 U+6223 戣	kPhonetic	714
 U+6224 戤	kPhonetic	1586
 U+6225 戥	kPhonetic	1206
-U+6226 戦	kPhonetic	177
+U+6226 戦	kPhonetic	1294*
 U+6227 戧	kPhonetic	254
 U+6228 戨	kPhonetic	643*
 U+6229 戩	kPhonetic	311
 U+622A 截	kPhonetic	210
 U+622E 戮	kPhonetic	819
 U+622F 戯	kPhonetic	458
-U+6230 戰	kPhonetic	177 1294
+U+6230 戰	kPhonetic	1294
 U+6231 戱	kPhonetic	458 515
 U+6232 戲	kPhonetic	458
 U+6233 戳	kPhonetic	1327
@@ -12255,7 +12255,7 @@ U+9251 鉑	kPhonetic	1003
 U+9252 鉒	kPhonetic	263
 U+9254 鉔	kPhonetic	37
 U+9255 鉕	kPhonetic	1076
-U+9257 鉗	kPhonetic	177 650
+U+9257 鉗	kPhonetic	650
 U+925A 鉚	kPhonetic	870
 U+925B 鉛	kPhonetic	1630
 U+925C 鉜	kPhonetic	392*
@@ -12577,7 +12577,7 @@ U+9474 鑴	kPhonetic	720
 U+9476 鑶	kPhonetic	258*
 U+9477 鑷	kPhonetic	979
 U+947C 鑼	kPhonetic	828
-U+947D 鑽	kPhonetic	28 177
+U+947D 鑽	kPhonetic	28
 U+947E 鑾	kPhonetic	833
 U+947F 鑿	kPhonetic	249
 U+9481 钁	kPhonetic	372*
