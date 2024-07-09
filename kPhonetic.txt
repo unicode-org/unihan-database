@@ -11234,6 +11234,7 @@ U+8C1F 谟	kPhonetic	921*
 U+8C22 谢	kPhonetic	1155*
 U+8C23 谣	kPhonetic	1597*
 U+8C2C 谬	kPhonetic	819*
+U+8C2D 谭	kPhonetic	1292*
 U+8C34 谴	kPhonetic	469*
 U+8C36 谶	kPhonetic	183*
 U+8C37 谷	kPhonetic	493 681 739
@@ -12646,6 +12647,7 @@ U+955A 镚	kPhonetic	1024A*
 U+955C 镜	kPhonetic	625*
 U+955E 镞	kPhonetic	306*
 U+9560 镠	kPhonetic	819*
+U+9561 镡	kPhonetic	1292*
 U+9562 镢	kPhonetic	668*
 U+9565 镥	kPhonetic	823
 U+9566 镦	kPhonetic	1398*
@@ -16399,6 +16401,7 @@ U+2B1F4 𫇴	kPhonetic	234*
 U+2B307 𫌇	kPhonetic	979*
 U+2B370 𫍰	kPhonetic	1174*
 U+2B372 𫍲	kPhonetic	1143*
+U+2B3AB 𫎫	kPhonetic	1292*
 U+2B404 𫐄	kPhonetic	963*
 U+2B409 𫐉	kPhonetic	812*
 U+2B413 𫐓	kPhonetic	1509*
@@ -16497,10 +16500,12 @@ U+31077 𱁷	kPhonetic	1395*
 U+310FD 𱃽	kPhonetic	490*
 U+31100 𱄀	kPhonetic	1020*
 U+3115E 𱅞	kPhonetic	534*
+U+3116A 𱅪	kPhonetic	1292*
 U+3119B 𱆛	kPhonetic	1149*
 U+311F3 𱇳	kPhonetic	313*
 U+311FF 𱇿	kPhonetic	1261*
 U+31210 𱈐	kPhonetic	269*
+U+31213 𱈓	kPhonetic	1292*
 U+31307 𱌇	kPhonetic	1013*
 U+31317 𱌗	kPhonetic	56
 U+31318 𱌘	kPhonetic	56
