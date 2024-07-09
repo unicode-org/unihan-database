@@ -2422,6 +2422,7 @@ U+5450 呐	kPhonetic	986
 U+5451 呑	kPhonetic	1337 1594
 U+5452 呒	kPhonetic	911*
 U+5454 呔	kPhonetic	1289
+U+5456 呖	kPhonetic	803*
 U+5459 呙	kPhonetic	700
 U+545E 呞	kPhonetic	1169*
 U+545F 呟	kPhonetic	1623*
@@ -2933,6 +2934,7 @@ U+5751 坑	kPhonetic	660
 U+5752 坒	kPhonetic	1030
 U+5757 块	kPhonetic	667 711
 U+575B 坛	kPhonetic	1292 1298* 1441
+U+575C 坜	kPhonetic	803*
 U+575F 坟	kPhonetic	877 1020
 U+5761 坡	kPhonetic	1038
 U+5763 坣	kPhonetic	494
@@ -5577,6 +5579,7 @@ U+679A 枚	kPhonetic	1079
 U+679C 果	kPhonetic	744
 U+679D 枝	kPhonetic	130
 U+67A3 枣	kPhonetic	161
+U+67A5 枥	kPhonetic	803*
 U+67AF 枯	kPhonetic	753
 U+67B0 枰	kPhonetic	1058
 U+67B1 枱	kPhonetic	1373
@@ -6355,6 +6358,7 @@ U+6C9B 沛	kPhonetic	357 1085
 U+6C9E 沞	kPhonetic	34*
 U+6C9F 沟	kPhonetic	584* 589*
 U+6CA3 沣	kPhonetic	407*
+U+6CA5 沥	kPhonetic	803*
 U+6CAA 沪	kPhonetic	1462A
 U+6CAB 沫	kPhonetic	931
 U+6CAC 沬	kPhonetic	894
@@ -7740,6 +7744,7 @@ U+75A7 疧	kPhonetic	1184
 U+75A8 疨	kPhonetic	951*
 U+75AA 疪	kPhonetic	1030*
 U+75AB 疫	kPhonetic	1557
+U+75AC 疬	kPhonetic	803*
 U+75B0 疰	kPhonetic	263
 U+75B2 疲	kPhonetic	1038
 U+75B3 疳	kPhonetic	650
@@ -12907,6 +12912,7 @@ U+96EF 雯	kPhonetic	877
 U+96F0 雰	kPhonetic	353
 U+96F1 雱	kPhonetic	373
 U+96F2 雲	kPhonetic	1441
+U+96F3 雳	kPhonetic	803*
 U+96F5 雵	kPhonetic	1528*
 U+96F6 零	kPhonetic	812
 U+96F7 雷	kPhonetic	837
