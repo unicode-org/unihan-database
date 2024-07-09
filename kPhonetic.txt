@@ -2927,7 +2927,7 @@ U+5750 坐	kPhonetic	236
 U+5751 坑	kPhonetic	660
 U+5752 坒	kPhonetic	1030
 U+5757 块	kPhonetic	667 711
-U+575B 坛	kPhonetic	1292 1441
+U+575B 坛	kPhonetic	1292 1298* 1441
 U+575F 坟	kPhonetic	877 1020
 U+5761 坡	kPhonetic	1038
 U+5763 坣	kPhonetic	494
@@ -6218,7 +6218,7 @@ U+6BDB 毛	kPhonetic	913
 U+6BDD 毝	kPhonetic	1101*
 U+6BDE 毞	kPhonetic	1030*
 U+6BE0 毠	kPhonetic	532*
-U+6BE1 毡	kPhonetic	177
+U+6BE1 毡	kPhonetic	177 1298
 U+6BE7 毧	kPhonetic	1659
 U+6BE8 毨	kPhonetic	1199
 U+6BEB 毫	kPhonetic	637
@@ -13171,6 +13171,7 @@ U+9896 颖	kPhonetic	628*
 U+9899 颙	kPhonetic	1607*
 U+989B 颛	kPhonetic	1383*
 U+989E 颞	kPhonetic	979*
+U+98A4 颤	kPhonetic	1298*
 U+98A5 颥	kPhonetic	1250*
 U+98A8 風	kPhonetic	342 408
 U+98A9 颩	kPhonetic	408*
@@ -13728,6 +13729,7 @@ U+9CD8 鳘	kPhonetic	880*
 U+9CDD 鳝	kPhonetic	1203*
 U+9CDF 鳟	kPhonetic	270*
 U+9CE1 鳡	kPhonetic	652*
+U+9CE3 鳣	kPhonetic	1298*
 U+9CE5 鳥	kPhonetic	982
 U+9CE7 鳧	kPhonetic	390 596 982
 U+9CE9 鳩	kPhonetic	587
@@ -13918,6 +13920,7 @@ U+9E6A 鹪	kPhonetic	216*
 U+9E6B 鹫	kPhonetic	86*
 U+9E6C 鹬	kPhonetic	734A*
 U+9E6D 鹭	kPhonetic	826
+U+9E6F 鹯	kPhonetic	1298*
 U+9E72 鹲	kPhonetic	935*
 U+9E74 鹴	kPhonetic	1161*
 U+9E75 鹵	kPhonetic	822
@@ -16410,6 +16413,7 @@ U+2B595 𫖕	kPhonetic	589*
 U+2B5AE 𫖮	kPhonetic	454*
 U+2B5E6 𫗦	kPhonetic	386*
 U+2B5EE 𫗮	kPhonetic	1457*
+U+2B5F4 𫗴	kPhonetic	1298*
 U+2B5F5 𫗵	kPhonetic	1160*
 U+2B623 𫘣	kPhonetic	502*
 U+2B627 𫘧	kPhonetic	849*
