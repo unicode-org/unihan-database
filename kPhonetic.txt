@@ -1364,6 +1364,7 @@ U+4E95 井	kPhonetic	103 589
 U+4E97 亗	kPhonetic	1103
 U+4E98 亘	kPhonetic	579 1241C 1467
 U+4E99 亙	kPhonetic	579
+U+4E9A 亚	kPhonetic	2*
 U+4E9B 些	kPhonetic	156
 U+4E9C 亜	kPhonetic	2
 U+4E9E 亞	kPhonetic	2
@@ -2519,6 +2520,7 @@ U+54CD 响	kPhonetic	466
 U+54CE 哎	kPhonetic	954A
 U+54CF 哏	kPhonetic	575
 U+54D0 哐	kPhonetic	505*
+U+54D1 哑	kPhonetic	2*
 U+54D8 哘	kPhonetic	435*
 U+54DC 哜	kPhonetic	56
 U+54DE 哞	kPhonetic	885*
@@ -2975,6 +2977,7 @@ U+57A2 垢	kPhonetic	449
 U+57A3 垣	kPhonetic	1467
 U+57A6 垦	kPhonetic	575
 U+57A7 垧	kPhonetic	466
+U+57A9 垩	kPhonetic	2*
 U+57AE 垮	kPhonetic	701
 U+57B2 垲	kPhonetic	454*
 U+57B8 垸	kPhonetic	1624
@@ -3142,6 +3145,8 @@ U+58EF 壯	kPhonetic	121 252
 U+58F0 声	kPhonetic	477 1205A
 U+58F3 壳	kPhonetic	493
 U+58F4 壴	kPhonetic	1241 1322
+U+58F6 壶	kPhonetic	2*
+U+58F8 壸	kPhonetic	2*
 U+58F9 壹	kPhonetic	1500
 U+58FA 壺	kPhonetic	2
 U+58FB 壻	kPhonetic	1251
@@ -3313,6 +3318,7 @@ U+5A00 娀	kPhonetic	1659
 U+5A01 威	kPhonetic	990 1424
 U+5A03 娃	kPhonetic	710
 U+5A04 娄	kPhonetic	780
+U+5A05 娅	kPhonetic	2*
 U+5A07 娇	kPhonetic	636*
 U+5A08 娈	kPhonetic	833*
 U+5A09 娉	kPhonetic	1057
@@ -4358,7 +4364,7 @@ U+606D 恭	kPhonetic	693
 U+606F 息	kPhonetic	146 1187
 U+6070 恰	kPhonetic	509
 U+6073 恳	kPhonetic	575
-U+6076 恶	kPhonetic	994A
+U+6076 恶	kPhonetic	2* 994A
 U+607A 恺	kPhonetic	454*
 U+607F 恿	kPhonetic	1660
 U+6080 悀	kPhonetic	1660*
@@ -4826,6 +4832,7 @@ U+6316 挖	kPhonetic	1422
 U+6317 挗	kPhonetic	1542*
 U+6318 挘	kPhonetic	836*
 U+631B 挛	kPhonetic	833*
+U+631C 挜	kPhonetic	2*
 U+6322 挢	kPhonetic	636*
 U+6323 挣	kPhonetic	32*
 U+6324 挤	kPhonetic	56
@@ -5698,6 +5705,7 @@ U+6854 桔	kPhonetic	582
 U+6855 桕	kPhonetic	593
 U+6856 桖	kPhonetic	514*
 U+685A 桚	kPhonetic	815
+U+6860 桠	kPhonetic	2*
 U+6865 桥	kPhonetic	636*
 U+6869 桩	kPhonetic	250 323
 U+686D 桭	kPhonetic	1129*
@@ -6276,6 +6284,7 @@ U+6C24 氤	kPhonetic	1480
 U+6C26 氦	kPhonetic	490
 U+6C27 氧	kPhonetic	1530
 U+6C28 氨	kPhonetic	995
+U+6C29 氩	kPhonetic	2*
 U+6C2A 氪	kPhonetic	430
 U+6C2B 氫	kPhonetic	623
 U+6C2C 氬	kPhonetic	2
@@ -7776,6 +7785,7 @@ U+75D0 痐	kPhonetic	1464
 U+75D2 痒	kPhonetic	1530 1530A
 U+75D4 痔	kPhonetic	149
 U+75D5 痕	kPhonetic	575
+U+75D6 痖	kPhonetic	2*
 U+75D7 痗	kPhonetic	927
 U+75D8 痘	kPhonetic	1322
 U+75D9 痙	kPhonetic	623
@@ -12626,6 +12636,7 @@ U+94C3 铃	kPhonetic	812*
 U+94C9 铉	kPhonetic	1623*
 U+94CB 铋	kPhonetic	1059*
 U+94D1 铑	kPhonetic	824*
+U+94D4 铔	kPhonetic	2*
 U+94DC 铜	kPhonetic	1407*
 U+94DF 铟	kPhonetic	1480*
 U+94E0 铠	kPhonetic	454*
@@ -16560,6 +16571,7 @@ U+311F3 𱇳	kPhonetic	313*
 U+311FF 𱇿	kPhonetic	1261*
 U+31210 𱈐	kPhonetic	269*
 U+31213 𱈓	kPhonetic	1292*
+U+31268 𱉨	kPhonetic	2*
 U+3126C 𱉬	kPhonetic	636*
 U+31307 𱌇	kPhonetic	1013*
 U+31317 𱌗	kPhonetic	56
