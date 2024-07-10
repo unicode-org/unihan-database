@@ -2977,7 +2977,6 @@ U+57A2 垢	kPhonetic	449
 U+57A3 垣	kPhonetic	1467
 U+57A6 垦	kPhonetic	575
 U+57A7 垧	kPhonetic	466
-U+57A9 垩	kPhonetic	2*
 U+57AE 垮	kPhonetic	701
 U+57B2 垲	kPhonetic	454*
 U+57B8 垸	kPhonetic	1624
