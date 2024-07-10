@@ -2760,7 +2760,7 @@ U+563C 嘼	kPhonetic	1146*
 U+563D 嘽	kPhonetic	1294
 U+563F 嘿	kPhonetic	431
 U+5640 噀	kPhonetic	1270
-U+5641 噁	kPhonetic	994
+U+5641 噁	kPhonetic	994A
 U+5642 噂	kPhonetic	270
 U+5646 噆	kPhonetic	25
 U+5648 噈	kPhonetic	86*
