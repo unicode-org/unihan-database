@@ -9246,7 +9246,7 @@ U+7ED4 绔	kPhonetic	701*
 U+7EDA 绚	kPhonetic	318*
 U+7EDD 绝	kPhonetic	1188*
 U+7EE0 绠	kPhonetic	578*
-U+7EE3 绣	kPhonetic	1145*
+U+7EE3 绣	kPhonetic	1261* 1145*
 U+7EE5 绥	kPhonetic	1369*
 U+7EEC 绬	kPhonetic	1582*
 U+7EED 续	kPhonetic	1395*
