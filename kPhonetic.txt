@@ -3935,6 +3935,7 @@ U+5E18 帘	kPhonetic	570 804
 U+5E19 帙	kPhonetic	1135
 U+5E1A 帚	kPhonetic	81
 U+5E1B 帛	kPhonetic	1003
+U+5E1C 帜	kPhonetic	164*
 U+5E1D 帝	kPhonetic	1308
 U+5E1E 帞	kPhonetic	1002*
 U+5E1F 帟	kPhonetic	1556
@@ -7005,6 +7006,7 @@ U+70B8 炸	kPhonetic	10
 U+70B9 点	kPhonetic	177
 U+70BA 為	kPhonetic	1431
 U+70BC 炼	kPhonetic	549*
+U+70BD 炽	kPhonetic	164*
 U+70C0 烀	kPhonetic	389*
 U+70C1 烁	kPhonetic	972
 U+70C2 烂	kPhonetic	766
@@ -9238,6 +9240,7 @@ U+7EB8 纸	kPhonetic	1184*
 U+7EBA 纺	kPhonetic	373*
 U+7EC0 绀	kPhonetic	650*
 U+7EC3 练	kPhonetic	549*
+U+7EC7 织	kPhonetic	164*
 U+7EC9 绉	kPhonetic	234*
 U+7ECA 绊	kPhonetic	1089*
 U+7ED1 绑	kPhonetic	1080*
@@ -9455,6 +9458,7 @@ U+8044 聄	kPhonetic	65
 U+8046 聆	kPhonetic	812
 U+804A 聊	kPhonetic	870
 U+804B 聋	kPhonetic	856*
+U+804C 职	kPhonetic	164*
 U+804F 聏	kPhonetic	1537
 U+8052 聒	kPhonetic	736
 U+8053 聓	kPhonetic	689
@@ -11236,6 +11240,7 @@ U+8BBF 访	kPhonetic	373*
 U+8BC0 诀	kPhonetic	165
 U+8BC1 证	kPhonetic	201*
 U+8BC4 评	kPhonetic	1058*
+U+8BC6 识	kPhonetic	164*
 U+8BC8 诈	kPhonetic	10*
 U+8BCB 诋	kPhonetic	1307*
 U+8BCC 诌	kPhonetic	234*
