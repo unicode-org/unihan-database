@@ -6326,6 +6326,7 @@ U+6C5E 汞	kPhonetic	530 684
 U+6C5F 江	kPhonetic	655 684
 U+6C60 池	kPhonetic	1471
 U+6C61 污	kPhonetic	1602B*
+U+6C64 汤	kPhonetic	1380
 U+6C66 汦	kPhonetic	1184*
 U+6C67 汧	kPhonetic	617
 U+6C68 汨	kPhonetic	1501
@@ -7024,6 +7025,7 @@ U+70DF 烟	kPhonetic	1480
 U+70E2 烢	kPhonetic	17*
 U+70E3 烣	kPhonetic	394*
 U+70E4 烤	kPhonetic	425
+U+70EB 烫	kPhonetic	1380*
 U+70ED 热	kPhonetic	962 1593
 U+70EE 烮	kPhonetic	814*
 U+70EF 烯	kPhonetic	451
@@ -9987,6 +9989,7 @@ U+8356 荖	kPhonetic	824*
 U+8357 荗	kPhonetic	262*
 U+835E 荞	kPhonetic	636*
 U+8360 荠	kPhonetic	56
+U+8361 荡	kPhonetic	1380*
 U+8363 荣	kPhonetic	1451 1587*
 U+8365 荥	kPhonetic	1587*
 U+8366 荦	kPhonetic	821* 1587*
@@ -12650,6 +12653,7 @@ U+94ED 铭	kPhonetic	901*
 U+94EE 铮	kPhonetic	32*
 U+94EF 铯	kPhonetic	1188*
 U+94F3 铳	kPhonetic	325*
+U+94F4 铴	kPhonetic	1380*
 U+94F5 铵	kPhonetic	995*
 U+94F7 铷	kPhonetic	1606*
 U+94F8 铸	kPhonetic	1149*
@@ -16495,6 +16499,7 @@ U+2C02E 𬀮	kPhonetic	1390*
 U+2C1D8 𬇘	kPhonetic	269*
 U+2C24B 𬉋	kPhonetic	1432*
 U+2C282 𬊂	kPhonetic	234*
+U+2C361 𬍡	kPhonetic	1380*
 U+2C3E6 𬏦	kPhonetic	346*
 U+2C454 𬑔	kPhonetic	324
 U+2C64B 𬙋	kPhonetic	1160*
@@ -16543,6 +16548,7 @@ U+308EC 𰣬	kPhonetic	56
 U+309D4 𰧔	kPhonetic	544*
 U+30A26 𰨦	kPhonetic	56
 U+30A6E 𰩮	kPhonetic	269*
+U+30A79 𰩹	kPhonetic	1380*
 U+30B10 𰬐	kPhonetic	636*
 U+30B13 𰬓	kPhonetic	490*
 U+30B29 𰬩	kPhonetic	1261*
