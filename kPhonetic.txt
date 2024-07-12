@@ -1705,7 +1705,7 @@ U+5074 側	kPhonetic	57
 U+5075 偵	kPhonetic	198
 U+5076 偶	kPhonetic	1607
 U+5077 偷	kPhonetic	1611
-U+5078 偸	kPhonetic	1611
+U+5078 偸	kPhonetic	1611*
 U+5079 偹	kPhonetic	1034 1510
 U+507A 偺	kPhonetic	26
 U+507B 偻	kPhonetic	780
@@ -2650,7 +2650,7 @@ U+55A2 喢	kPhonetic	41
 U+55A4 喤	kPhonetic	1457
 U+55A7 喧	kPhonetic	1244
 U+55A8 喨	kPhonetic	800
-U+55A9 喩	kPhonetic	1611
+U+55A9 喩	kPhonetic	1611*
 U+55AA 喪	kPhonetic	1234
 U+55AB 喫	kPhonetic	564
 U+55AC 喬	kPhonetic	636 637
@@ -2663,6 +2663,7 @@ U+55B3 喳	kPhonetic	13
 U+55B4 喴	kPhonetic	1424
 U+55B5 喵	kPhonetic	908
 U+55B8 喸	kPhonetic	386*
+U+55BB 喻	kPhonetic	1611
 U+55BC 喼	kPhonetic	1483*
 U+55BD 喽	kPhonetic	780
 U+55BF 喿	kPhonetic	230
