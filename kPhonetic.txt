@@ -590,7 +590,7 @@ U+3FBC 㾼	kPhonetic	1394*
 U+3FBD 㾽	kPhonetic	286*
 U+3FC5 㿅	kPhonetic	1099*
 U+3FCE 㿎	kPhonetic	1020*
-U+3FDB 㿛	kPhonetic	773
+U+3FDB 㿛	kPhonetic	772*
 U+3FDC 㿜	kPhonetic	1060
 U+3FEB 㿫	kPhonetic	1030*
 U+3FEE 㿮	kPhonetic	1528*
