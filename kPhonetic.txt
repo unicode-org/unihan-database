@@ -1390,7 +1390,7 @@ U+4EB3 亳	kPhonetic	637
 U+4EB5 亵	kPhonetic	962*
 U+4EB6 亶	kPhonetic	1298
 U+4EB7 亷	kPhonetic	615
-U+4EB8 亸	kPhonetic	1294
+U+4EB8 亸	kPhonetic	1294*
 U+4EB9 亹	kPhonetic	881A
 U+4EBA 人	kPhonetic	1489
 U+4EBB 亻	kPhonetic	1489
