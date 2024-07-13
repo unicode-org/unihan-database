@@ -165,6 +165,7 @@ U+37B4 㞴	kPhonetic	1184*
 U+37BB 㞻	kPhonetic	484*
 U+37BD 㞽	kPhonetic	1637*
 U+37C3 㟃	kPhonetic	1169*
+U+37C6 㟆	kPhonetic	1410*
 U+37C8 㟈	kPhonetic	592*
 U+37CA 㟊	kPhonetic	378*
 U+37CE 㟎	kPhonetic	1369*
@@ -2526,6 +2527,7 @@ U+54CE 哎	kPhonetic	954A
 U+54CF 哏	kPhonetic	575
 U+54D0 哐	kPhonetic	505*
 U+54D1 哑	kPhonetic	2*
+U+54D7 哗	kPhonetic	1410*
 U+54D8 哘	kPhonetic	435*
 U+54DC 哜	kPhonetic	56
 U+54DE 哞	kPhonetic	885*
@@ -5411,6 +5413,7 @@ U+664C 晌	kPhonetic	466
 U+664F 晏	kPhonetic	4 995
 U+6650 晐	kPhonetic	490
 U+6652 晒	kPhonetic	772 1112
+U+6654 晔	kPhonetic	1410*
 U+665A 晚	kPhonetic	899
 U+665B 晛	kPhonetic	621
 U+665C 晜	kPhonetic	728 1310
@@ -5721,6 +5724,7 @@ U+6856 桖	kPhonetic	514*
 U+685A 桚	kPhonetic	815
 U+6860 桠	kPhonetic	2*
 U+6865 桥	kPhonetic	636*
+U+6866 桦	kPhonetic	1410*
 U+6869 桩	kPhonetic	250 323
 U+686D 桭	kPhonetic	1129*
 U+686E 桮	kPhonetic	363
@@ -7041,6 +7045,7 @@ U+70DF 烟	kPhonetic	1480
 U+70E2 烢	kPhonetic	17*
 U+70E3 烣	kPhonetic	394*
 U+70E4 烤	kPhonetic	425
+U+70E8 烨	kPhonetic	1410*
 U+70EB 烫	kPhonetic	1380*
 U+70ED 热	kPhonetic	962 1593
 U+70EE 烮	kPhonetic	814*
@@ -12680,6 +12685,7 @@ U+94DF 铟	kPhonetic	1480*
 U+94E0 铠	kPhonetic	454*
 U+94E2 铢	kPhonetic	260*
 U+94E5 铥	kPhonetic	1350*
+U+94E7 铧	kPhonetic	1410*
 U+94ED 铭	kPhonetic	901*
 U+94EE 铮	kPhonetic	32*
 U+94EF 铯	kPhonetic	1188*
@@ -13549,6 +13555,7 @@ U+9A7E 驾	kPhonetic	532*
 U+9A82 骂	kPhonetic	863*
 U+9A83 骃	kPhonetic	1480*
 U+9A84 骄	kPhonetic	636*
+U+9A85 骅	kPhonetic	1410*
 U+9A87 骇	kPhonetic	490*
 U+9A8B 骋	kPhonetic	1057*
 U+9A8F 骏	kPhonetic	313*
@@ -16517,6 +16524,7 @@ U+2B4F2 𫓲	kPhonetic	318*
 U+2B500 𫔀	kPhonetic	549*
 U+2B501 𫔁	kPhonetic	1020*
 U+2B514 𫔔	kPhonetic	720*
+U+2B587 𫖇	kPhonetic	1410*
 U+2B595 𫖕	kPhonetic	589*
 U+2B5AE 𫖮	kPhonetic	454*
 U+2B5E6 𫗦	kPhonetic	386*
@@ -16572,7 +16580,7 @@ U+2E64B 𮙋	kPhonetic	1395*
 U+2E681 𮚁	kPhonetic	56
 U+2E777 𮝷	kPhonetic	1020*
 U+2E8F6 𮣶	kPhonetic	843*
-U+2E9F5 𮧵	kPhonetic	1433*
+U+2E9F5 𮧵	kPhonetic	1410* 1433*
 U+2EA35 𮨵	kPhonetic	819*
 U+3008F 𰂏	kPhonetic	1395*
 U+300A6 𰂦	kPhonetic	843*
