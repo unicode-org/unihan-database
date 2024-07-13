@@ -185,7 +185,7 @@ U+3807 㠇	kPhonetic	86*
 U+3808 㠈	kPhonetic	1651A*
 U+380A 㠊	kPhonetic	458
 U+380C 㠌	kPhonetic	452*
-U+380F 㠏	kPhonetic	1410
+U+380F 㠏	kPhonetic	1410*
 U+3811 㠑	kPhonetic	291*
 U+3813 㠓	kPhonetic	935*
 U+3819 㠙	kPhonetic	482*
@@ -16474,6 +16474,7 @@ U+2A6B9 𪚹	kPhonetic	263*
 U+2A6BB 𪚻	kPhonetic	1528*
 U+2A97F 𪥿	kPhonetic	1395*
 U+2AA17 𪨗	kPhonetic	636*
+U+2AA53 𪩓	kPhonetic	1410
 U+2AA78 𪩸	kPhonetic	1020*
 U+2AA9D 𪪝	kPhonetic	1653*
 U+2ABE0 𪯠	kPhonetic	56
