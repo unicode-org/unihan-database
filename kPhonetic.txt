@@ -4452,7 +4452,7 @@ U+60DE 惞	kPhonetic	1481*
 U+60DF 惟	kPhonetic	285
 U+60E0 惠	kPhonetic	1437
 U+60E1 惡	kPhonetic	2
-U+60E2 惢	kPhonetic	1640*
+U+60E2 惢	kPhonetic	1640A*
 U+60E5 惥	kPhonetic	1609*
 U+60E6 惦	kPhonetic	1330
 U+60E7 惧	kPhonetic	674 677
@@ -9211,7 +9211,7 @@ U+7E5B 繛	kPhonetic	108*
 U+7E5C 繜	kPhonetic	270*
 U+7E5E 繞	kPhonetic	1598
 U+7E5F 繟	kPhonetic	1294
-U+7E60 繠	kPhonetic	1640*
+U+7E60 繠	kPhonetic	1640A*
 U+7E61 繡	kPhonetic	1261
 U+7E62 繢	kPhonetic	716
 U+7E63 繣	kPhonetic	1415
