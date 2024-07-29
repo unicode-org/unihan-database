@@ -5363,7 +5363,7 @@ U+65B7 斷	kPhonetic	1388
 U+65B8 斸	kPhonetic	1265
 U+65B9 方	kPhonetic	373
 U+65BC 於	kPhonetic	1601
-U+65BD 施	kPhonetic	1168 1471
+U+65BD 施	kPhonetic	1168 1471 1545*
 U+65BE 斾	kPhonetic	357
 U+65BF 斿	kPhonetic	1508
 U+65C1 旁	kPhonetic	373 1081
