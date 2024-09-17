@@ -9109,9 +9109,9 @@ U+7D63 絣	kPhonetic	1055
 U+7D65 絥	kPhonetic	399*
 U+7D66 給	kPhonetic	509
 U+7D67 絧	kPhonetic	1407*
-U+7D68 絨	kPhonetic	841 1659
+U+7D68 絨	kPhonetic	1659
 U+7D6A 絪	kPhonetic	1480
-U+7D6B 絫	kPhonetic	838
+U+7D6B 絫	kPhonetic	838 841
 U+7D6E 絮	kPhonetic	1256 1606
 U+7D6F 絯	kPhonetic	490
 U+7D70 絰	kPhonetic	141
