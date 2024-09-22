@@ -9608,6 +9608,7 @@ U+808A 肊	kPhonetic	1634
 U+808B 肋	kPhonetic	801
 U+808C 肌	kPhonetic	596
 U+808E 肎	kPhonetic	434
+U+808F 肏	kPhonetic	1498* 1648*
 U+8090 肐	kPhonetic	440
 U+8092 肒	kPhonetic	1627*
 U+8093 肓	kPhonetic	922
