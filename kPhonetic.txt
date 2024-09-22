@@ -15361,7 +15361,7 @@ U+25294 𥊔	kPhonetic	1159*
 U+252AC 𥊬	kPhonetic	71*
 U+252AD 𥊭	kPhonetic	270*
 U+25300 𥌀	kPhonetic	45*
-U+2531A 𥌚	kPhonetic	1648B*
+U+2531A 𥌚	kPhonetic	1395*
 U+25330 𥌰	kPhonetic	1432*
 U+25368 𥍨	kPhonetic	959*
 U+25374 𥍴	kPhonetic	1559*
