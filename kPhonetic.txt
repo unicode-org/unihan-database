@@ -16721,6 +16721,7 @@ U+2C62A 𬘪	kPhonetic	182*
 U+2C64B 𬙋	kPhonetic	1160*
 U+2C795 𬞕	kPhonetic	766*
 U+2C847 𬡇	kPhonetic	863*
+U+2C894 𬢔	kPhonetic	1315*
 U+2C8AA 𬢪	kPhonetic	1149*
 U+2C8C0 𬣀	kPhonetic	1433*
 U+2C926 𬤦	kPhonetic	1432*
