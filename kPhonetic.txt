@@ -3553,7 +3553,7 @@ U+5B67 孧	kPhonetic	1507*
 U+5B69 孩	kPhonetic	490
 U+5B6A 孪	kPhonetic	833*
 U+5B6B 孫	kPhonetic	1242
-U+5B6C 孬	kPhonetic	1025
+U+5B6C 孬	kPhonetic	481* 1025
 U+5B70 孰	kPhonetic	746 1263
 U+5B71 孱	kPhonetic	31A 1107
 U+5B73 孳	kPhonetic	132
