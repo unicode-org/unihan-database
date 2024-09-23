@@ -5351,7 +5351,7 @@ U+6592 斒	kPhonetic	1042
 U+6593 斓	kPhonetic	766*
 U+6594 斔	kPhonetic	1609
 U+6595 斕	kPhonetic	766
-U+6597 斗	kPhonetic	1320
+U+6597 斗	kPhonetic	1320 1321*
 U+6599 料	kPhonetic	1320
 U+659A 斚	kPhonetic	533
 U+659B 斛	kPhonetic	522 647
@@ -12949,9 +12949,11 @@ U+95EF 闯	kPhonetic	255*
 U+95F1 闱	kPhonetic	1433*
 U+95F4 间	kPhonetic	547
 U+95F6 闶	kPhonetic	660*
+U+95F9 闹	kPhonetic	1321*
 U+95FF 闿	kPhonetic	454*
 U+9600 阀	kPhonetic	360*
 U+9602 阂	kPhonetic	490*
+U+9604 阄	kPhonetic	1321*
 U+9609 阉	kPhonetic	1562*
 U+960A 阊	kPhonetic	119*
 U+9610 阐	kPhonetic	1294*
