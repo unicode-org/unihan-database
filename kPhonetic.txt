@@ -14047,6 +14047,7 @@ U+9D5E 鵞	kPhonetic	967
 U+9D5F 鵟	kPhonetic	751*
 U+9D60 鵠	kPhonetic	642
 U+9D61 鵡	kPhonetic	915
+U+9D63 鵣	kPhonetic	768*
 U+9D64 鵤	kPhonetic	647*
 U+9D69 鵩	kPhonetic	402
 U+9D6A 鵪	kPhonetic	1562
