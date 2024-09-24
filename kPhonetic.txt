@@ -3364,7 +3364,7 @@ U+59E6 姦	kPhonetic	545
 U+59E8 姨	kPhonetic	1542
 U+59EA 姪	kPhonetic	141
 U+59EC 姬	kPhonetic	1543
-U+59EE 姮	kPhonetic	579
+U+59EE 姮	kPhonetic	1467*
 U+59F1 姱	kPhonetic	701
 U+59F2 姲	kPhonetic	995*
 U+59F8 姸	kPhonetic	617
@@ -9122,7 +9122,7 @@ U+7D54 絔	kPhonetic	1002*
 U+7D55 絕	kPhonetic	284
 U+7D56 絖	kPhonetic	749
 U+7D58 絘	kPhonetic	160
-U+7D59 絙	kPhonetic	579
+U+7D59 絙	kPhonetic	1467*
 U+7D5A 絚	kPhonetic	579
 U+7D5B 絛	kPhonetic	1510
 U+7D5C 絜	kPhonetic	539A 630
@@ -16716,6 +16716,7 @@ U+2BB5E 𫭞	kPhonetic	269*
 U+2BB62 𫭢	kPhonetic	851*
 U+2BB6A 𫭪	kPhonetic	1598*
 U+2BB83 𫮃	kPhonetic	1294*
+U+2BC1F 𫰟	kPhonetic	579
 U+2BC30 𫰰	kPhonetic	182*
 U+2BE8A 𫺊	kPhonetic	56
 U+2BE98 𫺘	kPhonetic	821*
