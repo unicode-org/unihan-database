@@ -1083,7 +1083,7 @@ U+49D4 䧔	kPhonetic	976*
 U+49D8 䧘	kPhonetic	1400*
 U+49DD 䧝	kPhonetic	154*
 U+49DF 䧟	kPhonetic	1599*
-U+49E2 䧢	kPhonetic	8A*
+U+49E2 䧢	kPhonetic	678*
 U+49EB 䧫	kPhonetic	482*
 U+49F9 䧹	kPhonetic	957 1581
 U+49FD 䧽	kPhonetic	1046*
@@ -15968,7 +15968,7 @@ U+280C7 𨃇	kPhonetic	609*
 U+280D5 𨃕	kPhonetic	308*
 U+280DE 𨃞	kPhonetic	1087*
 U+280DF 𨃟	kPhonetic	1087*
-U+28105 𨄅	kPhonetic	8A*
+U+28105 𨄅	kPhonetic	678*
 U+28113 𨄓	kPhonetic	51*
 U+28115 𨄕	kPhonetic	306*
 U+28117 𨄗	kPhonetic	504*
