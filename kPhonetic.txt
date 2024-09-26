@@ -8837,6 +8837,7 @@ U+7B84 箄	kPhonetic	1029
 U+7B87 箇	kPhonetic	758
 U+7B88 箈	kPhonetic	148
 U+7B8B 箋	kPhonetic	185
+U+7B8D 箍	kPhonetic	37*
 U+7B8F 箏	kPhonetic	32
 U+7B90 箐	kPhonetic	203
 U+7B91 箑	kPhonetic	211
