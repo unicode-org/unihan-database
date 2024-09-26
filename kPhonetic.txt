@@ -159,6 +159,7 @@ U+3782 㞂	kPhonetic	1369*
 U+3783 㞃	kPhonetic	1511*
 U+3784 㞄	kPhonetic	1562*
 U+3789 㞉	kPhonetic	12*
+U+378F 㞏	kPhonetic	359*
 U+3790 㞐	kPhonetic	671 767
 U+3795 㞕	kPhonetic	1502
 U+3797 㞗	kPhonetic	592*
@@ -789,6 +790,7 @@ U+433F 䌿	kPhonetic	398*
 U+4342 䍂	kPhonetic	1602*
 U+4343 䍃	kPhonetic	1597
 U+4345 䍅	kPhonetic	812*
+U+4347 䍇	kPhonetic	359*
 U+4348 䍈	kPhonetic	1058*
 U+434C 䍌	kPhonetic	1028*
 U+4353 䍓	kPhonetic	951*
@@ -858,6 +860,7 @@ U+449B 䒛	kPhonetic	1420*
 U+449C 䒜	kPhonetic	964*
 U+44A0 䒠	kPhonetic	407*
 U+44A5 䒥	kPhonetic	34*
+U+44A6 䒦	kPhonetic	359*
 U+44AA 䒪	kPhonetic	1049*
 U+44AB 䒫	kPhonetic	1370*
 U+44B0 䒰	kPhonetic	505*
@@ -985,6 +988,7 @@ U+47D9 䟙	kPhonetic	215*
 U+47E0 䟠	kPhonetic	1637*
 U+47E1 䟡	kPhonetic	1307*
 U+47E4 䟤	kPhonetic	1059*
+U+47EA 䟪	kPhonetic	359*
 U+47EB 䟫	kPhonetic	1167
 U+47EC 䟬	kPhonetic	1506*
 U+47ED 䟭	kPhonetic	10*
@@ -3343,6 +3347,7 @@ U+59BB 妻	kPhonetic	55
 U+59BC 妼	kPhonetic	1059*
 U+59BE 妾	kPhonetic	206 767
 U+59C1 姁	kPhonetic	673
+U+59C2 姂	kPhonetic	359*
 U+59C5 姅	kPhonetic	1089*
 U+59C6 姆	kPhonetic	916
 U+59C9 姉	kPhonetic	138
@@ -4845,6 +4850,7 @@ U+62B4 抴	kPhonetic	1115
 U+62B5 抵	kPhonetic	1307
 U+62B6 抶	kPhonetic	1135
 U+62B7 抷	kPhonetic	1035*
+U+62B8 抸	kPhonetic	359*
 U+62B9 抹	kPhonetic	931
 U+62BB 抻	kPhonetic	1126
 U+62BC 押	kPhonetic	551
@@ -5707,6 +5713,7 @@ U+67C3 柃	kPhonetic	812*
 U+67C4 柄	kPhonetic	1053
 U+67C5 柅	kPhonetic	946
 U+67C8 柈	kPhonetic	1089
+U+67C9 柉	kPhonetic	359*
 U+67CB 柋	kPhonetic	1370*
 U+67CC 柌	kPhonetic	1169*
 U+67CD 柍	kPhonetic	1528
@@ -11064,6 +11071,7 @@ U+897B 襻	kPhonetic	1006
 U+897C 襼	kPhonetic	962B
 U+897F 西	kPhonetic	1112
 U+8981 要	kPhonetic	1596
+U+8982 覂	kPhonetic	359*
 U+8983 覃	kPhonetic	1292
 U+8984 覄	kPhonetic	399 400
 U+8986 覆	kPhonetic	399 400
@@ -11606,6 +11614,7 @@ U+8D1C 贜	kPhonetic	258
 U+8D1D 贝	kPhonetic	1083
 U+8D21 贡	kPhonetic	684*
 U+8D29 贩	kPhonetic	339*
+U+8D2C 贬	kPhonetic	359*
 U+8D2D 购	kPhonetic	584* 589*
 U+8D32 贲	kPhonetic	1020*
 U+8D34 贴	kPhonetic	177*
@@ -14026,6 +14035,7 @@ U+9D0F 鴏	kPhonetic	1370*
 U+9D11 鴑	kPhonetic	984*
 U+9D12 鴒	kPhonetic	812
 U+9D13 鴓	kPhonetic	1059*
+U+9D14 鴔	kPhonetic	359*
 U+9D15 鴕	kPhonetic	1368
 U+9D18 鴘	kPhonetic	1049*
 U+9D1B 鴛	kPhonetic	1622
@@ -14421,6 +14431,7 @@ U+20159 𠅙	kPhonetic	622
 U+20164 𠅤	kPhonetic	1174*
 U+20199 𠆙	kPhonetic	1522*
 U+201C6 𠇆	kPhonetic	34
+U+201D6 𠇖	kPhonetic	359*
 U+201D8 𠇘	kPhonetic	1637*
 U+201F1 𠇱	kPhonetic	931
 U+201F7 𠇷	kPhonetic	1130*
@@ -16731,6 +16742,7 @@ U+2B68B 𫚋	kPhonetic	269*
 U+2B699 𫚙	kPhonetic	386*
 U+2B6A0 𫚠	kPhonetic	665*
 U+2B6A5 𫚥	kPhonetic	534*
+U+2B6E1 𫛡	kPhonetic	359*
 U+2B6E2 𫛢	kPhonetic	267*
 U+2B701 𫜁	kPhonetic	1013*
 U+2B7C3 𫟃	kPhonetic	1476*
