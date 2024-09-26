@@ -3766,7 +3766,7 @@ U+5C55 展	kPhonetic	187
 U+5C56 屖	kPhonetic	1112A
 U+5C57 屗	kPhonetic	891*
 U+5C59 屙	kPhonetic	3
-U+5C5B 屛	kPhonetic	1055
+U+5C5B 屛	kPhonetic	1055*
 U+5C5C 屜	kPhonetic	1115
 U+5C5D 屝	kPhonetic	365
 U+5C5E 属	kPhonetic	1265 1614
@@ -4030,7 +4030,7 @@ U+5E1C 帜	kPhonetic	164*
 U+5E1D 帝	kPhonetic	1308
 U+5E1E 帞	kPhonetic	1002*
 U+5E1F 帟	kPhonetic	1556
-U+5E21 帡	kPhonetic	1055
+U+5E21 帡	kPhonetic	1055*
 U+5E22 帢	kPhonetic	509
 U+5E24 帤	kPhonetic	1606
 U+5E25 帥	kPhonetic	1389
@@ -7775,7 +7775,7 @@ U+74FB 瓻	kPhonetic	451
 U+74FE 瓾	kPhonetic	1425*
 U+74FF 瓿	kPhonetic	1028
 U+7500 甀	kPhonetic	1255
-U+7501 甁	kPhonetic	1055
+U+7501 甁	kPhonetic	1055*
 U+7503 甃	kPhonetic	88
 U+7504 甄	kPhonetic	1478
 U+7506 甆	kPhonetic	132
@@ -9733,7 +9733,7 @@ U+80F7 胷	kPhonetic	524
 U+80F8 胸	kPhonetic	524
 U+80F9 胹	kPhonetic	1537
 U+80FA 胺	kPhonetic	995
-U+80FC 胼	kPhonetic	1055
+U+80FC 胼	kPhonetic	1055*
 U+80FD 能	kPhonetic	943
 U+80FE 胾	kPhonetic	239
 U+8100 脀	kPhonetic	1210
@@ -11920,7 +11920,7 @@ U+8EFA 軺	kPhonetic	219
 U+8EFB 軻	kPhonetic	487
 U+8EFC 軼	kPhonetic	1135
 U+8EFE 軾	kPhonetic	1193
-U+8EFF 軿	kPhonetic	1055
+U+8EFF 軿	kPhonetic	1055*
 U+8F00 輀	kPhonetic	1537
 U+8F01 輁	kPhonetic	693
 U+8F02 輂	kPhonetic	693
@@ -12078,7 +12078,7 @@ U+8FF0 述	kPhonetic	1281
 U+8FF4 迴	kPhonetic	1464
 U+8FF5 迵	kPhonetic	1407*
 U+8FF7 迷	kPhonetic	873
-U+8FF8 迸	kPhonetic	1055
+U+8FF8 迸	kPhonetic	1055*
 U+8FF9 迹	kPhonetic	1556
 U+8FFA 迺	kPhonetic	1112
 U+8FFB 迻	kPhonetic	1365
@@ -13644,7 +13644,7 @@ U+99DE 駞	kPhonetic	1545
 U+99DF 駟	kPhonetic	1156
 U+99E0 駠	kPhonetic	870
 U+99E1 駡	kPhonetic	863
-U+99E2 駢	kPhonetic	1055
+U+99E2 駢	kPhonetic	1055*
 U+99E3 駣	kPhonetic	1221
 U+99E5 駥	kPhonetic	1659*
 U+99E7 駧	kPhonetic	1407*
