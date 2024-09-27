@@ -13798,6 +13798,7 @@ U+9AD4 體	kPhonetic	771
 U+9AD6 髖	kPhonetic	395
 U+9AD8 高	kPhonetic	637
 U+9AD9 髙	kPhonetic	637
+U+9AE0 髠	kPhonetic	596*
 U+9AE1 髡	kPhonetic	963
 U+9AE2 髢	kPhonetic	1471
 U+9AE3 髣	kPhonetic	373
