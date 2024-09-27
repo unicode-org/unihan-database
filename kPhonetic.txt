@@ -2430,6 +2430,7 @@ U+53F8 司	kPhonetic	1169
 U+53F9 叹	kPhonetic	546*
 U+53FB 叻	kPhonetic	801
 U+53FC 叼	kPhonetic	1349
+U+53FD 叽	kPhonetic	596* 598*
 U+5401 吁	kPhonetic	516 1602
 U+5403 吃	kPhonetic	440
 U+5404 各	kPhonetic	646
