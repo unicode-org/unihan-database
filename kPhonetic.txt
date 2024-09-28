@@ -1326,7 +1326,7 @@ U+4E09 三	kPhonetic	1100
 U+4E0A 上	kPhonetic	1160 1166
 U+4E0B 下	kPhonetic	412
 U+4E0C 丌	kPhonetic	596
-U+4E0D 不	kPhonetic	1025
+U+4E0D 不	kPhonetic	1025 1419
 U+4E0E 与	kPhonetic	1608 1616
 U+4E0F 丏	kPhonetic	898
 U+4E10 丐	kPhonetic	644
