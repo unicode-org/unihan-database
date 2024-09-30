@@ -7485,7 +7485,7 @@ U+72E9 狩	kPhonetic	1142
 U+72EA 狪	kPhonetic	1407*
 U+72EB 狫	kPhonetic	824
 U+72EC 独	kPhonetic	1264
-U+72ED 狭	kPhonetic	550
+U+72ED 狭	kPhonetic	550*
 U+72F0 狰	kPhonetic	32*
 U+72F3 狳	kPhonetic	1610
 U+72F4 狴	kPhonetic	1030A
@@ -12303,6 +12303,7 @@ U+90DB 郛	kPhonetic	378
 U+90DC 郜	kPhonetic	642
 U+90DD 郝	kPhonetic	101
 U+90DE 郞	kPhonetic	796
+U+90DF 郟	kPhonetic	550
 U+90E0 郠	kPhonetic	578*
 U+90E1 郡	kPhonetic	722
 U+90E2 郢	kPhonetic	204
@@ -13077,7 +13078,7 @@ U+9627 阧	kPhonetic	1320
 U+9628 阨	kPhonetic	8
 U+962A 阪	kPhonetic	339
 U+962B 阫	kPhonetic	1025
-U+962C 阬	kPhonetic	550 660
+U+962C 阬	kPhonetic	660
 U+962E 阮	kPhonetic	1624
 U+962F 阯	kPhonetic	135
 U+9630 阰	kPhonetic	1030*
