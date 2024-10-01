@@ -13108,7 +13108,7 @@ U+9650 限	kPhonetic	575
 U+9651 陑	kPhonetic	1537*
 U+9652 陒	kPhonetic	959*
 U+9654 陔	kPhonetic	490
-U+9655 陕	kPhonetic	550
+U+9655 陕	kPhonetic	1197
 U+9656 陖	kPhonetic	313*
 U+9658 陘	kPhonetic	623
 U+9659 陙	kPhonetic	1129*
@@ -15479,6 +15479,7 @@ U+25160 𥅠	kPhonetic	449*
 U+25161 𥅡	kPhonetic	1537*
 U+25166 𥅦	kPhonetic	830*
 U+25167 𥅧	kPhonetic	514*
+U+25174 𥅴	kPhonetic	550*
 U+2517A 𥅺	kPhonetic	933*
 U+2517B 𥅻	kPhonetic	325*
 U+251A1 𥆡	kPhonetic	497*
