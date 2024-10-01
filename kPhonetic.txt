@@ -12325,7 +12325,6 @@ U+90DB 郛	kPhonetic	378
 U+90DC 郜	kPhonetic	642
 U+90DD 郝	kPhonetic	101
 U+90DE 郞	kPhonetic	796
-U+90DF 郟	kPhonetic	550*
 U+90E0 郠	kPhonetic	578*
 U+90E1 郡	kPhonetic	722
 U+90E2 郢	kPhonetic	204
