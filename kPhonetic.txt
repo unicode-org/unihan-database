@@ -14550,6 +14550,7 @@ U+204C8 𠓈	kPhonetic	430 436 1605
 U+204CB 𠓋	kPhonetic	638*
 U+204CE 𠓎	kPhonetic	1398
 U+204CF 𠓏	kPhonetic	179
+U+204D7 𠓗	kPhonetic	1360*
 U+204F7 𠓷	kPhonetic	1233*
 U+20509 𠔉	kPhonetic	664 1209
 U+2050D 𠔍	kPhonetic	1512*
