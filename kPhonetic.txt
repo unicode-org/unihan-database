@@ -12083,7 +12083,7 @@ U+8FB0 辰	kPhonetic	1129
 U+8FB1 辱	kPhonetic	1650
 U+8FB2 農	kPhonetic	991
 U+8FB3 辳	kPhonetic	776 991
-U+8FB4 辴	kPhonetic	1129
+U+8FB4 辴	kPhonetic	1129 1294*
 U+8FB6 辶	kPhonetic	109
 U+8FB9 边	kPhonetic	896 1041
 U+8FBD 辽	kPhonetic	817
