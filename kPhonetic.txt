@@ -3476,8 +3476,8 @@ U+5A25 娥	kPhonetic	967
 U+5A29 娩	kPhonetic	899
 U+5A2C 娬	kPhonetic	915
 U+5A2D 娭	kPhonetic	1549A
-U+5A2F 娯	kPhonetic	948
-U+5A31 娱	kPhonetic	948
+U+5A2F 娯	kPhonetic	948*
+U+5A31 娱	kPhonetic	948*
 U+5A32 娲	kPhonetic	700*
 U+5A35 娵	kPhonetic	295
 U+5A36 娶	kPhonetic	295
@@ -4557,7 +4557,7 @@ U+60A3 患	kPhonetic	278 1421
 U+60A4 悤	kPhonetic	118 326
 U+60A6 悦	kPhonetic	1392
 U+60A7 悧	kPhonetic	790*
-U+60AE 悮	kPhonetic	948
+U+60AE 悮	kPhonetic	948*
 U+60B0 悰	kPhonetic	321
 U+60B1 悱	kPhonetic	365
 U+60B2 悲	kPhonetic	365
