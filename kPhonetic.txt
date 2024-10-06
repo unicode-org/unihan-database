@@ -947,6 +947,7 @@ U+4592 䖒	kPhonetic	1322
 U+4598 䖘	kPhonetic	1360*
 U+45A4 䖤	kPhonetic	1622*
 U+45B3 䖳	kPhonetic	17
+U+45C0 䗀	kPhonetic	810*
 U+45C3 䗃	kPhonetic	185*
 U+45C9 䗉	kPhonetic	119*
 U+45CE 䗎	kPhonetic	1478*
