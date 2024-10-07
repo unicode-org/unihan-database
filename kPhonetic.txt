@@ -17177,6 +17177,7 @@ U+30DF5 𰷵	kPhonetic	1598*
 U+30DF6 𰷶	kPhonetic	636*
 U+30E7C 𰹼	kPhonetic	185*
 U+30E83 𰺃	kPhonetic	1390*
+U+30E8A 𰺊	kPhonetic	810*
 U+30E8F 𰺏	kPhonetic	1024*
 U+30E97 𰺗	kPhonetic	544*
 U+30E9C 𰺜	kPhonetic	338*
