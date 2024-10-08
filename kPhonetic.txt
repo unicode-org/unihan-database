@@ -10753,6 +10753,7 @@ U+863C 蘼	kPhonetic	890
 U+863D 蘽	kPhonetic	841A
 U+863F 蘿	kPhonetic	828
 U+8640 虀	kPhonetic	56*
+U+8641 虁	kPhonetic	721*
 U+8646 虆	kPhonetic	838
 U+864B 虋	kPhonetic	475A 881A
 U+864D 虍	kPhonetic	383 820
@@ -14923,6 +14924,7 @@ U+21523 𡔣	kPhonetic	1181*
 U+21541 𡕁	kPhonetic	1181*
 U+21550 𡕐	kPhonetic	80*
 U+21570 𡕰	kPhonetic	320
+U+21582 𡖂	kPhonetic	721*
 U+215B2 𡖲	kPhonetic	1365* 1369*
 U+215E4 𡗤	kPhonetic	1337*
 U+215E5 𡗥	kPhonetic	1385*
