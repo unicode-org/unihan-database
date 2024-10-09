@@ -548,6 +548,7 @@ U+3E53 㹓	kPhonetic	1598*
 U+3E55 㹕	kPhonetic	1624*
 U+3E56 㹖	kPhonetic	664
 U+3E58 㹘	kPhonetic	1250*
+U+3E5B 㹛	kPhonetic	721A*
 U+3E5D 㹝	kPhonetic	1184*
 U+3E60 㹠	kPhonetic	1385
 U+3E61 㹡	kPhonetic	1623*
@@ -3338,6 +3339,7 @@ U+590C 夌	kPhonetic	810
 U+590D 复	kPhonetic	400 403
 U+590F 夏	kPhonetic	413
 U+5910 夐	kPhonetic	513
+U+5912 夒	kPhonetic	721A*
 U+5914 夔	kPhonetic	721
 U+5915 夕	kPhonetic	170
 U+5916 外	kPhonetic	170 970
@@ -4075,6 +4077,7 @@ U+5DC7 巇	kPhonetic	458
 U+5DC9 巉	kPhonetic	24
 U+5DCB 巋	kPhonetic	708
 U+5DCD 巍	kPhonetic	961
+U+5DCE 巎	kPhonetic	721A*
 U+5DD2 巒	kPhonetic	833
 U+5DD4 巔	kPhonetic	1333
 U+5DD6 巖	kPhonetic	1566
@@ -7686,6 +7689,7 @@ U+737B 獻	kPhonetic	471 512
 U+737C 獼	kPhonetic	945
 U+737D 獽	kPhonetic	1160
 U+737E 獾	kPhonetic	761
+U+737F 獿	kPhonetic	721A*
 U+7380 玀	kPhonetic	828
 U+7381 玁	kPhonetic	1566
 U+7383 玃	kPhonetic	372
@@ -14708,6 +14712,7 @@ U+2037D 𠍽	kPhonetic	95
 U+203AE 𠎮	kPhonetic	668*
 U+20401 𠐁	kPhonetic	935*
 U+20409 𠐉	kPhonetic	209*
+U+2044D 𠑍	kPhonetic	721A*
 U+20458 𠑘	kPhonetic	1333*
 U+20484 𠒄	kPhonetic	963*
 U+20487 𠒇	kPhonetic	1544
@@ -15086,6 +15091,7 @@ U+22136 𢄶	kPhonetic	1415*
 U+2213A 𢄺	kPhonetic	216*
 U+22151 𢅑	kPhonetic	1110*
 U+22165 𢅥	kPhonetic	266
+U+2217C 𢅼	kPhonetic	721A*
 U+22183 𢆃	kPhonetic	721*
 U+2219F 𢆟	kPhonetic	1055*
 U+221C1 𢇁	kPhonetic	1170
@@ -15205,6 +15211,7 @@ U+22943 𢥃	kPhonetic	259*
 U+22949 𢥉	kPhonetic	1380A*
 U+2294C 𢥌	kPhonetic	1200*
 U+22958 𢥘	kPhonetic	720
+U+2295D 𢥝	kPhonetic	721A*
 U+2295E 𢥞	kPhonetic	331
 U+2298F 𢦏	kPhonetic	239 247
 U+229BF 𢦿	kPhonetic	1129*
@@ -15254,6 +15261,7 @@ U+22DFB 𢷻	kPhonetic	1625*
 U+22E17 𢸗	kPhonetic	737*
 U+22E26 𢸦	kPhonetic	1432*
 U+22E42 𢹂	kPhonetic	720
+U+22E95 𢺕	kPhonetic	721A*
 U+22E9E 𢺞	kPhonetic	997
 U+22EAF 𢺯	kPhonetic	1418*
 U+22EB4 𢺴	kPhonetic	1448*
@@ -15557,6 +15565,7 @@ U+249D9 𤧙	kPhonetic	1609*
 U+249E3 𤧣	kPhonetic	620*
 U+24A10 𤨐	kPhonetic	1599*
 U+24A72 𤩲	kPhonetic	662*
+U+24AD5 𤫕	kPhonetic	721A*
 U+24AFB 𤫻	kPhonetic	1071*
 U+24B03 𤬃	kPhonetic	1028*
 U+24B0C 𤬌	kPhonetic	1400*
@@ -16978,6 +16987,7 @@ U+2ABE0 𪯠	kPhonetic	56
 U+2AC65 𪱥	kPhonetic	1020*
 U+2ACCD 𪳍	kPhonetic	979*
 U+2AD19 𪴙	kPhonetic	28*
+U+2AE88 𪺈	kPhonetic	721A*
 U+2AEB9 𪺹	kPhonetic	984*
 U+2B05F 𫁟	kPhonetic	269*
 U+2B120 𫄠	kPhonetic	1467*
