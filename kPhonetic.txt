@@ -11595,7 +11595,7 @@ U+8B5E 譞	kPhonetic	1419*
 U+8B5F 譟	kPhonetic	230
 U+8B63 譣	kPhonetic	182*
 U+8B64 譤	kPhonetic	635
-U+8B65 譥	kPhonetic	635
+U+8B65 譥	kPhonetic	635*
 U+8B66 警	kPhonetic	627
 U+8B69 譩	kPhonetic	1535*
 U+8B6B 譫	kPhonetic	179
