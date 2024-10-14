@@ -14369,7 +14369,7 @@ U+9CEE 鳮	kPhonetic	427
 U+9CF2 鳲	kPhonetic	1176
 U+9CF3 鳳	kPhonetic	342 408
 U+9CF4 鳴	kPhonetic	904
-U+9CF5 鳵	kPhonetic	982*
+U+9CF5 鳵	kPhonetic	1267*
 U+9CF6 鳶	kPhonetic	1558
 U+9CF7 鳷	kPhonetic	130
 U+9CF8 鳸	kPhonetic	1462
