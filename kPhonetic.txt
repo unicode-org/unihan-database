@@ -9338,7 +9338,7 @@ U+7D29 紩	kPhonetic	1135
 U+7D2B 紫	kPhonetic	156
 U+7D2C 紬	kPhonetic	1512
 U+7D2D 紭	kPhonetic	1446*
-U+7D2E 紮	kPhonetic	43
+U+7D2E 紮	kPhonetic	42*
 U+7D2F 累	kPhonetic	842
 U+7D30 細	kPhonetic	1170
 U+7D31 紱	kPhonetic	1027
