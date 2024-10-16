@@ -5761,6 +5761,8 @@ U+66CC 曌	kPhonetic	525
 U+66CD 曍	kPhonetic	639
 U+66CE 曎	kPhonetic	1560*
 U+66CF 曏	kPhonetic	463
+U+66D0 曐	kPhonetic	200*
+U+66D1 曑	kPhonetic	65* 200*
 U+66D2 曒	kPhonetic	635*
 U+66D4 曔	kPhonetic	627*
 U+66D6 曖	kPhonetic	994
@@ -10714,6 +10716,7 @@ U+8548 蕈	kPhonetic	1292
 U+8549 蕉	kPhonetic	216
 U+854A 蕊	kPhonetic	1640
 U+854B 蕋	kPhonetic	1640
+U+854C 蕌	kPhonetic	200*
 U+854E 蕎	kPhonetic	636
 U+8550 蕐	kPhonetic	1410
 U+8551 蕑	kPhonetic	422
@@ -15430,6 +15433,7 @@ U+2317A 𣅺	kPhonetic	1507*
 U+231E8 𣇨	kPhonetic	1372
 U+2320D 𣈍	kPhonetic	1541*
 U+2325E 𣉞	kPhonetic	637
+U+23296 𣊖	kPhonetic	200*
 U+232B7 𣊷	kPhonetic	1559*
 U+232C4 𣋄	kPhonetic	316*
 U+2331C 𣌜	kPhonetic	1206*
