@@ -44,6 +44,7 @@ U+34DA 㓚	kPhonetic	684*
 U+34DE 㓞	kPhonetic	539
 U+34DF 㓟	kPhonetic	1038
 U+34E6 㓦	kPhonetic	1002*
+U+34E8 㓨	kPhonetic	550*
 U+34F7 㓷	kPhonetic	980*
 U+34FD 㓽	kPhonetic	1277*
 U+3501 㔁	kPhonetic	1315*
@@ -552,7 +553,6 @@ U+3E38 㸸	kPhonetic	449*
 U+3E3A 㸺	kPhonetic	1096*
 U+3E3C 㸼	kPhonetic	405*
 U+3E43 㹃	kPhonetic	365*
-U+34E8 㓨	kPhonetic	550*
 U+3E4E 㹎	kPhonetic	842*
 U+3E50 㹐	kPhonetic	329*
 U+3E53 㹓	kPhonetic	1598*
@@ -9044,8 +9044,8 @@ U+7B33 笳	kPhonetic	532
 U+7B34 笴	kPhonetic	487
 U+7B35 笵	kPhonetic	340
 U+7B37 笷	kPhonetic	870*
-U+7B3A 笺	kPhonetic	185*
 U+7B38 笸	kPhonetic	1076
+U+7B3A 笺	kPhonetic	185*
 U+7B3C 笼	kPhonetic	856*
 U+7B3D 笽	kPhonetic	905*
 U+7B41 筁	kPhonetic	683*
@@ -11245,7 +11245,6 @@ U+88CB 裋	kPhonetic	1322
 U+88CC 裌	kPhonetic	550
 U+88CE 裎	kPhonetic	204
 U+88CF 裏	kPhonetic	789
-U+8BD1 译	kPhonetic	1560*
 U+88D2 裒	kPhonetic	593
 U+88D4 裔	kPhonetic	1531
 U+88D5 裕	kPhonetic	681
@@ -11728,6 +11727,7 @@ U+8BC8 诈	kPhonetic	10*
 U+8BCB 诋	kPhonetic	1307*
 U+8BCC 诌	kPhonetic	234*
 U+8BCD 词	kPhonetic	1169*
+U+8BD1 译	kPhonetic	1560*
 U+8BD3 诓	kPhonetic	505*
 U+8BD4 诔	kPhonetic	830
 U+8BD5 试	kPhonetic	1193*
@@ -15396,8 +15396,8 @@ U+22D83 𢶃	kPhonetic	344*
 U+22D85 𢶅	kPhonetic	1116*
 U+22D8D 𢶍	kPhonetic	1109
 U+22DA1 𢶡	kPhonetic	635*
-U+22DCE 𢷎	kPhonetic	213
 U+22DA3 𢶣	kPhonetic	1347*
+U+22DCE 𢷎	kPhonetic	213
 U+22DFB 𢷻	kPhonetic	1625*
 U+22E17 𢸗	kPhonetic	737*
 U+22E26 𢸦	kPhonetic	1432*
@@ -17163,8 +17163,8 @@ U+2B404 𫐄	kPhonetic	963*
 U+2B409 𫐉	kPhonetic	812*
 U+2B40C 𫐌	kPhonetic	1055*
 U+2B413 𫐓	kPhonetic	1509*
-U+2B419 𫐙	kPhonetic	841*
 U+2B416 𫐖	kPhonetic	819*
+U+2B419 𫐙	kPhonetic	841*
 U+2B44D 𫑍	kPhonetic	469*
 U+2B477 𫑷	kPhonetic	182*
 U+2B4F2 𫓲	kPhonetic	318*
