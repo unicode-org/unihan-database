@@ -9966,6 +9966,7 @@ U+80C4 胄	kPhonetic	1512
 U+80C5 胅	kPhonetic	1135
 U+80C6 胆	kPhonetic	179 1296
 U+80C8 胈	kPhonetic	1027
+U+80C9 胉	kPhonetic	1003
 U+80CA 胊	kPhonetic	673
 U+80CC 背	kPhonetic	1014 1082
 U+80CD 胍	kPhonetic	696
