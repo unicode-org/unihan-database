@@ -2041,6 +2041,7 @@ U+510B 儋	kPhonetic	179
 U+510C 儌	kPhonetic	635
 U+510D 儍	kPhonetic	313 320 1228
 U+510E 儎	kPhonetic	240
+U+510F 儏	kPhonetic	31*
 U+5110 儐	kPhonetic	1018
 U+5112 儒	kPhonetic	1250
 U+5113 儓	kPhonetic	1374
@@ -6582,6 +6583,7 @@ U+6BA3 殣	kPhonetic	574
 U+6BA4 殤	kPhonetic	1163
 U+6BA5 殥	kPhonetic	1488
 U+6BA7 殧	kPhonetic	86*
+U+6BA9 殩	kPhonetic	31*
 U+6BAA 殪	kPhonetic	1500
 U+6BAB 殫	kPhonetic	1294
 U+6BAC 殬	kPhonetic	1560*
@@ -7265,6 +7267,7 @@ U+6FA7 澧	kPhonetic	771
 U+6FA8 澨	kPhonetic	1116
 U+6FAC 澬	kPhonetic	129*
 U+6FAE 澮	kPhonetic	1466
+U+6FAF 澯	kPhonetic	31*
 U+6FB0 澰	kPhonetic	182*
 U+6FB1 澱	kPhonetic	1335
 U+6FB3 澳	kPhonetic	992
@@ -7377,7 +7380,7 @@ U+7078 灸	kPhonetic	586
 U+707C 灼	kPhonetic	106 219
 U+707D 災	kPhonetic	124 238
 U+707E 灾	kPhonetic	238
-U+707F 灿	kPhonetic	1103
+U+707F 灿	kPhonetic	31* 1103
 U+7081 炁	kPhonetic	599
 U+7084 炄	kPhonetic	90*
 U+7085 炅	kPhonetic	741 1501
@@ -10854,6 +10857,7 @@ U+858C 薌	kPhonetic	463
 U+858F 薏	kPhonetic	1535
 U+8590 薐	kPhonetic	810A
 U+8591 薑	kPhonetic	607
+U+8592 薒	kPhonetic	31*
 U+8594 薔	kPhonetic	122 1191
 U+8596 薖	kPhonetic	745
 U+8598 薘	kPhonetic	1306
@@ -15236,6 +15240,7 @@ U+21978 𡥸	kPhonetic	1493*
 U+21986 𡦆	kPhonetic	1493*
 U+21994 𡦔	kPhonetic	1493*
 U+2199D 𡦝	kPhonetic	80*
+U+2199E 𡦞	kPhonetic	31*
 U+219CC 𡧌	kPhonetic	587
 U+219D4 𡧔	kPhonetic	1240*
 U+219ED 𡧭	kPhonetic	959*
