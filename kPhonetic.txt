@@ -55,6 +55,7 @@ U+3527 㔧	kPhonetic	820A*
 U+3528 㔨	kPhonetic	1082*
 U+3529 㔩	kPhonetic	508*
 U+352A 㔪	kPhonetic	822*
+U+352E 㔮	kPhonetic	546* 943*
 U+3530 㔰	kPhonetic	970*
 U+3531 㔱	kPhonetic	1609*
 U+3537 㔷	kPhonetic	1053*
@@ -719,6 +720,7 @@ U+4060 䁠	kPhonetic	615*
 U+4062 䁢	kPhonetic	1247*
 U+4065 䁥	kPhonetic	975*
 U+4066 䁦	kPhonetic	9*
+U+4067 䁧	kPhonetic	546*
 U+406A 䁪	kPhonetic	21*
 U+406F 䁯	kPhonetic	1497*
 U+4071 䁱	kPhonetic	1598*
@@ -909,6 +911,7 @@ U+43A1 䎡	kPhonetic	1537*
 U+43A2 䎢	kPhonetic	440*
 U+43A7 䎧	kPhonetic	1028*
 U+43A8 䎨	kPhonetic	1562*
+U+43AF 䎯	kPhonetic	546*
 U+43B4 䎴	kPhonetic	103*
 U+43BE 䎾	kPhonetic	851*
 U+43CC 䏌	kPhonetic	1502
@@ -1986,6 +1989,7 @@ U+50B8 傸	kPhonetic	1233*
 U+50B9 傹	kPhonetic	625*
 U+50BA 傺	kPhonetic	54
 U+50BB 傻	kPhonetic	313 1228
+U+50BC 傼	kPhonetic	546*
 U+50BD 傽	kPhonetic	110
 U+50BE 傾	kPhonetic	628
 U+50C1 僁	kPhonetic	1186
@@ -3725,6 +3729,7 @@ U+5AE1 嫡	kPhonetic	1326
 U+5AE3 嫣	kPhonetic	1576
 U+5AE5 嫥	kPhonetic	269
 U+5AE6 嫦	kPhonetic	1167B
+U+5AE8 嫨	kPhonetic	546*
 U+5AE9 嫩	kPhonetic	990
 U+5AEA 嫪	kPhonetic	819
 U+5AEB 嫫	kPhonetic	921
