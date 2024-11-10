@@ -4841,7 +4841,7 @@ U+6134 愴	kPhonetic	254
 U+6137 愷	kPhonetic	454
 U+6139 愹	kPhonetic	1657*
 U+613C 愼	kPhonetic	63
-U+613D 愽	kPhonetic	63 381
+U+613D 愽	kPhonetic	381
 U+613E 愾	kPhonetic	461
 U+613F 愿	kPhonetic	1629
 U+6141 慁	kPhonetic	1445
