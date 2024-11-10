@@ -3355,7 +3355,7 @@ U+5859 塙	kPhonetic	637
 U+585A 塚	kPhonetic	328
 U+585E 塞	kPhonetic	1117
 U+585F 塟	kPhonetic	253
-U+5861 塡	kPhonetic	63
+U+5861 塡	kPhonetic	63*
 U+5862 塢	kPhonetic	1459
 U+5864 塤	kPhonetic	1628
 U+5869 塩	kPhonetic	544
@@ -4840,7 +4840,7 @@ U+6133 愳	kPhonetic	674
 U+6134 愴	kPhonetic	254
 U+6137 愷	kPhonetic	454
 U+6139 愹	kPhonetic	1657*
-U+613C 愼	kPhonetic	63
+U+613C 愼	kPhonetic	63*
 U+613D 愽	kPhonetic	63 381
 U+613E 愾	kPhonetic	461
 U+613F 愿	kPhonetic	1629
@@ -13173,7 +13173,7 @@ U+93A7 鎧	kPhonetic	454
 U+93A9 鎩	kPhonetic	1111
 U+93AA 鎪	kPhonetic	1143
 U+93AC 鎬	kPhonetic	637
-U+93AD 鎭	kPhonetic	63
+U+93AD 鎭	kPhonetic	63*
 U+93AE 鎮	kPhonetic	63
 U+93AF 鎯	kPhonetic	832
 U+93B0 鎰	kPhonetic	1555
@@ -13901,7 +13901,7 @@ U+9856 顖	kPhonetic	326 1269
 U+9857 顗	kPhonetic	454
 U+9858 願	kPhonetic	1629
 U+9859 顙	kPhonetic	1232
-U+985A 顚	kPhonetic	63
+U+985A 顚	kPhonetic	63*
 U+985B 顛	kPhonetic	63 1333
 U+985E 類	kPhonetic	846 873
 U+9861 顡	kPhonetic	960*
