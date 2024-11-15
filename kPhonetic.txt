@@ -6311,7 +6311,7 @@ U+6982 概	kPhonetic	599B
 U+6986 榆	kPhonetic	1611
 U+698D 榍	kPhonetic	1216*
 U+6991 榑	kPhonetic	381*
-U+6994 榔	kPhonetic	832*
+U+6994 榔	kPhonetic	832
 U+6995 榕	kPhonetic	1657
 U+6996 榖	kPhonetic	493
 U+6998 榘	kPhonetic	676
@@ -12744,7 +12744,7 @@ U+90DA 郚	kPhonetic	947*
 U+90DB 郛	kPhonetic	378
 U+90DC 郜	kPhonetic	642
 U+90DD 郝	kPhonetic	101
-U+90DE 郞	kPhonetic	796
+U+90DE 郞	kPhonetic	796 832
 U+90DF 郟	kPhonetic	550
 U+90E0 郠	kPhonetic	578*
 U+90E1 郡	kPhonetic	722
