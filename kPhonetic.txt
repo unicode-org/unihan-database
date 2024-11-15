@@ -3561,7 +3561,7 @@ U+598C 妌	kPhonetic	103*
 U+5990 妐	kPhonetic	687
 U+5992 妒	kPhonetic	1462
 U+5993 妓	kPhonetic	130
-U+5994 妔	kPhonetic	832
+U+5994 妔	kPhonetic	660*
 U+5996 妖	kPhonetic	1594
 U+5997 妗	kPhonetic	565
 U+5998 妘	kPhonetic	1441
