@@ -11340,7 +11340,7 @@ U+8850 衐	kPhonetic	674 676
 U+8851 衑	kPhonetic	812*
 U+8852 衒	kPhonetic	1623
 U+8853 術	kPhonetic	1281
-U+8854 衔	kPhonetic	566
+U+8854 衔	kPhonetic	566*
 U+8855 衕	kPhonetic	1407
 U+8856 衖	kPhonetic	693
 U+8857 街	kPhonetic	710
@@ -13360,6 +13360,7 @@ U+948E 钎	kPhonetic	192*
 U+9490 钐	kPhonetic	1101*
 U+949B 钛	kPhonetic	1289*
 U+949D 钝	kPhonetic	1385*
+U+94A6 钦	kPhonetic	566*
 U+94A9 钩	kPhonetic	584*
 U+94AA 钪	kPhonetic	660*
 U+94AB 钫	kPhonetic	373*
@@ -13415,6 +13416,7 @@ U+9520 锠	kPhonetic	119*
 U+9521 锡	kPhonetic	1559*
 U+9522 锢	kPhonetic	758*
 U+9523 锣	kPhonetic	828
+U+9526 锦	kPhonetic	566*
 U+9528 锨	kPhonetic	1481*
 U+9529 锩	kPhonetic	665*
 U+952B 锫	kPhonetic	1028*
