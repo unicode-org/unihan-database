@@ -3912,7 +3912,7 @@ U+5BB1 宱	kPhonetic	248*
 U+5BB3 害	kPhonetic	491 539
 U+5BB5 宵	kPhonetic	220
 U+5BB6 家	kPhonetic	531
-U+5BB7 宷	kPhonetic	245
+U+5BB7 宷	kPhonetic	1046*
 U+5BB8 宸	kPhonetic	1129
 U+5BB9 容	kPhonetic	681 1657
 U+5BBC 宼	kPhonetic	590
