@@ -18012,6 +18012,7 @@ U+30A26 𰨦	kPhonetic	56
 U+30A6E 𰩮	kPhonetic	269*
 U+30A72 𰩲	kPhonetic	820A*
 U+30A79 𰩹	kPhonetic	1380*
+U+30A8F 𰪏	kPhonetic	825*
 U+30B01 𰬁	kPhonetic	1042*
 U+30B0D 𰬍	kPhonetic	550*
 U+30B10 𰬐	kPhonetic	636*
