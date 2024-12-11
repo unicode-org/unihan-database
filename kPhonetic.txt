@@ -1267,6 +1267,7 @@ U+4938 䤸	kPhonetic	1400*
 U+4939 䤹	kPhonetic	1141*
 U+493C 䤼	kPhonetic	280
 U+493E 䤾	kPhonetic	1599*
+U+4946 䥆	kPhonetic	566*
 U+4947 䥇	kPhonetic	1202*
 U+494A 䥊	kPhonetic	16*
 U+495D 䥝	kPhonetic	1503
