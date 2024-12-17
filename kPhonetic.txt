@@ -9281,7 +9281,7 @@ U+7AC4 竄	kPhonetic	276 278 1237
 U+7AC5 竅	kPhonetic	635
 U+7AC7 竇	kPhonetic	1395
 U+7AC8 竈	kPhonetic	225
-U+7ACA 竊	kPhonetic	215 1214
+U+7ACA 竊	kPhonetic	1214
 U+7ACB 立	kPhonetic	767
 U+7ACD 竍	kPhonetic	767
 U+7ACF 竏	kPhonetic	767
