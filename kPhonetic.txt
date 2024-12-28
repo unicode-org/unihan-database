@@ -231,7 +231,7 @@ U+37FF 㟿	kPhonetic	924*
 U+3800 㠀	kPhonetic	982 1355
 U+3807 㠇	kPhonetic	86*
 U+3808 㠈	kPhonetic	1651A*
-U+380A 㠊	kPhonetic	458
+U+380A 㠊	kPhonetic	515*
 U+380C 㠌	kPhonetic	452*
 U+380F 㠏	kPhonetic	1410*
 U+3811 㠑	kPhonetic	291*
@@ -4366,7 +4366,7 @@ U+5DBD 嶽	kPhonetic	1649
 U+5DBF 嶿	kPhonetic	1250*
 U+5DC2 巂	kPhonetic	285 293 720
 U+5DC3 巃	kPhonetic	856
-U+5DC7 巇	kPhonetic	458
+U+5DC7 巇	kPhonetic	458*
 U+5DC9 巉	kPhonetic	24
 U+5DCB 巋	kPhonetic	708
 U+5DCD 巍	kPhonetic	961
@@ -5178,7 +5178,7 @@ U+6228 戨	kPhonetic	643*
 U+6229 戩	kPhonetic	311
 U+622A 截	kPhonetic	210
 U+622E 戮	kPhonetic	819
-U+622F 戯	kPhonetic	458
+U+622F 戯	kPhonetic	458* 515*
 U+6230 戰	kPhonetic	1294
 U+6231 戱	kPhonetic	458 515
 U+6232 戲	kPhonetic	458
