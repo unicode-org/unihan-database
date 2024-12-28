@@ -3148,7 +3148,7 @@ U+5614 嘔	kPhonetic	678
 U+5615 嘕	kPhonetic	1576
 U+5616 嘖	kPhonetic	16
 U+5617 嘗	kPhonetic	1167
-U+5618 嘘	kPhonetic	515
+U+5618 嘘	kPhonetic	515*
 U+561B 嘛	kPhonetic	862
 U+561C 嘜	kPhonetic	874
 U+561D 嘝	kPhonetic	522*
@@ -3190,7 +3190,7 @@ U+564E 噎	kPhonetic	1500
 U+564F 噏	kPhonetic	1497
 U+5650 噐	kPhonetic	459
 U+5651 噑	kPhonetic	639
-U+5653 噓	kPhonetic	515*
+U+5653 噓	kPhonetic	515
 U+5654 噔	kPhonetic	1315
 U+5658 噘	kPhonetic	668
 U+5659 噙	kPhonetic	569
