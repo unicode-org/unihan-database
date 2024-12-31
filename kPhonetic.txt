@@ -14577,6 +14577,7 @@ U+9A66 驦	kPhonetic	1161
 U+9A69 驩	kPhonetic	761
 U+9A6A 驪	kPhonetic	772
 U+9A6C 马	kPhonetic	863
+U+9A6D 驭	kPhonetic	950* 1519* 1618*
 U+9A72 驲	kPhonetic	1560*
 U+9A73 驳	kPhonetic	553*
 U+9A74 驴	kPhonetic	820A* 1462*
