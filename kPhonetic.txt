@@ -324,6 +324,7 @@ U+3930 㤰	kPhonetic	248*
 U+3932 㤲	kPhonetic	550*
 U+3937 㤷	kPhonetic	497*
 U+3939 㤹	kPhonetic	592*
+U+393D 㤽	kPhonetic	1149*
 U+393F 㤿	kPhonetic	1562*
 U+3944 㥄	kPhonetic	810*
 U+3946 㥆	kPhonetic	1372*
@@ -1077,6 +1078,7 @@ U+44CA 䓊	kPhonetic	947*
 U+44CC 䓌	kPhonetic	143*
 U+44CD 䓍	kPhonetic	502*
 U+44D2 䓒	kPhonetic	1034
+U+44D3 䓓	kPhonetic	1149*
 U+44DB 䓛	kPhonetic	1449*
 U+44DD 䓝	kPhonetic	868*
 U+44DF 䓟	kPhonetic	80*
@@ -13899,6 +13901,7 @@ U+9661 陡	kPhonetic	82
 U+9662 院	kPhonetic	1624
 U+9663 陣	kPhonetic	63A 1126
 U+9664 除	kPhonetic	300 1610
+U+9666 陦	kPhonetic	1149*
 U+9667 陧	kPhonetic	981
 U+9669 险	kPhonetic	182*
 U+966A 陪	kPhonetic	1028
@@ -16522,6 +16525,7 @@ U+24F45 𤽅	kPhonetic	963*
 U+24F4A 𤽊	kPhonetic	1030*
 U+24F63 𤽣	kPhonetic	1059*
 U+24F66 𤽦	kPhonetic	362*
+U+24F6F 𤽯	kPhonetic	1149*
 U+24F72 𤽲	kPhonetic	940*
 U+24F80 𤾀	kPhonetic	16*
 U+24FAC 𤾬	kPhonetic	935*
@@ -16784,6 +16788,7 @@ U+25E6B 𥹫	kPhonetic	873*
 U+25E71 𥹱	kPhonetic	1507*
 U+25E74 𥹴	kPhonetic	1071*
 U+25E7E 𥹾	kPhonetic	405*
+U+25E85 𥺅	kPhonetic	1149*
 U+25E9A 𥺚	kPhonetic	1192*
 U+25E9D 𥺝	kPhonetic	80*
 U+25EB7 𥺷	kPhonetic	1449*
@@ -17763,6 +17768,7 @@ U+29630 𩘰	kPhonetic	1002A*
 U+29631 𩘱	kPhonetic	1278*
 U+2963B 𩘻	kPhonetic	734A*
 U+29652 𩙒	kPhonetic	1062*
+U+29667 𩙧	kPhonetic	1149*
 U+29679 𩙹	kPhonetic	410*
 U+296A6 𩚦	kPhonetic	215*
 U+296E0 𩛠	kPhonetic	236*
@@ -17917,6 +17923,7 @@ U+29DEF 𩷯	kPhonetic	1644*
 U+29E72 𩹲	kPhonetic	381
 U+29F7D 𩽽	kPhonetic	17*
 U+29F81 𩾁	kPhonetic	592*
+U+29F82 𩾂	kPhonetic	1149*
 U+29F8C 𩾌	kPhonetic	504*
 U+29FA2 𩾢	kPhonetic	1558*
 U+29FB8 𩾸	kPhonetic	58*
@@ -18116,6 +18123,7 @@ U+2AA78 𪩸	kPhonetic	1020*
 U+2AA9D 𪪝	kPhonetic	1653*
 U+2AAB4 𪪴	kPhonetic	1560*
 U+2AAD1 𪫑	kPhonetic	1428*
+U+2AAF7 𪫷	kPhonetic	1149*
 U+2AAFA 𪫺	kPhonetic	182*
 U+2AB46 𪭆	kPhonetic	721*
 U+2AB5F 𪭟	kPhonetic	950*
@@ -18135,6 +18143,7 @@ U+2AE37 𪸷	kPhonetic	850*
 U+2AE40 𪹀	kPhonetic	1560*
 U+2AE63 𪹣	kPhonetic	515*
 U+2AE88 𪺈	kPhonetic	721A*
+U+2AEA3 𪺣	kPhonetic	1149*
 U+2AEB9 𪺹	kPhonetic	984*
 U+2AED1 𪻑	kPhonetic	660*
 U+2AEE7 𪻧	kPhonetic	850*
@@ -18142,6 +18151,7 @@ U+2AF24 𪼤	kPhonetic	179*
 U+2AF58 𪽘	kPhonetic	850*
 U+2AF6E 𪽮	kPhonetic	820A*
 U+2AFA6 𪾦	kPhonetic	820A*
+U+2AFDE 𪿞	kPhonetic	1149*
 U+2B029 𫀩	kPhonetic	950*
 U+2B05F 𫁟	kPhonetic	269*
 U+2B0A0 𫂠	kPhonetic	1437*
@@ -18225,6 +18235,9 @@ U+2B701 𫜁	kPhonetic	1013*
 U+2B705 𫜅	kPhonetic	1419*
 U+2B714 𫜔	kPhonetic	1029*
 U+2B72A 𫜪	kPhonetic	553*
+U+2B737 𫜷	kPhonetic	1149*
+U+2B769 𫝩	kPhonetic	1149*
+U+2B775 𫝵	kPhonetic	1149*
 U+2B7A3 𫞣	kPhonetic	185*
 U+2B7C3 𫟃	kPhonetic	1476*
 U+2B7E5 𫟥	kPhonetic	63*
@@ -18257,6 +18270,7 @@ U+2BE8A 𫺊	kPhonetic	56
 U+2BE98 𫺘	kPhonetic	821*
 U+2BF1D 𫼝	kPhonetic	234*
 U+2BF71 𫽱	kPhonetic	245*
+U+2BFB3 𫾳	kPhonetic	1149*
 U+2C029 𬀩	kPhonetic	1433*
 U+2C02E 𬀮	kPhonetic	1390*
 U+2C03B 𬀻	kPhonetic	850*
@@ -18271,6 +18285,7 @@ U+2C1C7 𬇇	kPhonetic	1347*
 U+2C1D8 𬇘	kPhonetic	269*
 U+2C24B 𬉋	kPhonetic	1432*
 U+2C282 𬊂	kPhonetic	234*
+U+2C28D 𬊍	kPhonetic	1149*
 U+2C297 𬊗	kPhonetic	21*
 U+2C2A4 𬊤	kPhonetic	1294*
 U+2C2C5 𬋅	kPhonetic	1437*
@@ -18349,6 +18364,7 @@ U+2CDA0 𬶠	kPhonetic	549*
 U+2CDAC 𬶬	kPhonetic	515*
 U+2CDB5 𬶵	kPhonetic	1419*
 U+2CE05 𬸅	kPhonetic	234*
+U+2CE0D 𬸍	kPhonetic	1149*
 U+2CE1C 𬸜	kPhonetic	1042*
 U+2CE2A 𬸪	kPhonetic	338*
 U+2CE36 𬸶	kPhonetic	119*
@@ -18397,6 +18413,7 @@ U+2E261 𮉡	kPhonetic	820A*
 U+2E274 𮉴	kPhonetic	236*
 U+2E2CD 𮋍	kPhonetic	1437*
 U+2E314 𮌔	kPhonetic	637
+U+2E38D 𮎍	kPhonetic	1149*
 U+2E3DD 𮏝	kPhonetic	178*
 U+2E546 𮕆	kPhonetic	1257A*
 U+2E589 𮖉	kPhonetic	236*
@@ -18405,6 +18422,7 @@ U+2E64B 𮙋	kPhonetic	1395*
 U+2E654 𮙔	kPhonetic	405*
 U+2E681 𮚁	kPhonetic	56
 U+2E712 𮜒	kPhonetic	23*
+U+2E736 𮜶	kPhonetic	1149*
 U+2E777 𮝷	kPhonetic	1020*
 U+2E779 𮝹	kPhonetic	1419*
 U+2E833 𮠳	kPhonetic	23*
@@ -18500,6 +18518,7 @@ U+3084F 𰡏	kPhonetic	700*
 U+30854 𰡔	kPhonetic	21*
 U+3085E 𰡞	kPhonetic	1020*
 U+30875 𰡵	kPhonetic	820A*
+U+3087D 𰡽	kPhonetic	1149*
 U+308EC 𰣬	kPhonetic	56
 U+30915 𰤕	kPhonetic	972*
 U+309B0 𰦰	kPhonetic	1560*
