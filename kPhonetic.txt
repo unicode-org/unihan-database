@@ -18289,6 +18289,7 @@ U+2B72A 𫜪	kPhonetic	553*
 U+2B737 𫜷	kPhonetic	1149*
 U+2B769 𫝩	kPhonetic	1149*
 U+2B775 𫝵	kPhonetic	1149*
+U+2B77A 𫝺	kPhonetic	1280*
 U+2B7A3 𫞣	kPhonetic	185*
 U+2B7C3 𫟃	kPhonetic	1476*
 U+2B7E5 𫟥	kPhonetic	63*
