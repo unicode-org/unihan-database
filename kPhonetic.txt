@@ -18780,6 +18780,7 @@ U+315F3 𱗳	kPhonetic	747*
 U+31638 𱘸	kPhonetic	832*
 U+31648 𱙈	kPhonetic	950*
 U+3164B 𱙋	kPhonetic	820A*
+U+316FF 𱛿	kPhonetic	1409*
 U+31709 𱜉	kPhonetic	410*
 U+3172F 𱜯	kPhonetic	1042*
 U+31735 𱜵	kPhonetic	1437*
