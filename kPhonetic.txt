@@ -2197,7 +2197,7 @@ U+50ED 僭	kPhonetic	25
 U+50EE 僮	kPhonetic	1406
 U+50F0 僰	kPhonetic	613
 U+50F1 僱	kPhonetic	757
-U+50F4 僴	kPhonetic	422 547
+U+50F4 僴	kPhonetic	547
 U+50F5 僵	kPhonetic	607
 U+50F8 僸	kPhonetic	567*
 U+50F9 價	kPhonetic	535
@@ -7519,7 +7519,7 @@ U+6F90 澐	kPhonetic	1441A
 U+6F92 澒	kPhonetic	506
 U+6F94 澔	kPhonetic	483
 U+6F96 澖	kPhonetic	423*
-U+6F97 澗	kPhonetic	422 547
+U+6F97 澗	kPhonetic	547
 U+6F98 澘	kPhonetic	776 1105
 U+6F9C 澜	kPhonetic	766*
 U+6F9E 澞	kPhonetic	1604*
@@ -8605,12 +8605,12 @@ U+7642 療	kPhonetic	817
 U+7643 癃	kPhonetic	857
 U+7645 癅	kPhonetic	782
 U+7646 癆	kPhonetic	821*
-U+7647 癇	kPhonetic	422*
+U+7647 癇	kPhonetic	422
 U+7648 癈	kPhonetic	346
 U+7649 癉	kPhonetic	1294
 U+764C 癌	kPhonetic	956
 U+764D 癍	kPhonetic	1005A
-U+764E 癎	kPhonetic	422 547
+U+764E 癎	kPhonetic	547
 U+764F 癏	kPhonetic	1419*
 U+7650 癐	kPhonetic	1466*
 U+7652 癒	kPhonetic	1611A
@@ -8872,7 +8872,7 @@ U+77AD 瞭	kPhonetic	817
 U+77B0 瞰	kPhonetic	651
 U+77B3 瞳	kPhonetic	1406
 U+77B6 瞶	kPhonetic	716
-U+77B7 瞷	kPhonetic	422 547
+U+77B7 瞷	kPhonetic	547
 U+77BA 瞺	kPhonetic	1466*
 U+77BB 瞻	kPhonetic	179
 U+77BC 瞼	kPhonetic	182
@@ -9594,7 +9594,7 @@ U+7C1D 簝	kPhonetic	817
 U+7C1E 簞	kPhonetic	1294
 U+7C1F 簟	kPhonetic	1292
 U+7C20 簠	kPhonetic	386
-U+7C21 簡	kPhonetic	422 547
+U+7C21 簡	kPhonetic	547
 U+7C23 簣	kPhonetic	716
 U+7C26 簦	kPhonetic	1315
 U+7C27 簧	kPhonetic	1458
@@ -16816,6 +16816,7 @@ U+25CB0 𥲰	kPhonetic	960*
 U+25CC8 𥳈	kPhonetic	297*
 U+25CC9 𥳉	kPhonetic	1354*
 U+25CCD 𥳍	kPhonetic	62
+U+25CD1 𥳑	kPhonetic	422
 U+25CE1 𥳡	kPhonetic	1020*
 U+25D26 𥴦	kPhonetic	1257A*
 U+25D27 𥴧	kPhonetic	675A
