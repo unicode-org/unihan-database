@@ -155,6 +155,7 @@ U+36D5 㛕	kPhonetic	1496*
 U+36D6 㛖	kPhonetic	313*
 U+36D7 㛗	kPhonetic	236*
 U+36DA 㛚	kPhonetic	1660*
+U+36E0 㛠	kPhonetic	547*
 U+36E5 㛥	kPhonetic	1303*
 U+36EA 㛪	kPhonetic	1562*
 U+36EB 㛫	kPhonetic	1559*
@@ -7209,6 +7210,7 @@ U+6D9D 涝	kPhonetic	821*
 U+6D9E 涞	kPhonetic	829
 U+6DA1 涡	kPhonetic	700*
 U+6DA5 涥	kPhonetic	433*
+U+6DA7 涧	kPhonetic	547*
 U+6DA9 涩	kPhonetic	1185
 U+6DAA 涪	kPhonetic	1028
 U+6DAB 涫	kPhonetic	397 760
@@ -9503,6 +9505,7 @@ U+7B78 筸	kPhonetic	502
 U+7B79 筹	kPhonetic	1149*
 U+7B7D 筽	kPhonetic	948*
 U+7B7E 签	kPhonetic	182* 183
+U+7B80 简	kPhonetic	547*
 U+7B81 箁	kPhonetic	1028*
 U+7B84 箄	kPhonetic	1029
 U+7B87 箇	kPhonetic	758
@@ -11727,6 +11730,7 @@ U+88DF 裟	kPhonetic	1096
 U+88E0 裠	kPhonetic	722
 U+88E1 裡	kPhonetic	789
 U+88E3 裣	kPhonetic	182*
+U+88E5 裥	kPhonetic	547*
 U+88E7 裧	kPhonetic	1568
 U+88E8 裨	kPhonetic	1029
 U+88EA 裪	kPhonetic	1362*
@@ -13735,6 +13739,7 @@ U+9509 锉	kPhonetic	236*
 U+950A 锊	kPhonetic	835
 U+950B 锋	kPhonetic	405*
 U+950C 锌	kPhonetic	242*
+U+950F 锏	kPhonetic	547*
 U+9515 锕	kPhonetic	3*
 U+9518 锘	kPhonetic	1526*
 U+9519 错	kPhonetic	1194*
@@ -13862,7 +13867,7 @@ U+95E8 门	kPhonetic	929
 U+95EB 闫	kPhonetic	1100
 U+95EF 闯	kPhonetic	255*
 U+95F1 闱	kPhonetic	1433*
-U+95F2 闲	kPhonetic	422* 423*
+U+95F2 闲	kPhonetic	422* 423* 547*
 U+95F4 间	kPhonetic	422* 547
 U+95F6 闶	kPhonetic	660*
 U+95F9 闹	kPhonetic	1321*
@@ -17395,6 +17400,7 @@ U+28044 𨁄	kPhonetic	502*
 U+2804E 𨁎	kPhonetic	204*
 U+2804F 𨁏	kPhonetic	386*
 U+28061 𨁡	kPhonetic	1369*
+U+28074 𨁴	kPhonetic	547*
 U+2807F 𨁿	kPhonetic	1323*
 U+28081 𨂁	kPhonetic	1562*
 U+28083 𨂃	kPhonetic	1024*
@@ -18299,6 +18305,7 @@ U+2B1B5 𫆵	kPhonetic	1437*
 U+2B1E0 𫇠	kPhonetic	1149*
 U+2B1E6 𫇦	kPhonetic	1587
 U+2B1F4 𫇴	kPhonetic	234*
+U+2B209 𫈉	kPhonetic	547*
 U+2B2A7 𫊧	kPhonetic	215*
 U+2B2AE 𫊮	kPhonetic	820A*
 U+2B2B8 𫊸	kPhonetic	636*
@@ -18403,6 +18410,7 @@ U+2BE12 𫸒	kPhonetic	850*
 U+2BE81 𫺁	kPhonetic	550*
 U+2BE82 𫺂	kPhonetic	550*
 U+2BE8A 𫺊	kPhonetic	56
+U+2BE92 𫺒	kPhonetic	547*
 U+2BE98 𫺘	kPhonetic	821*
 U+2BF1D 𫼝	kPhonetic	234*
 U+2BF4B 𫽋	kPhonetic	828*
@@ -18441,6 +18449,7 @@ U+2C3F7 𬏷	kPhonetic	1020*
 U+2C446 𬑆	kPhonetic	851*
 U+2C452 𬑒	kPhonetic	1598*
 U+2C454 𬑔	kPhonetic	324
+U+2C457 𬑗	kPhonetic	547*
 U+2C493 𬒓	kPhonetic	828*
 U+2C4CC 𬓌	kPhonetic	832*
 U+2C4E0 𬓠	kPhonetic	598*
@@ -18478,6 +18487,7 @@ U+2C9E3 𬧣	kPhonetic	683*
 U+2CA0C 𬨌	kPhonetic	1029*
 U+2CA60 𬩠	kPhonetic	469*
 U+2CAA8 𬪨	kPhonetic	185*
+U+2CAAB 𬪫	kPhonetic	547*
 U+2CB2D 𬬭	kPhonetic	851*
 U+2CB3B 𬬻	kPhonetic	820A*
 U+2CB4C 𬭌	kPhonetic	948*
@@ -18549,6 +18559,7 @@ U+2DA3F 𭨿	kPhonetic	1042*
 U+2DA70 𭩰	kPhonetic	346*
 U+2DBA3 𭮣	kPhonetic	547*
 U+2DC2A 𭰪	kPhonetic	763*
+U+2DD33 𭴳	kPhonetic	547*
 U+2DDB3 𭶳	kPhonetic	1042*
 U+2DDC8 𭷈	kPhonetic	1149*
 U+2DDF7 𭷷	kPhonetic	828*
@@ -18606,6 +18617,7 @@ U+2EE0F 𮸏	kPhonetic	313*
 U+2EE38 𮸸	kPhonetic	1042*
 U+2EE5C 𮹜	kPhonetic	1573*
 U+30019 𰀙	kPhonetic	1042*
+U+3008B 𰂋	kPhonetic	547*
 U+3008E 𰂎	kPhonetic	422*
 U+3008F 𰂏	kPhonetic	1395*
 U+300A6 𰂦	kPhonetic	843*
@@ -18690,9 +18702,11 @@ U+3085E 𰡞	kPhonetic	1020*
 U+30875 𰡵	kPhonetic	820A*
 U+3087D 𰡽	kPhonetic	1149*
 U+308EC 𰣬	kPhonetic	56
+U+308EF 𰣯	kPhonetic	547*
 U+30915 𰤕	kPhonetic	972*
 U+30968 𰥨	kPhonetic	422*
 U+309B0 𰦰	kPhonetic	1560*
+U+309C3 𰧃	kPhonetic	547*
 U+309D4 𰧔	kPhonetic	544*
 U+309E7 𰧧	kPhonetic	615A*
 U+309FB 𰧻	kPhonetic	1466*
@@ -18707,6 +18721,7 @@ U+30B0D 𰬍	kPhonetic	550*
 U+30B10 𰬐	kPhonetic	636*
 U+30B13 𰬓	kPhonetic	490*
 U+30B14 𰬔	kPhonetic	1055*
+U+30B1D 𰬝	kPhonetic	547*
 U+30B24 𰬤	kPhonetic	1029*
 U+30B29 𰬩	kPhonetic	1261*
 U+30B2A 𰬪	kPhonetic	23*
@@ -18736,7 +18751,9 @@ U+30CB9 𰲹	kPhonetic	454*
 U+30CC2 𰳂	kPhonetic	21*
 U+30CF8 𰳸	kPhonetic	1390*
 U+30D02 𰴂	kPhonetic	23*
+U+30D18 𰴘	kPhonetic	547*
 U+30D22 𰴢	kPhonetic	972*
+U+30D25 𰴥	kPhonetic	547*
 U+30D26 𰴦	kPhonetic	547*
 U+30D2F 𰴯	kPhonetic	1587*
 U+30D5A 𰵚	kPhonetic	812*
@@ -18806,6 +18823,7 @@ U+31167 𱅧	kPhonetic	515*
 U+3116A 𱅪	kPhonetic	1292*
 U+3116C 𱅬	kPhonetic	1573*
 U+3116E 𱅮	kPhonetic	1598*
+U+31180 𱆀	kPhonetic	547*
 U+31181 𱆁	kPhonetic	422*
 U+31199 𱆙	kPhonetic	1598*
 U+3119B 𱆛	kPhonetic	1149*
