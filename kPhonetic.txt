@@ -3641,7 +3641,7 @@ U+58E4 壤	kPhonetic	1160
 U+58E9 壩	kPhonetic	997
 U+58EB 士	kPhonetic	1181
 U+58EC 壬	kPhonetic	1346 1476
-U+58EE 壮	kPhonetic	121
+U+58EE 壮	kPhonetic	121*
 U+58EF 壯	kPhonetic	121 252
 U+58F0 声	kPhonetic	477 1205A
 U+58F3 壳	kPhonetic	493
