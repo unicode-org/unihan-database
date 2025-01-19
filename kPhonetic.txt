@@ -6393,7 +6393,7 @@ U+68A0 梠	kPhonetic	840
 U+68A1 梡	kPhonetic	1624
 U+68A2 梢	kPhonetic	220
 U+68A3 梣	kPhonetic	1122*
-U+68A6 梦	kPhonetic	776
+U+68A6 梦	kPhonetic	776 934
 U+68A7 梧	kPhonetic	947
 U+68A8 梨	kPhonetic	790
 U+68A9 梩	kPhonetic	789
