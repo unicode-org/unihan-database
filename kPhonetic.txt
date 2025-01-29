@@ -7784,6 +7784,7 @@ U+70D5 烕	kPhonetic	514A 907 1279
 U+70D6 烖	kPhonetic	238
 U+70D8 烘	kPhonetic	693
 U+70D9 烙	kPhonetic	646
+U+70DB 烛	kPhonetic	1264*
 U+70DC 烜	kPhonetic	1467
 U+70DD 烝	kPhonetic	1210
 U+70DF 烟	kPhonetic	1480
@@ -13899,6 +13900,7 @@ U+9566 镦	kPhonetic	1398*
 U+9567 镧	kPhonetic	766*
 U+956B 镫	kPhonetic	1315*
 U+956E 镮	kPhonetic	1419*
+U+956F 镯	kPhonetic	1264*
 U+9571 镱	kPhonetic	1535*
 U+9572 镲	kPhonetic	45*
 U+9573 镳	kPhonetic	1062*
@@ -19143,6 +19145,7 @@ U+31036 𱀶	kPhonetic	615A*
 U+31052 𱁒	kPhonetic	1390*
 U+31077 𱁷	kPhonetic	1395*
 U+31089 𱂉	kPhonetic	220*
+U+3108B 𱂋	kPhonetic	1264*
 U+3109C 𱂜	kPhonetic	1081*
 U+310A3 𱂣	kPhonetic	1598*
 U+310A5 𱂥	kPhonetic	646*
@@ -19194,6 +19197,7 @@ U+3127E 𱉾	kPhonetic	313*
 U+3127F 𱉿	kPhonetic	313*
 U+31280 𱊀	kPhonetic	850*
 U+3129A 𱊚	kPhonetic	63*
+U+312AC 𱊬	kPhonetic	1264*
 U+312AF 𱊯	kPhonetic	635*
 U+312B0 𱊰	kPhonetic	1535*
 U+312B3 𱊳	kPhonetic	841*
