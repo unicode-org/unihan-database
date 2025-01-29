@@ -7693,7 +7693,7 @@ U+7027 瀧	kPhonetic	856
 U+7028 瀨	kPhonetic	764
 U+7030 瀰	kPhonetic	945
 U+7032 瀲	kPhonetic	806
-U+7033 瀳	kPhonetic	144*
+U+7033 瀳	kPhonetic	189*
 U+7035 瀵	kPhonetic	354
 U+7038 瀸	kPhonetic	183
 U+7039 瀹	kPhonetic	1527
