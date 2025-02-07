@@ -3,6 +3,7 @@ U+346F 㑯	kSimplifiedVariant	U+3454
 U+3473 㑳	kSimplifiedVariant	U+3447
 U+3476 㑶	kSimplifiedVariant	U+3439
 U+3493 㒓	kSimplifiedVariant	U+20242
+U+3496 㒖	kSimplifiedVariant	U+2EBF5
 U+349C 㒜	kSimplifiedVariant	U+201D0
 U+34A3 㒣	kSimplifiedVariant	U+2CF96
 U+34BF 㒿	kSimplifiedVariant	U+305A9
@@ -39,23 +40,28 @@ U+3662 㙢	kSimplifiedVariant	U+3029F
 U+366C 㙬	kSimplifiedVariant	U+2BB9C
 U+367A 㙺	kSimplifiedVariant	U+3029B
 U+367E 㙾	kSimplifiedVariant	U+3027D
+U+36CD 㛍	kSimplifiedVariant	U+2EC3F
 U+36DD 㛝	kSimplifiedVariant	U+2B766
 U+3704 㜄	kSimplifiedVariant	U+36AF
 U+370F 㜏	kSimplifiedVariant	U+36E3
 U+3710 㜐	kSimplifiedVariant	U+2B767
+U+3715 㜕	kSimplifiedVariant	U+2EC47
 U+3717 㜗	kSimplifiedVariant	U+2178B
 U+371E 㜞	kSimplifiedVariant	U+30306
 U+3722 㜢	kSimplifiedVariant	U+217B1
 U+3725 㜥	kSimplifiedVariant	U+2BC28
 U+372D 㜭	kSimplifiedVariant	U+2BC20
 U+372E 㜮	kSimplifiedVariant	U+2BC55
+U+3730 㜰	kSimplifiedVariant	U+2EC3D
 U+3737 㜷	kSimplifiedVariant	U+21760
 U+373A 㜺	kSimplifiedVariant	U+2BC97
 U+375E 㝞	kSimplifiedVariant	U+2BCC3
 U+375F 㝟	kSimplifiedVariant	U+2B938
 U+379E 㞞	kSimplifiedVariant	U+2AA0A
+U+37E6 㟦	kSimplifiedVariant	U+2EC69
 U+37FA 㟺	kSimplifiedVariant	U+2AA47
 U+3801 㠁	kSimplifiedVariant	U+2BD85
+U+3806 㠆	kSimplifiedVariant	U+2EC6F
 U+380F 㠏	kSimplifiedVariant	U+37C6
 U+3820 㠠	kSimplifiedVariant	U+30390
 U+3823 㠣	kSimplifiedVariant	U+2BD77
@@ -71,6 +77,7 @@ U+398E 㦎	kSimplifiedVariant	U+226EF
 U+3996 㦖	kSimplifiedVariant	U+2BE93
 U+399B 㦛	kSimplifiedVariant	U+225D3
 U+399E 㦞	kSimplifiedVariant	U+2AAF7
+U+39A1 㦡	kSimplifiedVariant	U+2EC83
 U+39A6 㦦	kSimplifiedVariant	U+2BEC1
 U+39AC 㦬	kSimplifiedVariant	U+3046B
 U+39AD 㦭	kSimplifiedVariant	U+2D74B
@@ -90,17 +97,20 @@ U+3A77 㩷	kSimplifiedVariant	U+30532
 U+3A79 㩹	kSimplifiedVariant	U+22DA3
 U+3A8E 㪎	kSimplifiedVariant	U+2ABCB
 U+3AB9 㪹	kSimplifiedVariant	U+2C5A0
+U+3B22 㬢	kSimplifiedVariant	U+2EC9B
 U+3B23 㬣	kSimplifiedVariant	U+2C02E
 U+3B2E 㬮	kSimplifiedVariant	U+305A0
 U+3B93 㮓	kSimplifiedVariant	U+23572
 U+3B9D 㮝	kSimplifiedVariant	U+23497
 U+3BB2 㮲	kSimplifiedVariant	U+305D9
+U+3BBF 㮿	kSimplifiedVariant	U+2ECB0
 U+3BC2 㯂	kSimplifiedVariant	U+30600
 U+3BC6 㯆	kSimplifiedVariant	U+305E1
 U+3BE4 㯤	kSimplifiedVariant	U+23610
 U+3BF8 㯸	kSimplifiedVariant	U+305E6
 U+3BFC 㯼	kSimplifiedVariant	U+23665
 U+3C02 㰂	kSimplifiedVariant	U+305F5
+U+3C04 㰄	kSimplifiedVariant	U+2ECB6
 U+3C05 㰅	kSimplifiedVariant	U+2DAD9
 U+3C0D 㰍	kSimplifiedVariant	U+2CE9C
 U+3C30 㰰	kSimplifiedVariant	U+2C162
@@ -139,6 +149,8 @@ U+3E91 㺑	kSimplifiedVariant	U+2C337
 U+3E9C 㺜	kSimplifiedVariant	U+2AEBB
 U+3EF6 㻶	kSimplifiedVariant	U+2AF0B
 U+3EFD 㻽	kSimplifiedVariant	U+3EEA
+U+3F00 㼀	kSimplifiedVariant	U+2ED18
+U+3F01 㼁	kSimplifiedVariant	U+2ED02
 U+3F06 㼆	kSimplifiedVariant	U+2C386
 U+3F08 㼈	kSimplifiedVariant	U+2DE5C
 U+3F3B 㼻	kSimplifiedVariant	U+2C3A7
@@ -174,6 +186,7 @@ U+4173 䅳	kSimplifiedVariant	U+2B02C
 U+4185 䆅	kSimplifiedVariant	U+30A33
 U+4189 䆉	kSimplifiedVariant	U+2B042
 U+41D3 䇓	kSimplifiedVariant	U+30A67
+U+4246 䉆	kSimplifiedVariant	U+2ED6E
 U+424D 䉍	kSimplifiedVariant	U+2C54A
 U+4250 䉐	kSimplifiedVariant	U+2C55B
 U+4251 䉑	kSimplifiedVariant	U+2B072
@@ -239,6 +252,7 @@ U+44E3 䓣	kSimplifiedVariant	U+2C72F
 U+4507 䔇	kSimplifiedVariant	U+30C34
 U+4508 䔈	kSimplifiedVariant	U+30C40
 U+4521 䔡	kSimplifiedVariant	U+2C741
+U+454F 䕏	kSimplifiedVariant	U+2ED9D
 U+4561 䕡	kSimplifiedVariant	U+30C69
 U+4564 䕤	kSimplifiedVariant	U+2B7D5
 U+4573 䕳	kSimplifiedVariant	U+26C34
@@ -277,6 +291,7 @@ U+46E4 䛤	kSimplifiedVariant	U+2C8F9
 U+46EC 䛬	kSimplifiedVariant	U+2C901
 U+46ED 䛭	kSimplifiedVariant	U+30D70
 U+46F3 䛳	kSimplifiedVariant	U+2B36B
+U+46F4 䛴	kSimplifiedVariant	U+2EDC8
 U+46FD 䛽	kSimplifiedVariant	U+2C90C
 U+46FF 䛿	kSimplifiedVariant	U+2C911
 U+4700 䜀	kSimplifiedVariant	U+4727
@@ -303,7 +318,6 @@ U+4788 䞈	kSimplifiedVariant	U+27E51
 U+4789 䞉	kSimplifiedVariant	U+30DE9
 U+478B 䞋	kSimplifiedVariant	U+2B3AA
 U+4793 䞓	kSimplifiedVariant	U+2B3AD
-U+47B6 䞶	kSimplifiedVariant	U+2C985
 U+47C3 䟃	kSimplifiedVariant	U+2B3BA
 U+47C6 䟆	kSimplifiedVariant	U+2B3B3
 U+47CF 䟏	kSimplifiedVariant	U+30DF4
@@ -316,6 +330,7 @@ U+4829 䠩	kSimplifiedVariant	U+30E0A
 U+482E 䠮	kSimplifiedVariant	U+2C9C3
 U+4831 䠱	kSimplifiedVariant	U+2815B
 U+4841 䡁	kSimplifiedVariant	U+2C9E2
+U+4844 䡄	kSimplifiedVariant	U+2EDD6
 U+4845 䡅	kSimplifiedVariant	U+30E73
 U+4847 䡇	kSimplifiedVariant	U+30E77
 U+484A 䡊	kSimplifiedVariant	U+30E7A
@@ -344,6 +359,7 @@ U+4928 䤨	kSimplifiedVariant	U+30F78
 U+4929 䤩	kSimplifiedVariant	U+2CB48
 U+492A 䤪	kSimplifiedVariant	U+2CB46
 U+492C 䤬	kSimplifiedVariant	U+30F88
+U+492D 䤭	kSimplifiedVariant	U+2EE0C
 U+4935 䤵	kSimplifiedVariant	U+30F90
 U+4938 䤸	kSimplifiedVariant	U+30FA6
 U+493B 䤻	kSimplifiedVariant	U+30F96
@@ -351,6 +367,7 @@ U+493C 䤼	kSimplifiedVariant	U+2CB63
 U+4944 䥄	kSimplifiedVariant	U+2B800
 U+4947 䥇	kSimplifiedVariant	U+4982
 U+4951 䥑	kSimplifiedVariant	U+9FCF
+U+4953 䥓	kSimplifiedVariant	U+2EE1E
 U+4955 䥕	kSimplifiedVariant	U+2CB6F
 U+4956 䥖	kSimplifiedVariant	U+30FBB
 U+4957 䥗	kSimplifiedVariant	U+2B50B
@@ -366,10 +383,12 @@ U+4977 䥷	kSimplifiedVariant	U+30FC7
 U+4978 䥸	kSimplifiedVariant	U+289EE
 U+498C 䦌	kSimplifiedVariant	U+2E92C
 U+498E 䦎	kSimplifiedVariant	U+30FE8
+U+4996 䦖	kSimplifiedVariant	U+2EE25
 U+4998 䦘	kSimplifiedVariant	U+28E04
 U+499B 䦛	kSimplifiedVariant	U+49B6
 U+499D 䦝	kSimplifiedVariant	U+2CBA8
 U+499F 䦟	kSimplifiedVariant	U+49B7
+U+49A3 䦣	kSimplifiedVariant	U+2EE26
 U+49AA 䦪	kSimplifiedVariant	U+30FF4
 U+49AF 䦯	kSimplifiedVariant	U+2B535
 U+49B1 䦱	kSimplifiedVariant	U+30FEB
@@ -377,6 +396,7 @@ U+49B3 䦳	kSimplifiedVariant	U+28DFF
 U+49DE 䧞	kSimplifiedVariant	U+2CBBA
 U+49E2 䧢	kSimplifiedVariant	U+28E1F
 U+4A34 䨴	kSimplifiedVariant	U+31052
+U+4A64 䩤	kSimplifiedVariant	U+2EE2E
 U+4A6B 䩫	kSimplifiedVariant	U+2CC25
 U+4A8A 䪊	kSimplifiedVariant	U+2B585
 U+4A8D 䪍	kSimplifiedVariant	U+3107D
@@ -537,6 +557,7 @@ U+4CDC 䳜	kSimplifiedVariant	U+2B6EC
 U+4CDF 䳟	kSimplifiedVariant	U+31282
 U+4CE2 䳢	kSimplifiedVariant	U+2B6F0
 U+4CE4 䳤	kSimplifiedVariant	U+2B6EE
+U+4CE5 䳥	kSimplifiedVariant	U+2EE57
 U+4CE7 䳧	kSimplifiedVariant	U+2B6FA
 U+4CE8 䳨	kSimplifiedVariant	U+2CE1B
 U+4CEB 䳫	kSimplifiedVariant	U+2B6FC
@@ -544,10 +565,12 @@ U+4CED 䳭	kSimplifiedVariant	U+3127C
 U+4CEE 䳮	kSimplifiedVariant	U+31293
 U+4CF2 䳲	kSimplifiedVariant	U+31299
 U+4CFA 䳺	kSimplifiedVariant	U+312A3
+U+4CFD 䳽	kSimplifiedVariant	U+2EE59
 U+4D07 䴇	kSimplifiedVariant	U+312AA
 U+4D08 䴈	kSimplifiedVariant	U+2CE29
 U+4D09 䴉	kSimplifiedVariant	U+9E6E
 U+4D0B 䴋	kSimplifiedVariant	U+2B705
+U+4D0F 䴏	kSimplifiedVariant	U+2EE5C
 U+4D1A 䴚	kSimplifiedVariant	U+2EB70
 U+4D1D 䴝	kSimplifiedVariant	U+312BC
 U+4D2C 䴬	kSimplifiedVariant	U+2A388
@@ -698,6 +721,7 @@ U+5123 儣	kSimplifiedVariant	U+201B2
 U+5125 儥	kSimplifiedVariant	U+3008F
 U+5129 儩	kSimplifiedVariant	U+300AD
 U+512A 優	kSimplifiedVariant	U+4F18
+U+512E 儮	kSimplifiedVariant	U+2EBF8
 U+5130 儰	kSimplifiedVariant	U+2B8AD
 U+5131 儱	kSimplifiedVariant	U+2B892
 U+5132 儲	kSimplifiedVariant	U+50A8
@@ -737,6 +761,7 @@ U+51E0 几	kSimplifiedVariant	U+51E0
 U+51E4 凤	kSimplifiedVariant	U+51E4
 U+51ED 凭	kSimplifiedVariant	U+51ED
 U+51F1 凱	kSimplifiedVariant	U+51EF
+U+51F4 凴	kSimplifiedVariant	U+2EC09
 U+51FA 出	kSimplifiedVariant	U+51FA
 U+5212 划	kSimplifiedVariant	U+5212
 U+5218 刘	kSimplifiedVariant	U+5218
@@ -815,6 +840,7 @@ U+5389 厉	kSimplifiedVariant	U+5389
 U+538B 压	kSimplifiedVariant	U+538B
 U+5398 厘	kSimplifiedVariant	U+5398
 U+5399 厙	kSimplifiedVariant	U+538D
+U+53A0 厠	kSimplifiedVariant	U+5395
 U+53A6 厦	kSimplifiedVariant	U+53A6
 U+53A8 厨	kSimplifiedVariant	U+53A8
 U+53A9 厩	kSimplifiedVariant	U+53A9
@@ -859,12 +885,14 @@ U+5513 唓	kSimplifiedVariant	U+2A833
 U+551A 唚	kSimplifiedVariant	U+5423
 U+553B 唻	kSimplifiedVariant	U+2BA81
 U+554F 問	kSimplifiedVariant	U+95EE
+U+5553 啓	kSimplifiedVariant	U+542F
 U+555E 啞	kSimplifiedVariant	U+54D1
 U+555F 啟	kSimplifiedVariant	U+542F
 U+5562 啢	kSimplifiedVariant	U+5521
 U+5570 啰	kSimplifiedVariant	U+5570
 U+558E 喎	kSimplifiedVariant	U+359E
 U+559A 喚	kSimplifiedVariant	U+5524
+U+55A1 喡	kSimplifiedVariant	U+2EC14
 U+55AA 喪	kSimplifiedVariant	U+4E27
 U+55AC 喬	kSimplifiedVariant	U+4E54
 U+55AE 單	kSimplifiedVariant	U+5355
@@ -900,7 +928,7 @@ U+5635 嘵	kSimplifiedVariant	U+54D3
 U+5638 嘸	kSimplifiedVariant	U+5452
 U+563A 嘺	kSimplifiedVariant	U+2A840
 U+563D 嘽	kSimplifiedVariant	U+5574
-U+5641 噁	kSimplifiedVariant	U+2BAC7
+U+5641 噁	kSimplifiedVariant	U+6076 U+2BAC7
 U+5645 噅	kSimplifiedVariant	U+20BE0
 U+5653 噓	kSimplifiedVariant	U+5618
 U+565A 噚	kSimplifiedVariant	U+358A
@@ -933,6 +961,7 @@ U+56A9 嚩	kSimplifiedVariant	U+30236
 U+56AA 嚪	kSimplifiedVariant	U+2BAE6
 U+56AB 嚫	kSimplifiedVariant	U+3020D
 U+56AC 嚬	kSimplifiedVariant	U+2BAFE
+U+56AE 嚮	kSimplifiedVariant	U+5411
 U+56B1 嚱	kSimplifiedVariant	U+301E3
 U+56B2 嚲	kSimplifiedVariant	U+4EB8
 U+56B3 嚳	kSimplifiedVariant	U+55BE
@@ -950,6 +979,7 @@ U+56C7 囇	kSimplifiedVariant	U+2BA83
 U+56C8 囈	kSimplifiedVariant	U+5453
 U+56C9 囉	kSimplifiedVariant	U+5570
 U+56CB 囋	kSimplifiedVariant	U+30244
+U+56CC 囌	kSimplifiedVariant	U+82CF
 U+56D0 囐	kSimplifiedVariant	U+3022F
 U+56D1 囑	kSimplifiedVariant	U+5631
 U+56D2 囒	kSimplifiedVariant	U+2A8A0
@@ -973,6 +1003,7 @@ U+5757 块	kSimplifiedVariant	U+5757
 U+575B 坛	kSimplifiedVariant	U+575B
 U+57B5 垵	kSimplifiedVariant	U+57EF
 U+57B7 垷	kSimplifiedVariant	U+3025A
+U+57BB 垻	kSimplifiedVariant	U+575D
 U+57C9 埉	kSimplifiedVariant	U+30265
 U+57E1 埡	kSimplifiedVariant	U+57AD
 U+57E8 埨	kSimplifiedVariant	U+2BB62
@@ -1014,6 +1045,7 @@ U+58AE 墮	kSimplifiedVariant	U+5815
 U+58B3 墳	kSimplifiedVariant	U+575F
 U+58B6 墶	kSimplifiedVariant	U+57AF
 U+58B7 墷	kSimplifiedVariant	U+3026A
+U+58BB 墻	kSimplifiedVariant	U+5899
 U+58BE 墾	kSimplifiedVariant	U+57A6
 U+58BF 墿	kSimplifiedVariant	U+30263
 U+58C7 壇	kSimplifiedVariant	U+575B
@@ -1059,7 +1091,7 @@ U+5967 奧	kSimplifiedVariant	U+5965
 U+5969 奩	kSimplifiedVariant	U+5941
 U+596A 奪	kSimplifiedVariant	U+593A
 U+596B 奫	kSimplifiedVariant	U+2BBF6
-U+596C 奬	kSimplifiedVariant	U+5968
+U+596C 奬	kSimplifiedVariant	U+5956 U+5968
 U+596E 奮	kSimplifiedVariant	U+594B
 U+596F 奯	kSimplifiedVariant	U+2BBE5
 U+5972 奲	kSimplifiedVariant	U+2BC02
@@ -1098,6 +1130,7 @@ U+5AE7 嫧	kSimplifiedVariant	U+30307
 U+5AF5 嫵	kSimplifiedVariant	U+59A9
 U+5AFB 嫻	kSimplifiedVariant	U+5A34
 U+5AFF 嫿	kSimplifiedVariant	U+5A73
+U+5B00 嬀	kSimplifiedVariant	U+59AB
 U+5B03 嬃	kSimplifiedVariant	U+5AAD
 U+5B05 嬅	kSimplifiedVariant	U+2BC21
 U+5B07 嬇	kSimplifiedVariant	U+2B76C
@@ -1107,10 +1140,13 @@ U+5B0C 嬌	kSimplifiedVariant	U+5A07
 U+5B10 嬐	kSimplifiedVariant	U+2BC30
 U+5B12 嬒	kSimplifiedVariant	U+2BC22
 U+5B19 嬙	kSimplifiedVariant	U+5AF1
+U+5B1D 嬝	kSimplifiedVariant	U+2EC52
+U+5B1F 嬟	kSimplifiedVariant	U+2EC38
 U+5B21 嬡	kSimplifiedVariant	U+5AD2
 U+5B23 嬣	kSimplifiedVariant	U+2A970
 U+5B24 嬤	kSimplifiedVariant	U+5B37
 U+5B26 嬦	kSimplifiedVariant	U+2B769
+U+5B27 嬧	kSimplifiedVariant	U+2EC41
 U+5B2A 嬪	kSimplifiedVariant	U+5AD4
 U+5B2E 嬮	kSimplifiedVariant	U+302FD
 U+5B30 嬰	kSimplifiedVariant	U+5A74
@@ -1123,6 +1159,7 @@ U+5B47 孇	kSimplifiedVariant	U+2A96B
 U+5B4B 孋	kSimplifiedVariant	U+36E4
 U+5B4C 孌	kSimplifiedVariant	U+5A08
 U+5B4E 孎	kSimplifiedVariant	U+2181F
+U+5B4F 孏	kSimplifiedVariant	U+2EC3E
 U+5B59 孙	kSimplifiedVariant	U+5B59
 U+5B6A 孪	kSimplifiedVariant	U+5B6A
 U+5B6B 孫	kSimplifiedVariant	U+5B59
@@ -1158,7 +1195,6 @@ U+5C0D 對	kSimplifiedVariant	U+5BF9
 U+5C0E 導	kSimplifiedVariant	U+5BFC
 U+5C14 尔	kSimplifiedVariant	U+5C14
 U+5C1D 尝	kSimplifiedVariant	U+5C1D
-U+5C35 尵	kSimplifiedVariant	U+2AA07
 U+5C37 尷	kSimplifiedVariant	U+5C34
 U+5C38 尸	kSimplifiedVariant	U+5C38
 U+5C3D 尽	kSimplifiedVariant	U+5C3D
@@ -1293,6 +1329,7 @@ U+5F37 強	kSimplifiedVariant	U+5F3A
 U+5F39 弹	kSimplifiedVariant	U+5F39
 U+5F3A 强	kSimplifiedVariant	U+5F3A
 U+5F44 彄	kSimplifiedVariant	U+2BE29
+U+5F46 彆	kSimplifiedVariant	U+522B
 U+5F48 彈	kSimplifiedVariant	U+5F39
 U+5F4C 彌	kSimplifiedVariant	U+5F25
 U+5F4D 彍	kSimplifiedVariant	U+2D6A6
@@ -1325,6 +1362,7 @@ U+6065 恥	kSimplifiedVariant	U+803B
 U+607C 恼	kSimplifiedVariant	U+607C
 U+6085 悅	kSimplifiedVariant	U+60A6
 U+608F 悏	kSimplifiedVariant	U+2BE82
+U+6093 悓	kSimplifiedVariant	U+2EC81
 U+609E 悞	kSimplifiedVariant	U+60AE
 U+60B5 悵	kSimplifiedVariant	U+6005
 U+60B6 悶	kSimplifiedVariant	U+95F7
@@ -1349,11 +1387,13 @@ U+6144 慄	kSimplifiedVariant	U+6817
 U+614B 態	kSimplifiedVariant	U+6001
 U+614D 慍	kSimplifiedVariant	U+6120
 U+6150 慐	kSimplifiedVariant	U+3045F
+U+6156 慖	kSimplifiedVariant	U+2EC87
 U+6158 慘	kSimplifiedVariant	U+60E8
 U+6159 慙	kSimplifiedVariant	U+30467
 U+615A 慚	kSimplifiedVariant	U+60ED
 U+615F 慟	kSimplifiedVariant	U+6078
 U+6163 慣	kSimplifiedVariant	U+60EF
+U+6164 慤	kSimplifiedVariant	U+60AB
 U+616A 慪	kSimplifiedVariant	U+6004
 U+616B 慫	kSimplifiedVariant	U+6002
 U+616E 慮	kSimplifiedVariant	U+8651
@@ -1366,6 +1406,7 @@ U+6178 慸	kSimplifiedVariant	U+30475
 U+6179 慹	kSimplifiedVariant	U+30454
 U+617A 慺	kSimplifiedVariant	U+396A
 U+6182 憂	kSimplifiedVariant	U+5FE7
+U+6185 憅	kSimplifiedVariant	U+2EC84
 U+618A 憊	kSimplifiedVariant	U+60EB
 U+618D 憍	kSimplifiedVariant	U+392D
 U+6190 憐	kSimplifiedVariant	U+601C
@@ -1565,6 +1606,7 @@ U+6533 攳	kSimplifiedVariant	U+30541
 U+6557 敗	kSimplifiedVariant	U+8D25
 U+6558 敘	kSimplifiedVariant	U+53D9
 U+6570 数	kSimplifiedVariant	U+6570
+U+6573 敳	kSimplifiedVariant	U+2EC94
 U+6575 敵	kSimplifiedVariant	U+654C
 U+6578 數	kSimplifiedVariant	U+6570
 U+657A 敺	kSimplifiedVariant	U+30545
@@ -1599,6 +1641,7 @@ U+665B 晛	kSimplifiedVariant	U+2C02A
 U+665D 晝	kSimplifiedVariant	U+663C
 U+6688 暈	kSimplifiedVariant	U+6655
 U+6689 暉	kSimplifiedVariant	U+6656
+U+668A 暊	kSimplifiedVariant	U+2EC9F
 U+6690 暐	kSimplifiedVariant	U+2C029
 U+6698 暘	kSimplifiedVariant	U+65F8
 U+669F 暟	kSimplifiedVariant	U+2C031
@@ -1754,6 +1797,7 @@ U+6ADF 櫟	kSimplifiedVariant	U+680E
 U+6AE0 櫠	kSimplifiedVariant	U+2ACAE
 U+6AE2 櫢	kSimplifiedVariant	U+30638
 U+6AE5 櫥	kSimplifiedVariant	U+6A71
+U+6AE6 櫦	kSimplifiedVariant	U+2ECB2
 U+6AE7 櫧	kSimplifiedVariant	U+69E0
 U+6AE8 櫨	kSimplifiedVariant	U+680C
 U+6AE9 櫩	kSimplifiedVariant	U+30620
@@ -1770,6 +1814,7 @@ U+6AF9 櫹	kSimplifiedVariant	U+30629
 U+6AFB 櫻	kSimplifiedVariant	U+6A31
 U+6AFD 櫽	kSimplifiedVariant	U+2C129
 U+6B04 欄	kSimplifiedVariant	U+680F
+U+6B06 欆	kSimplifiedVariant	U+2ECAE
 U+6B07 欇	kSimplifiedVariant	U+2ACCD
 U+6B0A 權	kSimplifiedVariant	U+6743
 U+6B0D 欍	kSimplifiedVariant	U+23424
@@ -1809,6 +1854,7 @@ U+6BAF 殯	kSimplifiedVariant	U+6BA1
 U+6BB0 殰	kSimplifiedVariant	U+3C69
 U+6BB2 殲	kSimplifiedVariant	U+6B7C
 U+6BBA 殺	kSimplifiedVariant	U+6740
+U+6BBB 殻	kSimplifiedVariant	U+58F3
 U+6BBC 殼	kSimplifiedVariant	U+58F3
 U+6BC0 毀	kSimplifiedVariant	U+6BC1
 U+6BC4 毄	kSimplifiedVariant	U+2C1A6
@@ -1848,6 +1894,7 @@ U+6D87 涇	kSimplifiedVariant	U+6CFE
 U+6D9B 涛	kSimplifiedVariant	U+6D9B
 U+6DB7 涷	kSimplifiedVariant	U+306D2
 U+6DBC 涼	kSimplifiedVariant	U+51C9
+U+6DC0 淀	kSimplifiedVariant	U+6DC0
 U+6DDA 淚	kSimplifiedVariant	U+6CEA
 U+6DE5 淥	kSimplifiedVariant	U+6E0C
 U+6DEA 淪	kSimplifiedVariant	U+6CA6
@@ -1888,7 +1935,7 @@ U+6EEC 滬	kSimplifiedVariant	U+6CAA
 U+6EED 滭	kSimplifiedVariant	U+306E1
 U+6EEF 滯	kSimplifiedVariant	U+6EDE
 U+6EF2 滲	kSimplifiedVariant	U+6E17
-U+6EF7 滷	kSimplifiedVariant	U+306EE
+U+6EF7 滷	kSimplifiedVariant	U+5364 U+306EE
 U+6EF8 滸	kSimplifiedVariant	U+6D52
 U+6EFB 滻	kSimplifiedVariant	U+6D50
 U+6EFE 滾	kSimplifiedVariant	U+6EDA
@@ -1912,6 +1959,7 @@ U+6F41 潁	kSimplifiedVariant	U+988D
 U+6F51 潑	kSimplifiedVariant	U+6CFC
 U+6F54 潔	kSimplifiedVariant	U+6D01
 U+6F55 潕	kSimplifiedVariant	U+23C98
+U+6F59 潙	kSimplifiedVariant	U+6CA9
 U+6F5A 潚	kSimplifiedVariant	U+3D0B
 U+6F5B 潛	kSimplifiedVariant	U+6F5C
 U+6F63 潣	kSimplifiedVariant	U+2B797
@@ -1927,6 +1975,7 @@ U+6F86 澆	kSimplifiedVariant	U+6D47
 U+6F87 澇	kSimplifiedVariant	U+6D9D
 U+6F90 澐	kSimplifiedVariant	U+6C84
 U+6F92 澒	kSimplifiedVariant	U+2DC4A
+U+6F95 澕	kSimplifiedVariant	U+2ECC6
 U+6F96 澖	kSimplifiedVariant	U+306F5
 U+6F97 澗	kSimplifiedVariant	U+6DA7
 U+6FA0 澠	kSimplifiedVariant	U+6E11
@@ -1957,6 +2006,7 @@ U+6FE7 濧	kSimplifiedVariant	U+3CD4
 U+6FEB 濫	kSimplifiedVariant	U+6EE5
 U+6FF0 濰	kSimplifiedVariant	U+6F4D
 U+6FF1 濱	kSimplifiedVariant	U+6EE8
+U+6FF4 濴	kSimplifiedVariant	U+2C21C
 U+6FFA 濺	kSimplifiedVariant	U+6E85
 U+6FFC 濼	kSimplifiedVariant	U+6CFA
 U+6FFE 濾	kSimplifiedVariant	U+6EE4
@@ -1973,6 +2023,7 @@ U+7009 瀉	kSimplifiedVariant	U+6CFB
 U+700B 瀋	kSimplifiedVariant	U+6C88 U+6E16
 U+700F 瀏	kSimplifiedVariant	U+6D4F
 U+7015 瀕	kSimplifiedVariant	U+6FD2
+U+7017 瀗	kSimplifiedVariant	U+2ECCF
 U+7018 瀘	kSimplifiedVariant	U+6CF8
 U+7019 瀙	kSimplifiedVariant	U+3071C
 U+701D 瀝	kSimplifiedVariant	U+6CA5
@@ -1982,8 +2033,9 @@ U+7022 瀢	kSimplifiedVariant	U+2C24B
 U+7026 瀦	kSimplifiedVariant	U+6F74
 U+7027 瀧	kSimplifiedVariant	U+6CF7
 U+7028 瀨	kSimplifiedVariant	U+6FD1
+U+702D 瀭	kSimplifiedVariant	U+2ECD7
 U+702F 瀯	kSimplifiedVariant	U+30745
-U+7030 瀰	kSimplifiedVariant	U+3CFD
+U+7030 瀰	kSimplifiedVariant	U+3CFD U+5F25
 U+7032 瀲	kSimplifiedVariant	U+6F4B
 U+7033 瀳	kSimplifiedVariant	U+30728
 U+7034 瀴	kSimplifiedVariant	U+30733
@@ -2000,7 +2052,7 @@ U+7058 灘	kSimplifiedVariant	U+6EE9
 U+7059 灙	kSimplifiedVariant	U+23EBC
 U+705D 灝	kSimplifiedVariant	U+704F
 U+705F 灟	kSimplifiedVariant	U+2DCAB
-U+7060 灠	kSimplifiedVariant	U+6F24 U+30710
+U+7060 灠	kSimplifiedVariant	U+30710
 U+7061 灡	kSimplifiedVariant	U+3CD5 U+2C260
 U+7063 灣	kSimplifiedVariant	U+6E7E
 U+7064 灤	kSimplifiedVariant	U+6EE6
@@ -2023,6 +2075,7 @@ U+70F4 烴	kSimplifiedVariant	U+70C3
 U+711B 焛	kSimplifiedVariant	U+2CB9F
 U+7121 無	kSimplifiedVariant	U+65E0
 U+7147 煇	kSimplifiedVariant	U+2AE29
+U+7148 煈	kSimplifiedVariant	U+2ECE0
 U+7149 煉	kSimplifiedVariant	U+70BC
 U+7152 煒	kSimplifiedVariant	U+709C
 U+7159 煙	kSimplifiedVariant	U+70DF
@@ -2048,6 +2101,7 @@ U+71B2 熲	kSimplifiedVariant	U+988E
 U+71BE 熾	kSimplifiedVariant	U+70BD
 U+71C0 燀	kSimplifiedVariant	U+2C2A4
 U+71C1 燁	kSimplifiedVariant	U+70E8
+U+71C6 燆	kSimplifiedVariant	U+2ECE7
 U+71C8 燈	kSimplifiedVariant	U+706F
 U+71CC 燌	kSimplifiedVariant	U+307BB
 U+71D2 燒	kSimplifiedVariant	U+70E7
@@ -2073,11 +2127,13 @@ U+720D 爍	kSimplifiedVariant	U+70C1
 U+7210 爐	kSimplifiedVariant	U+7089
 U+7213 爓	kSimplifiedVariant	U+307D8
 U+7216 爖	kSimplifiedVariant	U+241ED
+U+7217 爗	kSimplifiedVariant	U+2ECF4
 U+721B 爛	kSimplifiedVariant	U+70C2
 U+7223 爣	kSimplifiedVariant	U+2C2B5
 U+7225 爥	kSimplifiedVariant	U+2AE73
 U+7227 爧	kSimplifiedVariant	U+2B7A0
 U+722D 爭	kSimplifiedVariant	U+4E89
+U+7232 爲	kSimplifiedVariant	U+4E3A
 U+723A 爺	kSimplifiedVariant	U+7237
 U+723E 爾	kSimplifiedVariant	U+5C14
 U+7246 牆	kSimplifiedVariant	U+5899
@@ -2156,6 +2212,7 @@ U+747B 瑻	kSimplifiedVariant	U+2AEF2
 U+747D 瑽	kSimplifiedVariant	U+2AED0
 U+7489 璉	kSimplifiedVariant	U+740F
 U+748A 璊	kSimplifiedVariant	U+2B7A9
+U+748D 璍	kSimplifiedVariant	U+2ED14
 U+7495 璕	kSimplifiedVariant	U+2C364
 U+7497 璗	kSimplifiedVariant	U+2C361
 U+749B 璛	kSimplifiedVariant	U+30884
@@ -2187,6 +2244,7 @@ U+750C 甌	kSimplifiedVariant	U+74EF
 U+7512 甒	kSimplifiedVariant	U+308A2
 U+7516 甖	kSimplifiedVariant	U+308A4
 U+7522 產	kSimplifiedVariant	U+4EA7
+U+7523 産	kSimplifiedVariant	U+4EA7
 U+7535 电	kSimplifiedVariant	U+7535
 U+753B 画	kSimplifiedVariant	U+753B
 U+755D 畝	kSimplifiedVariant	U+4EA9
@@ -2217,6 +2275,7 @@ U+762E 瘮	kSimplifiedVariant	U+7606
 U+7631 瘱	kSimplifiedVariant	U+2AF77
 U+7632 瘲	kSimplifiedVariant	U+75AD
 U+763A 瘺	kSimplifiedVariant	U+7618
+U+763B 瘻	kSimplifiedVariant	U+7618
 U+7642 療	kSimplifiedVariant	U+7597
 U+7646 癆	kSimplifiedVariant	U+75E8
 U+7647 癇	kSimplifiedVariant	U+75EB
@@ -2371,6 +2430,7 @@ U+7A05 稅	kSimplifiedVariant	U+7A0E
 U+7A08 稈	kSimplifiedVariant	U+79C6
 U+7A0F 稏	kSimplifiedVariant	U+4149
 U+7A1F 稟	kSimplifiedVariant	U+7980
+U+7A26 稦	kSimplifiedVariant	U+2ED60
 U+7A2E 種	kSimplifiedVariant	U+79CD
 U+7A31 稱	kSimplifiedVariant	U+79F0
 U+7A33 稳	kSimplifiedVariant	U+7A33
@@ -2406,6 +2466,7 @@ U+7AC7 竇	kSimplifiedVariant	U+7AA6
 U+7AC8 竈	kSimplifiedVariant	U+7076
 U+7AC9 竉	kSimplifiedVariant	U+30A45
 U+7ACA 竊	kSimplifiedVariant	U+7A83
+U+7AEA 竪	kSimplifiedVariant	U+7AD6
 U+7AF1 竱	kSimplifiedVariant	U+2B05F
 U+7AF6 競	kSimplifiedVariant	U+7ADE
 U+7B0B 笋	kSimplifiedVariant	U+7B0B
@@ -2415,6 +2476,7 @@ U+7B4D 筍	kSimplifiedVariant	U+7B0B
 U+7B51 筑	kSimplifiedVariant	U+7B51
 U+7B67 筧	kSimplifiedVariant	U+7B15
 U+7B74 筴	kSimplifiedVariant	U+41F2
+U+7B82 箂	kSimplifiedVariant	U+2ED71
 U+7B8B 箋	kSimplifiedVariant	U+7B3A
 U+7B8F 箏	kSimplifiedVariant	U+7B5D
 U+7BA9 箩	kSimplifiedVariant	U+7BA9
@@ -2460,6 +2522,7 @@ U+7C5C 籜	kSimplifiedVariant	U+7BA8
 U+7C5F 籟	kSimplifiedVariant	U+7C41
 U+7C60 籠	kSimplifiedVariant	U+7B3C
 U+7C63 籣	kSimplifiedVariant	U+2E18F
+U+7C64 籤	kSimplifiedVariant	U+7B7E
 U+7C66 籦	kSimplifiedVariant	U+30A8A
 U+7C69 籩	kSimplifiedVariant	U+7B3E
 U+7C6A 籪	kSimplifiedVariant	U+7C16
@@ -2480,7 +2543,7 @@ U+7CDD 糝	kSimplifiedVariant	U+7CC1
 U+7CDE 糞	kSimplifiedVariant	U+7CAA
 U+7CE7 糧	kSimplifiedVariant	U+7CAE
 U+7CEE 糮	kSimplifiedVariant	U+2C5AE
-U+7CF0 糰	kSimplifiedVariant	U+30AB6
+U+7CF0 糰	kSimplifiedVariant	U+56E2 U+30AB6
 U+7CF2 糲	kSimplifiedVariant	U+7C9D
 U+7CF4 糴	kSimplifiedVariant	U+7C74
 U+7CF6 糶	kSimplifiedVariant	U+7C9C
@@ -2491,6 +2554,7 @@ U+7CFB 系	kSimplifiedVariant	U+7CFB
 U+7CFD 糽	kSimplifiedVariant	U+30AFC
 U+7CFE 糾	kSimplifiedVariant	U+7EA0
 U+7D00 紀	kSimplifiedVariant	U+7EAA
+U+7D01 紁	kSimplifiedVariant	U+2ED7F
 U+7D02 紂	kSimplifiedVariant	U+7EA3
 U+7D03 紃	kSimplifiedVariant	U+2C613
 U+7D04 約	kSimplifiedVariant	U+7EA6
@@ -2574,6 +2638,7 @@ U+7D70 絰	kSimplifiedVariant	U+7ED6
 U+7D71 統	kSimplifiedVariant	U+7EDF
 U+7D72 絲	kSimplifiedVariant	U+4E1D
 U+7D73 絳	kSimplifiedVariant	U+7EDB
+U+7D76 絶	kSimplifiedVariant	U+7EDD
 U+7D78 絸	kSimplifiedVariant	U+2C616
 U+7D79 絹	kSimplifiedVariant	U+7EE2
 U+7D7A 絺	kSimplifiedVariant	U+2B128
@@ -2590,6 +2655,7 @@ U+7D85 綅	kSimplifiedVariant	U+30B1E
 U+7D86 綆	kSimplifiedVariant	U+7EE0
 U+7D87 綇	kSimplifiedVariant	U+2620B
 U+7D88 綈	kSimplifiedVariant	U+7EE8
+U+7D89 綉	kSimplifiedVariant	U+7EE3
 U+7D8A 綊	kSimplifiedVariant	U+30B0D
 U+7D8B 綋	kSimplifiedVariant	U+2B7C4
 U+7D8C 綌	kSimplifiedVariant	U+7EE4
@@ -2600,6 +2666,7 @@ U+7D90 綐	kSimplifiedVariant	U+433C
 U+7D93 經	kSimplifiedVariant	U+7ECF
 U+7D95 綕	kSimplifiedVariant	U+2C628
 U+7D96 綖	kSimplifiedVariant	U+2B127
+U+7D98 綘	kSimplifiedVariant	U+2ED82
 U+7D9C 綜	kSimplifiedVariant	U+7EFC
 U+7D9D 綝	kSimplifiedVariant	U+2C62D
 U+7D9E 綞	kSimplifiedVariant	U+7F0D
@@ -2610,12 +2677,14 @@ U+7DA2 綢	kSimplifiedVariant	U+7EF8
 U+7DA3 綣	kSimplifiedVariant	U+7EFB
 U+7DA7 綧	kSimplifiedVariant	U+2C62F
 U+7DAA 綪	kSimplifiedVariant	U+2C62C
+U+7DAB 綫	kSimplifiedVariant	U+7EBF
 U+7DAC 綬	kSimplifiedVariant	U+7EF6
 U+7DAD 維	kSimplifiedVariant	U+7EF4
 U+7DAF 綯	kSimplifiedVariant	U+7EF9
 U+7DB0 綰	kSimplifiedVariant	U+7EFE
 U+7DB1 綱	kSimplifiedVariant	U+7EB2
 U+7DB2 網	kSimplifiedVariant	U+7F51
+U+7DB3 綳	kSimplifiedVariant	U+7EF7
 U+7DB4 綴	kSimplifiedVariant	U+7F00
 U+7DB5 綵	kSimplifiedVariant	U+433D
 U+7DB7 綷	kSimplifiedVariant	U+2E26C
@@ -2641,6 +2710,7 @@ U+7DCC 緌	kSimplifiedVariant	U+2E26B
 U+7DCD 緍	kSimplifiedVariant	U+2620F
 U+7DCE 緎	kSimplifiedVariant	U+30B1F
 U+7DCF 総	kSimplifiedVariant	U+30B25
+U+7DD1 緑	kSimplifiedVariant	U+7EFF
 U+7DD2 緒	kSimplifiedVariant	U+7EEA
 U+7DD3 緓	kSimplifiedVariant	U+7EEC
 U+7DD4 緔	kSimplifiedVariant	U+7EF1
@@ -2677,6 +2747,7 @@ U+7DF8 緸	kSimplifiedVariant	U+26211
 U+7DF9 緹	kSimplifiedVariant	U+7F07
 U+7DFA 緺	kSimplifiedVariant	U+2E268
 U+7DFB 緻	kSimplifiedVariant	U+81F4 U+30B2B
+U+7DFC 緼	kSimplifiedVariant	U+7F0A
 U+7E08 縈	kSimplifiedVariant	U+8426
 U+7E09 縉	kSimplifiedVariant	U+7F19
 U+7E0A 縊	kSimplifiedVariant	U+7F22
@@ -2711,7 +2782,7 @@ U+7E30 縰	kSimplifiedVariant	U+2B133
 U+7E31 縱	kSimplifiedVariant	U+7EB5
 U+7E32 縲	kSimplifiedVariant	U+7F27
 U+7E33 縳	kSimplifiedVariant	U+4338
-U+7E34 縴	kSimplifiedVariant	U+30B2E
+U+7E34 縴	kSimplifiedVariant	U+7EA4 U+30B2E
 U+7E35 縵	kSimplifiedVariant	U+7F26
 U+7E36 縶	kSimplifiedVariant	U+7D77
 U+7E37 縷	kSimplifiedVariant	U+7F15
@@ -2793,6 +2864,7 @@ U+7F43 罃	kSimplifiedVariant	U+44E8
 U+7F46 罆	kSimplifiedVariant	U+30B44
 U+7F48 罈	kSimplifiedVariant	U+575B
 U+7F4C 罌	kSimplifiedVariant	U+7F42
+U+7F4E 罎	kSimplifiedVariant	U+575B
 U+7F4F 罏	kSimplifiedVariant	U+2C64E
 U+7F51 网	kSimplifiedVariant	U+7F51
 U+7F57 罗	kSimplifiedVariant	U+7F57
@@ -2861,6 +2933,7 @@ U+8173 腳	kSimplifiedVariant	U+811A
 U+8178 腸	kSimplifiedVariant	U+80A0
 U+817C 腼	kSimplifiedVariant	U+817C
 U+8183 膃	kSimplifiedVariant	U+817D
+U+818B 膋	kSimplifiedVariant	U+44BF
 U+8191 膑	kSimplifiedVariant	U+8191
 U+8192 膒	kSimplifiedVariant	U+2C075
 U+8195 膕	kSimplifiedVariant	U+8158
@@ -2939,13 +3012,15 @@ U+8457 著	kSimplifiedVariant	U+7740 U+8457
 U+845D 葝	kSimplifiedVariant	U+2B20E
 U+8464 葤	kSimplifiedVariant	U+836E
 U+8466 葦	kSimplifiedVariant	U+82C7
+U+846F 葯	kSimplifiedVariant	U+836F
 U+8471 葱	kSimplifiedVariant	U+8471
 U+8477 葷	kSimplifiedVariant	U+8364
 U+847B 葻	kSimplifiedVariant	U+2C725
 U+848D 蒍	kSimplifiedVariant	U+2B1ED
 U+8492 蒒	kSimplifiedVariant	U+30C33
+U+8493 蒓	kSimplifiedVariant	U+83BC
 U+8494 蒔	kSimplifiedVariant	U+83B3
-U+8499 蒙	kSimplifiedVariant	U+8499
+U+8499 蒙	kSimplifiedVariant	U+8499 U+30C21
 U+849E 蒞	kSimplifiedVariant	U+8385
 U+84AD 蒭	kSimplifiedVariant	U+2B1F4
 U+84B3 蒳	kSimplifiedVariant	U+30C4C
@@ -2973,6 +3048,7 @@ U+852D 蔭	kSimplifiedVariant	U+836B
 U+852E 蔮	kSimplifiedVariant	U+2C73F
 U+852F 蔯	kSimplifiedVariant	U+2B21F
 U+8531 蔱	kSimplifiedVariant	U+30C35
+U+853F 蔿	kSimplifiedVariant	U+2B1ED
 U+8541 蕁	kSimplifiedVariant	U+8368
 U+8544 蕄	kSimplifiedVariant	U+30C49
 U+8546 蕆	kSimplifiedVariant	U+8487
@@ -3028,6 +3104,7 @@ U+85EA 藪	kSimplifiedVariant	U+85AE
 U+85EC 藬	kSimplifiedVariant	U+2C798
 U+85ED 藭	kSimplifiedVariant	U+44D6
 U+85F0 藰	kSimplifiedVariant	U+30C39
+U+85F4 藴	kSimplifiedVariant	U+8574
 U+85F6 藶	kSimplifiedVariant	U+82C8
 U+85F7 藷	kSimplifiedVariant	U+2B244
 U+85F9 藹	kSimplifiedVariant	U+853C
@@ -3137,6 +3214,7 @@ U+8836 蠶	kSimplifiedVariant	U+8695
 U+883B 蠻	kSimplifiedVariant	U+86EE
 U+883E 蠾	kSimplifiedVariant	U+2744F
 U+8845 衅	kSimplifiedVariant	U+8845
+U+8846 衆	kSimplifiedVariant	U+4F17
 U+884A 衊	kSimplifiedVariant	U+8511
 U+8853 術	kSimplifiedVariant	U+672F
 U+8855 衕	kSimplifiedVariant	U+540C
@@ -3146,11 +3224,13 @@ U+885D 衝	kSimplifiedVariant	U+51B2
 U+8865 补	kSimplifiedVariant	U+8865
 U+8868 表	kSimplifiedVariant	U+8868
 U+886E 衮	kSimplifiedVariant	U+886E
+U+8879 衹	kSimplifiedVariant	U+53EA
 U+8884 袄	kSimplifiedVariant	U+8884
 U+889C 袜	kSimplifiedVariant	U+889C
 U+889E 袞	kSimplifiedVariant	U+886E
 U+88CA 裊	kSimplifiedVariant	U+8885
 U+88CC 裌	kSimplifiedVariant	U+2C852
+U+88CF 裏	kSimplifiedVariant	U+91CC
 U+88DC 補	kSimplifiedVariant	U+8865
 U+88DD 裝	kSimplifiedVariant	U+88C5
 U+88E1 裡	kSimplifiedVariant	U+88E1 U+91CC
@@ -3180,7 +3260,7 @@ U+8960 襠	kSimplifiedVariant	U+88C6
 U+8964 襤	kSimplifiedVariant	U+8934
 U+8968 襨	kSimplifiedVariant	U+30CF8
 U+896A 襪	kSimplifiedVariant	U+889C
-U+896C 襬	kSimplifiedVariant	U+4653
+U+896C 襬	kSimplifiedVariant	U+4653 U+6446
 U+896D 襭	kSimplifiedVariant	U+2E5B1
 U+896F 襯	kSimplifiedVariant	U+886C
 U+8970 襰	kSimplifiedVariant	U+2775D
@@ -3214,6 +3294,7 @@ U+89A9 覩	kSimplifiedVariant	U+2C88E
 U+89AA 親	kSimplifiedVariant	U+4EB2
 U+89AC 覬	kSimplifiedVariant	U+89CA
 U+89AD 覭	kSimplifiedVariant	U+2C892
+U+89AE 覮	kSimplifiedVariant	U+32056
 U+89AF 覯	kSimplifiedVariant	U+89CF
 U+89B0 覰	kSimplifiedVariant	U+30D1C
 U+89B2 覲	kSimplifiedVariant	U+89D0
@@ -3328,6 +3409,7 @@ U+8A7A 詺	kSimplifiedVariant	U+2C8EE
 U+8A7B 詻	kSimplifiedVariant	U+30D64
 U+8A7C 詼	kSimplifiedVariant	U+8BD9
 U+8A7F 詿	kSimplifiedVariant	U+8BD6
+U+8A81 誁	kSimplifiedVariant	U+2C8F2
 U+8A82 誂	kSimplifiedVariant	U+2B365
 U+8A83 誃	kSimplifiedVariant	U+30D65
 U+8A84 誄	kSimplifiedVariant	U+8BD4
@@ -3361,6 +3443,7 @@ U+8AA7 誧	kSimplifiedVariant	U+30D69
 U+8AA8 誨	kSimplifiedVariant	U+8BF2
 U+8AAA 說	kSimplifiedVariant	U+8BF4
 U+8AAB 誫	kSimplifiedVariant	U+2B368
+U+8AAC 説	kSimplifiedVariant	U+8BF4
 U+8AB0 誰	kSimplifiedVariant	U+8C01
 U+8AB2 課	kSimplifiedVariant	U+8BFE
 U+8AB3 誳	kSimplifiedVariant	U+2B36E
@@ -3383,6 +3466,7 @@ U+8AC7 談	kSimplifiedVariant	U+8C08
 U+8AC8 諈	kSimplifiedVariant	U+30D76
 U+8AC9 諉	kSimplifiedVariant	U+8BFF
 U+8ACB 請	kSimplifiedVariant	U+8BF7
+U+8ACC 諌	kSimplifiedVariant	U+2EDC5
 U+8ACD 諍	kSimplifiedVariant	U+8BE4
 U+8ACE 諎	kSimplifiedVariant	U+2C8FE
 U+8ACF 諏	kSimplifiedVariant	U+8BF9
@@ -3405,7 +3489,6 @@ U+8AE4 諤	kSimplifiedVariant	U+8C14
 U+8AE5 諥	kSimplifiedVariant	U+2B373
 U+8AE6 諦	kSimplifiedVariant	U+8C1B
 U+8AE7 諧	kSimplifiedVariant	U+8C10
-U+8AE9 諩	kSimplifiedVariant	U+2C8F2
 U+8AEB 諫	kSimplifiedVariant	U+8C0F
 U+8AED 諭	kSimplifiedVariant	U+8C15
 U+8AEE 諮	kSimplifiedVariant	U+8C18
@@ -3449,6 +3532,7 @@ U+8B1D 謝	kSimplifiedVariant	U+8C22
 U+8B1E 謞	kSimplifiedVariant	U+30D7F
 U+8B1F 謟	kSimplifiedVariant	U+30D7D
 U+8B20 謠	kSimplifiedVariant	U+8C23
+U+8B21 謡	kSimplifiedVariant	U+8C23
 U+8B23 謣	kSimplifiedVariant	U+30D80
 U+8B25 謥	kSimplifiedVariant	U+30D82
 U+8B28 謨	kSimplifiedVariant	U+8C1F
@@ -3481,6 +3565,7 @@ U+8B4E 譎	kSimplifiedVariant	U+8C32
 U+8B4F 譏	kSimplifiedVariant	U+8BA5
 U+8B50 譐	kSimplifiedVariant	U+2C922
 U+8B51 譑	kSimplifiedVariant	U+2B364
+U+8B52 譒	kSimplifiedVariant	U+2EDCA
 U+8B53 譓	kSimplifiedVariant	U+2C91D
 U+8B54 譔	kSimplifiedVariant	U+2C925
 U+8B56 譖	kSimplifiedVariant	U+8C2E
@@ -3604,6 +3689,7 @@ U+8CE6 賦	kSimplifiedVariant	U+8D4B
 U+8CE7 賧	kSimplifiedVariant	U+8D55
 U+8CE8 賨	kSimplifiedVariant	U+30DE5
 U+8CEA 質	kSimplifiedVariant	U+8D28
+U+8CEB 賫	kSimplifiedVariant	U+8D4D
 U+8CEC 賬	kSimplifiedVariant	U+8D26 U+27E54
 U+8CED 賭	kSimplifiedVariant	U+8D4C
 U+8CEE 賮	kSimplifiedVariant	U+30DE7
@@ -3639,6 +3725,7 @@ U+8D17 贗	kSimplifiedVariant	U+8D5D
 U+8D19 贙	kSimplifiedVariant	U+30DEE
 U+8D1A 贚	kSimplifiedVariant	U+2B3A6
 U+8D1B 贛	kSimplifiedVariant	U+8D63
+U+8D1C 贜	kSimplifiedVariant	U+8D43 U+30DED
 U+8D6C 赬	kSimplifiedVariant	U+8D6A
 U+8D76 赶	kSimplifiedVariant	U+8D76
 U+8D8B 趋	kSimplifiedVariant	U+8D8B
@@ -3706,6 +3793,7 @@ U+8ED5 軕	kSimplifiedVariant	U+2B405
 U+8ED6 軖	kSimplifiedVariant	U+30E76
 U+8ED7 軗	kSimplifiedVariant	U+28405
 U+8ED8 軘	kSimplifiedVariant	U+30E78
+U+8EDA 軚	kSimplifiedVariant	U+2EDD7
 U+8EDB 軛	kSimplifiedVariant	U+8F6D
 U+8EDC 軜	kSimplifiedVariant	U+2B407
 U+8EDD 軝	kSimplifiedVariant	U+2CA02
@@ -3782,9 +3870,11 @@ U+8F37 輷	kSimplifiedVariant	U+2B412
 U+8F38 輸	kSimplifiedVariant	U+8F93
 U+8F39 輹	kSimplifiedVariant	U+30E93
 U+8F3B 輻	kSimplifiedVariant	U+8F90
+U+8F3C 輼	kSimplifiedVariant	U+8F92
 U+8F3E 輾	kSimplifiedVariant	U+8F97
 U+8F3F 輿	kSimplifiedVariant	U+8206
 U+8F40 轀	kSimplifiedVariant	U+8F92
+U+8F41 轁	kSimplifiedVariant	U+2EDDD
 U+8F42 轂	kSimplifiedVariant	U+6BC2
 U+8F43 轃	kSimplifiedVariant	U+30E96
 U+8F44 轄	kSimplifiedVariant	U+8F96
@@ -3895,8 +3985,10 @@ U+913A 鄺	kSimplifiedVariant	U+909D
 U+9147 酇	kSimplifiedVariant	U+9142
 U+9148 酈	kSimplifiedVariant	U+90E6
 U+9186 醆	kSimplifiedVariant	U+2CAA8
+U+9196 醖	kSimplifiedVariant	U+915D
 U+919C 醜	kSimplifiedVariant	U+4E11
 U+919E 醞	kSimplifiedVariant	U+915D
+U+919F 醟	kSimplifiedVariant	U+848F
 U+91A6 醦	kSimplifiedVariant	U+2E833
 U+91A7 醧	kSimplifiedVariant	U+2CAA7
 U+91AB 醫	kSimplifiedVariant	U+533B
@@ -3977,6 +4069,7 @@ U+9224 鈤	kSimplifiedVariant	U+30F61
 U+9225 鈥	kSimplifiedVariant	U+94AC
 U+9226 鈦	kSimplifiedVariant	U+949B
 U+9227 鈧	kSimplifiedVariant	U+94AA
+U+9228 鈨	kSimplifiedVariant	U+2EDF8
 U+922A 鈪	kSimplifiedVariant	U+30F5E
 U+922E 鈮	kSimplifiedVariant	U+94CC
 U+922F 鈯	kSimplifiedVariant	U+28C44
@@ -4021,6 +4114,7 @@ U+925E 鉞	kSimplifiedVariant	U+94BA
 U+925F 鉟	kSimplifiedVariant	U+30F67
 U+9260 鉠	kSimplifiedVariant	U+2B4ED
 U+9261 鉡	kSimplifiedVariant	U+30F70
+U+9262 鉢	kSimplifiedVariant	U+94B5
 U+9264 鉤	kSimplifiedVariant	U+94A9 U+30F6D
 U+9265 鉥	kSimplifiedVariant	U+2CB38
 U+9266 鉦	kSimplifiedVariant	U+94B2
@@ -4095,7 +4189,9 @@ U+92CC 鋌	kSimplifiedVariant	U+94E4
 U+92CD 鋍	kSimplifiedVariant	U+30F80
 U+92CF 鋏	kSimplifiedVariant	U+94D7
 U+92D0 鋐	kSimplifiedVariant	U+2CB4E
+U+92D1 鋑	kSimplifiedVariant	U+2EE0F
 U+92D2 鋒	kSimplifiedVariant	U+950B
+U+92D3 鋓	kSimplifiedVariant	U+2EE0A
 U+92D7 鋗	kSimplifiedVariant	U+2B4F6
 U+92D8 鋘	kSimplifiedVariant	U+2CB4C
 U+92D9 鋙	kSimplifiedVariant	U+94FB
@@ -4112,6 +4208,7 @@ U+92E7 鋧	kSimplifiedVariant	U+30F62
 U+92E8 鋨	kSimplifiedVariant	U+9507
 U+92E9 鋩	kSimplifiedVariant	U+94D3
 U+92EA 鋪	kSimplifiedVariant	U+94FA
+U+92ED 鋭	kSimplifiedVariant	U+9510
 U+92EE 鋮	kSimplifiedVariant	U+94D6
 U+92EF 鋯	kSimplifiedVariant	U+9506
 U+92F0 鋰	kSimplifiedVariant	U+9502
@@ -4160,9 +4257,11 @@ U+932B 錫	kSimplifiedVariant	U+9521
 U+932D 錭	kSimplifiedVariant	U+2CB55
 U+932E 錮	kSimplifiedVariant	U+9522
 U+932F 錯	kSimplifiedVariant	U+9519
+U+9332 録	kSimplifiedVariant	U+5F55
 U+9333 錳	kSimplifiedVariant	U+9530
 U+9336 錶	kSimplifiedVariant	U+8868 U+30F8D
 U+9338 錸	kSimplifiedVariant	U+94FC
+U+933A 錺	kSimplifiedVariant	U+2EE10
 U+933D 錽	kSimplifiedVariant	U+2B4F8
 U+9340 鍀	kSimplifiedVariant	U+951D
 U+9341 鍁	kSimplifiedVariant	U+9528
@@ -4181,6 +4280,7 @@ U+9350 鍐	kSimplifiedVariant	U+30F9E
 U+9351 鍑	kSimplifiedVariant	U+30F9F
 U+9352 鍒	kSimplifiedVariant	U+2B504
 U+9354 鍔	kSimplifiedVariant	U+9537
+U+9355 鍕	kSimplifiedVariant	U+2EE08
 U+9356 鍖	kSimplifiedVariant	U+30F98
 U+9358 鍘	kSimplifiedVariant	U+94E1
 U+935A 鍚	kSimplifiedVariant	U+9496
@@ -4190,6 +4290,7 @@ U+935D 鍝	kSimplifiedVariant	U+30F99
 U+935F 鍟	kSimplifiedVariant	U+30F9D
 U+9360 鍠	kSimplifiedVariant	U+953D
 U+9361 鍡	kSimplifiedVariant	U+30F9A
+U+9362 鍢	kSimplifiedVariant	U+2EE15
 U+9363 鍣	kSimplifiedVariant	U+2CB61
 U+9364 鍤	kSimplifiedVariant	U+9538
 U+9365 鍥	kSimplifiedVariant	U+9532
@@ -4248,6 +4349,7 @@ U+93B3 鎳	kSimplifiedVariant	U+954D
 U+93B5 鎵	kSimplifiedVariant	U+9553
 U+93B6 鎶	kSimplifiedVariant	U+9FD4
 U+93B7 鎷	kSimplifiedVariant	U+28C3E
+U+93B8 鎸	kSimplifiedVariant	U+954C
 U+93BF 鎿	kSimplifiedVariant	U+954E
 U+93C1 鏁	kSimplifiedVariant	U+2CB72
 U+93C2 鏂	kSimplifiedVariant	U+30F5C
@@ -4269,6 +4371,7 @@ U+93D7 鏗	kSimplifiedVariant	U+94FF
 U+93D8 鏘	kSimplifiedVariant	U+9535
 U+93D9 鏙	kSimplifiedVariant	U+30FB0
 U+93DA 鏚	kSimplifiedVariant	U+2CB6D
+U+93DB 鏛	kSimplifiedVariant	U+2EE1F
 U+93DC 鏜	kSimplifiedVariant	U+9557
 U+93DD 鏝	kSimplifiedVariant	U+9558
 U+93DE 鏞	kSimplifiedVariant	U+955B
@@ -4358,6 +4461,7 @@ U+9461 鑡	kSimplifiedVariant	U+2CB54
 U+9462 鑢	kSimplifiedVariant	U+2E8F6
 U+9463 鑣	kSimplifiedVariant	U+9573
 U+9465 鑥	kSimplifiedVariant	U+9565
+U+9467 鑧	kSimplifiedVariant	U+2EE20
 U+9468 鑨	kSimplifiedVariant	U+30F66
 U+946A 鑪	kSimplifiedVariant	U+2CB3B
 U+946D 鑭	kSimplifiedVariant	U+9567
@@ -4376,6 +4480,7 @@ U+947E 鑾	kSimplifiedVariant	U+92AE
 U+947F 鑿	kSimplifiedVariant	U+51FF
 U+9480 钀	kSimplifiedVariant	U+30FBE
 U+9481 钁	kSimplifiedVariant	U+4986
+U+9482 钂	kSimplifiedVariant	U+954B
 U+9483 钃	kSimplifiedVariant	U+30FBD
 U+9577 長	kSimplifiedVariant	U+957F
 U+9580 門	kSimplifiedVariant	U+95E8
@@ -4417,6 +4522,7 @@ U+95AC 閬	kSimplifiedVariant	U+9606
 U+95AD 閭	kSimplifiedVariant	U+95FE
 U+95AF 閯	kSimplifiedVariant	U+2CBAA
 U+95B1 閱	kSimplifiedVariant	U+9605
+U+95B2 閲	kSimplifiedVariant	U+9605
 U+95B5 閵	kSimplifiedVariant	U+2B534
 U+95B6 閶	kSimplifiedVariant	U+960A
 U+95B7 閷	kSimplifiedVariant	U+30FF3
@@ -4513,7 +4619,7 @@ U+9759 静	kSimplifiedVariant	U+9759
 U+975A 靚	kSimplifiedVariant	U+9753
 U+975C 靜	kSimplifiedVariant	U+9759
 U+9762 面	kSimplifiedVariant	U+9762
-U+9766 靦	kSimplifiedVariant	U+4A44 U+817C
+U+9766 靦	kSimplifiedVariant	U+4A44
 U+9767 靧	kSimplifiedVariant	U+2B583
 U+9768 靨	kSimplifiedVariant	U+9765
 U+9780 鞀	kSimplifiedVariant	U+9F17
@@ -4599,6 +4705,7 @@ U+9837 頷	kSimplifiedVariant	U+9894
 U+9838 頸	kSimplifiedVariant	U+9888
 U+9839 頹	kSimplifiedVariant	U+9893
 U+983B 頻	kSimplifiedVariant	U+9891
+U+983D 頽	kSimplifiedVariant	U+9893
 U+9840 顀	kSimplifiedVariant	U+310AD
 U+9841 顁	kSimplifiedVariant	U+2CC6B
 U+9843 顃	kSimplifiedVariant	U+29596
@@ -4617,6 +4724,7 @@ U+9850 顐	kSimplifiedVariant	U+2CC62
 U+9851 顑	kSimplifiedVariant	U+310B1
 U+9852 顒	kSimplifiedVariant	U+9899
 U+9853 顓	kSimplifiedVariant	U+989B
+U+9854 顔	kSimplifiedVariant	U+989C
 U+9856 顖	kSimplifiedVariant	U+310B6
 U+9857 顗	kSimplifiedVariant	U+2B5AE
 U+9858 願	kSimplifiedVariant	U+613F U+2B5B8
@@ -4671,10 +4779,12 @@ U+98C6 飆	kSimplifiedVariant	U+98D9
 U+98C7 飇	kSimplifiedVariant	U+310E0
 U+98C8 飈	kSimplifiedVariant	U+98DA
 U+98C9 飉	kSimplifiedVariant	U+2CC85
+U+98CA 飊	kSimplifiedVariant	U+2EE3C
 U+98CB 飋	kSimplifiedVariant	U+2B5CB
 U+98CD 飍	kSimplifiedVariant	U+310DD
 U+98CE 风	kSimplifiedVariant	U+98CE
 U+98DB 飛	kSimplifiedVariant	U+98DE
+U+98DD 飝	kSimplifiedVariant	U+2EE3D
 U+98E0 飠	kSimplifiedVariant	U+9963
 U+98E2 飢	kSimplifiedVariant	U+9965
 U+98E3 飣	kSimplifiedVariant	U+9964
@@ -4759,6 +4869,7 @@ U+994B 饋	kSimplifiedVariant	U+9988
 U+994C 饌	kSimplifiedVariant	U+9994
 U+994E 饎	kSimplifiedVariant	U+31106
 U+9950 饐	kSimplifiedVariant	U+2EA5E
+U+9951 饑	kSimplifiedVariant	U+9965
 U+9952 饒	kSimplifiedVariant	U+9976
 U+9957 饗	kSimplifiedVariant	U+98E8
 U+9958 饘	kSimplifiedVariant	U+2B5F4
@@ -4771,6 +4882,7 @@ U+9960 饠	kSimplifiedVariant	U+2B5E9
 U+9961 饡	kSimplifiedVariant	U+3110A
 U+9962 饢	kSimplifiedVariant	U+9995
 U+99A9 馩	kSimplifiedVariant	U+2CCDF
+U+99AA 馪	kSimplifiedVariant	U+2EE40
 U+99AC 馬	kSimplifiedVariant	U+9A6C
 U+99AD 馭	kSimplifiedVariant	U+9A6D
 U+99AE 馮	kSimplifiedVariant	U+51AF
@@ -4807,6 +4919,7 @@ U+99DC 駜	kSimplifiedVariant	U+31148
 U+99DD 駝	kSimplifiedVariant	U+9A7C
 U+99DE 駞	kSimplifiedVariant	U+2B61E
 U+99DF 駟	kSimplifiedVariant	U+9A77
+U+99E1 駡	kSimplifiedVariant	U+9A82
 U+99E2 駢	kSimplifiedVariant	U+9A88
 U+99E3 駣	kSimplifiedVariant	U+3114F
 U+99E4 駤	kSimplifiedVariant	U+2B620
@@ -4837,6 +4950,7 @@ U+9A02 騂	kSimplifiedVariant	U+9A8D
 U+9A03 騃	kSimplifiedVariant	U+2B624
 U+9A04 騄	kSimplifiedVariant	U+2B627
 U+9A05 騅	kSimplifiedVariant	U+9A93
+U+9A06 騆	kSimplifiedVariant	U+2EE4B
 U+9A07 騇	kSimplifiedVariant	U+3115A
 U+9A09 騉	kSimplifiedVariant	U+2B625
 U+9A0A 騊	kSimplifiedVariant	U+2B626
@@ -4852,6 +4966,7 @@ U+9A16 騖	kSimplifiedVariant	U+9A9B
 U+9A17 騗	kSimplifiedVariant	U+3115D
 U+9A19 騙	kSimplifiedVariant	U+9A97
 U+9A1A 騚	kSimplifiedVariant	U+29A0A
+U+9A1B 騛	kSimplifiedVariant	U+2EE42
 U+9A1C 騜	kSimplifiedVariant	U+2B629
 U+9A1D 騝	kSimplifiedVariant	U+29A03
 U+9A1E 騞	kSimplifiedVariant	U+2CD03
@@ -5002,6 +5117,7 @@ U+9B98 鮘	kSimplifiedVariant	U+2CD8C
 U+9B9A 鮚	kSimplifiedVariant	U+9C92
 U+9B9B 鮛	kSimplifiedVariant	U+311E8
 U+9B9C 鮜	kSimplifiedVariant	U+9C98
+U+9B9D 鮝	kSimplifiedVariant	U+9C9E
 U+9B9E 鮞	kSimplifiedVariant	U+9C95
 U+9B9F 鮟	kSimplifiedVariant	U+29F7E
 U+9BA0 鮠	kSimplifiedVariant	U+2CD8F
@@ -5176,6 +5292,7 @@ U+9CE5 鳥	kSimplifiedVariant	U+9E1F
 U+9CE6 鳦	kSimplifiedVariant	U+31247
 U+9CE7 鳧	kSimplifiedVariant	U+51EB
 U+9CE9 鳩	kSimplifiedVariant	U+9E20
+U+9CEC 鳬	kSimplifiedVariant	U+51EB
 U+9CED 鳭	kSimplifiedVariant	U+31248
 U+9CF1 鳱	kSimplifiedVariant	U+3124A
 U+9CF2 鳲	kSimplifiedVariant	U+9E24
@@ -5221,6 +5338,7 @@ U+9D25 鴥	kSimplifiedVariant	U+2B6E3
 U+9D26 鴦	kSimplifiedVariant	U+9E2F
 U+9D28 鴨	kSimplifiedVariant	U+9E2D
 U+9D29 鴩	kSimplifiedVariant	U+3125A
+U+9D2B 鴫	kSimplifiedVariant	U+2ED3F
 U+9D2E 鴮	kSimplifiedVariant	U+2B6E6
 U+9D2F 鴯	kSimplifiedVariant	U+9E38
 U+9D30 鴰	kSimplifiedVariant	U+9E39
@@ -5338,6 +5456,7 @@ U+9DC0 鷀	kSimplifiedVariant	U+9E5A
 U+9DC1 鷁	kSimplifiedVariant	U+9E62
 U+9DC2 鷂	kSimplifiedVariant	U+9E5E
 U+9DC3 鷃	kSimplifiedVariant	U+2EB68
+U+9DC4 鷄	kSimplifiedVariant	U+9E21
 U+9DC5 鷅	kSimplifiedVariant	U+2B6FD
 U+9DC7 鷇	kSimplifiedVariant	U+2C1AE
 U+9DC8 鷈	kSimplifiedVariant	U+4D18
@@ -5383,7 +5502,7 @@ U+9DF9 鷹	kSimplifiedVariant	U+9E70
 U+9DFA 鷺	kSimplifiedVariant	U+9E6D
 U+9DFD 鷽	kSimplifiedVariant	U+9E34
 U+9DFE 鷾	kSimplifiedVariant	U+312B0
-U+9DFF 鷿	kSimplifiedVariant	U+4D19 U+2CE2F
+U+9DFF 鷿	kSimplifiedVariant	U+2CE2F
 U+9E00 鸀	kSimplifiedVariant	U+312AC
 U+9E01 鸁	kSimplifiedVariant	U+312AE
 U+9E02 鸂	kSimplifiedVariant	U+3D89
@@ -5400,7 +5519,7 @@ U+9E0E 鸎	kSimplifiedVariant	U+2CE15
 U+9E0F 鸏	kSimplifiedVariant	U+9E72
 U+9E10 鸐	kSimplifiedVariant	U+312B1
 U+9E11 鸑	kSimplifiedVariant	U+2CE1A
-U+9E12 鸒	kSimplifiedVariant	U+31270 U+312AD
+U+9E12 鸒	kSimplifiedVariant	U+312AD
 U+9E13 鸓	kSimplifiedVariant	U+312B3
 U+9E15 鸕	kSimplifiedVariant	U+9E2C
 U+9E16 鸖	kSimplifiedVariant	U+2CE30
@@ -5520,6 +5639,7 @@ U+9F93 龓	kSimplifiedVariant	U+2B732
 U+9F94 龔	kSimplifiedVariant	U+9F9A
 U+9F95 龕	kSimplifiedVariant	U+9F9B
 U+9F96 龖	kSimplifiedVariant	U+31342
+U+9F98 龘	kSimplifiedVariant	U+2EE5D
 U+9F9C 龜	kSimplifiedVariant	U+9F9F
 U+9F9D 龝	kSimplifiedVariant	U+2C4EB
 U+9F9E 龞	kSimplifiedVariant	U+31348
@@ -5531,6 +5651,7 @@ U+9FB2 龲	kSimplifiedVariant	U+30F8B
 U+9FBB 龻	kSimplifiedVariant	U+3005C
 U+9FBD 龽	kSimplifiedVariant	U+307B3
 U+9FC1 鿁	kSimplifiedVariant	U+4724
+U+9FC2 鿂	kSimplifiedVariant	U+2EDD9
 U+9FD0 鿐	kSimplifiedVariant	U+4CA4
 U+9FD3 鿓	kSimplifiedVariant	U+9FD2
 U+9FE0 鿠	kSimplifiedVariant	U+9FDF
@@ -5540,8 +5661,10 @@ U+2005E 𠁞	kSimplifiedVariant	U+2003E
 U+20325 𠌥	kSimplifiedVariant	U+201BF
 U+20385 𠎅	kSimplifiedVariant	U+30083
 U+20392 𠎒	kSimplifiedVariant	U+2B8A8
+U+203C4 𠏄	kSimplifiedVariant	U+2EBFB
 U+203E2 𠏢	kSimplifiedVariant	U+20257
 U+203EE 𠏮	kSimplifiedVariant	U+2B898
+U+203F5 𠏵	kSimplifiedVariant	U+2EBF9
 U+20407 𠐇	kSimplifiedVariant	U+2DADD
 U+2040A 𠐊	kSimplifiedVariant	U+2B74B
 U+2040D 𠐍	kSimplifiedVariant	U+2B8EB
@@ -5550,6 +5673,7 @@ U+2043D 𠐽	kSimplifiedVariant	U+2B894
 U+20447 𠑇	kSimplifiedVariant	U+300BB
 U+20459 𠑙	kSimplifiedVariant	U+2B8B9
 U+20472 𠑲	kSimplifiedVariant	U+2B8DB
+U+205A5 𠖥	kSimplifiedVariant	U+2EC04
 U+205AB 𠖫	kSimplifiedVariant	U+2B93D
 U+205FF 𠗿	kSimplifiedVariant	U+30101
 U+20625 𠘥	kSimplifiedVariant	U+2B94D
@@ -5606,6 +5730,7 @@ U+21167 𡅧	kSimplifiedVariant	U+2D27C
 U+2136B 𡍫	kSimplifiedVariant	U+2BB6E
 U+2144D 𡑍	kSimplifiedVariant	U+2BB7C
 U+2144E 𡑎	kSimplifiedVariant	U+2BB6F
+U+21451 𡑑	kSimplifiedVariant	U+2EC20
 U+2146D 𡑭	kSimplifiedVariant	U+212D7
 U+2146F 𡑯	kSimplifiedVariant	U+30271
 U+214B6 𡒶	kSimplifiedVariant	U+213C6
@@ -5617,14 +5742,18 @@ U+215C6 𡗆	kSimplifiedVariant	U+302D6
 U+217B5 𡞵	kSimplifiedVariant	U+36DF
 U+217EB 𡟫	kSimplifiedVariant	U+2B76A
 U+2181A 𡠚	kSimplifiedVariant	U+302FE
+U+2182A 𡠪	kSimplifiedVariant	U+2EC54
 U+21839 𡠹	kSimplifiedVariant	U+36FF
 U+21883 𡢃	kSimplifiedVariant	U+36E0
+U+21884 𡢄	kSimplifiedVariant	U+2EC46
 U+21898 𡢘	kSimplifiedVariant	U+30309
 U+218BF 𡢿	kSimplifiedVariant	U+2D478
 U+218E8 𡣨	kSimplifiedVariant	U+21847
 U+21920 𡤠	kSimplifiedVariant	U+2BC23
 U+21921 𡤡	kSimplifiedVariant	U+2D479
+U+21922 𡤢	kSimplifiedVariant	U+2EC4A
 U+2192B 𡤫	kSimplifiedVariant	U+2BC7F
+U+21936 𡤶	kSimplifiedVariant	U+2EC50
 U+21B89 𡮉	kSimplifiedVariant	U+21B5C
 U+21BA3 𡮣	kSimplifiedVariant	U+21B6C
 U+21BA4 𡮤	kSimplifiedVariant	U+2BD3C
@@ -5642,6 +5771,7 @@ U+21F75 𡽵	kSimplifiedVariant	U+2BD79
 U+21F86 𡾆	kSimplifiedVariant	U+303B7
 U+21FB1 𡾱	kSimplifiedVariant	U+37DC
 U+21FD6 𡿖	kSimplifiedVariant	U+2AA5B
+U+2210B 𢄋	kSimplifiedVariant	U+26B6C
 U+22113 𢄓	kSimplifiedVariant	U+303D3
 U+2213C 𢄼	kSimplifiedVariant	U+2BDC8
 U+22161 𢅡	kSimplifiedVariant	U+2BDCC
@@ -5650,10 +5780,12 @@ U+2227F 𢉿	kSimplifiedVariant	U+303F2
 U+22283 𢊃	kSimplifiedVariant	U+303FD
 U+22370 𢍰	kSimplifiedVariant	U+2AAB4
 U+22417 𢐗	kSimplifiedVariant	U+3041A
+U+2241F 𢐟	kSimplifiedVariant	U+2EC75
 U+22569 𢕩	kSimplifiedVariant	U+224C5
 U+22595 𢖕	kSimplifiedVariant	U+2A888
 U+226D4 𢛔	kSimplifiedVariant	U+2BE7C
 U+2272D 𢜭	kSimplifiedVariant	U+2AAF8
+U+22781 𢞁	kSimplifiedVariant	U+2EC82
 U+22830 𢠰	kSimplifiedVariant	U+30445
 U+2283C 𢠼	kSimplifiedVariant	U+22651
 U+22880 𢢀	kSimplifiedVariant	U+2BE92
@@ -5682,6 +5814,7 @@ U+22CDA 𢳚	kSimplifiedVariant	U+2BF50
 U+22D26 𢴦	kSimplifiedVariant	U+2BF59
 U+22D29 𢴩	kSimplifiedVariant	U+2BF73
 U+22D63 𢵣	kSimplifiedVariant	U+2D875
+U+22D71 𢵱	kSimplifiedVariant	U+2EC8F
 U+22D91 𢶑	kSimplifiedVariant	U+2BF72
 U+22D92 𢶒	kSimplifiedVariant	U+2AB6F
 U+22DAB 𢶫	kSimplifiedVariant	U+22ADE
@@ -5706,11 +5839,13 @@ U+22FE1 𢿡	kSimplifiedVariant	U+30550
 U+23018 𣀘	kSimplifiedVariant	U+2BFB3
 U+23037 𣀷	kSimplifiedVariant	U+2BFB2
 U+2303B 𣀻	kSimplifiedVariant	U+2BFD7
+U+23088 𣂈	kSimplifiedVariant	U+26B9C
 U+23138 𣄸	kSimplifiedVariant	U+2C025
 U+23236 𣈶	kSimplifiedVariant	U+6685
 U+232AF 𣊯	kSimplifiedVariant	U+2D953
 U+232CB 𣋋	kSimplifiedVariant	U+23223
 U+232DE 𣋞	kSimplifiedVariant	U+2327C
+U+232EA 𣋪	kSimplifiedVariant	U+2ECA8
 U+23302 𣌂	kSimplifiedVariant	U+2C051
 U+23350 𣍐	kSimplifiedVariant	U+2B9C3
 U+23384 𣎄	kSimplifiedVariant	U+2678C
@@ -5721,9 +5856,11 @@ U+2367F 𣙿	kSimplifiedVariant	U+2C0EE
 U+23699 𣚙	kSimplifiedVariant	U+2C0E6
 U+236E3 𣛣	kSimplifiedVariant	U+2C0BB
 U+23755 𣝕	kSimplifiedVariant	U+23637
+U+23761 𣝡	kSimplifiedVariant	U+2ECB8
 U+23781 𣞁	kSimplifiedVariant	U+3BA0
 U+23790 𣞐	kSimplifiedVariant	U+305DA
 U+237BB 𣞻	kSimplifiedVariant	U+23613
+U+237BC 𣞼	kSimplifiedVariant	U+2ECB8
 U+23815 𣠕	kSimplifiedVariant	U+2C11E
 U+23829 𣠩	kSimplifiedVariant	U+2378E
 U+23832 𣠲	kSimplifiedVariant	U+23476
@@ -5738,38 +5875,48 @@ U+23BF4 𣯴	kSimplifiedVariant	U+23B64
 U+23BF6 𣯶	kSimplifiedVariant	U+6BF6
 U+23C1B 𣰛	kSimplifiedVariant	U+306B1
 U+23C28 𣰨	kSimplifiedVariant	U+2C1C4
-U+23D07 𣴇	kSimplifiedVariant	U+3075C
+U+23D7E 𣵾	kSimplifiedVariant	U+2ECC5
 U+23DAF 𣶯	kSimplifiedVariant	U+306C9
 U+23ECF 𣻏	kSimplifiedVariant	U+2C1FC
 U+23ED1 𣻑	kSimplifiedVariant	U+2DC12
 U+23F0A 𣼊	kSimplifiedVariant	U+2DC17
 U+23F29 𣼩	kSimplifiedVariant	U+306FA
+U+23F3C 𣼼	kSimplifiedVariant	U+2ECC8
 U+23F4F 𣽏	kSimplifiedVariant	U+2ADAE
 U+23FB7 𣾷	kSimplifiedVariant	U+3CE2
 U+23FC9 𣿉	kSimplifiedVariant	U+23DAB
+U+23FED 𣿭	kSimplifiedVariant	U+2ECC3
 U+2402A 𤀪	kSimplifiedVariant	U+2C231
+U+24050 𤁐	kSimplifiedVariant	U+2ECCD
 U+24063 𤁣	kSimplifiedVariant	U+23EBD
 U+2406A 𤁪	kSimplifiedVariant	U+2C23E
 U+24119 𤄙	kSimplifiedVariant	U+3075E
 U+24137 𤄷	kSimplifiedVariant	U+2AD92
+U+2414A 𤅊	kSimplifiedVariant	U+2ECD6
 U+24159 𤅙	kSimplifiedVariant	U+2C1EC
 U+24169 𤅩	kSimplifiedVariant	U+2DC25
 U+24177 𤅷	kSimplifiedVariant	U+306FB
+U+241BC 𤆼	kSimplifiedVariant	U+2ECE2
 U+241FE 𤇾	kSimplifiedVariant	U+2B1E6
 U+24356 𤍖	kSimplifiedVariant	U+2C297
 U+2435C 𤍜	kSimplifiedVariant	U+307B7
 U+243A4 𤎤	kSimplifiedVariant	U+2C743
 U+243B1 𤎱	kSimplifiedVariant	U+3DEA
 U+243D0 𤏐	kSimplifiedVariant	U+2DD33
+U+243E9 𤏩	kSimplifiedVariant	U+2ECEF
+U+243F3 𤏳	kSimplifiedVariant	U+2ECF1
+U+2445A 𤑚	kSimplifiedVariant	U+2ECF6
 U+24473 𤑳	kSimplifiedVariant	U+243BB
 U+24479 𤑹	kSimplifiedVariant	U+2AE40
 U+2448E 𤒎	kSimplifiedVariant	U+24280
 U+244A6 𤒦	kSimplifiedVariant	U+2C2C3
+U+244A8 𤒨	kSimplifiedVariant	U+2ECF8
 U+244BB 𤒻	kSimplifiedVariant	U+2AE79
 U+244CC 𤓌	kSimplifiedVariant	U+2AE60
 U+244CE 𤓎	kSimplifiedVariant	U+243BA
 U+244D3 𤓓	kSimplifiedVariant	U+2C29C
 U+24600 𤘀	kSimplifiedVariant	U+2AEA3
+U+246B4 𤚴	kSimplifiedVariant	U+2ECFA
 U+246EE 𤛮	kSimplifiedVariant	U+2466F
 U+246F1 𤛱	kSimplifiedVariant	U+2B7A2
 U+24706 𤜆	kSimplifiedVariant	U+2AEAA
@@ -5781,9 +5928,20 @@ U+2489F 𤢟	kSimplifiedVariant	U+24762
 U+248CE 𤣎	kSimplifiedVariant	U+30862
 U+248E4 𤣤	kSimplifiedVariant	U+2C334
 U+2496D 𤥭	kSimplifiedVariant	U+30870
+U+24975 𤥵	kSimplifiedVariant	U+2ED11
+U+2498E 𤦎	kSimplifiedVariant	U+2ED05
+U+249A9 𤦩	kSimplifiedVariant	U+2ED0F
+U+249D1 𤧑	kSimplifiedVariant	U+2ED06
+U+249F8 𤧸	kSimplifiedVariant	U+2ED12
 U+24A42 𤩂	kSimplifiedVariant	U+2B7A7
+U+24A4A 𤩊	kSimplifiedVariant	U+2ED17
+U+24A51 𤩑	kSimplifiedVariant	U+2ED25
+U+24A5D 𤩝	kSimplifiedVariant	U+2ED13
 U+24AA4 𤪤	kSimplifiedVariant	U+2A6DE
+U+24AA7 𤪧	kSimplifiedVariant	U+2ED07
 U+24ABA 𤪺	kSimplifiedVariant	U+3ED8
+U+24ACE 𤫎	kSimplifiedVariant	U+2ED36
+U+24ADF 𤫟	kSimplifiedVariant	U+2ED20
 U+24AE9 𤫩	kSimplifiedVariant	U+3ECF
 U+24B05 𤬅	kSimplifiedVariant	U+2AF34
 U+24BA6 𤮦	kSimplifiedVariant	U+2C3AC
@@ -5808,10 +5966,12 @@ U+250B8 𥂸	kSimplifiedVariant	U+2C420
 U+251D4 𥇔	kSimplifiedVariant	U+2C447
 U+25278 𥉸	kSimplifiedVariant	U+30963
 U+252DD 𥋝	kSimplifiedVariant	U+3096D
+U+252DF 𥋟	kSimplifiedVariant	U+2ED45
 U+25303 𥌃	kSimplifiedVariant	U+25158
 U+2531A 𥌚	kSimplifiedVariant	U+2C459
 U+253DD 𥏝	kSimplifiedVariant	U+2AFCA
 U+25502 𥔂	kSimplifiedVariant	U+2E032
+U+2552C 𥔬	kSimplifiedVariant	U+2ED4A
 U+25565 𥕥	kSimplifiedVariant	U+25430
 U+25585 𥖅	kSimplifiedVariant	U+2542F
 U+2558F 𥖏	kSimplifiedVariant	U+2E02A
@@ -5823,6 +5983,7 @@ U+255F9 𥗹	kSimplifiedVariant	U+309C8
 U+255FA 𥗺	kSimplifiedVariant	U+2C487
 U+255FD 𥗽	kSimplifiedVariant	U+2C497
 U+25603 𥘃	kSimplifiedVariant	U+2E021
+U+25697 𥚗	kSimplifiedVariant	U+2ED59
 U+25710 𥜐	kSimplifiedVariant	U+2B013
 U+25730 𥜰	kSimplifiedVariant	U+2B00C
 U+257B5 𥞵	kSimplifiedVariant	U+257A6
@@ -5830,6 +5991,7 @@ U+2588A 𥢊	kSimplifiedVariant	U+2C4F1
 U+258A2 𥢢	kSimplifiedVariant	U+416A
 U+258B6 𥢶	kSimplifiedVariant	U+2B7B7
 U+258B7 𥢷	kSimplifiedVariant	U+2B02E
+U+258FB 𥣻	kSimplifiedVariant	U+26F16
 U+25A10 𥨐	kSimplifiedVariant	U+259C2
 U+25A82 𥪂	kSimplifiedVariant	U+25A7A
 U+25BE4 𥯤	kSimplifiedVariant	U+2B073
@@ -5857,6 +6019,7 @@ U+25F9D 𥾝	kSimplifiedVariant	U+2C614
 U+25FAF 𥾯	kSimplifiedVariant	U+2B11D
 U+25FC9 𥿉	kSimplifiedVariant	U+2C61A
 U+25FCA 𥿊	kSimplifiedVariant	U+26208
+U+25FD1 𥿑	kSimplifiedVariant	U+2ED81
 U+25FEF 𥿯	kSimplifiedVariant	U+2C626
 U+2600E 𦀎	kSimplifiedVariant	U+2E265
 U+26016 𦀖	kSimplifiedVariant	U+2B126
@@ -5891,6 +6054,7 @@ U+26480 𦒀	kSimplifiedVariant	U+2B165
 U+26516 𦔖	kSimplifiedVariant	U+2B17C
 U+26627 𦘧	kSimplifiedVariant	U+21CD2
 U+26716 𦜖	kSimplifiedVariant	U+2C07A
+U+2675B 𦝛	kSimplifiedVariant	U+2ED94
 U+2679B 𦞛	kSimplifiedVariant	U+2C078
 U+267D0 𦟐	kSimplifiedVariant	U+2C073
 U+267FC 𦟼	kSimplifiedVariant	U+2B19D
@@ -5910,6 +6074,7 @@ U+26AAD 𦪭	kSimplifiedVariant	U+2C714
 U+26ABD 𦪽	kSimplifiedVariant	U+26A29
 U+26C4C 𦱌	kSimplifiedVariant	U+2B1EA
 U+26CDD 𦳝	kSimplifiedVariant	U+30C22
+U+26D27 𦴧	kSimplifiedVariant	U+2ED9E
 U+26D55 𦵕	kSimplifiedVariant	U+2C756
 U+26D86 𦶆	kSimplifiedVariant	U+2C73A
 U+26E37 𦸷	kSimplifiedVariant	U+2C74A
@@ -5919,7 +6084,10 @@ U+26F8F 𦾏	kSimplifiedVariant	U+3017B
 U+26FB5 𦾵	kSimplifiedVariant	U+26D07
 U+26FB6 𦾶	kSimplifiedVariant	U+2C78B
 U+26FCD 𦿍	kSimplifiedVariant	U+26B19
+U+26FED 𦿭	kSimplifiedVariant	U+2EDB7
+U+27000 𧀀	kSimplifiedVariant	U+2EDA9
 U+2707F 𧁿	kSimplifiedVariant	U+2E3FA
+U+27082 𧂂	kSimplifiedVariant	U+2EDAC
 U+27085 𧂅	kSimplifiedVariant	U+2C7A3
 U+270FD 𧃽	kSimplifiedVariant	U+30C4A
 U+27355 𧍕	kSimplifiedVariant	U+45BC
@@ -5936,6 +6104,7 @@ U+276F8 𧛸	kSimplifiedVariant	U+2C84E
 U+27701 𧜁	kSimplifiedVariant	U+2C855
 U+27702 𧜂	kSimplifiedVariant	U+2C854
 U+27717 𧜗	kSimplifiedVariant	U+461E
+U+27718 𧜘	kSimplifiedVariant	U+2EDC1
 U+27723 𧜣	kSimplifiedVariant	U+2C84D
 U+27735 𧜵	kSimplifiedVariant	U+464A
 U+27736 𧜶	kSimplifiedVariant	U+2E583
@@ -5948,6 +6117,7 @@ U+277B6 𧞶	kSimplifiedVariant	U+2C866
 U+277CC 𧟌	kSimplifiedVariant	U+2C860
 U+27808 𧠈	kSimplifiedVariant	U+2C887
 U+27825 𧠥	kSimplifiedVariant	U+2C889
+U+27833 𧠳	kSimplifiedVariant	U+2EDC4
 U+27835 𧠵	kSimplifiedVariant	U+2C88D
 U+2784D 𧡍	kSimplifiedVariant	U+2C888
 U+2786A 𧡪	kSimplifiedVariant	U+2C88F
@@ -5964,6 +6134,7 @@ U+2799D 𧦝	kSimplifiedVariant	U+2B35E
 U+279A6 𧦦	kSimplifiedVariant	U+30D58
 U+279A7 𧦧	kSimplifiedVariant	U+2B35F
 U+279AD 𧦭	kSimplifiedVariant	U+2C8E2
+U+279B5 𧦵	kSimplifiedVariant	U+2EDC6
 U+279DD 𧧝	kSimplifiedVariant	U+2C8E8
 U+279ED 𧧭	kSimplifiedVariant	U+2C8FA
 U+279F5 𧧵	kSimplifiedVariant	U+30D62
@@ -5972,6 +6143,7 @@ U+27A0A 𧨊	kSimplifiedVariant	U+2C8F6
 U+27A1D 𧨝	kSimplifiedVariant	U+30D6A
 U+27A33 𧨳	kSimplifiedVariant	U+30D73
 U+27A3E 𧨾	kSimplifiedVariant	U+2C902
+U+27A4E 𧩎	kSimplifiedVariant	U+2EDC9
 U+27A55 𧩕	kSimplifiedVariant	U+2B36D
 U+27A59 𧩙	kSimplifiedVariant	U+4725
 U+27A66 𧩦	kSimplifiedVariant	U+2C905
@@ -5996,6 +6168,7 @@ U+27B2E 𧬮	kSimplifiedVariant	U+2C927
 U+27B2F 𧬯	kSimplifiedVariant	U+30D8B
 U+27B3B 𧬻	kSimplifiedVariant	U+2C8F5
 U+27B48 𧭈	kSimplifiedVariant	U+2B37E
+U+27B65 𧭥	kSimplifiedVariant	U+2EDC7
 U+27B79 𧭹	kSimplifiedVariant	U+2B350
 U+27B86 𧮆	kSimplifiedVariant	U+2C91A
 U+27B87 𧮇	kSimplifiedVariant	U+2C8F4
@@ -6021,6 +6194,7 @@ U+27E26 𧸦	kSimplifiedVariant	U+2C97E
 U+27E2A 𧸪	kSimplifiedVariant	U+2C97F
 U+27E2B 𧸫	kSimplifiedVariant	U+2BB19
 U+27E48 𧹈	kSimplifiedVariant	U+2A960
+U+27F2E 𧼮	kSimplifiedVariant	U+2C985
 U+27F62 𧽢	kSimplifiedVariant	U+2C986
 U+27F6F 𧽯	kSimplifiedVariant	U+2B3B8
 U+27F75 𧽵	kSimplifiedVariant	U+27EA3
@@ -6079,11 +6253,13 @@ U+283E0 𨏠	kSimplifiedVariant	U+28407
 U+283E5 𨏥	kSimplifiedVariant	U+2840A
 U+28436 𨐶	kSimplifiedVariant	U+30EA8
 U+2844A 𨑊	kSimplifiedVariant	U+2BBD2
+U+28600 𨘀	kSimplifiedVariant	U+2EDE5
 U+2860C 𨘌	kSimplifiedVariant	U+2CA4E
 U+287A8 𨞨	kSimplifiedVariant	U+28755
 U+287AA 𨞪	kSimplifiedVariant	U+2B737
 U+287BA 𨞺	kSimplifiedVariant	U+2B7EB
 U+287CA 𨟊	kSimplifiedVariant	U+2B7EC
+U+287D1 𨟑	kSimplifiedVariant	U+2EDE8
 U+288BF 𨢿	kSimplifiedVariant	U+28859
 U+288C3 𨣃	kSimplifiedVariant	U+30F0B
 U+288C8 𨣈	kSimplifiedVariant	U+2887A
@@ -6094,11 +6270,17 @@ U+288E8 𨣨	kSimplifiedVariant	U+30F0F
 U+2890B 𨤋	kSimplifiedVariant	U+2CAAF
 U+28921 𨤡	kSimplifiedVariant	U+2CABA
 U+2893B 𨤻	kSimplifiedVariant	U+28930
+U+28948 𨥈	kSimplifiedVariant	U+2EDF5
+U+28955 𨥕	kSimplifiedVariant	U+2EDF9
 U+2895B 𨥛	kSimplifiedVariant	U+28C40
 U+2895C 𨥜	kSimplifiedVariant	U+2CB34
 U+2895F 𨥟	kSimplifiedVariant	U+2B4EB
+U+28964 𨥤	kSimplifiedVariant	U+2EDFD
 U+28966 𨥦	kSimplifiedVariant	U+2CB33
+U+2896D 𨥭	kSimplifiedVariant	U+2EE03
+U+2896E 𨥮	kSimplifiedVariant	U+2EDFF
 U+2897A 𨥺	kSimplifiedVariant	U+2CB42
+U+2898D 𨦍	kSimplifiedVariant	U+2EE05
 U+289A1 𨦡	kSimplifiedVariant	U+30F7D
 U+289AB 𨦫	kSimplifiedVariant	U+4980
 U+289B1 𨦱	kSimplifiedVariant	U+30F8A
@@ -6115,12 +6297,17 @@ U+28A1D 𨨝	kSimplifiedVariant	U+2CB58
 U+28A22 𨨢	kSimplifiedVariant	U+2B4FF
 U+28A2F 𨨯	kSimplifiedVariant	U+2CB5F
 U+28A39 𨨹	kSimplifiedVariant	U+2CB5E
+U+28A43 𨩃	kSimplifiedVariant	U+2EE14
+U+28A4E 𨩎	kSimplifiedVariant	U+2EE18
 U+28A68 𨩨	kSimplifiedVariant	U+2CB60
 U+28A70 𨩰	kSimplifiedVariant	U+2B7FE
 U+28A85 𨪅	kSimplifiedVariant	U+2C1C3
 U+28A8B 𨪋	kSimplifiedVariant	U+30FA8
 U+28A95 𨪕	kSimplifiedVariant	U+2B4EE
+U+28A9C 𨪜	kSimplifiedVariant	U+2EE1A
+U+28AA6 𨪦	kSimplifiedVariant	U+2EE19
 U+28AC0 𨫀	kSimplifiedVariant	U+2CB6B
+U+28ACB 𨫋	kSimplifiedVariant	U+2EE09
 U+28AD2 𨫒	kSimplifiedVariant	U+28C50
 U+28AFC 𨫼	kSimplifiedVariant	U+30FA7
 U+28B02 𨬂	kSimplifiedVariant	U+2CB71
@@ -6144,11 +6331,15 @@ U+28B82 𨮂	kSimplifiedVariant	U+28C55
 U+28B85 𨮅	kSimplifiedVariant	U+2CB79
 U+28BB0 𨮰	kSimplifiedVariant	U+2CB7E
 U+28BB3 𨮳	kSimplifiedVariant	U+2B512
+U+28BC2 𨯂	kSimplifiedVariant	U+2EE23
 U+28BC5 𨯅	kSimplifiedVariant	U+497F
+U+28BD7 𨯗	kSimplifiedVariant	U+2EE1D
+U+28BD9 𨯙	kSimplifiedVariant	U+2EE06
 U+28BDF 𨯟	kSimplifiedVariant	U+2B513
 U+28BF5 𨯵	kSimplifiedVariant	U+2CB80
 U+28C03 𨰃	kSimplifiedVariant	U+2B509
 U+28C0B 𨰋	kSimplifiedVariant	U+2B4F3
+U+28C18 𨰘	kSimplifiedVariant	U+2EDF7
 U+28C20 𨰠	kSimplifiedVariant	U+30FCA
 U+28C25 𨰥	kSimplifiedVariant	U+2B515
 U+28C2D 𨰭	kSimplifiedVariant	U+2CB83
@@ -6203,7 +6394,7 @@ U+2917E 𩅾	kSimplifiedVariant	U+2B876
 U+291C9 𩇉	kSimplifiedVariant	U+2E99A
 U+2924D 𩉍	kSimplifiedVariant	U+2CC23
 U+29259 𩉙	kSimplifiedVariant	U+2CC21
-U+292CC 𩋌	kSimplifiedVariant	U+31071
+U+292EC 𩋬	kSimplifiedVariant	U+31071
 U+292F0 𩋰	kSimplifiedVariant	U+2CC24
 U+2935C 𩍜	kSimplifiedVariant	U+31073
 U+29392 𩎒	kSimplifiedVariant	U+2CC31
@@ -6219,6 +6410,7 @@ U+293EA 𩏪	kSimplifiedVariant	U+293FD
 U+293F4 𩏴	kSimplifiedVariant	U+2CC38
 U+293F7 𩏷	kSimplifiedVariant	U+2B0D7
 U+2940C 𩐌	kSimplifiedVariant	U+3108D
+U+29433 𩐳	kSimplifiedVariant	U+2EE37
 U+29443 𩑃	kSimplifiedVariant	U+2CC3A
 U+29452 𩑒	kSimplifiedVariant	U+310A0
 U+29454 𩑔	kSimplifiedVariant	U+2B5AA
@@ -6238,6 +6430,7 @@ U+294F9 𩓹	kSimplifiedVariant	U+2CC68
 U+29507 𩔇	kSimplifiedVariant	U+310B3
 U+29508 𩔈	kSimplifiedVariant	U+2CC6D
 U+2950A 𩔊	kSimplifiedVariant	U+2CC5B
+U+29510 𩔐	kSimplifiedVariant	U+2EE36
 U+29511 𩔑	kSimplifiedVariant	U+2B5B7
 U+29523 𩔣	kSimplifiedVariant	U+310B7
 U+29533 𩔳	kSimplifiedVariant	U+2B5B4
@@ -6250,7 +6443,9 @@ U+295C0 𩗀	kSimplifiedVariant	U+29666
 U+295D3 𩗓	kSimplifiedVariant	U+2B5C8
 U+295DB 𩗛	kSimplifiedVariant	U+310DB
 U+295E1 𩗡	kSimplifiedVariant	U+29667
+U+295E9 𩗩	kSimplifiedVariant	U+2EDFB
 U+295F4 𩗴	kSimplifiedVariant	U+2B5C9
+U+295FA 𩗺	kSimplifiedVariant	U+2EE3B
 U+29600 𩘀	kSimplifiedVariant	U+29669
 U+2961A 𩘚	kSimplifiedVariant	U+2CC32
 U+2961D 𩘝	kSimplifiedVariant	U+2966D
@@ -6303,7 +6498,9 @@ U+29834 𩠴	kSimplifiedVariant	U+29820
 U+29863 𩡣	kSimplifiedVariant	U+29856
 U+29864 𩡤	kSimplifiedVariant	U+2985A
 U+2987A 𩡺	kSimplifiedVariant	U+299E6
+U+29880 𩢀	kSimplifiedVariant	U+2EE44
 U+2988D 𩢍	kSimplifiedVariant	U+2CCF7
+U+29896 𩢖	kSimplifiedVariant	U+2EE45
 U+298A1 𩢡	kSimplifiedVariant	U+299EC
 U+298B0 𩢰	kSimplifiedVariant	U+3114E
 U+298B2 𩢲	kSimplifiedVariant	U+2CCFA
@@ -6329,6 +6526,7 @@ U+29943 𩥃	kSimplifiedVariant	U+31165
 U+29944 𩥄	kSimplifiedVariant	U+29A0B
 U+29945 𩥅	kSimplifiedVariant	U+31163
 U+29947 𩥇	kSimplifiedVariant	U+29A0D
+U+29948 𩥈	kSimplifiedVariant	U+2EE4C
 U+29949 𩥉	kSimplifiedVariant	U+299F1
 U+2994E 𩥎	kSimplifiedVariant	U+31168
 U+29951 𩥑	kSimplifiedVariant	U+29A0C
@@ -6358,6 +6556,7 @@ U+29D5A 𩵚	kSimplifiedVariant	U+2CD82
 U+29D66 𩵦	kSimplifiedVariant	U+2B80F
 U+29D69 𩵩	kSimplifiedVariant	U+29F7A
 U+29D71 𩵱	kSimplifiedVariant	U+2CD89
+U+29D73 𩵳	kSimplifiedVariant	U+2EE53
 U+29D79 𩵹	kSimplifiedVariant	U+29F7B
 U+29D7A 𩵺	kSimplifiedVariant	U+2CD88
 U+29D80 𩶀	kSimplifiedVariant	U+2CD85
@@ -6475,7 +6674,6 @@ U+2A271 𪉱	kSimplifiedVariant	U+2CE38
 U+2A278 𪉸	kSimplifiedVariant	U+2B70A
 U+2A27F 𪉿	kSimplifiedVariant	U+2CE39
 U+2A289 𪊉	kSimplifiedVariant	U+312BD
-U+2A2C8 𪋈	kSimplifiedVariant	U+312C2
 U+2A2FC 𪋼	kSimplifiedVariant	U+312C5
 U+2A2FD 𪋽	kSimplifiedVariant	U+312C4
 U+2A2FF 𪋿	kSimplifiedVariant	U+2B9EE
@@ -6562,17 +6760,21 @@ U+2A775 𪝵	kSimplifiedVariant	U+30081
 U+2A7D6 𪟖	kSimplifiedVariant	U+206FE
 U+2A88D 𪢍	kSimplifiedVariant	U+2D257
 U+2A8A5 𪢥	kSimplifiedVariant	U+2BA78
+U+2A9AF 𪦯	kSimplifiedVariant	U+2EC55
 U+2ABB0 𪮰	kSimplifiedVariant	U+2BF3D
 U+2ABC2 𪯂	kSimplifiedVariant	U+2D846
 U+2ACF7 𪳷	kSimplifiedVariant	U+2C0B1
 U+2AD25 𪴥	kSimplifiedVariant	U+2C0CF
 U+2AD62 𪵢	kSimplifiedVariant	U+306AC
 U+2ADC8 𪷈	kSimplifiedVariant	U+2DC40
+U+2AF11 𪼑	kSimplifiedVariant	U+2ED1A
+U+2AFB3 𪾳	kSimplifiedVariant	U+2ED46
 U+2B0D0 𫃐	kSimplifiedVariant	U+2C59F
 U+2B0D1 𫃑	kSimplifiedVariant	U+30ABF
 U+2B0DE 𫃞	kSimplifiedVariant	U+30AFF
 U+2B0E5 𫃥	kSimplifiedVariant	U+2E269
 U+2B0F7 𫃷	kSimplifiedVariant	U+2E26D
+U+2B0FB 𫃻	kSimplifiedVariant	U+2ED85
 U+2B107 𫄇	kSimplifiedVariant	U+2C639
 U+2B1E0 𫇠	kSimplifiedVariant	U+2E38D
 U+2B239 𫈹	kSimplifiedVariant	U+30C3F
@@ -6581,16 +6783,21 @@ U+2B2D0 𫋐	kSimplifiedVariant	U+2C808
 U+2B2E7 𫋧	kSimplifiedVariant	U+27234
 U+2B319 𫌙	kSimplifiedVariant	U+2C871
 U+2B358 𫍘	kSimplifiedVariant	U+2B34F
+U+2B48A 𫒊	kSimplifiedVariant	U+2EDF7
+U+2B48B 𫒋	kSimplifiedVariant	U+2EDFA
 U+2B49E 𫒞	kSimplifiedVariant	U+2CB4B
+U+2B49F 𫒟	kSimplifiedVariant	U+2EE0B
 U+2B4A1 𫒡	kSimplifiedVariant	U+2B4F7
 U+2B4A2 𫒢	kSimplifiedVariant	U+30F89
 U+2B4B7 𫒷	kSimplifiedVariant	U+30FA3
+U+2B4D4 𫓔	kSimplifiedVariant	U+2EDF6
 U+2B518 𫔘	kSimplifiedVariant	U+30FE5
 U+2B521 𫔡	kSimplifiedVariant	U+30FEF
 U+2B59E 𫖞	kSimplifiedVariant	U+2CC58
 U+2B5D1 𫗑	kSimplifiedVariant	U+2CCB5
 U+2B5D5 𫗕	kSimplifiedVariant	U+2CCC4
 U+2B5FB 𫗻	kSimplifiedVariant	U+2CCD9
+U+2B60B 𫘋	kSimplifiedVariant	U+2EE49
 U+2B726 𫜦	kSimplifiedVariant	U+2B72B
 U+2B8F4 𫣴	kSimplifiedVariant	U+2B8B2
 U+2B95D 𫥝	kSimplifiedVariant	U+2B954
@@ -6603,29 +6810,39 @@ U+2BA9B 𫪛	kSimplifiedVariant	U+2D1C9
 U+2BB06 𫬆	kSimplifiedVariant	U+2BACF
 U+2BB31 𫬱	kSimplifiedVariant	U+301E5
 U+2BBD3 𫯓	kSimplifiedVariant	U+2CEEE
+U+2BC89 𫲉	kSimplifiedVariant	U+2EC3B
 U+2BCB4 𫲴	kSimplifiedVariant	U+2D4C0
 U+2BDA6 𫶦	kSimplifiedVariant	U+2BD84
+U+2BEA4 𫺤	kSimplifiedVariant	U+2EC85
 U+2BED1 𫻑	kSimplifiedVariant	U+2BEB9
 U+2BFA1 𫾡	kSimplifiedVariant	U+2BF8F
 U+2C11D 𬄝	kSimplifiedVariant	U+2C0DB
+U+2C141 𬅁	kSimplifiedVariant	U+2ECBA
 U+2C189 𬆉	kSimplifiedVariant	U+2C182
 U+2C264 𬉤	kSimplifiedVariant	U+2C20F
 U+2C267 𬉧	kSimplifiedVariant	U+9FF0
+U+2C2BF 𬊿	kSimplifiedVariant	U+2ECEC
 U+2C326 𬌦	kSimplifiedVariant	U+2C320
 U+2C341 𬍁	kSimplifiedVariant	U+2C335
+U+2C39F 𬎟	kSimplifiedVariant	U+2ED0C
 U+2C3F2 𬏲	kSimplifiedVariant	U+308E2
 U+2C461 𬑡	kSimplifiedVariant	U+2C44D
 U+2C492 𬒒	kSimplifiedVariant	U+2C484
 U+2C4E1 𬓡	kSimplifiedVariant	U+200B2
+U+2C55C 𬕜	kSimplifiedVariant	U+2ED6D
+U+2C5C8 𬗈	kSimplifiedVariant	U+2ED80
 U+2C5CF 𬗏	kSimplifiedVariant	U+2C623
 U+2C5FA 𬗺	kSimplifiedVariant	U+2C640
 U+2C654 𬙔	kSimplifiedVariant	U+2C64F
 U+2C6D5 𬛕	kSimplifiedVariant	U+2363E
+U+2C7BC 𬞼	kSimplifiedVariant	U+2EDB3
 U+2C810 𬠐	kSimplifiedVariant	U+2723F
 U+2C8CD 𬣍	kSimplifiedVariant	U+2C8EB
 U+2C8D8 𬣘	kSimplifiedVariant	U+2C917
 U+2C972 𬥲	kSimplifiedVariant	U+2C980
 U+2C9D9 𬧙	kSimplifiedVariant	U+2C9D4
+U+2CAC9 𬫉	kSimplifiedVariant	U+2EE02
+U+2CACD 𬫍	kSimplifiedVariant	U+2EE04
 U+2CB87 𬮇	kSimplifiedVariant	U+2CB9D
 U+2CB8D 𬮍	kSimplifiedVariant	U+2E937
 U+2CBD8 𬯘	kSimplifiedVariant	U+2CBCA
@@ -6638,25 +6855,34 @@ U+2CD43 𬵃	kSimplifiedVariant	U+2CD83
 U+2CD68 𬵨	kSimplifiedVariant	U+9FF9
 U+2CD6E 𬵮	kSimplifiedVariant	U+2CD91
 U+2CDBC 𬶼	kSimplifiedVariant	U+31249
+U+2CDC8 𬷈	kSimplifiedVariant	U+2EE55
 U+2CE42 𬹂	kSimplifiedVariant	U+2CE46
 U+2D096 𭂖	kSimplifiedVariant	U+300F6
 U+2D27E 𭉾	kSimplifiedVariant	U+301CA
 U+2D459 𭑙	kSimplifiedVariant	U+2E92E
 U+2D5E1 𭗡	kSimplifiedVariant	U+21ED8
+U+2D73C 𭜼	kSimplifiedVariant	U+2EC80
 U+2D892 𭢒	kSimplifiedVariant	U+304E4
 U+2D9D2 𭧒	kSimplifiedVariant	U+3058F
 U+2D9D6 𭧖	kSimplifiedVariant	U+3059A
 U+2DA21 𭨡	kSimplifiedVariant	U+30048
 U+2DC58 𭱘	kSimplifiedVariant	U+306E8
 U+2DD99 𭶙	kSimplifiedVariant	U+241FB
+U+2DE70 𭹰	kSimplifiedVariant	U+2ED0A
 U+2E717 𮜗	kSimplifiedVariant	U+30E26
 U+2E7FD 𮟽	kSimplifiedVariant	U+30EE8
 U+2E848 𮡈	kSimplifiedVariant	U+288B8
+U+2E885 𮢅	kSimplifiedVariant	U+2EE11
+U+2E886 𮢆	kSimplifiedVariant	U+2EE12
 U+2E90F 𮤏	kSimplifiedVariant	U+2E933
 U+2E912 𮤒	kSimplifiedVariant	U+2CBAC
 U+2E997 𮦗	kSimplifiedVariant	U+2E985
 U+2EA2D 𮨭	kSimplifiedVariant	U+2CC7E
 U+2EA3B 𮨻	kSimplifiedVariant	U+2CCB1
+U+2EC5A 𮱚	kSimplifiedVariant	U+3164B
+U+2EC63 𮱣	kSimplifiedVariant	U+2AA07
+U+2EC71 𮱱	kSimplifiedVariant	U+2EC66
+U+2EE3E 𮸾	kSimplifiedVariant	U+322E2
 U+300A0 𰂠	kSimplifiedVariant	U+2A73A
 U+300B4 𰂴	kSimplifiedVariant	U+2B89C
 U+300F4 𰃴	kSimplifiedVariant	U+300F3
@@ -6671,6 +6897,7 @@ U+305BB 𰖻	kSimplifiedVariant	U+2C058
 U+3062F 𰘯	kSimplifiedVariant	U+30605
 U+30682 𰚂	kSimplifiedVariant	U+2AD47
 U+306A3 𰚣	kSimplifiedVariant	U+3068D
+U+3075C 𰝜	kSimplifiedVariant	U+23D07
 U+30762 𰝢	kSimplifiedVariant	U+306F1
 U+307EB 𰟫	kSimplifiedVariant	U+307C4
 U+30853 𰡓	kSimplifiedVariant	U+30849
@@ -6690,3 +6917,5 @@ U+310E2 𱃢	kSimplifiedVariant	U+2CCA7
 U+310EA 𱃪	kSimplifiedVariant	U+2CCBD
 U+311A5 𱆥	kSimplifiedVariant	U+9FD5
 U+311CB 𱇋	kSimplifiedVariant	U+2CDA5
+U+312C2 𱋂	kSimplifiedVariant	U+2A2C8
+U+31D6D 𱵭	kSimplifiedVariant	U+2ED5A
