@@ -16992,7 +16992,6 @@ U+24FAD 𤾭	kPhonetic	1235*
 U+24FB8 𤾸	kPhonetic	1431
 U+24FBA 𤾺	kPhonetic	1294*
 U+24FCE 𤿎	kPhonetic	1030*
-U+24FD6 𤿖	kPhonetic	894*
 U+24FE0 𤿠	kPhonetic	582*
 U+24FE1 𤿡	kPhonetic	959*
 U+24FE7 𤿧	kPhonetic	502*
