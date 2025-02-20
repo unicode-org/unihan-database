@@ -15666,6 +15666,7 @@ U+9FFD 鿽	kPhonetic	15*
 U+9FFE 鿾	kPhonetic	832*
 U+20001 𠀁	kPhonetic	1635
 U+2001D 𠀝	kPhonetic	1166*
+U+20024 𠀤	kPhonetic	1288
 U+20041 𠁁	kPhonetic	1324
 U+20052 𠁒	kPhonetic	63*
 U+20087 𠂇	kPhonetic	1518
