@@ -494,7 +494,7 @@ U+3B36 㬶	kPhonetic	642*
 U+3B3C 㬼	kPhonetic	403*
 U+3B44 㭄	kPhonetic	1267*
 U+3B4C 㭌	kPhonetic	964*
-U+3B50 㭐	kPhonetic	931* 1288*
+U+3B50 㭐	kPhonetic	931*
 U+3B51 㭑	kPhonetic	894*
 U+3B53 㭓	kPhonetic	1049*
 U+3B5C 㭜	kPhonetic	1659*
