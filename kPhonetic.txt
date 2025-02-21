@@ -15848,7 +15848,7 @@ U+208F0 𠣰	kPhonetic	94*
 U+208F5 𠣵	kPhonetic	381*
 U+2090A 𠤊	kPhonetic	685A*
 U+2090D 𠤍	kPhonetic	761*
-U+2090E 𠤎	kPhonetic	75
+U+2090E 𠤎	kPhonetic	75*
 U+2090F 𠤏	kPhonetic	1033 1067
 U+20915 𠤕	kPhonetic	159 1538
 U+20939 𠤹	kPhonetic	282*
