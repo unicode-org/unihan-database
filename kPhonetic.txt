@@ -1307,8 +1307,8 @@ U+46AC 䚬	kPhonetic	852*
 U+46C4 䛄	kPhonetic	1622*
 U+46C5 䛅	kPhonetic	551*
 U+46C6 䛆	kPhonetic	1512*
-U+46E3 䛣	kPhonetic	1057*
 U+46DF 䛟	kPhonetic	550*
+U+46E3 䛣	kPhonetic	1057*
 U+46FC 䛼	kPhonetic	1427
 U+470A 䜊	kPhonetic	231
 U+470B 䜋	kPhonetic	716
@@ -3831,8 +3831,8 @@ U+58DE 壞	kPhonetic	1412
 U+58DF 壟	kPhonetic	856
 U+58E0 壠	kPhonetic	856
 U+58E2 壢	kPhonetic	803
-U+58E5 壥	kPhonetic	195*
 U+58E4 壤	kPhonetic	1160
+U+58E5 壥	kPhonetic	195*
 U+58E9 壩	kPhonetic	997
 U+58EB 士	kPhonetic	1181
 U+58EC 壬	kPhonetic	1346 1476
