@@ -16633,6 +16633,7 @@ U+22578 𢕸	kPhonetic	852*
 U+2257B 𢕻	kPhonetic	179*
 U+22586 𢖆	kPhonetic	538*
 U+22587 𢖇	kPhonetic	144*
+U+2258D 𢖍	kPhonetic	436
 U+225A6 𢖦	kPhonetic	372*
 U+225B3 𢖳	kPhonetic	1602*
 U+225B7 𢖷	kPhonetic	684*
