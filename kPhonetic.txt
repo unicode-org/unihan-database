@@ -5715,6 +5715,7 @@ U+6354 捔	kPhonetic	647
 U+6355 捕	kPhonetic	386
 U+6357 捗	kPhonetic	1071*
 U+6358 捘	kPhonetic	313
+U+635A 捚	kPhonetic	1140*
 U+635D 捝	kPhonetic	1392
 U+635E 捞	kPhonetic	821*
 U+6361 捡	kPhonetic	182*
