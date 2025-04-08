@@ -15779,6 +15779,7 @@ U+9ECE 黎	kPhonetic	769 791
 U+9ECF 黏	kPhonetic	177
 U+9ED0 黐	kPhonetic	786
 U+9ED1 黑	kPhonetic	431
+U+9ED2 黒	kPhonetic	431*
 U+9ED3 黓	kPhonetic	1558
 U+9ED4 黔	kPhonetic	565
 U+9ED5 黕	kPhonetic	1477
