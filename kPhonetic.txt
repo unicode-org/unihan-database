@@ -13911,7 +13911,7 @@ U+92DF 鋟	kPhonetic	60
 U+92E0 鋠	kPhonetic	1129*
 U+92E1 鋡	kPhonetic	497*
 U+92E3 鋣	kPhonetic	98
-U+92E4 鋤	kPhonetic	97 233
+U+92E4 鋤	kPhonetic	233
 U+92E5 鋥	kPhonetic	204*
 U+92E6 鋦	kPhonetic	682
 U+92E8 鋨	kPhonetic	967
