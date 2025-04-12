@@ -2653,7 +2653,7 @@ U+5226 刦	kPhonetic	519
 U+5227 刧	kPhonetic	519
 U+5228 刨	kPhonetic	1011
 U+5229 利	kPhonetic	790
-U+522A 刪	kPhonetic	19
+U+522A 刪	kPhonetic	19*
 U+522B 别	kPhonetic	1013* 1061
 U+522C 刬	kPhonetic	185*
 U+522E 刮	kPhonetic	736
@@ -4003,7 +4003,7 @@ U+59C9 姉	kPhonetic	138
 U+59CA 姊	kPhonetic	138 139
 U+59CB 始	kPhonetic	1373
 U+59CC 姌	kPhonetic	1570
-U+59CD 姍	kPhonetic	19
+U+59CD 姍	kPhonetic	19*
 U+59CE 姎	kPhonetic	1528*
 U+59CF 姏	kPhonetic	650
 U+59D0 姐	kPhonetic	97
@@ -6563,7 +6563,7 @@ U+67F1 柱	kPhonetic	263
 U+67F2 柲	kPhonetic	1059
 U+67F3 柳	kPhonetic	870
 U+67F4 柴	kPhonetic	156
-U+67F5 柵	kPhonetic	19
+U+67F5 柵	kPhonetic	19*
 U+67F6 柶	kPhonetic	1156
 U+67F7 柷	kPhonetic	302 474
 U+67F8 柸	kPhonetic	1035*
