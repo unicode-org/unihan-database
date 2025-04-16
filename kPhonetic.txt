@@ -3540,7 +3540,7 @@ U+5694 嚔	kPhonetic	1309
 U+5695 嚕	kPhonetic	823
 U+5697 嚗	kPhonetic	1072
 U+5698 嚘	kPhonetic	1504*
-U+5699 嚙	kPhonetic	157 445 965
+U+5699 嚙	kPhonetic	157 445 965A
 U+569A 嚚	kPhonetic	1128
 U+569B 嚛	kPhonetic	972*
 U+569C 嚜	kPhonetic	875
@@ -3574,7 +3574,7 @@ U+56CB 囋	kPhonetic	28
 U+56CC 囌	kPhonetic	1223A
 U+56CF 囏	kPhonetic	455 546
 U+56D1 囑	kPhonetic	1265
-U+56D3 囓	kPhonetic	157 965
+U+56D3 囓	kPhonetic	965A
 U+56D4 囔	kPhonetic	988
 U+56D7 囗	kPhonetic	1434
 U+56D8 囘	kPhonetic	1464
@@ -7157,6 +7157,7 @@ U+6B67 歧	kPhonetic	130
 U+6B6A 歪	kPhonetic	887A 1411
 U+6B6B 歫	kPhonetic	676
 U+6B6C 歬	kPhonetic	135 196
+U+6B6F 歯	kPhonetic	157*
 U+6B70 歰	kPhonetic	135 1185
 U+6B71 歱	kPhonetic	332*
 U+6B72 歲	kPhonetic	135 1254 1279
