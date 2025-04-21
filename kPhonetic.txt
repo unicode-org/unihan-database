@@ -1893,7 +1893,7 @@ U+4D6C 䵬	kPhonetic	1303*
 U+4D73 䵳	kPhonetic	1466*
 U+4D76 䵶	kPhonetic	673*
 U+4D77 䵷	kPhonetic	710
-U+4D7B 䵻	kPhonetic	1341*
+U+4D7B 䵻	kPhonetic	1438*
 U+4D7C 䵼	kPhonetic	112*
 U+4D7E 䵾	kPhonetic	392*
 U+4D81 䶁	kPhonetic	1303*
@@ -19796,7 +19796,7 @@ U+2A4DF 𪓟	kPhonetic	673*
 U+2A4EE 𪓮	kPhonetic	510*
 U+2A502 𪔂	kPhonetic	1341
 U+2A505 𪔅	kPhonetic	1341*
-U+2A506 𪔆	kPhonetic	1341*
+U+2A506 𪔆	kPhonetic	653*
 U+2A50A 𪔊	kPhonetic	1438*
 U+2A517 𪔗	kPhonetic	1480*
 U+2A51E 𪔞	kPhonetic	405*
