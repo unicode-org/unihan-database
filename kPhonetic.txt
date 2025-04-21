@@ -1889,7 +1889,7 @@ U+4D73 䵳	kPhonetic	1466*
 U+4D76 䵶	kPhonetic	673*
 U+4D77 䵷	kPhonetic	710
 U+4D7B 䵻	kPhonetic	1438*
-U+4D7C 䵼	kPhonetic	1341*
+U+4D7C 䵼	kPhonetic	112*
 U+4D7E 䵾	kPhonetic	392*
 U+4D81 䶁	kPhonetic	1303*
 U+4D82 䶂	kPhonetic	106*
