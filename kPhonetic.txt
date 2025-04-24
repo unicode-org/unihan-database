@@ -1945,6 +1945,7 @@ U+4E1B 丛	kPhonetic	295
 U+4E1C 东	kPhonetic	1403
 U+4E1D 丝	kPhonetic	1170*
 U+4E1E 丞	kPhonetic	1210
+U+4E1F 丟	kPhonetic	1350*
 U+4E21 両	kPhonetic	799
 U+4E22 丢	kPhonetic	519 1350
 U+4E23 丣	kPhonetic	783 870
