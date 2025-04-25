@@ -17210,7 +17210,6 @@ U+239B5 𣦵	kPhonetic	1285
 U+239BC 𣦼	kPhonetic	29 1285
 U+239C0 𣧀	kPhonetic	106*
 U+239C4 𣧄	kPhonetic	27 273 815
-U+2E9CA 𮧊	kPhonetic	97*
 U+239D7 𣧗	kPhonetic	1511*
 U+239DD 𣧝	kPhonetic	93*
 U+239DF 𣧟	kPhonetic	878
@@ -20628,6 +20627,7 @@ U+2E94B 𮥋	kPhonetic	1578*
 U+2E95C 𮥜	kPhonetic	16*
 U+2E960 𮥠	kPhonetic	298*
 U+2E966 𮥦	kPhonetic	1264*
+U+2E9CA 𮧊	kPhonetic	97*
 U+2E9D0 𮧐	kPhonetic	16*
 U+2E9DE 𮧞	kPhonetic	203*
 U+2E9F1 𮧱	kPhonetic	260*
