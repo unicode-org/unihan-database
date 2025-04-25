@@ -3199,6 +3199,7 @@ U+5496 咖	kPhonetic	532
 U+5498 咘	kPhonetic	1069*
 U+5499 咙	kPhonetic	856*
 U+549B 咛	kPhonetic	267*
+U+549D 咝	kPhonetic	1170B*
 U+549F 咟	kPhonetic	1002*
 U+54A0 咠	kPhonetic	70
 U+54A1 咡	kPhonetic	1546
@@ -15874,6 +15875,7 @@ U+9E30 鸰	kPhonetic	812*
 U+9E31 鸱	kPhonetic	1307*
 U+9E32 鸲	kPhonetic	673*
 U+9E33 鸳	kPhonetic	1622*
+U+9E36 鸶	kPhonetic	1170A* 1170B*
 U+9E37 鸷	kPhonetic	69*
 U+9E38 鸸	kPhonetic	1537*
 U+9E3E 鸾	kPhonetic	833*
