@@ -6332,7 +6332,7 @@ U+6611 昑	kPhonetic	565*
 U+6613 易	kPhonetic	1559
 U+6614 昔	kPhonetic	1194
 U+6615 昕	kPhonetic	571
-U+6619 昙	kPhonetic	1293*
+U+6619 昙	kPhonetic	1293* 1441A*
 U+661C 昜	kPhonetic	1529
 U+661D 昝	kPhonetic	26
 U+661E 昞	kPhonetic	1053
@@ -7409,6 +7409,7 @@ U+6C7E 汾	kPhonetic	353
 U+6C81 沁	kPhonetic	1118
 U+6C82 沂	kPhonetic	571
 U+6C83 沃	kPhonetic	1594 1644
+U+6C84 沄	kPhonetic	1441A*
 U+6C85 沅	kPhonetic	1624
 U+6C86 沆	kPhonetic	660
 U+6C87 沇	kPhonetic	1444
@@ -11292,7 +11293,7 @@ U+82B3 芳	kPhonetic	373
 U+82B4 芴	kPhonetic	883
 U+82B6 芶	kPhonetic	584*
 U+82B7 芷	kPhonetic	135
-U+82B8 芸	kPhonetic	1441
+U+82B8 芸	kPhonetic	1441 1441A*
 U+82B9 芹	kPhonetic	571
 U+82BA 芺	kPhonetic	1594*
 U+82BB 芻	kPhonetic	228 234
