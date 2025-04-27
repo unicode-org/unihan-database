@@ -15045,11 +15045,11 @@ U+98E9 飩	kPhonetic	1385
 U+98EA 飪	kPhonetic	1476
 U+98EB 飫	kPhonetic	1594
 U+98ED 飭	kPhonetic	153
-U+98EE 飮	kPhonetic	467
+U+98EE 飮	kPhonetic	467*
 U+98EF 飯	kPhonetic	339
 U+98F0 飰	kPhonetic	1044
 U+98F1 飱	kPhonetic	1243 1284
-U+98F2 飲	kPhonetic	1441
+U+98F2 飲	kPhonetic	467
 U+98F4 飴	kPhonetic	1373
 U+98F5 飵	kPhonetic	10*
 U+98F6 飶	kPhonetic	1059
