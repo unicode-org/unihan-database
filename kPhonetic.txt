@@ -13330,6 +13330,7 @@ U+8EDC 軜	kPhonetic	986
 U+8EDD 軝	kPhonetic	1184
 U+8EDF 軟	kPhonetic	467 1631
 U+8EE1 軡	kPhonetic	565*
+U+8EE2 転	kPhonetic	269*
 U+8EE4 軤	kPhonetic	389*
 U+8EE5 軥	kPhonetic	673
 U+8EE6 軦	kPhonetic	474
