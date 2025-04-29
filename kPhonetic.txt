@@ -13441,6 +13441,7 @@ U+8F66 车	kPhonetic	96 670
 U+8F6B 轫	kPhonetic	1492*
 U+8F6C 转	kPhonetic	269*
 U+8F6E 轮	kPhonetic	851*
+U+8F6F 软	kPhonetic	467* 1631*
 U+8F73 轳	kPhonetic	820A*
 U+8F74 轴	kPhonetic	1512*
 U+8F76 轶	kPhonetic	1135*
@@ -14336,7 +14337,7 @@ U+9493 钓	kPhonetic	106*
 U+949B 钛	kPhonetic	1289*
 U+949D 钝	kPhonetic	1385*
 U+94A4 钤	kPhonetic	565*
-U+94A6 钦	kPhonetic	566*
+U+94A6 钦	kPhonetic	467* 566* 1475*
 U+94A9 钩	kPhonetic	584* 673*
 U+94AA 钪	kPhonetic	660*
 U+94AB 钫	kPhonetic	373*
@@ -15163,6 +15164,7 @@ U+995F 饟	kPhonetic	1160
 U+9960 饠	kPhonetic	828*
 U+9965 饥	kPhonetic	598*
 U+996A 饪	kPhonetic	1476*
+U+996E 饮	kPhonetic	467*
 U+996F 饯	kPhonetic	185*
 U+9976 饶	kPhonetic	1598*
 U+9979 饹	kPhonetic	646*
