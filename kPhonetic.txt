@@ -3961,7 +3961,7 @@ U+58AA 墪	kPhonetic	1398*
 U+58AB 墫	kPhonetic	270
 U+58AE 墮	kPhonetic	298
 U+58B1 墱	kPhonetic	1315*
-U+58B3 墳	kPhonetic	494 1020
+U+58B3 墳	kPhonetic	1020
 U+58B9 墹	kPhonetic	547*
 U+58BA 墺	kPhonetic	992
 U+58BB 墻	kPhonetic	122
