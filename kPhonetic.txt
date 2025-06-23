@@ -4512,7 +4512,7 @@ U+5BC9 寉	kPhonetic	649
 U+5BCA 寊	kPhonetic	198*
 U+5BCC 富	kPhonetic	398
 U+5BCD 寍	kPhonetic	978
-U+5BCF 寏	kPhonetic	597
+U+5BCF 寏	kPhonetic	1469*
 U+5BD0 寐	kPhonetic	894
 U+5BD1 寑	kPhonetic	61
 U+5BD2 寒	kPhonetic	501
@@ -6350,7 +6350,7 @@ U+6577 敷	kPhonetic	386
 U+6578 數	kPhonetic	780 1225
 U+6579 敹	kPhonetic	493 816
 U+657A 敺	kPhonetic	678
-U+657B 敻	kPhonetic	513 1469
+U+657B 敻	kPhonetic	513 1469*
 U+657E 敾	kPhonetic	1203*
 U+657F 敿	kPhonetic	636
 U+6580 斀	kPhonetic	1264*
