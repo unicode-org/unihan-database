@@ -13313,7 +13313,7 @@ U+8D64 赤	kPhonetic	101 176A
 U+8D65 赥	kPhonetic	101*
 U+8D66 赦	kPhonetic	101 1151
 U+8D67 赧	kPhonetic	401 941
-U+8D68 赨	kPhonetic	101* 331
+U+8D68 赨	kPhonetic	331
 U+8D69 赩	kPhonetic	101
 U+8D6A 赪	kPhonetic	198*
 U+8D6B 赫	kPhonetic	101 416
@@ -18992,7 +18992,7 @@ U+272AF 𧊯	kPhonetic	1452*
 U+272B2 𧊲	kPhonetic	282*
 U+272B8 𧊸	kPhonetic	161*
 U+272CE 𧋎	kPhonetic	789*
-U+272D2 𧋒	kPhonetic	101*
+U+272D2 𧋒	kPhonetic	331*
 U+272DF 𧋟	kPhonetic	927*
 U+272F4 𧋴	kPhonetic	405*
 U+27304 𧌄	kPhonetic	1562*
