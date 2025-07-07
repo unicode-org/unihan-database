@@ -1471,7 +1471,7 @@ U+4782 䞂	kPhonetic	1631*
 U+4783 䞃	kPhonetic	142*
 U+478D 䞍	kPhonetic	203*
 U+478E 䞎	kPhonetic	119*
-U+4791 䞑	kPhonetic	101*
+U+4791 䞑	kPhonetic	684*
 U+4792 䞒	kPhonetic	1407*
 U+4793 䞓	kPhonetic	623
 U+4794 䞔	kPhonetic	891*
