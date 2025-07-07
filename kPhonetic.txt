@@ -4598,7 +4598,7 @@ U+5C14 尔	kPhonetic	65 202 1547 1550
 U+5C16 尖	kPhonetic	180
 U+5C17 尗	kPhonetic	1166*
 U+5C18 尘	kPhonetic	66 1220
-U+5C19 尙	kPhonetic	1167
+U+5C19 尙	kPhonetic	1167*
 U+5C1A 尚	kPhonetic	1167
 U+5C1D 尝	kPhonetic	1167
 U+5C1E 尞	kPhonetic	817
