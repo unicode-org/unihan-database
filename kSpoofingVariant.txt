@@ -333,6 +333,7 @@ U+2ED61 𮵡	kSpoofingVariant	U+4142
 U+2ED73 𮵳	kSpoofingVariant	U+2ED76
 U+2ED76 𮵶	kSpoofingVariant	U+2ED73
 U+2EDA4 𮶤	kSpoofingVariant	U+23DBD
+U+2EDB5 𮶵	kSpoofingVariant	U+32A8F
 U+2EDB9 𮶹	kSpoofingVariant	U+2C260
 U+2EDC5 𮷅	kSpoofingVariant	U+2B35D
 U+2EDE0 𮷠	kSpoofingVariant	U+8FF3
@@ -345,3 +346,4 @@ U+2EE1B 𮸛	kSpoofingVariant	U+2EE1C
 U+2EE1C 𮸜	kSpoofingVariant	U+2EE1B
 U+2EE24 𮸤	kSpoofingVariant	U+957A
 U+30C28 𰰨	kSpoofingVariant	U+82B2
+U+32A8F 𲪏	kSpoofingVariant	U+2EDB5

@@ -119,6 +119,8 @@ U+9459 鑙	kZVariant	U+28BBA
 U+9686 隆	kZVariant	U+28E93
 U+96B7 隷	kZVariant	U+96B8
 U+96B8 隸	kZVariant	U+96B7
+U+98EE 飮	kZVariant	U+98F2
+U+98F2 飲	kZVariant	U+98EE
 U+9ED1 黑	kZVariant	U+9ED2
 U+9ED2 黒	kZVariant	U+9ED1
 U+20B9F 𠮟	kZVariant	U+53F1

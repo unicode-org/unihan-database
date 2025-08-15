@@ -2740,6 +2740,7 @@ U+9EE9 黩	kTraditionalVariant	U+9EF7
 U+9EEA 黪	kTraditionalVariant	U+9EF2
 U+9EFE 黾	kTraditionalVariant	U+9EFD U+9EFE
 U+9F0B 鼋	kTraditionalVariant	U+9EFF
+U+9F0C 鼌	kTraditionalVariant	U+9F02
 U+9F0D 鼍	kTraditionalVariant	U+9F09
 U+9F17 鼗	kTraditionalVariant	U+9780 U+9F17
 U+9F39 鼹	kTraditionalVariant	U+9F34 U+9F39
@@ -3860,6 +3861,7 @@ U+2B8EB 𫣫	kTraditionalVariant	U+2040D
 U+2B938 𫤸	kTraditionalVariant	U+375F
 U+2B93D 𫤽	kTraditionalVariant	U+205AB
 U+2B94D 𫥍	kTraditionalVariant	U+20625
+U+2B94E 𫥎	kTraditionalVariant	U+6BDA
 U+2B954 𫥔	kTraditionalVariant	U+2B95D
 U+2B973 𫥳	kTraditionalVariant	U+2081D
 U+2B975 𫥵	kTraditionalVariant	U+2080F
@@ -5091,6 +5093,7 @@ U+2EC85 𮲅	kTraditionalVariant	U+2BEA4
 U+2EC87 𮲇	kTraditionalVariant	U+6156
 U+2EC8F 𮲏	kTraditionalVariant	U+22D71
 U+2EC94 𮲔	kTraditionalVariant	U+6573
+U+2EC9A 𮲚	kTraditionalVariant	U+32942
 U+2EC9B 𮲛	kTraditionalVariant	U+3B22
 U+2EC9F 𮲟	kTraditionalVariant	U+668A
 U+2ECA8 𮲨	kTraditionalVariant	U+232EA
@@ -5101,10 +5104,12 @@ U+2ECB6 𮲶	kTraditionalVariant	U+3C04
 U+2ECB8 𮲸	kTraditionalVariant	U+23761 U+237BC
 U+2ECBA 𮲺	kTraditionalVariant	U+2C141
 U+2ECC3 𮳃	kTraditionalVariant	U+23FED
+U+2ECC4 𮳄	kTraditionalVariant	U+32ABC
 U+2ECC5 𮳅	kTraditionalVariant	U+23D7E
 U+2ECC6 𮳆	kTraditionalVariant	U+6F95
 U+2ECC8 𮳈	kTraditionalVariant	U+23F3C
 U+2ECCD 𮳍	kTraditionalVariant	U+24050
+U+2ECCE 𮳎	kTraditionalVariant	U+32A99
 U+2ECCF 𮳏	kTraditionalVariant	U+7017
 U+2ECD6 𮳖	kTraditionalVariant	U+2414A
 U+2ECD7 𮳗	kTraditionalVariant	U+702D
@@ -5129,6 +5134,7 @@ U+2ED11 𮴑	kTraditionalVariant	U+24975
 U+2ED12 𮴒	kTraditionalVariant	U+249F8
 U+2ED13 𮴓	kTraditionalVariant	U+24A5D
 U+2ED14 𮴔	kTraditionalVariant	U+748D
+U+2ED15 𮴕	kTraditionalVariant	U+32C0D
 U+2ED17 𮴗	kTraditionalVariant	U+24A4A
 U+2ED18 𮴘	kTraditionalVariant	U+3F00
 U+2ED1A 𮴚	kTraditionalVariant	U+2AF11
@@ -5178,6 +5184,7 @@ U+2EDF8 𮷸	kTraditionalVariant	U+9228
 U+2EDF9 𮷹	kTraditionalVariant	U+28955
 U+2EDFA 𮷺	kTraditionalVariant	U+2B48B
 U+2EDFB 𮷻	kTraditionalVariant	U+295E9
+U+2EDFC 𮷼	kTraditionalVariant	U+33170
 U+2EDFD 𮷽	kTraditionalVariant	U+28964
 U+2EDFF 𮷿	kTraditionalVariant	U+2896E
 U+2EE02 𮸂	kTraditionalVariant	U+2CAC9
@@ -5206,6 +5213,7 @@ U+2EE20 𮸠	kTraditionalVariant	U+9467
 U+2EE23 𮸣	kTraditionalVariant	U+28BC2
 U+2EE25 𮸥	kTraditionalVariant	U+4996
 U+2EE26 𮸦	kTraditionalVariant	U+49A3
+U+2EE27 𮸧	kTraditionalVariant	U+33206
 U+2EE2E 𮸮	kTraditionalVariant	U+4A64
 U+2EE36 𮸶	kTraditionalVariant	U+29510
 U+2EE37 𮸷	kTraditionalVariant	U+29433

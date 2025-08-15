@@ -20611,296 +20611,296 @@ U+9FD5 鿕	kDefinition	Danio chrysotaeniata
 U+9FEB 鿫	kDefinition	oganesson (element 118)
 U+9FEC 鿬	kDefinition	tennessine (element 117)
 U+9FED 鿭	kDefinition	nihonium (element 113)
-U+F900 豈 CJK COMPATIBILITY IDEOGRAPH-F900	kDefinition	how? what?
-U+F901 更 CJK COMPATIBILITY IDEOGRAPH-F901	kDefinition	more, still further, much more
-U+F902 車 CJK COMPATIBILITY IDEOGRAPH-F902	kDefinition	cart, vehicle; carry in cart
-U+F903 賈 CJK COMPATIBILITY IDEOGRAPH-F903	kDefinition	surname; merchant; buy, trade
-U+F904 滑 CJK COMPATIBILITY IDEOGRAPH-F904	kDefinition	slip, slide; slippery, polished
-U+F905 串 CJK COMPATIBILITY IDEOGRAPH-F905	kDefinition	string; relatives; conspire
-U+F906 句 CJK COMPATIBILITY IDEOGRAPH-F906	kDefinition	sentence
-U+F907 龜 CJK COMPATIBILITY IDEOGRAPH-F907	kDefinition	turtle or tortoise; cuckold
-U+F908 龜 CJK COMPATIBILITY IDEOGRAPH-F908	kDefinition	turtle or tortoise; cuckold
-U+F909 契 CJK COMPATIBILITY IDEOGRAPH-F909	kDefinition	deed, contract, bond; engrave
-U+F90A 金 CJK COMPATIBILITY IDEOGRAPH-F90A	kDefinition	gold; metals in general; money
-U+F90B 喇 CJK COMPATIBILITY IDEOGRAPH-F90B	kDefinition	horn, bugle; lama; final particle
-U+F90C 奈 CJK COMPATIBILITY IDEOGRAPH-F90C	kDefinition	but, how; bear, stand, endure
-U+F90D 懶 CJK COMPATIBILITY IDEOGRAPH-F90D	kDefinition	lazy, languid, listless
-U+F90E 癩 CJK COMPATIBILITY IDEOGRAPH-F90E	kDefinition	leprosy, scabies, mange; shoddy
-U+F90F 羅 CJK COMPATIBILITY IDEOGRAPH-F90F	kDefinition	net for catching birds; gauze
-U+F910 蘿 CJK COMPATIBILITY IDEOGRAPH-F910	kDefinition	type of creeping plant; turnip
-U+F911 螺 CJK COMPATIBILITY IDEOGRAPH-F911	kDefinition	spiral shell; conch; spiral
-U+F912 裸 CJK COMPATIBILITY IDEOGRAPH-F912	kDefinition	bare, nude; undress, strip
-U+F913 邏 CJK COMPATIBILITY IDEOGRAPH-F913	kDefinition	patrol; inspect; watch
-U+F914 樂 CJK COMPATIBILITY IDEOGRAPH-F914	kDefinition	happy, glad; enjoyable; music
-U+F915 洛 CJK COMPATIBILITY IDEOGRAPH-F915	kDefinition	river in Shanxi province; city
-U+F916 烙 CJK COMPATIBILITY IDEOGRAPH-F916	kDefinition	brand, burn; branding iron
-U+F917 珞 CJK COMPATIBILITY IDEOGRAPH-F917	kDefinition	kind of necklace
-U+F918 落 CJK COMPATIBILITY IDEOGRAPH-F918	kDefinition	fall, drop; net income, surplus
-U+F919 酪 CJK COMPATIBILITY IDEOGRAPH-F919	kDefinition	cream, cheese; koumiss
-U+F91A 駱 CJK COMPATIBILITY IDEOGRAPH-F91A	kDefinition	white horse with black mane; camel
-U+F91B 亂 CJK COMPATIBILITY IDEOGRAPH-F91B	kDefinition	confusion, state of chaos; create chaos, revolt
-U+F91C 卵 CJK COMPATIBILITY IDEOGRAPH-F91C	kDefinition	egg; ovum; roe; spawn
-U+F91D 欄 CJK COMPATIBILITY IDEOGRAPH-F91D	kDefinition	railing, balustrade; animal pen
-U+F91E 爛 CJK COMPATIBILITY IDEOGRAPH-F91E	kDefinition	rotten, spoiled, decayed
-U+F91F 蘭 CJK COMPATIBILITY IDEOGRAPH-F91F	kDefinition	orchid; elegant, graceful
-U+F920 鸞 CJK COMPATIBILITY IDEOGRAPH-F920	kDefinition	fabulous bird
-U+F921 嵐 CJK COMPATIBILITY IDEOGRAPH-F921	kDefinition	mountain mist, mountain haze
-U+F922 濫 CJK COMPATIBILITY IDEOGRAPH-F922	kDefinition	flood, overflow; excessive
-U+F923 藍 CJK COMPATIBILITY IDEOGRAPH-F923	kDefinition	blue; indigo plant; surname
-U+F924 襤 CJK COMPATIBILITY IDEOGRAPH-F924	kDefinition	ragged, tattered, threadbare
-U+F925 拉 CJK COMPATIBILITY IDEOGRAPH-F925	kDefinition	pull, drag; seize, hold; lengthen
-U+F926 臘 CJK COMPATIBILITY IDEOGRAPH-F926	kDefinition	year end sacrifice; dried meat
-U+F927 蠟 CJK COMPATIBILITY IDEOGRAPH-F927	kDefinition	wax; candle; waxy, glazed
-U+F928 廊 CJK COMPATIBILITY IDEOGRAPH-F928	kDefinition	corridor, porch, veranda
-U+F929 朗 CJK COMPATIBILITY IDEOGRAPH-F929	kDefinition	clear, bright; distinct
-U+F92A 浪 CJK COMPATIBILITY IDEOGRAPH-F92A	kDefinition	wave; wasteful, reckless
-U+F92B 狼 CJK COMPATIBILITY IDEOGRAPH-F92B	kDefinition	wolf
-U+F92C 郎 CJK COMPATIBILITY IDEOGRAPH-F92C	kDefinition	gentleman, young man; husband
-U+F92D 來 CJK COMPATIBILITY IDEOGRAPH-F92D	kDefinition	come, coming; return, returning
-U+F92E 冷 CJK COMPATIBILITY IDEOGRAPH-F92E	kDefinition	cold, cool; lonely
-U+F92F 勞 CJK COMPATIBILITY IDEOGRAPH-F92F	kDefinition	labor, toil, do manual work
-U+F930 擄 CJK COMPATIBILITY IDEOGRAPH-F930	kDefinition	capture, seize
-U+F931 櫓 CJK COMPATIBILITY IDEOGRAPH-F931	kDefinition	oar, scull; row
-U+F932 爐 CJK COMPATIBILITY IDEOGRAPH-F932	kDefinition	fireplace, stove, oven, furnace
-U+F933 盧 CJK COMPATIBILITY IDEOGRAPH-F933	kDefinition	cottage, hut; surname; black
-U+F934 老 CJK COMPATIBILITY IDEOGRAPH-F934	kDefinition	old, aged; experienced
-U+F935 蘆 CJK COMPATIBILITY IDEOGRAPH-F935	kDefinition	rushes, reeds
-U+F936 虜 CJK COMPATIBILITY IDEOGRAPH-F936	kDefinition	capture, imprison, seize; prison
-U+F937 路 CJK COMPATIBILITY IDEOGRAPH-F937	kDefinition	road, path, street; journey
-U+F938 露 CJK COMPATIBILITY IDEOGRAPH-F938	kDefinition	dew; bare, open, exposed
-U+F939 魯 CJK COMPATIBILITY IDEOGRAPH-F939	kDefinition	foolish, stupid, rash; vulgar
-U+F93A 鷺 CJK COMPATIBILITY IDEOGRAPH-F93A	kDefinition	heron, egret
-U+F93B 碌 CJK COMPATIBILITY IDEOGRAPH-F93B	kDefinition	rough, uneven, rocky; mediocre
-U+F93C 祿 CJK COMPATIBILITY IDEOGRAPH-F93C	kDefinition	blessing, happiness, prosperity
-U+F93D 綠 CJK COMPATIBILITY IDEOGRAPH-F93D	kDefinition	green; chlorine
-U+F93E 菉 CJK COMPATIBILITY IDEOGRAPH-F93E	kDefinition	the green bamboo; greenish bamboo
-U+F93F 錄 CJK COMPATIBILITY IDEOGRAPH-F93F	kDefinition	copy, write down, record
-U+F940 鹿 CJK COMPATIBILITY IDEOGRAPH-F940	kDefinition	deer; surname; Kangxi radical 198
-U+F941 論 CJK COMPATIBILITY IDEOGRAPH-F941	kDefinition	debate; discuss; discourse
-U+F942 壟 CJK COMPATIBILITY IDEOGRAPH-F942	kDefinition	grave, mound; ridge in field
-U+F943 弄 CJK COMPATIBILITY IDEOGRAPH-F943	kDefinition	do, play or fiddle with; alley
-U+F944 籠 CJK COMPATIBILITY IDEOGRAPH-F944	kDefinition	cage; cage-like basket
-U+F945 聾 CJK COMPATIBILITY IDEOGRAPH-F945	kDefinition	deaf
-U+F946 牢 CJK COMPATIBILITY IDEOGRAPH-F946	kDefinition	prison; stable, pen; secure
-U+F947 磊 CJK COMPATIBILITY IDEOGRAPH-F947	kDefinition	pile of rocks or stones; great
-U+F948 賂 CJK COMPATIBILITY IDEOGRAPH-F948	kDefinition	bribe; give present
-U+F949 雷 CJK COMPATIBILITY IDEOGRAPH-F949	kDefinition	thunder
-U+F94A 壘 CJK COMPATIBILITY IDEOGRAPH-F94A	kDefinition	rampart, military wall
-U+F94B 屢 CJK COMPATIBILITY IDEOGRAPH-F94B	kDefinition	frequently, often, again and again
-U+F94C 樓 CJK COMPATIBILITY IDEOGRAPH-F94C	kDefinition	building of two or more stories
-U+F94D 淚 CJK COMPATIBILITY IDEOGRAPH-F94D	kDefinition	tears; weep, cry
-U+F94E 漏 CJK COMPATIBILITY IDEOGRAPH-F94E	kDefinition	leak, drip; funnel; hour glass
-U+F94F 累 CJK COMPATIBILITY IDEOGRAPH-F94F	kDefinition	tired; implicate, involve; bother
-U+F950 縷 CJK COMPATIBILITY IDEOGRAPH-F950	kDefinition	thread; detailed, precise
-U+F951 陋 CJK COMPATIBILITY IDEOGRAPH-F951	kDefinition	narrow; crude, coarse; ugly
-U+F952 勒 CJK COMPATIBILITY IDEOGRAPH-F952	kDefinition	strangle, tighten
-U+F953 肋 CJK COMPATIBILITY IDEOGRAPH-F953	kDefinition	ribs; chest
-U+F954 凜 CJK COMPATIBILITY IDEOGRAPH-F954	kDefinition	shiver with cold or fear, fearful
-U+F955 凌 CJK COMPATIBILITY IDEOGRAPH-F955	kDefinition	pure; virtuous; insult; maltreat
-U+F956 稜 CJK COMPATIBILITY IDEOGRAPH-F956	kDefinition	corner, edge, angle; square block
-U+F957 綾 CJK COMPATIBILITY IDEOGRAPH-F957	kDefinition	thin silk, damask silk
-U+F958 菱 CJK COMPATIBILITY IDEOGRAPH-F958	kDefinition	water-chestnut, water caltrop
-U+F959 陵 CJK COMPATIBILITY IDEOGRAPH-F959	kDefinition	hill, mound; mausoleum
-U+F95A 讀 CJK COMPATIBILITY IDEOGRAPH-F95A	kDefinition	read, study; pronounce
-U+F95B 拏 CJK COMPATIBILITY IDEOGRAPH-F95B	kDefinition	take; bring; grasp, hold; arrest
-U+F95C 樂 CJK COMPATIBILITY IDEOGRAPH-F95C	kDefinition	happy, glad; enjoyable; music
-U+F95D 諾 CJK COMPATIBILITY IDEOGRAPH-F95D	kDefinition	promise; assent, approve
-U+F95E 丹 CJK COMPATIBILITY IDEOGRAPH-F95E	kDefinition	cinnabar (native HgS); vermilion (artificial HgS used as pigment)
-U+F95F 寧 CJK COMPATIBILITY IDEOGRAPH-F95F	kDefinition	repose, serenity, peace; peaceful
-U+F960 怒 CJK COMPATIBILITY IDEOGRAPH-F960	kDefinition	anger, rage, passion; angry
-U+F961 率 CJK COMPATIBILITY IDEOGRAPH-F961	kDefinition	to lead; ratio; rate; limit
-U+F962 異 CJK COMPATIBILITY IDEOGRAPH-F962	kDefinition	different, unusual, strange
-U+F963 北 CJK COMPATIBILITY IDEOGRAPH-F963	kDefinition	north; northern; northward
-U+F964 磻 CJK COMPATIBILITY IDEOGRAPH-F964	kDefinition	a tributary of the Wei river in Shanxi
-U+F965 便 CJK COMPATIBILITY IDEOGRAPH-F965	kDefinition	convenience, ease; expedient
-U+F966 復 CJK COMPATIBILITY IDEOGRAPH-F966	kDefinition	return; repeat; repeatedly
-U+F967 不 CJK COMPATIBILITY IDEOGRAPH-F967	kDefinition	no, not; un-; negative prefix
-U+F968 泌 CJK COMPATIBILITY IDEOGRAPH-F968	kDefinition	to seep out, excrete
-U+F969 數 CJK COMPATIBILITY IDEOGRAPH-F969	kDefinition	number; several; count; fate
-U+F96A 索 CJK COMPATIBILITY IDEOGRAPH-F96A	kDefinition	large rope, cable; rules, laws
-U+F96B 參 CJK COMPATIBILITY IDEOGRAPH-F96B	kDefinition	take part in, intervene
-U+F96C 塞 CJK COMPATIBILITY IDEOGRAPH-F96C	kDefinition	stop up, block. seal, cork
-U+F96D 省 CJK COMPATIBILITY IDEOGRAPH-F96D	kDefinition	province; save, economize
-U+F96E 葉 CJK COMPATIBILITY IDEOGRAPH-F96E	kDefinition	leaf, petal; page of book; period
-U+F96F 說 CJK COMPATIBILITY IDEOGRAPH-F96F	kDefinition	speak, say, talk; scold, upbraid
-U+F970 殺 CJK COMPATIBILITY IDEOGRAPH-F970	kDefinition	kill, slaughter, murder; hurt
-U+F971 辰 CJK COMPATIBILITY IDEOGRAPH-F971	kDefinition	early morning
-U+F972 沈 CJK COMPATIBILITY IDEOGRAPH-F972	kDefinition	sink, submerge; addicted to; name
-U+F973 拾 CJK COMPATIBILITY IDEOGRAPH-F973	kDefinition	pick up, collect, tidy up; ten
-U+F974 若 CJK COMPATIBILITY IDEOGRAPH-F974	kDefinition	if, supposing, assuming; similar
-U+F975 掠 CJK COMPATIBILITY IDEOGRAPH-F975	kDefinition	rob, ransack, plunder; pass by
-U+F976 略 CJK COMPATIBILITY IDEOGRAPH-F976	kDefinition	approximately, roughly; outline
-U+F977 亮 CJK COMPATIBILITY IDEOGRAPH-F977	kDefinition	bright, brilliant, radiant, light
-U+F978 兩 CJK COMPATIBILITY IDEOGRAPH-F978	kDefinition	two, both, pair, couple; ounce
-U+F979 凉 CJK COMPATIBILITY IDEOGRAPH-F979	kDefinition	cool, cold; disheartened
-U+F97A 梁 CJK COMPATIBILITY IDEOGRAPH-F97A	kDefinition	bridge; beam; rafters; surname
-U+F97B 糧 CJK COMPATIBILITY IDEOGRAPH-F97B	kDefinition	food, grain, provisions
-U+F97C 良 CJK COMPATIBILITY IDEOGRAPH-F97C	kDefinition	good, virtuous, respectable
-U+F97D 諒 CJK COMPATIBILITY IDEOGRAPH-F97D	kDefinition	excuse, forgive; guess, presume
-U+F97E 量 CJK COMPATIBILITY IDEOGRAPH-F97E	kDefinition	measure, quantity, capacity
-U+F97F 勵 CJK COMPATIBILITY IDEOGRAPH-F97F	kDefinition	strive; encourage
-U+F980 呂 CJK COMPATIBILITY IDEOGRAPH-F980	kDefinition	surname; a musical note
-U+F981 女 CJK COMPATIBILITY IDEOGRAPH-F981	kDefinition	woman, girl; feminine; rad. 38
-U+F982 廬 CJK COMPATIBILITY IDEOGRAPH-F982	kDefinition	hut, cottage; name of a mountain
-U+F983 旅 CJK COMPATIBILITY IDEOGRAPH-F983	kDefinition	trip, journey; travel; traveler
-U+F984 濾 CJK COMPATIBILITY IDEOGRAPH-F984	kDefinition	strain out, filter
-U+F985 礪 CJK COMPATIBILITY IDEOGRAPH-F985	kDefinition	whetstone; sharpen
-U+F986 閭 CJK COMPATIBILITY IDEOGRAPH-F986	kDefinition	village of twenty-five families
-U+F987 驪 CJK COMPATIBILITY IDEOGRAPH-F987	kDefinition	a pure black horse; a pair of horses
-U+F988 麗 CJK COMPATIBILITY IDEOGRAPH-F988	kDefinition	beautiful, magnificent, elegant
-U+F989 黎 CJK COMPATIBILITY IDEOGRAPH-F989	kDefinition	surname; numerous, many; black
-U+F98A 力 CJK COMPATIBILITY IDEOGRAPH-F98A	kDefinition	power, capability, influence
-U+F98B 曆 CJK COMPATIBILITY IDEOGRAPH-F98B	kDefinition	calendar, era
-U+F98C 歷 CJK COMPATIBILITY IDEOGRAPH-F98C	kDefinition	take place, past, history
-U+F98D 轢 CJK COMPATIBILITY IDEOGRAPH-F98D	kDefinition	run over something with a vehicle
-U+F98E 年 CJK COMPATIBILITY IDEOGRAPH-F98E	kDefinition	year; new-years; person's age
-U+F98F 憐 CJK COMPATIBILITY IDEOGRAPH-F98F	kDefinition	pity, sympathize
-U+F990 戀 CJK COMPATIBILITY IDEOGRAPH-F990	kDefinition	love; long for, yearn for; love
-U+F991 撚 CJK COMPATIBILITY IDEOGRAPH-F991	kDefinition	twirl in fingers, tease, toy with
-U+F992 漣 CJK COMPATIBILITY IDEOGRAPH-F992	kDefinition	flowing water; ripples; weeping
-U+F993 煉 CJK COMPATIBILITY IDEOGRAPH-F993	kDefinition	smelt, refine; distill, condense
-U+F994 璉 CJK COMPATIBILITY IDEOGRAPH-F994	kDefinition	vessel used to hold grain offerings
-U+F995 秊 CJK COMPATIBILITY IDEOGRAPH-F995	kDefinition	year; new-years; person's age
-U+F996 練 CJK COMPATIBILITY IDEOGRAPH-F996	kDefinition	practice, drill, exercise, train
-U+F997 聯 CJK COMPATIBILITY IDEOGRAPH-F997	kDefinition	connect, join; associate, ally
-U+F998 輦 CJK COMPATIBILITY IDEOGRAPH-F998	kDefinition	a hand-cart; to transport by carriage
-U+F999 蓮 CJK COMPATIBILITY IDEOGRAPH-F999	kDefinition	lotus, water lily; paradise
-U+F99A 連 CJK COMPATIBILITY IDEOGRAPH-F99A	kDefinition	join, connect; continuous; even
-U+F99B 鍊 CJK COMPATIBILITY IDEOGRAPH-F99B	kDefinition	smelt metals, forge; refine
-U+F99C 列 CJK COMPATIBILITY IDEOGRAPH-F99C	kDefinition	a line; to arrange in order, classify
-U+F99D 劣 CJK COMPATIBILITY IDEOGRAPH-F99D	kDefinition	bad, inferior; slightly
-U+F99E 咽 CJK COMPATIBILITY IDEOGRAPH-F99E	kDefinition	throat; pharynx
-U+F99F 烈 CJK COMPATIBILITY IDEOGRAPH-F99F	kDefinition	fiery, violent, vehement, ardent
-U+F9A0 裂 CJK COMPATIBILITY IDEOGRAPH-F9A0	kDefinition	split, crack, break open; rend
-U+F9A1 說 CJK COMPATIBILITY IDEOGRAPH-F9A1	kDefinition	speak, say, talk; scold, upbraid
-U+F9A2 廉 CJK COMPATIBILITY IDEOGRAPH-F9A2	kDefinition	upright, honorable, honest
-U+F9A3 念 CJK COMPATIBILITY IDEOGRAPH-F9A3	kDefinition	think of, recall, study
-U+F9A4 捻 CJK COMPATIBILITY IDEOGRAPH-F9A4	kDefinition	to twist, nip with the fingers
-U+F9A5 殮 CJK COMPATIBILITY IDEOGRAPH-F9A5	kDefinition	dress corpse for burial
-U+F9A6 簾 CJK COMPATIBILITY IDEOGRAPH-F9A6	kDefinition	a blind, screen, curtain
-U+F9A7 獵 CJK COMPATIBILITY IDEOGRAPH-F9A7	kDefinition	hunt; field sports
-U+F9A8 令 CJK COMPATIBILITY IDEOGRAPH-F9A8	kDefinition	command, order; 'commandant', magistrate; allow, cause
-U+F9A9 囹 CJK COMPATIBILITY IDEOGRAPH-F9A9	kDefinition	prison, enclosure
-U+F9AA 寧 CJK COMPATIBILITY IDEOGRAPH-F9AA	kDefinition	repose, serenity, peace; peaceful
-U+F9AB 嶺 CJK COMPATIBILITY IDEOGRAPH-F9AB	kDefinition	mountain ridge, mountain peak
-U+F9AC 怜 CJK COMPATIBILITY IDEOGRAPH-F9AC	kDefinition	pity, sympathize
-U+F9AD 玲 CJK COMPATIBILITY IDEOGRAPH-F9AD	kDefinition	tinkling of jade
-U+F9AE 瑩 CJK COMPATIBILITY IDEOGRAPH-F9AE	kDefinition	lustre of gems; bright, lustrous
-U+F9AF 羚 CJK COMPATIBILITY IDEOGRAPH-F9AF	kDefinition	species of antelope
-U+F9B0 聆 CJK COMPATIBILITY IDEOGRAPH-F9B0	kDefinition	listen, hear
-U+F9B1 鈴 CJK COMPATIBILITY IDEOGRAPH-F9B1	kDefinition	bell
-U+F9B2 零 CJK COMPATIBILITY IDEOGRAPH-F9B2	kDefinition	zero; fragment, fraction
-U+F9B3 靈 CJK COMPATIBILITY IDEOGRAPH-F9B3	kDefinition	spirit, soul; spiritual world
-U+F9B4 領 CJK COMPATIBILITY IDEOGRAPH-F9B4	kDefinition	neck; collar; lead, guide
-U+F9B5 例 CJK COMPATIBILITY IDEOGRAPH-F9B5	kDefinition	precedent, example; regulation
-U+F9B6 禮 CJK COMPATIBILITY IDEOGRAPH-F9B6	kDefinition	social custom; manners; courtesy; rites
-U+F9B7 醴 CJK COMPATIBILITY IDEOGRAPH-F9B7	kDefinition	sweet wine; sweet spring
-U+F9B8 隸 CJK COMPATIBILITY IDEOGRAPH-F9B8	kDefinition	be subservient to; servant
-U+F9B9 惡 CJK COMPATIBILITY IDEOGRAPH-F9B9	kDefinition	evil, wicked, bad, foul
-U+F9BA 了 CJK COMPATIBILITY IDEOGRAPH-F9BA	kDefinition	to finish; particle of completed action
-U+F9BB 僚 CJK COMPATIBILITY IDEOGRAPH-F9BB	kDefinition	officials; bureaucracy
-U+F9BC 寮 CJK COMPATIBILITY IDEOGRAPH-F9BC	kDefinition	shanty, hut, shack
-U+F9BD 尿 CJK COMPATIBILITY IDEOGRAPH-F9BD	kDefinition	urine; urinate
-U+F9BE 料 CJK COMPATIBILITY IDEOGRAPH-F9BE	kDefinition	consider, conjecture; material
-U+F9BF 樂 CJK COMPATIBILITY IDEOGRAPH-F9BF	kDefinition	happy, glad; enjoyable; music
-U+F9C0 燎 CJK COMPATIBILITY IDEOGRAPH-F9C0	kDefinition	to burn, set afire; to illuminate; a signal lamp
-U+F9C1 療 CJK COMPATIBILITY IDEOGRAPH-F9C1	kDefinition	be healed, cured, recover
-U+F9C2 蓼 CJK COMPATIBILITY IDEOGRAPH-F9C2	kDefinition	smartweed, polygonum
-U+F9C3 遼 CJK COMPATIBILITY IDEOGRAPH-F9C3	kDefinition	distant, far
-U+F9C4 龍 CJK COMPATIBILITY IDEOGRAPH-F9C4	kDefinition	dragon; symbolic of emperor
-U+F9C5 暈 CJK COMPATIBILITY IDEOGRAPH-F9C5	kDefinition	halo in sky; fog; dizzy, faint
-U+F9C6 阮 CJK COMPATIBILITY IDEOGRAPH-F9C6	kDefinition	ancient musical instrument; surname
-U+F9C7 劉 CJK COMPATIBILITY IDEOGRAPH-F9C7	kDefinition	surname; kill, destroy
-U+F9C8 杻 CJK COMPATIBILITY IDEOGRAPH-F9C8	kDefinition	Ligustrum sinense, Chinese privet
-U+F9C9 柳 CJK COMPATIBILITY IDEOGRAPH-F9C9	kDefinition	willow tree; pleasure
-U+F9CA 流 CJK COMPATIBILITY IDEOGRAPH-F9CA	kDefinition	flow, circulate, drift; class
-U+F9CB 溜 CJK COMPATIBILITY IDEOGRAPH-F9CB	kDefinition	slide, glide, slip; slippery
-U+F9CC 琉 CJK COMPATIBILITY IDEOGRAPH-F9CC	kDefinition	sparkling stone; glazed, opaque
-U+F9CD 留 CJK COMPATIBILITY IDEOGRAPH-F9CD	kDefinition	stop, halt; stay, detain, keep
-U+F9CE 硫 CJK COMPATIBILITY IDEOGRAPH-F9CE	kDefinition	sulfur (element 16, S)
-U+F9CF 紐 CJK COMPATIBILITY IDEOGRAPH-F9CF	kDefinition	knot; button; handle, knob; tie
-U+F9D0 類 CJK COMPATIBILITY IDEOGRAPH-F9D0	kDefinition	class, group, kind, category
-U+F9D1 六 CJK COMPATIBILITY IDEOGRAPH-F9D1	kDefinition	number six
-U+F9D2 戮 CJK COMPATIBILITY IDEOGRAPH-F9D2	kDefinition	kill, massacre; oppress
-U+F9D3 陸 CJK COMPATIBILITY IDEOGRAPH-F9D3	kDefinition	land, continental; army
-U+F9D4 倫 CJK COMPATIBILITY IDEOGRAPH-F9D4	kDefinition	normal human relationships
-U+F9D5 崙 CJK COMPATIBILITY IDEOGRAPH-F9D5	kDefinition	Kunlun mountains in Jiangsu
-U+F9D6 淪 CJK COMPATIBILITY IDEOGRAPH-F9D6	kDefinition	be lost; sink, be submerged
-U+F9D7 輪 CJK COMPATIBILITY IDEOGRAPH-F9D7	kDefinition	wheel; revolve, turn; recur
-U+F9D8 律 CJK COMPATIBILITY IDEOGRAPH-F9D8	kDefinition	statute, principle, regulation
-U+F9D9 慄 CJK COMPATIBILITY IDEOGRAPH-F9D9	kDefinition	shiver, shudder, tremble; tremble
-U+F9DA 栗 CJK COMPATIBILITY IDEOGRAPH-F9DA	kDefinition	chestnut tree, chestnuts; surname
-U+F9DB 率 CJK COMPATIBILITY IDEOGRAPH-F9DB	kDefinition	to lead; ratio; rate; limit
-U+F9DC 隆 CJK COMPATIBILITY IDEOGRAPH-F9DC	kDefinition	prosperous, plentiful, abundant
-U+F9DD 利 CJK COMPATIBILITY IDEOGRAPH-F9DD	kDefinition	gains, advantage, profit, merit
-U+F9DE 吏 CJK COMPATIBILITY IDEOGRAPH-F9DE	kDefinition	government official, magistrate
-U+F9DF 履 CJK COMPATIBILITY IDEOGRAPH-F9DF	kDefinition	footwear, shoes; walk on, tread
-U+F9E0 易 CJK COMPATIBILITY IDEOGRAPH-F9E0	kDefinition	change; easy
-U+F9E1 李 CJK COMPATIBILITY IDEOGRAPH-F9E1	kDefinition	plum; judge; surname
-U+F9E2 梨 CJK COMPATIBILITY IDEOGRAPH-F9E2	kDefinition	pear; opera; cut, slash
-U+F9E3 泥 CJK COMPATIBILITY IDEOGRAPH-F9E3	kDefinition	mud, mire; earth, clay; plaster
-U+F9E4 理 CJK COMPATIBILITY IDEOGRAPH-F9E4	kDefinition	reason, logic; manage
-U+F9E5 痢 CJK COMPATIBILITY IDEOGRAPH-F9E5	kDefinition	dysentery
-U+F9E6 罹 CJK COMPATIBILITY IDEOGRAPH-F9E6	kDefinition	sorrow, grief; incur, meet with
-U+F9E7 裏 CJK COMPATIBILITY IDEOGRAPH-F9E7	kDefinition	inside, interior, within
-U+F9E8 裡 CJK COMPATIBILITY IDEOGRAPH-F9E8	kDefinition	inside, interior, within
-U+F9E9 里 CJK COMPATIBILITY IDEOGRAPH-F9E9	kDefinition	unit of distance; village; lane
-U+F9EA 離 CJK COMPATIBILITY IDEOGRAPH-F9EA	kDefinition	leave, depart; go away; separate
-U+F9EB 匿 CJK COMPATIBILITY IDEOGRAPH-F9EB	kDefinition	hide; go into hiding
-U+F9EC 溺 CJK COMPATIBILITY IDEOGRAPH-F9EC	kDefinition	drown; submerge in water; indulge
-U+F9ED 吝 CJK COMPATIBILITY IDEOGRAPH-F9ED	kDefinition	stingy, miserly, parsimonious
-U+F9EE 燐 CJK COMPATIBILITY IDEOGRAPH-F9EE	kDefinition	phosphorus (element 15, P)
-U+F9EF 璘 CJK COMPATIBILITY IDEOGRAPH-F9EF	kDefinition	luster of jade
-U+F9F0 藺 CJK COMPATIBILITY IDEOGRAPH-F9F0	kDefinition	rush used in making mats; surname
-U+F9F1 隣 CJK COMPATIBILITY IDEOGRAPH-F9F1	kDefinition	neighbor; neighboring; adjacent
-U+F9F2 鱗 CJK COMPATIBILITY IDEOGRAPH-F9F2	kDefinition	fish scales
-U+F9F3 麟 CJK COMPATIBILITY IDEOGRAPH-F9F3	kDefinition	female of Chinese unicorn
-U+F9F4 林 CJK COMPATIBILITY IDEOGRAPH-F9F4	kDefinition	forest, grove; surname
-U+F9F5 淋 CJK COMPATIBILITY IDEOGRAPH-F9F5	kDefinition	drip, soak, drench; perfectly
-U+F9F6 臨 CJK COMPATIBILITY IDEOGRAPH-F9F6	kDefinition	draw near, approach; descend
-U+F9F7 立 CJK COMPATIBILITY IDEOGRAPH-F9F7	kDefinition	stand; let stand; establish, set
-U+F9F8 笠 CJK COMPATIBILITY IDEOGRAPH-F9F8	kDefinition	bamboo hat; bamboo covering
-U+F9F9 粒 CJK COMPATIBILITY IDEOGRAPH-F9F9	kDefinition	grain; small particle
-U+F9FA 狀 CJK COMPATIBILITY IDEOGRAPH-F9FA	kDefinition	form; appearance; shape; official
-U+F9FB 炙 CJK COMPATIBILITY IDEOGRAPH-F9FB	kDefinition	roast, broil; toast; cauterize
-U+F9FC 識 CJK COMPATIBILITY IDEOGRAPH-F9FC	kDefinition	recognize, understand, know
-U+F9FD 什 CJK COMPATIBILITY IDEOGRAPH-F9FD	kDefinition	file of ten soldiers
-U+F9FE 茶 CJK COMPATIBILITY IDEOGRAPH-F9FE	kDefinition	tea
-U+F9FF 刺 CJK COMPATIBILITY IDEOGRAPH-F9FF	kDefinition	stab; prick, irritate; prod
-U+FA00 切 CJK COMPATIBILITY IDEOGRAPH-FA00	kDefinition	cut, mince, slice, carve
-U+FA01 度 CJK COMPATIBILITY IDEOGRAPH-FA01	kDefinition	degree, system; manner; to consider
-U+FA02 拓 CJK COMPATIBILITY IDEOGRAPH-FA02	kDefinition	expand; open up; support or push
-U+FA03 糖 CJK COMPATIBILITY IDEOGRAPH-FA03	kDefinition	sugar; candy; sweets
-U+FA04 宅 CJK COMPATIBILITY IDEOGRAPH-FA04	kDefinition	residence, dwelling, home; grave
-U+FA05 洞 CJK COMPATIBILITY IDEOGRAPH-FA05	kDefinition	cave, grotto; ravine; hole
-U+FA06 暴 CJK COMPATIBILITY IDEOGRAPH-FA06	kDefinition	violent, brutal, tyrannical
-U+FA07 輻 CJK COMPATIBILITY IDEOGRAPH-FA07	kDefinition	spokes of wheel
-U+FA08 行 CJK COMPATIBILITY IDEOGRAPH-FA08	kDefinition	go; walk; move, travel; circulate
-U+FA09 降 CJK COMPATIBILITY IDEOGRAPH-FA09	kDefinition	descend, fall, drop; lower, down
-U+FA0A 見 CJK COMPATIBILITY IDEOGRAPH-FA0A	kDefinition	see, observe, behold; perceive
-U+FA0B 廓 CJK COMPATIBILITY IDEOGRAPH-FA0B	kDefinition	broad, wide, open, empty; expand
-U+FA0C 兀 CJK COMPATIBILITY IDEOGRAPH-FA0C	kDefinition	duplicate of Big Five A461
-U+FA0D 嗀 CJK COMPATIBILITY IDEOGRAPH-FA0D	kDefinition	vomit
-U+FA10 塚 CJK COMPATIBILITY IDEOGRAPH-FA10	kDefinition	cemetery; tomb
-U+FA11 﨑 CJK COMPATIBILITY IDEOGRAPH-FA11	kDefinition	cape; spit; promontory
-U+FA12 晴 CJK COMPATIBILITY IDEOGRAPH-FA12	kDefinition	clear weather
-U+FA15 凞 CJK COMPATIBILITY IDEOGRAPH-FA15	kDefinition	bright
-U+FA16 猪 CJK COMPATIBILITY IDEOGRAPH-FA16	kDefinition	pig
-U+FA17 益 CJK COMPATIBILITY IDEOGRAPH-FA17	kDefinition	profit
-U+FA18 礼 CJK COMPATIBILITY IDEOGRAPH-FA18	kDefinition	social custom; manners; courtesy; rites
-U+FA19 神 CJK COMPATIBILITY IDEOGRAPH-FA19	kDefinition	spirit
-U+FA1A 祥 CJK COMPATIBILITY IDEOGRAPH-FA1A	kDefinition	good luck
-U+FA1B 福 CJK COMPATIBILITY IDEOGRAPH-FA1B	kDefinition	happiness
-U+FA1C 靖 CJK COMPATIBILITY IDEOGRAPH-FA1C	kDefinition	pacify; appease; calm
-U+FA1D 精 CJK COMPATIBILITY IDEOGRAPH-FA1D	kDefinition	essence; semen; spirit
-U+FA1E 羽 CJK COMPATIBILITY IDEOGRAPH-FA1E	kDefinition	feather
-U+FA22 諸 CJK COMPATIBILITY IDEOGRAPH-FA22	kDefinition	several
-U+FA25 逸 CJK COMPATIBILITY IDEOGRAPH-FA25	kDefinition	flee
-U+FA26 都 CJK COMPATIBILITY IDEOGRAPH-FA26	kDefinition	metropolis
-U+FA2A 飯 CJK COMPATIBILITY IDEOGRAPH-FA2A	kDefinition	cooked rice; food; meal
-U+FA2B 飼 CJK COMPATIBILITY IDEOGRAPH-FA2B	kDefinition	raise animals; feed; nourish
-U+FA2C 館 CJK COMPATIBILITY IDEOGRAPH-FA2C	kDefinition	public building
-U+FA2D 鶴 CJK COMPATIBILITY IDEOGRAPH-FA2D	kDefinition	crane
+U+F900 豈	kDefinition	how? what?
+U+F901 更	kDefinition	more, still further, much more
+U+F902 車	kDefinition	cart, vehicle; carry in cart
+U+F903 賈	kDefinition	surname; merchant; buy, trade
+U+F904 滑	kDefinition	slip, slide; slippery, polished
+U+F905 串	kDefinition	string; relatives; conspire
+U+F906 句	kDefinition	sentence
+U+F907 龜	kDefinition	turtle or tortoise; cuckold
+U+F908 龜	kDefinition	turtle or tortoise; cuckold
+U+F909 契	kDefinition	deed, contract, bond; engrave
+U+F90A 金	kDefinition	gold; metals in general; money
+U+F90B 喇	kDefinition	horn, bugle; lama; final particle
+U+F90C 奈	kDefinition	but, how; bear, stand, endure
+U+F90D 懶	kDefinition	lazy, languid, listless
+U+F90E 癩	kDefinition	leprosy, scabies, mange; shoddy
+U+F90F 羅	kDefinition	net for catching birds; gauze
+U+F910 蘿	kDefinition	type of creeping plant; turnip
+U+F911 螺	kDefinition	spiral shell; conch; spiral
+U+F912 裸	kDefinition	bare, nude; undress, strip
+U+F913 邏	kDefinition	patrol; inspect; watch
+U+F914 樂	kDefinition	happy, glad; enjoyable; music
+U+F915 洛	kDefinition	river in Shanxi province; city
+U+F916 烙	kDefinition	brand, burn; branding iron
+U+F917 珞	kDefinition	kind of necklace
+U+F918 落	kDefinition	fall, drop; net income, surplus
+U+F919 酪	kDefinition	cream, cheese; koumiss
+U+F91A 駱	kDefinition	white horse with black mane; camel
+U+F91B 亂	kDefinition	confusion, state of chaos; create chaos, revolt
+U+F91C 卵	kDefinition	egg; ovum; roe; spawn
+U+F91D 欄	kDefinition	railing, balustrade; animal pen
+U+F91E 爛	kDefinition	rotten, spoiled, decayed
+U+F91F 蘭	kDefinition	orchid; elegant, graceful
+U+F920 鸞	kDefinition	fabulous bird
+U+F921 嵐	kDefinition	mountain mist, mountain haze
+U+F922 濫	kDefinition	flood, overflow; excessive
+U+F923 藍	kDefinition	blue; indigo plant; surname
+U+F924 襤	kDefinition	ragged, tattered, threadbare
+U+F925 拉	kDefinition	pull, drag; seize, hold; lengthen
+U+F926 臘	kDefinition	year end sacrifice; dried meat
+U+F927 蠟	kDefinition	wax; candle; waxy, glazed
+U+F928 廊	kDefinition	corridor, porch, veranda
+U+F929 朗	kDefinition	clear, bright; distinct
+U+F92A 浪	kDefinition	wave; wasteful, reckless
+U+F92B 狼	kDefinition	wolf
+U+F92C 郎	kDefinition	gentleman, young man; husband
+U+F92D 來	kDefinition	come, coming; return, returning
+U+F92E 冷	kDefinition	cold, cool; lonely
+U+F92F 勞	kDefinition	labor, toil, do manual work
+U+F930 擄	kDefinition	capture, seize
+U+F931 櫓	kDefinition	oar, scull; row
+U+F932 爐	kDefinition	fireplace, stove, oven, furnace
+U+F933 盧	kDefinition	cottage, hut; surname; black
+U+F934 老	kDefinition	old, aged; experienced
+U+F935 蘆	kDefinition	rushes, reeds
+U+F936 虜	kDefinition	capture, imprison, seize; prison
+U+F937 路	kDefinition	road, path, street; journey
+U+F938 露	kDefinition	dew; bare, open, exposed
+U+F939 魯	kDefinition	foolish, stupid, rash; vulgar
+U+F93A 鷺	kDefinition	heron, egret
+U+F93B 碌	kDefinition	rough, uneven, rocky; mediocre
+U+F93C 祿	kDefinition	blessing, happiness, prosperity
+U+F93D 綠	kDefinition	green; chlorine
+U+F93E 菉	kDefinition	the green bamboo; greenish bamboo
+U+F93F 錄	kDefinition	copy, write down, record
+U+F940 鹿	kDefinition	deer; surname; Kangxi radical 198
+U+F941 論	kDefinition	debate; discuss; discourse
+U+F942 壟	kDefinition	grave, mound; ridge in field
+U+F943 弄	kDefinition	do, play or fiddle with; alley
+U+F944 籠	kDefinition	cage; cage-like basket
+U+F945 聾	kDefinition	deaf
+U+F946 牢	kDefinition	prison; stable, pen; secure
+U+F947 磊	kDefinition	pile of rocks or stones; great
+U+F948 賂	kDefinition	bribe; give present
+U+F949 雷	kDefinition	thunder
+U+F94A 壘	kDefinition	rampart, military wall
+U+F94B 屢	kDefinition	frequently, often, again and again
+U+F94C 樓	kDefinition	building of two or more stories
+U+F94D 淚	kDefinition	tears; weep, cry
+U+F94E 漏	kDefinition	leak, drip; funnel; hour glass
+U+F94F 累	kDefinition	tired; implicate, involve; bother
+U+F950 縷	kDefinition	thread; detailed, precise
+U+F951 陋	kDefinition	narrow; crude, coarse; ugly
+U+F952 勒	kDefinition	strangle, tighten
+U+F953 肋	kDefinition	ribs; chest
+U+F954 凜	kDefinition	shiver with cold or fear, fearful
+U+F955 凌	kDefinition	pure; virtuous; insult; maltreat
+U+F956 稜	kDefinition	corner, edge, angle; square block
+U+F957 綾	kDefinition	thin silk, damask silk
+U+F958 菱	kDefinition	water-chestnut, water caltrop
+U+F959 陵	kDefinition	hill, mound; mausoleum
+U+F95A 讀	kDefinition	read, study; pronounce
+U+F95B 拏	kDefinition	take; bring; grasp, hold; arrest
+U+F95C 樂	kDefinition	happy, glad; enjoyable; music
+U+F95D 諾	kDefinition	promise; assent, approve
+U+F95E 丹	kDefinition	cinnabar (native HgS); vermilion (artificial HgS used as pigment)
+U+F95F 寧	kDefinition	repose, serenity, peace; peaceful
+U+F960 怒	kDefinition	anger, rage, passion; angry
+U+F961 率	kDefinition	to lead; ratio; rate; limit
+U+F962 異	kDefinition	different, unusual, strange
+U+F963 北	kDefinition	north; northern; northward
+U+F964 磻	kDefinition	a tributary of the Wei river in Shanxi
+U+F965 便	kDefinition	convenience, ease; expedient
+U+F966 復	kDefinition	return; repeat; repeatedly
+U+F967 不	kDefinition	no, not; un-; negative prefix
+U+F968 泌	kDefinition	to seep out, excrete
+U+F969 數	kDefinition	number; several; count; fate
+U+F96A 索	kDefinition	large rope, cable; rules, laws
+U+F96B 參	kDefinition	take part in, intervene
+U+F96C 塞	kDefinition	stop up, block. seal, cork
+U+F96D 省	kDefinition	province; save, economize
+U+F96E 葉	kDefinition	leaf, petal; page of book; period
+U+F96F 說	kDefinition	speak, say, talk; scold, upbraid
+U+F970 殺	kDefinition	kill, slaughter, murder; hurt
+U+F971 辰	kDefinition	early morning
+U+F972 沈	kDefinition	sink, submerge; addicted to; name
+U+F973 拾	kDefinition	pick up, collect, tidy up; ten
+U+F974 若	kDefinition	if, supposing, assuming; similar
+U+F975 掠	kDefinition	rob, ransack, plunder; pass by
+U+F976 略	kDefinition	approximately, roughly; outline
+U+F977 亮	kDefinition	bright, brilliant, radiant, light
+U+F978 兩	kDefinition	two, both, pair, couple; ounce
+U+F979 凉	kDefinition	cool, cold; disheartened
+U+F97A 梁	kDefinition	bridge; beam; rafters; surname
+U+F97B 糧	kDefinition	food, grain, provisions
+U+F97C 良	kDefinition	good, virtuous, respectable
+U+F97D 諒	kDefinition	excuse, forgive; guess, presume
+U+F97E 量	kDefinition	measure, quantity, capacity
+U+F97F 勵	kDefinition	strive; encourage
+U+F980 呂	kDefinition	surname; a musical note
+U+F981 女	kDefinition	woman, girl; feminine; rad. 38
+U+F982 廬	kDefinition	hut, cottage; name of a mountain
+U+F983 旅	kDefinition	trip, journey; travel; traveler
+U+F984 濾	kDefinition	strain out, filter
+U+F985 礪	kDefinition	whetstone; sharpen
+U+F986 閭	kDefinition	village of twenty-five families
+U+F987 驪	kDefinition	a pure black horse; a pair of horses
+U+F988 麗	kDefinition	beautiful, magnificent, elegant
+U+F989 黎	kDefinition	surname; numerous, many; black
+U+F98A 力	kDefinition	power, capability, influence
+U+F98B 曆	kDefinition	calendar, era
+U+F98C 歷	kDefinition	take place, past, history
+U+F98D 轢	kDefinition	run over something with a vehicle
+U+F98E 年	kDefinition	year; new-years; person's age
+U+F98F 憐	kDefinition	pity, sympathize
+U+F990 戀	kDefinition	love; long for, yearn for; love
+U+F991 撚	kDefinition	twirl in fingers, tease, toy with
+U+F992 漣	kDefinition	flowing water; ripples; weeping
+U+F993 煉	kDefinition	smelt, refine; distill, condense
+U+F994 璉	kDefinition	vessel used to hold grain offerings
+U+F995 秊	kDefinition	year; new-years; person's age
+U+F996 練	kDefinition	practice, drill, exercise, train
+U+F997 聯	kDefinition	connect, join; associate, ally
+U+F998 輦	kDefinition	a hand-cart; to transport by carriage
+U+F999 蓮	kDefinition	lotus, water lily; paradise
+U+F99A 連	kDefinition	join, connect; continuous; even
+U+F99B 鍊	kDefinition	smelt metals, forge; refine
+U+F99C 列	kDefinition	a line; to arrange in order, classify
+U+F99D 劣	kDefinition	bad, inferior; slightly
+U+F99E 咽	kDefinition	throat; pharynx
+U+F99F 烈	kDefinition	fiery, violent, vehement, ardent
+U+F9A0 裂	kDefinition	split, crack, break open; rend
+U+F9A1 說	kDefinition	speak, say, talk; scold, upbraid
+U+F9A2 廉	kDefinition	upright, honorable, honest
+U+F9A3 念	kDefinition	think of, recall, study
+U+F9A4 捻	kDefinition	to twist, nip with the fingers
+U+F9A5 殮	kDefinition	dress corpse for burial
+U+F9A6 簾	kDefinition	a blind, screen, curtain
+U+F9A7 獵	kDefinition	hunt; field sports
+U+F9A8 令	kDefinition	command, order; 'commandant', magistrate; allow, cause
+U+F9A9 囹	kDefinition	prison, enclosure
+U+F9AA 寧	kDefinition	repose, serenity, peace; peaceful
+U+F9AB 嶺	kDefinition	mountain ridge, mountain peak
+U+F9AC 怜	kDefinition	pity, sympathize
+U+F9AD 玲	kDefinition	tinkling of jade
+U+F9AE 瑩	kDefinition	lustre of gems; bright, lustrous
+U+F9AF 羚	kDefinition	species of antelope
+U+F9B0 聆	kDefinition	listen, hear
+U+F9B1 鈴	kDefinition	bell
+U+F9B2 零	kDefinition	zero; fragment, fraction
+U+F9B3 靈	kDefinition	spirit, soul; spiritual world
+U+F9B4 領	kDefinition	neck; collar; lead, guide
+U+F9B5 例	kDefinition	precedent, example; regulation
+U+F9B6 禮	kDefinition	social custom; manners; courtesy; rites
+U+F9B7 醴	kDefinition	sweet wine; sweet spring
+U+F9B8 隸	kDefinition	be subservient to; servant
+U+F9B9 惡	kDefinition	evil, wicked, bad, foul
+U+F9BA 了	kDefinition	to finish; particle of completed action
+U+F9BB 僚	kDefinition	officials; bureaucracy
+U+F9BC 寮	kDefinition	shanty, hut, shack
+U+F9BD 尿	kDefinition	urine; urinate
+U+F9BE 料	kDefinition	consider, conjecture; material
+U+F9BF 樂	kDefinition	happy, glad; enjoyable; music
+U+F9C0 燎	kDefinition	to burn, set afire; to illuminate; a signal lamp
+U+F9C1 療	kDefinition	be healed, cured, recover
+U+F9C2 蓼	kDefinition	smartweed, polygonum
+U+F9C3 遼	kDefinition	distant, far
+U+F9C4 龍	kDefinition	dragon; symbolic of emperor
+U+F9C5 暈	kDefinition	halo in sky; fog; dizzy, faint
+U+F9C6 阮	kDefinition	ancient musical instrument; surname
+U+F9C7 劉	kDefinition	surname; kill, destroy
+U+F9C8 杻	kDefinition	Ligustrum sinense, Chinese privet
+U+F9C9 柳	kDefinition	willow tree; pleasure
+U+F9CA 流	kDefinition	flow, circulate, drift; class
+U+F9CB 溜	kDefinition	slide, glide, slip; slippery
+U+F9CC 琉	kDefinition	sparkling stone; glazed, opaque
+U+F9CD 留	kDefinition	stop, halt; stay, detain, keep
+U+F9CE 硫	kDefinition	sulfur (element 16, S)
+U+F9CF 紐	kDefinition	knot; button; handle, knob; tie
+U+F9D0 類	kDefinition	class, group, kind, category
+U+F9D1 六	kDefinition	number six
+U+F9D2 戮	kDefinition	kill, massacre; oppress
+U+F9D3 陸	kDefinition	land, continental; army
+U+F9D4 倫	kDefinition	normal human relationships
+U+F9D5 崙	kDefinition	Kunlun mountains in Jiangsu
+U+F9D6 淪	kDefinition	be lost; sink, be submerged
+U+F9D7 輪	kDefinition	wheel; revolve, turn; recur
+U+F9D8 律	kDefinition	statute, principle, regulation
+U+F9D9 慄	kDefinition	shiver, shudder, tremble; tremble
+U+F9DA 栗	kDefinition	chestnut tree, chestnuts; surname
+U+F9DB 率	kDefinition	to lead; ratio; rate; limit
+U+F9DC 隆	kDefinition	prosperous, plentiful, abundant
+U+F9DD 利	kDefinition	gains, advantage, profit, merit
+U+F9DE 吏	kDefinition	government official, magistrate
+U+F9DF 履	kDefinition	footwear, shoes; walk on, tread
+U+F9E0 易	kDefinition	change; easy
+U+F9E1 李	kDefinition	plum; judge; surname
+U+F9E2 梨	kDefinition	pear; opera; cut, slash
+U+F9E3 泥	kDefinition	mud, mire; earth, clay; plaster
+U+F9E4 理	kDefinition	reason, logic; manage
+U+F9E5 痢	kDefinition	dysentery
+U+F9E6 罹	kDefinition	sorrow, grief; incur, meet with
+U+F9E7 裏	kDefinition	inside, interior, within
+U+F9E8 裡	kDefinition	inside, interior, within
+U+F9E9 里	kDefinition	unit of distance; village; lane
+U+F9EA 離	kDefinition	leave, depart; go away; separate
+U+F9EB 匿	kDefinition	hide; go into hiding
+U+F9EC 溺	kDefinition	drown; submerge in water; indulge
+U+F9ED 吝	kDefinition	stingy, miserly, parsimonious
+U+F9EE 燐	kDefinition	phosphorus (element 15, P)
+U+F9EF 璘	kDefinition	luster of jade
+U+F9F0 藺	kDefinition	rush used in making mats; surname
+U+F9F1 隣	kDefinition	neighbor; neighboring; adjacent
+U+F9F2 鱗	kDefinition	fish scales
+U+F9F3 麟	kDefinition	female of Chinese unicorn
+U+F9F4 林	kDefinition	forest, grove; surname
+U+F9F5 淋	kDefinition	drip, soak, drench; perfectly
+U+F9F6 臨	kDefinition	draw near, approach; descend
+U+F9F7 立	kDefinition	stand; let stand; establish, set
+U+F9F8 笠	kDefinition	bamboo hat; bamboo covering
+U+F9F9 粒	kDefinition	grain; small particle
+U+F9FA 狀	kDefinition	form; appearance; shape; official
+U+F9FB 炙	kDefinition	roast, broil; toast; cauterize
+U+F9FC 識	kDefinition	recognize, understand, know
+U+F9FD 什	kDefinition	file of ten soldiers
+U+F9FE 茶	kDefinition	tea
+U+F9FF 刺	kDefinition	stab; prick, irritate; prod
+U+FA00 切	kDefinition	cut, mince, slice, carve
+U+FA01 度	kDefinition	degree, system; manner; to consider
+U+FA02 拓	kDefinition	expand; open up; support or push
+U+FA03 糖	kDefinition	sugar; candy; sweets
+U+FA04 宅	kDefinition	residence, dwelling, home; grave
+U+FA05 洞	kDefinition	cave, grotto; ravine; hole
+U+FA06 暴	kDefinition	violent, brutal, tyrannical
+U+FA07 輻	kDefinition	spokes of wheel
+U+FA08 行	kDefinition	go; walk; move, travel; circulate
+U+FA09 降	kDefinition	descend, fall, drop; lower, down
+U+FA0A 見	kDefinition	see, observe, behold; perceive
+U+FA0B 廓	kDefinition	broad, wide, open, empty; expand
+U+FA0C 兀	kDefinition	duplicate of Big Five A461
+U+FA0D 嗀	kDefinition	vomit
+U+FA10 塚	kDefinition	cemetery; tomb
+U+FA11 﨑	kDefinition	cape; spit; promontory
+U+FA12 晴	kDefinition	clear weather
+U+FA15 凞	kDefinition	bright
+U+FA16 猪	kDefinition	pig
+U+FA17 益	kDefinition	profit
+U+FA18 礼	kDefinition	social custom; manners; courtesy; rites
+U+FA19 神	kDefinition	spirit
+U+FA1A 祥	kDefinition	good luck
+U+FA1B 福	kDefinition	happiness
+U+FA1C 靖	kDefinition	pacify; appease; calm
+U+FA1D 精	kDefinition	essence; semen; spirit
+U+FA1E 羽	kDefinition	feather
+U+FA22 諸	kDefinition	several
+U+FA25 逸	kDefinition	flee
+U+FA26 都	kDefinition	metropolis
+U+FA2A 飯	kDefinition	cooked rice; food; meal
+U+FA2B 飼	kDefinition	raise animals; feed; nourish
+U+FA2C 館	kDefinition	public building
+U+FA2D 鶴	kDefinition	crane
 U+20000 𠀀	kDefinition	the sound made by breathing in; oh! (see ㄛ BOPOMOFO LETTER O)
 U+20001 𠀁	kDefinition	(original form of 七)
 U+20005 𠀅	kDefinition	(variant of 亥)
@@ -22754,13 +22754,13 @@ U+2EB6A 𮭪	kDefinition	turquoise kingfisher
 U+2EB70 𮭰	kDefinition	saltpond; salty marshes
 U+2EB87 𮮇	kDefinition	barley
 U+2EBD9 𮯙	kDefinition	to bite; use all the strength to bite; to gnaw, bones squeeze between teeth (could not be picked out)
-U+2F817 冗 CJK COMPATIBILITY IDEOGRAPH-2F817	kDefinition	business, duty
-U+2F835 灰 CJK COMPATIBILITY IDEOGRAPH-2F835	kDefinition	ashes, lime
-U+2F865 姘 CJK COMPATIBILITY IDEOGRAPH-2F865	kDefinition	illicit sexual relations
-U+2F8BF 搢 CJK COMPATIBILITY IDEOGRAPH-2F8BF	kDefinition	to stick into; to shake
-U+2F8D2 冒 CJK COMPATIBILITY IDEOGRAPH-2F8D2	kDefinition	risk, brave, dare
-U+2F8E0 枅 CJK COMPATIBILITY IDEOGRAPH-2F8E0	kDefinition	tie beam; davit
-U+2F907 洴 CJK COMPATIBILITY IDEOGRAPH-2F907	kDefinition	(Cant.) mud, mire
+U+2F817 冗	kDefinition	business, duty
+U+2F835 灰	kDefinition	ashes, lime
+U+2F865 姘	kDefinition	illicit sexual relations
+U+2F8BF 搢	kDefinition	to stick into; to shake
+U+2F8D2 冒	kDefinition	risk, brave, dare
+U+2F8E0 枅	kDefinition	tie beam; davit
+U+2F907 洴	kDefinition	(Cant.) mud, mire
 U+30021 𰀡	kDefinition	hard; wise
 U+30078 𰁸	kDefinition	stop
 U+3007E 𰁾	kDefinition	follow

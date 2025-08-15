@@ -7385,5 +7385,6 @@ U+2C9A0 𬦠	kMeyerWempe	1932
 U+2C9DF 𬧟	kMeyerWempe	2117
 U+2C9EF 𬧯	kMeyerWempe	2385
 U+2CE33 𬸳	kMeyerWempe	970
+U+2CE9E 𬺞	kMeyerWempe	1368*
 U+2F817 冗	kMeyerWempe	3946a
 U+30528 𰔨	kMeyerWempe	3012

@@ -3288,9 +3288,9 @@ U+9FA4 龤	kSemanticVariant	U+8AE7<kMatthews
 U+9FA5 龥	kSemanticVariant	U+7C72<kLau,kMatthews,kMeyerWempe
 U+9FAD 龭	kSemanticVariant	U+2EE46
 U+9FCC 鿌	kSemanticVariant	U+6DBC
-U+FA11 﨑 CJK COMPATIBILITY IDEOGRAPH-FA11	kSemanticVariant	U+37E2 U+57FC U+5D0E<kMorohashi:Z U+5D5C U+7895 U+966D U+2550E
-U+FA17 益 CJK COMPATIBILITY IDEOGRAPH-FA17	kSemanticVariant	U+76CA<kMeyerWempe
-U+FA18 礼 CJK COMPATIBILITY IDEOGRAPH-FA18	kSemanticVariant	U+793C<kMatthews U+79AE<kMatthews
+U+FA11 﨑	kSemanticVariant	U+37E2 U+57FC U+5D0E<kMorohashi:Z U+5D5C U+7895 U+966D U+2550E
+U+FA17 益	kSemanticVariant	U+76CA<kMeyerWempe
+U+FA18 礼	kSemanticVariant	U+793C<kMatthews U+79AE<kMatthews
 U+2009D 𠂝	kSemanticVariant	U+531D<kHanYu U+773E
 U+200A4 𠂤	kSemanticVariant	U+23CE8<kLau
 U+2018C 𠆌	kSemanticVariant	U+5EB8
@@ -3494,6 +3494,16 @@ U+2C39F 𬎟	kSemanticVariant	U+2ED39
 U+2C454 𬑔	kSemanticVariant	U+8846<kFennIndex
 U+2C461 𬑡	kSemanticVariant	U+7785<kFennIndex:T U+77C1<kFennIndex:T
 U+2CA0B 𬨋	kSemanticVariant	U+2EDDA
+U+2CEA2 𬺢	kSemanticVariant	U+4E0C
+U+2CEA3 𬺣	kSemanticVariant	U+65E6 U+8DB3
+U+2CEA4 𬺤	kSemanticVariant	U+6EDA U+6EFE U+7384 U+78D9 U+886E U+889E
+U+2CEA5 𬺥	kSemanticVariant	U+5353
+U+2CEA6 𬺦	kSemanticVariant	U+9AD8
+U+2CEA7 𬺧	kSemanticVariant	U+5149 U+6C34
+U+2CEA8 𬺨	kSemanticVariant	U+50CF U+8C61
+U+2CEAA 𬺪	kSemanticVariant	U+2DE30
+U+2CEAC 𬺬	kSemanticVariant	U+3F16 U+74E5 U+24B24
+U+2CEAD 𬺭	kSemanticVariant	U+5E72 U+5E79
 U+2D016 𭀖	kSemanticVariant	U+5398<kFennIndex:T U+91D0<kFennIndex:T U+2D016<kFennIndex:T
 U+2EBF4 𮯴	kSemanticVariant	U+502A
 U+2EC25 𮰥	kSemanticVariant	U+2A8F7
@@ -3509,6 +3519,7 @@ U+2ED28 𮴨	kSemanticVariant	U+7481 U+2497C
 U+2ED39 𮴹	kSemanticVariant	U+2C39F U+2ED0C
 U+2ED3C 𮴼	kSemanticVariant	U+7517
 U+2ED51 𮵑	kSemanticVariant	U+78AF
+U+2ED53 𮵓	kSemanticVariant	U+32D22
 U+2ED83 𮶃	kSemanticVariant	U+7E27 U+7EE6
 U+2ED99 𮶙	kSemanticVariant	U+8230 U+8266
 U+2EDCD 𮷍	kSemanticVariant	U+8CAF U+8D2E
@@ -3521,6 +3532,7 @@ U+2EE22 𮸢	kSemanticVariant	U+28B2B
 U+2EE39 𮸹	kSemanticVariant	U+9867 U+987E
 U+2EE46 𮹆	kSemanticVariant	U+9FAD
 U+2EE58 𮹘	kSemanticVariant	U+83BA U+9DAF
-U+2F817 冗 CJK COMPATIBILITY IDEOGRAPH-2F817	kSemanticVariant	U+5197<kMeyerWempe
-U+2F835 灰 CJK COMPATIBILITY IDEOGRAPH-2F835	kSemanticVariant	U+7070<kFenn
-U+2F8D2 冒 CJK COMPATIBILITY IDEOGRAPH-2F8D2	kSemanticVariant	U+5192<kHKGlyph
+U+2F817 冗	kSemanticVariant	U+5197<kMeyerWempe
+U+2F835 灰	kSemanticVariant	U+7070<kFenn
+U+2F8D2 冒	kSemanticVariant	U+5192<kHKGlyph
+U+32D22 𲴢	kSemanticVariant	U+2ED53

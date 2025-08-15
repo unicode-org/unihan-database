@@ -1860,6 +1860,7 @@ U+6BC0 毀	kSimplifiedVariant	U+6BC1
 U+6BC4 毄	kSimplifiedVariant	U+2C1A6
 U+6BC6 毆	kSimplifiedVariant	U+6BB4
 U+6BCA 毊	kSimplifiedVariant	U+2AD51
+U+6BDA 毚	kSimplifiedVariant	U+2B94E
 U+6BE1 毡	kSimplifiedVariant	U+6BE1
 U+6BFF 毿	kSimplifiedVariant	U+6BF5
 U+6C00 氀	kSimplifiedVariant	U+306A6
@@ -5571,6 +5572,7 @@ U+9EFE 黾	kSimplifiedVariant	U+9EFE
 U+9EFF 黿	kSimplifiedVariant	U+9F0B
 U+9F00 鼀	kSimplifiedVariant	U+312FE
 U+9F01 鼁	kSimplifiedVariant	U+312FF
+U+9F02 鼂	kSimplifiedVariant	U+9F0C
 U+9F04 鼄	kSimplifiedVariant	U+2CE63
 U+9F05 鼅	kSimplifiedVariant	U+31304
 U+9F06 鼆	kSimplifiedVariant	U+31306
@@ -6919,3 +6921,9 @@ U+311A5 𱆥	kSimplifiedVariant	U+9FD5
 U+311CB 𱇋	kSimplifiedVariant	U+2CDA5
 U+312C2 𱋂	kSimplifiedVariant	U+2A2C8
 U+31D6D 𱵭	kSimplifiedVariant	U+2ED5A
+U+32942 𲥂	kSimplifiedVariant	U+2EC9A
+U+32A99 𲪙	kSimplifiedVariant	U+2ECCE
+U+32ABC 𲪼	kSimplifiedVariant	U+2ECC4
+U+32C0D 𲰍	kSimplifiedVariant	U+2ED15
+U+33170 𳅰	kSimplifiedVariant	U+2EDFC
+U+33206 𳈆	kSimplifiedVariant	U+2EE27
