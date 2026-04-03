@@ -8242,7 +8242,7 @@ U+6FCE 濎	kPhonetic	1341*
 U+6FCF 濏	kPhonetic	1133*
 U+6FD1 濑	kPhonetic	764
 U+6FD4 濔	kPhonetic	1547
-U+6FD5 濕	kPhonetic	1131
+U+6FD5 濕	kPhonetic	470* 1131
 U+6FD6 濖	kPhonetic	268*
 U+6FD8 濘	kPhonetic	978
 U+6FDB 濛	kPhonetic	935
@@ -15031,7 +15031,7 @@ U+96AC 隬	kPhonetic	1547*
 U+96AD 隭	kPhonetic	1250*
 U+96AE 隮	kPhonetic	56*
 U+96AF 隯	kPhonetic	1149*
-U+96B0 隰	kPhonetic	1131
+U+96B0 隰	kPhonetic	470* 
 U+96B1 隱	kPhonetic	1483
 U+96B2 隲	kPhonetic	167
 U+96B3 隳	kPhonetic	298
