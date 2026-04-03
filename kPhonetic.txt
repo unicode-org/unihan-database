@@ -8030,6 +8030,7 @@ U+6E74 湴	kPhonetic	1056
 U+6E76 湶	kPhonetic	280*
 U+6E78 湸	kPhonetic	800*
 U+6E7A 湺	kPhonetic	1068*
+U+6E7F 湿	kPhonetic	470* 1131
 U+6E83 溃	kPhonetic	716*
 U+6E86 溆	kPhonetic	1363*
 U+6E87 溇	kPhonetic	780*
@@ -15031,7 +15032,7 @@ U+96AC 隬	kPhonetic	1547*
 U+96AD 隭	kPhonetic	1250*
 U+96AE 隮	kPhonetic	56*
 U+96AF 隯	kPhonetic	1149*
-U+96B0 隰	kPhonetic	470* 
+U+96B0 隰	kPhonetic	470* 1131
 U+96B1 隱	kPhonetic	1483
 U+96B2 隲	kPhonetic	167
 U+96B3 隳	kPhonetic	298
