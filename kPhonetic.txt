@@ -21069,6 +21069,7 @@ U+2AD07 𪴇	kPhonetic	144*
 U+2AD18 𪴘	kPhonetic	1293*
 U+2AD19 𪴙	kPhonetic	28*
 U+2AD28 𪴨	kPhonetic	1589*
+U+2AD2F 𪴯	kPhonetic	470*
 U+2AD3F 𪴿	kPhonetic	1616*
 U+2AD59 𪵙	kPhonetic	673*
 U+2AD65 𪵥	kPhonetic	927*
