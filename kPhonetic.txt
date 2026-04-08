@@ -16504,8 +16504,8 @@ U+9F2F 鼯	kPhonetic	947
 U+9F31 鼱	kPhonetic	203
 U+9F34 鼴	kPhonetic	1574A
 U+9F35 鼵	kPhonetic	1317*
-U+9F37 鼷	kPhonetic	427
 U+9F36 鼶	kPhonetic	1175*
+U+9F37 鼷	kPhonetic	427
 U+9F38 鼸	kPhonetic	615
 U+9F39 鼹	kPhonetic	4
 U+9F3A 鼺	kPhonetic	841*
