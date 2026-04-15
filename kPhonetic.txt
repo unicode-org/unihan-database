@@ -4707,7 +4707,7 @@ U+5C45 居	kPhonetic	671 675 753
 U+5C46 屆	kPhonetic	336
 U+5C48 屈	kPhonetic	334 1449
 U+5C49 屉	kPhonetic	1115
-U+5C4A 届	kPhonetic	336
+U+5C4A 届	kPhonetic	336 1512*
 U+5C4B 屋	kPhonetic	1408
 U+5C4C 屌	kPhonetic	1351
 U+5C4D 屍	kPhonetic	1176
