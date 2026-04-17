@@ -22007,7 +22007,7 @@ U+2E777 𮝷	kPhonetic	1020*
 U+2E779 𮝹	kPhonetic	1419*
 U+2E7A2 𮞢	kPhonetic	1167*
 U+2E7A4 𮞤	kPhonetic	976*
-U+2E7C2	𮟂	kPhonetic	628*
+U+2E7C2 𮟂	kPhonetic	628*
 U+2E7F0 𮟰	kPhonetic	19*
 U+2E81E 𮠞	kPhonetic	254*
 U+2E822 𮠢	kPhonetic	931*
