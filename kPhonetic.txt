@@ -7988,8 +7988,8 @@ U+6DEC 淬	kPhonetic	333
 U+6DEE 淮	kPhonetic	285 1413
 U+6DF0 淰	kPhonetic	976
 U+6DF1 深	kPhonetic	1119
-U+6DF3 淳	kPhonetic	316
 U+6DF2 淲	kPhonetic	384*
+U+6DF3 淳	kPhonetic	316
 U+6DF4 淴	kPhonetic	356
 U+6DF5 淵	kPhonetic	1619
 U+6DF6 淶	kPhonetic	829
