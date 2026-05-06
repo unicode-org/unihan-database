@@ -5592,7 +5592,7 @@ U+9F4C 齌	kSimplifiedVariant	U+31317
 U+9F4D 齍	kSimplifiedVariant	U+31318
 U+9F4E 齎	kSimplifiedVariant	U+8D4D
 U+9F4F 齏	kSimplifiedVariant	U+9F51
-U+9F52 齒	kSimplifiedVariant	U+9F7F
+U+9F52 齒	kSimplifiedVariant	U+6B6F U+9F7F
 U+9F54 齔	kSimplifiedVariant	U+9F80
 U+9F55 齕	kSimplifiedVariant	U+9F81
 U+9F56 齖	kSimplifiedVariant	U+2CE7A
