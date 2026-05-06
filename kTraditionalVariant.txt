@@ -890,6 +890,7 @@ U+6AA9 檩	kTraditionalVariant	U+6A81
 U+6B22 欢	kTraditionalVariant	U+6B61 U+6B22
 U+6B24 欤	kTraditionalVariant	U+6B24 U+6B5F
 U+6B27 欧	kTraditionalVariant	U+6B50
+U+6B6F 歯	kTraditionalVariant	U+9F52
 U+6B7C 歼	kTraditionalVariant	U+6BB2
 U+6B81 殁	kTraditionalVariant	U+6B7F
 U+6B87 殇	kTraditionalVariant	U+6BA4
