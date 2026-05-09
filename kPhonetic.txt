@@ -18087,6 +18087,7 @@ U+23E67 𣹧	kPhonetic	15*
 U+23EAE 𣺮	kPhonetic	1361*
 U+23EDB 𣻛	kPhonetic	323*
 U+23EEF 𣻯	kPhonetic	628*
+U+23EF1 𣻱	kPhonetic	84*
 U+23EF3 𣻳	kPhonetic	628*
 U+23EF5 𣻵	kPhonetic	973B*
 U+23F27 𣼧	kPhonetic	1278*
@@ -22035,6 +22036,7 @@ U+2E1F6 𮇶	kPhonetic	782*
 U+2E1FB 𮇻	kPhonetic	422*
 U+2E214 𮈔	kPhonetic	429 1170
 U+2E235 𮈵	kPhonetic	873B*
+U+2E242 𮉂	kPhonetic	84*
 U+2E248 𮉈	kPhonetic	615A*
 U+2E261 𮉡	kPhonetic	820A*
 U+2E267 𮉧	kPhonetic	799*
