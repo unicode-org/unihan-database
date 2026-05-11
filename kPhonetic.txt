@@ -22593,6 +22593,7 @@ U+310A5 𱂥	kPhonetic	646*
 U+310A6 𱂦	kPhonetic	1055*
 U+310AB 𱂫	kPhonetic	182*
 U+310AE 𱂮	kPhonetic	1029*
+U+310B6 𱂶	kPhonetic	1269*
 U+310C7 𱃇	kPhonetic	1590*
 U+310CF 𱃏	kPhonetic	179*
 U+310DE 𱃞	kPhonetic	1611*
