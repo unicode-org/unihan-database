@@ -2583,7 +2583,7 @@ U+5065 健	kPhonetic	620
 U+5069 偩	kPhonetic	391
 U+506A 偪	kPhonetic	398
 U+506B 偫	kPhonetic	1371
-U+506C 偬	kPhonetic	327
+U+506C 偬	kPhonetic	326* 327
 U+506D 偭	kPhonetic	900
 U+506E 偮	kPhonetic	70*
 U+506F 偯	kPhonetic	993
@@ -11269,6 +11269,7 @@ U+805B 聛	kPhonetic	1029*
 U+805E 聞	kPhonetic	929
 U+8060 聠	kPhonetic	1055*
 U+8069 聩	kPhonetic	716*
+U+806A 聪	kPhonetic	326*
 U+806F 聯	kPhonetic	706
 U+8070 聰	kPhonetic	326
 U+8071 聱	kPhonetic	966
@@ -12021,7 +12022,7 @@ U+846B 葫	kPhonetic	1460
 U+846C 葬	kPhonetic	253
 U+846D 葭	kPhonetic	534
 U+846F 葯	kPhonetic	972 1523
-U+8471 葱	kPhonetic	327
+U+8471 葱	kPhonetic	326* 327
 U+8472 葲	kPhonetic	280*
 U+8473 葳	kPhonetic	1424
 U+8475 葵	kPhonetic	714
