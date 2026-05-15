@@ -16400,7 +16400,7 @@ U+9DB0 鶰	kPhonetic	1628*
 U+9DB3 鶳	kPhonetic	1171*
 U+9DB4 鶴	kPhonetic	649
 U+9DB5 鶵	kPhonetic	234
-U+9DB6 鶶	kPhonetic	577	1381*
+U+9DB6 鶶	kPhonetic	577 1381*
 U+9DB8 鶸	kPhonetic	1524*
 U+9DB9 鶹	kPhonetic	782
 U+9DBA 鶺	kPhonetic	99
