@@ -19334,6 +19334,7 @@ U+260FD 𦃽	kPhonetic	1653*
 U+26102 𦄂	kPhonetic	1287*
 U+2610D 𦄍	kPhonetic	1233*
 U+26111 𦄑	kPhonetic	1438*
+U+2612E 𦄮	kPhonetic	760*
 U+26140 𦅀	kPhonetic	62*
 U+26143 𦅃	kPhonetic	216*
 U+26148 𦅈	kPhonetic	1007*
