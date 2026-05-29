@@ -20883,6 +20883,7 @@ U+29502 𩔂	kPhonetic	1400*
 U+29503 𩔃	kPhonetic	1468*
 U+29506 𩔆	kPhonetic	714*
 U+29507 𩔇	kPhonetic	1457*
+U+2950A 𩔊	kPhonetic	1588*
 U+29511 𩔑	kPhonetic	1590*
 U+29514 𩔔	kPhonetic	1614*
 U+29515 𩔕	kPhonetic	1513A*
@@ -20907,6 +20908,7 @@ U+2956D 𩕭	kPhonetic	645*
 U+2956F 𩕯	kPhonetic	1149*
 U+29571 𩕱	kPhonetic	935*
 U+2958C 𩖌	kPhonetic	24*
+U+2958F 𩖏	kPhonetic	1588*
 U+29592 𩖒	kPhonetic	1629*
 U+29596 𩖖	kPhonetic	1568*
 U+29597 𩖗	kPhonetic	567*
