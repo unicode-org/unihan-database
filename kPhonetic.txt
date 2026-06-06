@@ -18522,6 +18522,7 @@ U+242BC 𤊼	kPhonetic	1568*
 U+242C3 𤋃	kPhonetic	1513A*
 U+242CE 𤋎	kPhonetic	196*
 U+242CF 𤋏	kPhonetic	780*
+U+242EE 𤋮	kPhonetic	1543A*
 U+242FA 𤋺	kPhonetic	198*
 U+24303 𤌃	kPhonetic	1367*
 U+2430A 𤌊	kPhonetic	241*
