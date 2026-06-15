@@ -4031,6 +4031,7 @@ U+572E 圮	kPhonetic	597
 U+5730 地	kPhonetic	1471
 U+5733 圳	kPhonetic	273
 U+5734 圴	kPhonetic	106*
+U+573A 场	kPhonetic	1529*
 U+573B 圻	kPhonetic	571
 U+573C 圼	kPhonetic	981 1501
 U+573E 圾	kPhonetic	581
@@ -6066,6 +6067,7 @@ U+6264 扤	kPhonetic	963
 U+6266 扦	kPhonetic	192
 U+6267 执	kPhonetic	69 962 1627
 U+626B 扫	kPhonetic	81
+U+626C 扬	kPhonetic	1529*
 U+626D 扭	kPhonetic	90
 U+626E 扮	kPhonetic	353
 U+626F 扯	kPhonetic	95 135
@@ -6771,6 +6773,7 @@ U+65F3 旳	kPhonetic	106*
 U+65F4 旴	kPhonetic	1602*
 U+65F5 旵	kPhonetic	1178
 U+65F6 时	kPhonetic	149
+U+65F8 旸	kPhonetic	1529*
 U+65F9 旹	kPhonetic	126 149
 U+65FA 旺	kPhonetic	1456
 U+65FB 旻	kPhonetic	877
@@ -7017,6 +7020,7 @@ U+675F 束	kPhonetic	309
 U+6760 杠	kPhonetic	684
 U+6761 条	kPhonetic	1352
 U+6765 来	kPhonetic	829
+U+6768 杨	kPhonetic	1529*
 U+676C 杬	kPhonetic	765 1624
 U+676D 杭	kPhonetic	660
 U+676E 杮	kPhonetic	138
@@ -7890,7 +7894,7 @@ U+6C5E 汞	kPhonetic	530 684
 U+6C5F 江	kPhonetic	655 684
 U+6C60 池	kPhonetic	1471
 U+6C61 污	kPhonetic	1602B*
-U+6C64 汤	kPhonetic	1380
+U+6C64 汤	kPhonetic	1380 1529*
 U+6C66 汦	kPhonetic	1184*
 U+6C67 汧	kPhonetic	617
 U+6C68 汨	kPhonetic	1501
@@ -8613,6 +8617,7 @@ U+707C 灼	kPhonetic	106 219
 U+707D 災	kPhonetic	124 238 273*
 U+707E 灾	kPhonetic	238
 U+707F 灿	kPhonetic	31* 1103
+U+7080 炀	kPhonetic	1529*
 U+7081 炁	kPhonetic	599
 U+7083 炃	kPhonetic	353*
 U+7084 炄	kPhonetic	90*
@@ -9151,6 +9156,7 @@ U+7395 玕	kPhonetic	653
 U+7396 玖	kPhonetic	586
 U+7397 玗	kPhonetic	1602
 U+7399 玙	kPhonetic	1616*
+U+739A 玚	kPhonetic	1529*
 U+739B 玛	kPhonetic	863*
 U+739D 玝	kPhonetic	950*
 U+739E 玞	kPhonetic	380
@@ -9457,6 +9463,7 @@ U+753F 甿	kPhonetic	922
 U+7540 畀	kPhonetic	1031
 U+7541 畁	kPhonetic	1512*
 U+7544 畄	kPhonetic	782 870A
+U+7545 畅	kPhonetic	1529*
 U+7546 畆	kPhonetic	586
 U+7547 畇	kPhonetic	1442
 U+7548 畈	kPhonetic	339
@@ -9522,6 +9529,7 @@ U+759A 疚	kPhonetic	586
 U+759D 疝	kPhonetic	1103
 U+759F 疟	kPhonetic	1525
 U+75A0 疠	kPhonetic	866*
+U+75A1 疡	kPhonetic	1529*
 U+75A2 疢	kPhonetic	370
 U+75A3 疣	kPhonetic	1511
 U+75A4 疤	kPhonetic	996
@@ -9992,6 +10000,7 @@ U+77FB 矻	kPhonetic	440
 U+77FC 矼	kPhonetic	684
 U+77FD 矽	kPhonetic	170
 U+77FE 矾	kPhonetic	341 342
+U+7800 砀	kPhonetic	1529*
 U+7801 码	kPhonetic	863*
 U+7802 砂	kPhonetic	1220
 U+7806 砆	kPhonetic	380
@@ -11540,6 +11549,7 @@ U+809A 肚	kPhonetic	1359
 U+809B 肛	kPhonetic	684
 U+809C 肜	kPhonetic	1648
 U+809D 肝	kPhonetic	653
+U+80A0 肠	kPhonetic	1529*
 U+80A1 股	kPhonetic	756 1240
 U+80A2 肢	kPhonetic	130
 U+80A3 肣	kPhonetic	565*
@@ -15108,6 +15118,7 @@ U+948E 钎	kPhonetic	192*
 U+948F 钏	kPhonetic	273*
 U+9490 钐	kPhonetic	1101*
 U+9493 钓	kPhonetic	106*
+U+9496 钖	kPhonetic	1529*
 U+949B 钛	kPhonetic	1289*
 U+949C 钜	kPhonetic	676*
 U+949D 钝	kPhonetic	1385*
@@ -15851,6 +15862,7 @@ U+98CA 飊	kPhonetic	1064
 U+98CB 飋	kPhonetic	1133*
 U+98CC 飌	kPhonetic	408
 U+98CE 风	kPhonetic	408
+U+98CF 飏	kPhonetic	1529*
 U+98D0 飐	kPhonetic	177*
 U+98D2 飒	kPhonetic	767
 U+98D4 飔	kPhonetic	1174*
@@ -15968,6 +15980,7 @@ U+995E 饞	kPhonetic	24
 U+995F 饟	kPhonetic	1160
 U+9960 饠	kPhonetic	828*
 U+9965 饥	kPhonetic	598*
+U+9967 饧	kPhonetic	1529*
 U+996A 饪	kPhonetic	1476*
 U+996E 饮	kPhonetic	467*
 U+996F 饯	kPhonetic	185*
@@ -22276,6 +22289,7 @@ U+2B665 𫙥	kPhonetic	1167*
 U+2B66D 𫙭	kPhonetic	24*
 U+2B677 𫙷	kPhonetic	716*
 U+2B688 𫚈	kPhonetic	1616*
+U+2B68A 𫚊	kPhonetic	1529*
 U+2B68B 𫚋	kPhonetic	269*
 U+2B68D 𫚍	kPhonetic	353*
 U+2B699 𫚙	kPhonetic	386*
@@ -22387,6 +22401,7 @@ U+2BCDE 𫳞	kPhonetic	1529*
 U+2BCFB 𫳻	kPhonetic	112*
 U+2BD2D 𫴭	kPhonetic	62*
 U+2BD2F 𫴯	kPhonetic	57*
+U+2BD75 𫵵	kPhonetic	1529*
 U+2BD78 𫵸	kPhonetic	623*
 U+2BD7E 𫵾	kPhonetic	927*
 U+2BD85 𫶅	kPhonetic	23*
@@ -22519,6 +22534,7 @@ U+2C4E2 𬓢	kPhonetic	565*
 U+2C4EE 𬓮	kPhonetic	1167*
 U+2C4F1 𬓱	kPhonetic	1020*
 U+2C4F2 𬓲	kPhonetic	198*
+U+2C4F8 𬓸	kPhonetic	1529*
 U+2C509 𬔉	kPhonetic	840*
 U+2C50E 𬔎	kPhonetic	254*
 U+2C51B 𬔛	kPhonetic	1115*
@@ -22553,6 +22569,7 @@ U+2C6CB 𬛋	kPhonetic	832*
 U+2C6D1 𬛑	kPhonetic	599B*
 U+2C6D3 𬛓	kPhonetic	23*
 U+2C6D6 𬛖	kPhonetic	547*
+U+2C6F9 𬛹	kPhonetic	1529*
 U+2C6FC 𬛼	kPhonetic	1616*
 U+2C70A 𬜊	kPhonetic	57*
 U+2C72F 𬜯	kPhonetic	799*
@@ -22606,6 +22623,7 @@ U+2C966 𬥦	kPhonetic	787*
 U+2C973 𬥳	kPhonetic	254*
 U+2C976 𬥶	kPhonetic	1038*
 U+2C97B 𬥻	kPhonetic	1631*
+U+2C985 𬦅	kPhonetic	1529*
 U+2C996 𬦖	kPhonetic	723*
 U+2C99E 𬦞	kPhonetic	112*
 U+2C9A7 𬦧	kPhonetic	851*
@@ -23170,6 +23188,7 @@ U+302A8 𰊨	kPhonetic	423*
 U+302D6 𰋖	kPhonetic	780*
 U+302DD 𰋝	kPhonetic	676*
 U+302EA 𰋪	kPhonetic	763*
+U+302F8 𰋸	kPhonetic	1529*
 U+302F9 𰋹	kPhonetic	269*
 U+30300 𰌀	kPhonetic	1587*
 U+30302 𰌂	kPhonetic	198*
@@ -23310,6 +23329,7 @@ U+308F6 𰣶	kPhonetic	716*
 U+308F7 𰣷	kPhonetic	57*
 U+30901 𰤁	kPhonetic	779B*
 U+30907 𰤇	kPhonetic	538*
+U+30913 𰤓	kPhonetic	1529*
 U+30914 𰤔	kPhonetic	273*
 U+30915 𰤕	kPhonetic	972*
 U+30919 𰤙	kPhonetic	207*
@@ -23325,6 +23345,7 @@ U+309D5 𰧕	kPhonetic	254*
 U+309E1 𰧡	kPhonetic	779B*
 U+309E7 𰧧	kPhonetic	615A*
 U+309EB 𰧫	kPhonetic	24*
+U+309F0 𰧰	kPhonetic	1529*
 U+309FB 𰧻	kPhonetic	1466*
 U+30A02 𰨂	kPhonetic	1610*
 U+30A03 𰨃	kPhonetic	236*
@@ -23379,6 +23400,7 @@ U+30BB8 𰮸	kPhonetic	57*
 U+30C07 𰰇	kPhonetic	787A*
 U+30C11 𰰑	kPhonetic	780*
 U+30C20 𰰠	kPhonetic	1616*
+U+30C22 𰰢	kPhonetic	1529*
 U+30C28 𰰨	kPhonetic	851*
 U+30C31 𰰱	kPhonetic	1390*
 U+30C47 𰱇	kPhonetic	422*
@@ -23418,6 +23440,7 @@ U+30D30 𰴰	kPhonetic	840*
 U+30D36 𰴶	kPhonetic	1210*
 U+30D3D 𰴽	kPhonetic	665*
 U+30D49 𰵉	kPhonetic	934*
+U+30D4C 𰵌	kPhonetic	1529*
 U+30D54 𰵔	kPhonetic	1115*
 U+30D5A 𰵚	kPhonetic	812*
 U+30D5B 𰵛	kPhonetic	673*
@@ -23468,6 +23491,7 @@ U+30EA1 𰺡	kPhonetic	645*
 U+30EAB 𰺫	kPhonetic	615A*
 U+30EAC 𰺬	kPhonetic	1547*
 U+30EAD 𰺭	kPhonetic	1466*
+U+30EB2 𰺲	kPhonetic	1529*
 U+30EB7 𰺷	kPhonetic	1598*
 U+30ED3 𰻓	kPhonetic	410*
 U+30EE1 𰻡	kPhonetic	911* 914*
@@ -23510,6 +23534,7 @@ U+30FF5 𰿵	kPhonetic	1611*
 U+31021 𱀡	kPhonetic	1020*
 U+31036 𱀶	kPhonetic	615A*
 U+31052 𱁒	kPhonetic	1390*
+U+31071 𱁱	kPhonetic	1529*
 U+31077 𱁷	kPhonetic	1395*
 U+31079 𱁹	kPhonetic	716*
 U+3107A 𱁺	kPhonetic	780*
