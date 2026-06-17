@@ -2654,7 +2654,7 @@ U+501F 借	kPhonetic	172 1194
 U+5021 倡	kPhonetic	119
 U+5022 倢	kPhonetic	211
 U+5023 倣	kPhonetic	377
-U+5024 値	kPhonetic	171
+U+5024 値	kPhonetic	171*
 U+5025 倥	kPhonetic	525
 U+5026 倦	kPhonetic	665
 U+5027 倧	kPhonetic	321
@@ -5739,7 +5739,7 @@ U+60AE 悮	kPhonetic	948*
 U+60B0 悰	kPhonetic	321
 U+60B1 悱	kPhonetic	365
 U+60B2 悲	kPhonetic	365
-U+60B3 悳	kPhonetic	171
+U+60B3 悳	kPhonetic	171*
 U+60B4 悴	kPhonetic	333
 U+60B5 悵	kPhonetic	123
 U+60B6 悶	kPhonetic	929
