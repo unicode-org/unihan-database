@@ -2882,7 +2882,7 @@ U+5141 允	kPhonetic	1444 1487
 U+5143 元	kPhonetic	1624
 U+5144 兄	kPhonetic	474
 U+5145 充	kPhonetic	325
-U+5146 兆	kPhonetic	219 1221
+U+5146 兆	kPhonetic	219A 1221
 U+5147 兇	kPhonetic	523
 U+5148 先	kPhonetic	1199
 U+5149 光	kPhonetic	749
@@ -8627,7 +8627,7 @@ U+7075 灵	kPhonetic	809
 U+7076 灶	kPhonetic	225 1359
 U+7077 灷	kPhonetic	1209
 U+7078 灸	kPhonetic	586
-U+707C 灼	kPhonetic	106 219
+U+707C 灼	kPhonetic	106
 U+707D 災	kPhonetic	124 238 273*
 U+707E 灾	kPhonetic	238
 U+707F 灿	kPhonetic	31* 1103
@@ -8774,7 +8774,7 @@ U+7163 煣	kPhonetic	1509*
 U+7164 煤	kPhonetic	886
 U+7165 煥	kPhonetic	1469
 U+7166 煦	kPhonetic	517
-U+7167 照	kPhonetic	218 219
+U+7167 照	kPhonetic	218
 U+7168 煨	kPhonetic	1428
 U+7169 煩	kPhonetic	344
 U+716A 煪	kPhonetic	1513A*
