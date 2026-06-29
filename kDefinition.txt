@@ -717,7 +717,7 @@ U+3767 㝧	kDefinition	(non-classical form of 穩) stable; steady; firm, sure; s
 U+3769 㝩	kDefinition	spaciously rooms, emptiness
 U+376A 㝪	kDefinition	a slanting house, nightmare
 U+376B 㝫	kDefinition	shape of the sky
-U+376D 㝭	kDefinition	(non-classical form) to awake (from errors, illusions, etc. to come to one's sense, (interchangeable 惺) clever; wise, wavering; indecisive
+U+376D 㝭	kDefinition	(non-classical form) to awake (from errors, illusions, etc.), to come to one's sense, (interchangeable 惺) clever; wise, wavering; indecisive
 U+376E 㝮	kDefinition	to exile; to banish, beyond the borders
 U+376F 㝯	kDefinition	to sojourn; sojourn, a sojourner; a visitor
 U+3770 㝰	kDefinition	unable to meet, empty room
@@ -975,7 +975,7 @@ U+387E 㡾	kDefinition	a threshold; a door-sill
 U+387F 㡿	kDefinition	(standard form of 斥) to accuse; to blame, to expel; to drive off; to reject
 U+3880 㢀	kDefinition	side room
 U+3881 㢁	kDefinition	(same as 㢋) vast, to open up, enlarge or expand, the blot of a door; door latch, name of a person
-U+3882 㢂	kDefinition	(terrains) of highly strategic; precipitous (hill, etc. a big mound; (same as 㢈) a collapsed house, to hit, to catch something
+U+3882 㢂	kDefinition	(terrains) of highly strategic; precipitous (hill, etc.); a big mound; (same as 㢈) a collapsed house, to hit, to catch something
 U+3883 㢃	kDefinition	high, magnanimity
 U+3884 㢄	kDefinition	a kind of utensil; implement; tool, a place of worship; a place where to honor by a service or rite; a place to offer sacrifices; a kitchen
 U+3885 㢅	kDefinition	a shield; a screen, a tall building; an edifice, (same as 弄) an alley; a lane
@@ -1666,7 +1666,7 @@ U+3B83 㮃	kDefinition	farm tool, (same as 桵) a kind of tree
 U+3B84 㮄	kDefinition	(non-classical form of 榜) publicly posted roll of successful examinees
 U+3B85 㮅	kDefinition	a kind of tree
 U+3B86 㮆	kDefinition	(an ancient form) (same as 𣡌) leaves sprouting from the stump of a tree; shoots from an old stump, a large (a species of oak) from the bark of which a yellow dye is produced
-U+3B87 㮇	kDefinition	(standard form of 掭) (same as 栝) a builder's frame for measuring, juniper, a poker (for stirring fire, a cylinder part on the old style of wooden doors
+U+3B87 㮇	kDefinition	(standard form of 掭) (same as 栝) a builder's frame for measuring, juniper, a poker (for stirring fire), a cylinder part on the old style of wooden doors
 U+3B88 㮈	kDefinition	(non-classical form of 奈) but; how; what, a remedy; a resource, to bear, to endure
 U+3B8B 㮋	kDefinition	(non-classical form of 栯) a kind of tree, a fruit tree
 U+3B8C 㮌	kDefinition	(same as 棉) cotton; (Cant.) a kind of fruit
@@ -2535,7 +2535,7 @@ U+3F61 㽡	kDefinition	field, block up the water to irrigate the fields
 U+3F62 㽢	kDefinition	to plough the fields
 U+3F63 㽣	kDefinition	(ancient form of 域) a frontier; a boundary; a region; a country, to keep within bounds
 U+3F64 㽤	kDefinition	a small plot of land
-U+3F65 㽥	kDefinition	fertile fields; good land (during the Epoch of Spring and Autumn) name of a place in Zheng Guo (today's Henan Province LuShan Xian
+U+3F65 㽥	kDefinition	fertile fields; good land (during the Epoch of Spring and Autumn) name of a place in Zheng Guo (today's Henan Province LuShan Xian)
 U+3F66 㽦	kDefinition	reclaimed land; flat and in even level
 U+3F67 㽧	kDefinition	name of a place
 U+3F68 㽨	kDefinition	fragmented; uncultivated and desolated fields, to eliminate; remove, to clean (interchangeable 瘥) an epidemic; a plague
@@ -3098,7 +3098,7 @@ U+41B7 䆷	kDefinition	a hole; an opening; an aperture; deep; far and profound
 U+41B8 䆸	kDefinition	spacious; capacious, sound (of the house), a picture (on silk) scroll
 U+41B9 䆹	kDefinition	empty; hollow, dark; obscure
 U+41BA 䆺	kDefinition	whirling of the flowing water, (interchangeable 潘) water in which rice has been washed
-U+41BB 䆻	kDefinition	(corrupted form of 竅) a hole; a cavity; (the mind's pores, the crux; key points
+U+41BB 䆻	kDefinition	(corrupted form of 竅) a hole; a cavity; the mind's pores, the crux; key points
 U+41BC 䆼	kDefinition	a nest; den, burrow; a dwelling for people
 U+41BD 䆽	kDefinition	a hole; an opening, a cave, empty; hollow
 U+41BE 䆾	kDefinition	big; large; thin; light, rugged; uneven, a deep cave
@@ -3144,7 +3144,7 @@ U+41E7 䇧	kDefinition	to fill an opening with bamboo, (ancient form of 箕) a w
 U+41E8 䇨	kDefinition	a bamboo basket for food containers (such as cup; plate; dish and bowl, etc.) used in ancient times, a basket for chopsticks, bamboo basket used to filter or to strain out the wine, a sail made of a thin and long strip of bamboo
 U+41E9 䇩	kDefinition	long, a big raft, a kind of equipment made of bamboo used to catch fishes
 U+41EA 䇪	kDefinition	name of a variety of bamboo
-U+41EB 䇫	kDefinition	bamboo-splints; laths, to plait, (same as 篦) a comb; especially a fine-toothed one)
+U+41EB 䇫	kDefinition	bamboo-splints; laths, to plait, (same as 篦) a comb; especially a fine-toothed one
 U+41EC 䇬	kDefinition	thin bamboo laths knitted sail, a thin and long strip of bamboo; books in ancient style, to set sail; to depart
 U+41ED 䇭	kDefinition	containers made of thin and long strip of bamboo or willow branches
 U+41EE 䇮	kDefinition	a bamboo mat used in ancient times, (interchangeable 衽) a sleeping mat
@@ -3289,7 +3289,7 @@ U+427D 䉽	kDefinition	(same as 粄) rice cake; cake made of glutinous rice
 U+427E 䉾	kDefinition	bad; poor quality of rice
 U+427F 䉿	kDefinition	(same as 糊) paste; to paste, sticky; glutinous, to stick
 U+4280 䊀	kDefinition	(same as 䉿 糊) paste; to paste, sticky; glutinous, to stick
-U+4281 䊁	kDefinition	(same as 籸) leavings; refuse (from foodstuff, petroleum, oil, etc.; siftings, congee; rice gruel (the surface part); a kind of cooked rice
+U+4281 䊁	kDefinition	(same as 籸) leavings; refuse (from foodstuff, petroleum, oil, etc.); siftings, congee; rice gruel (the surface part); a kind of cooked rice
 U+4282 䊂	kDefinition	poor quality of rice; bad rice cakes stick to each other
 U+4283 䊃	kDefinition	mixing rice with broth, a grain of rice
 U+4284 䊄	kDefinition	polished rice
@@ -3325,7 +3325,7 @@ U+42A2 䊢	kDefinition	(same as 漿) thick fluid; starch; to starch
 U+42A3 䊣	kDefinition	light yellow dust-like fungoid growth on wine, etc., barley, chaff or husks of wheat (non-classical form of 餭) fried puffy shredded, sugar-plums; sweetmeats
 U+42A4 䊤	kDefinition	vegetable mixed with thick soup (broth), congee; gruel
 U+42A5 䊥	kDefinition	congee; porridge; rice gruel, mashed; rotten
-U+42A6 䊦	kDefinition	food (some food as glutinous rice tamale—made by wrapping the rice in broad leaves of reeds and boiled for a few hours—usually with other ingredients, as dates, meat, oyster, beams, etc.
+U+42A6 䊦	kDefinition	food (some food as glutinous rice tamale—made by wrapping the rice in broad leaves of reeds and boiled for a few hours—usually with other ingredients, as dates, meat, oyster, beams, etc.)
 U+42A7 䊧	kDefinition	(same as 屁) a fart; to break wind
 U+42A8 䊨	kDefinition	storing grains; to store up food
 U+42A9 䊩	kDefinition	rice gravy
@@ -3465,7 +3465,7 @@ U+4332 䌲	kDefinition	(same as 纁) light red
 U+4333 䌳	kDefinition	a kind of unrefined or unpolished silken textiles; silken goods; silken fabrics
 U+4334 䌴	kDefinition	uneven; silk with knots; unpolished
 U+4335 䌵	kDefinition	lapel and belt
-U+4336 䌶	kDefinition	(simplified form of 䊷) (same as 緇)) black silk; a dark, drab colour, used for Buddhists, from the dark colour of their robes (same as 純) pure, honest
+U+4336 䌶	kDefinition	(simplified form of 䊷) (same as 緇) black silk; a dark, drab colour, used for Buddhists, from the dark colour of their robes (same as 純) pure, honest
 U+4337 䌷	kDefinition	(simplified form of 紬) a thread; a clue
 U+4338 䌸	kDefinition	(simplified form of 縳) fine silk fabric of bright white colour, to tie up, (interchangeable 卷) a book or painting which can be easily folded or rolled up, a division of a book, files
 U+4339 䌹	kDefinition	(simplified form of 絅) (same as 褧) a garment of one colour with no lining, a dust coat
@@ -4971,7 +4971,7 @@ U+4969 䥩	kDefinition	hooks to hang; to suspend something
 U+496A 䥪	kDefinition	to cup; to pare; to trim; to shave
 U+496B 䥫	kDefinition	(ancient form of 鐵) iron, strong; firm
 U+496C 䥬	kDefinition	(interchangeable 鎛) a musical instrument in old times, a large bell suspended from a frame; a kind of ancient bell, a variety of hoe
-U+496D 䥭	kDefinition	(same as 證) evidence, proof, to give evidence, to testify)
+U+496D 䥭	kDefinition	(same as 證) evidence, proof, to give evidence, to testify
 U+496E 䥮	kDefinition	to beat; to strike
 U+496F 䥯	kDefinition	a farm tool to crush the clod of earth into pieces and make the land flat, a big iron stick, to till lands; to plough; to cultivate; to harrow
 U+4970 䥰	kDefinition	to melt, to sell, to fling a lance or a spear; to brandish spears as if they were flying
@@ -5442,7 +5442,7 @@ U+4B58 䭘	kDefinition	well-stacked (figure, etc.); full; plump, food, cakes
 U+4B59 䭙	kDefinition	exquisite; fine, sweet; taste a little sweet, to taste, diseases (of the lips)
 U+4B5A 䭚	kDefinition	(same as standard form 噇) to eat, to eat heavily; to eat without limits
 U+4B5B 䭛	kDefinition	(same as 饏) tasteless; without enough salt; insipid; dull, (non-classical of standard form 澉) to wash
-U+4B5D 䭝	kDefinition	to eat, ((non-classical form of 膾) minced meat
+U+4B5D 䭝	kDefinition	to eat, (non-classical form of 膾) minced meat
 U+4B5E 䭞	kDefinition	(same as 繹) a kind of sacrifice offered to gods or the deceased; rotten food; food; cakes and biscuits
 U+4B5F 䭟	kDefinition	(same as 䭎) cakes
 U+4B60 䭠	kDefinition	a snack, supplementary dishes, (corrupted form of 䭑) incorruptible; honest; clean, (same as 歉) deficient, poor crop or harvest, to regret; sorry; (same as 餡) anything serving as stuffing for dumplings, etc.
