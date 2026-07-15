@@ -6623,8 +6623,6 @@ U+649C 撜	kPhonetic	1315*
 U+649D 撝	kPhonetic	1431
 U+649E 撞	kPhonetic	1406
 U+649F 撟	kPhonetic	636
-U+6A40 橀	kPhonetic	779*
-U+6A45 橅	kPhonetic	914*
 U+64A2 撢	kPhonetic	1292
 U+64A3 撣	kPhonetic	1294
 U+64A4 撤	kPhonetic	214
@@ -7645,9 +7643,11 @@ U+6A3C 樼	kPhonetic	1107*
 U+6A3D 樽	kPhonetic	270
 U+6A3E 樾	kPhonetic	1637A
 U+6A3F 樿	kPhonetic	1294
+U+6A40 橀	kPhonetic	779*
 U+6A41 橁	kPhonetic	1266
 U+6A43 橃	kPhonetic	346*
 U+6A44 橄	kPhonetic	651
+U+6A45 橅	kPhonetic	914*
 U+6A47 橇	kPhonetic	297
 U+6A48 橈	kPhonetic	1598
 U+6A49 橉	kPhonetic	852*
@@ -16206,10 +16206,10 @@ U+995D 饝	kPhonetic	920B
 U+995E 饞	kPhonetic	24
 U+995F 饟	kPhonetic	1160
 U+9960 饠	kPhonetic	828*
-U+996C 饬	kPhonetic	153*
 U+9965 饥	kPhonetic	598*
 U+9967 饧	kPhonetic	1529*
 U+996A 饪	kPhonetic	1476*
+U+996C 饬	kPhonetic	153*
 U+996E 饮	kPhonetic	467*
 U+996F 饯	kPhonetic	185*
 U+9976 饶	kPhonetic	1598*
