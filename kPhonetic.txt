@@ -5292,7 +5292,7 @@ U+5DBB 嶻	kPhonetic	210*
 U+5DBC 嶼	kPhonetic	1616
 U+5DBD 嶽	kPhonetic	1649
 U+5DBF 嶿	kPhonetic	1250*
-U+5DC2 巂	kPhonetic	285 293 720
+U+5DC2 巂	kPhonetic	293 720
 U+5DC3 巃	kPhonetic	856
 U+5DC7 巇	kPhonetic	458*
 U+5DC9 巉	kPhonetic	24
