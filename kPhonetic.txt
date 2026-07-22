@@ -1346,7 +1346,7 @@ U+434A 䍊	kPhonetic	553*
 U+434C 䍌	kPhonetic	1028*
 U+434E 䍎	kPhonetic	189*
 U+4353 䍓	kPhonetic	951*
-U+4354 䍔	kPhonetic	529A*
+U+4354 䍔	kPhonetic	733*
 U+4355 䍕	kPhonetic	1307*
 U+4357 䍗	kPhonetic	1623*
 U+4358 䍘	kPhonetic	873*
