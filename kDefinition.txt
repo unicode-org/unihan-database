@@ -21998,7 +21998,7 @@ U+2B122 𫄢	kDefinition	to harness a horse a board in front of a carriage for t
 U+2B124 𫄤	kDefinition	a knot (of a rope)
 U+2B125 𫄥	kDefinition	long; dangling; kerchief; rope
 U+2B127 𫄧	kDefinition	the hanging flap in the front of a hat
-U+2B128 𫄨	kDefinition	fine linen, fine help cloth
+U+2B128 𫄨	kDefinition	fine linen, fine hemp cloth
 U+2B129 𫄩	kDefinition	ravelled silk
 U+2B12C 𫄬	kDefinition	cord
 U+2B12E 𫄮	kDefinition	slow; leisurely, to delay; to slacken, silk ribbons
