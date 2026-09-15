@@ -2742,7 +2742,7 @@ U+4FB6 侶	kPhonetic	840
 U+4FB7 侷	kPhonetic	682
 U+4FBA 侺	kPhonetic	1122*
 U+4FBD 侽	kPhonetic	940*
-U+4FBF 便	kPhonetic	1047
+U+4FBF 便	kPhonetic	578* 1047
 U+4FC0 俀	kPhonetic	1369*
 U+4FC1 俁	kPhonetic	948
 U+4FC2 係	kPhonetic	429
@@ -6266,7 +6266,7 @@ U+6226 戦	kPhonetic	1294*
 U+6227 戧	kPhonetic	254
 U+6228 戨	kPhonetic	643*
 U+6229 戩	kPhonetic	311
-U+622A 截	kPhonetic	210
+U+622A 截	kPhonetic	210 239*
 U+622E 戮	kPhonetic	819
 U+622F 戯	kPhonetic	458* 515*
 U+6230 戰	kPhonetic	1294
@@ -8407,7 +8407,7 @@ U+6D84 涄	kPhonetic	1057*
 U+6D85 涅	kPhonetic	981
 U+6D87 涇	kPhonetic	623
 U+6D88 消	kPhonetic	220
-U+6D89 涉	kPhonetic	1213
+U+6D89 涉	kPhonetic	1071* 1213
 U+6D8A 涊	kPhonetic	1482
 U+6D8C 涌	kPhonetic	1660
 U+6D8E 涎	kPhonetic	1578
@@ -8964,7 +8964,7 @@ U+70CF 烏	kPhonetic	982 1459
 U+70D2 烒	kPhonetic	1193*
 U+70D4 烔	kPhonetic	1407*
 U+70D5 烕	kPhonetic	514A 907 1279
-U+70D6 烖	kPhonetic	238
+U+70D6 烖	kPhonetic	238 239*
 U+70D8 烘	kPhonetic	693
 U+70D9 烙	kPhonetic	646
 U+70DB 烛	kPhonetic	1264*
@@ -10923,7 +10923,7 @@ U+7B4D 筍	kPhonetic	318 1266
 U+7B4E 筎	kPhonetic	1606*
 U+7B4F 筏	kPhonetic	360
 U+7B50 筐	kPhonetic	505
-U+7B51 筑	kPhonetic	305
+U+7B51 筑	kPhonetic	305 689*
 U+7B52 筒	kPhonetic	1407
 U+7B53 筓	kPhonetic	617
 U+7B54 答	kPhonetic	509 1302
@@ -11845,7 +11845,7 @@ U+803B 耻	kPhonetic	135 1546
 U+803C 耼	kPhonetic	1570
 U+803D 耽	kPhonetic	1477
 U+803E 耾	kPhonetic	733*
-U+803F 耿	kPhonetic	580
+U+803F 耿	kPhonetic	370* 580 1546*
 U+8041 聁	kPhonetic	353*
 U+8042 聂	kPhonetic	979
 U+8043 聃	kPhonetic	1570
@@ -14096,7 +14096,7 @@ U+8CC6 賆	kPhonetic	1055*
 U+8CC7 資	kPhonetic	129 160
 U+8CC8 賈	kPhonetic	535
 U+8CC9 賉	kPhonetic	514
-U+8CCA 賊	kPhonetic	20
+U+8CCA 賊	kPhonetic	20 1659*
 U+8CCB 賋	kPhonetic	553*
 U+8CCF 賏	kPhonetic	1583
 U+8CD0 賐	kPhonetic	313*
@@ -14171,7 +14171,7 @@ U+8D33 贳	kPhonetic	1115*
 U+8D34 贴	kPhonetic	177*
 U+8D35 贵	kPhonetic	716*
 U+8D37 贷	kPhonetic	1370*
-U+8D3C 贼	kPhonetic	20*
+U+8D3C 贼	kPhonetic	20* 1659*
 U+8D3D 贽	kPhonetic	69*
 U+8D40 赀	kPhonetic	156*
 U+8D42 赂	kPhonetic	646*
@@ -15753,7 +15753,7 @@ U+95D2 闒	kPhonetic	1305
 U+95D3 闓	kPhonetic	454
 U+95D4 闔	kPhonetic	508
 U+95D5 闕	kPhonetic	669
-U+95D6 闖	kPhonetic	255
+U+95D6 闖	kPhonetic	255 863* 929*
 U+95DA 闚	kPhonetic	718
 U+95DB 闛	kPhonetic	1382*
 U+95DC 關	kPhonetic	706
@@ -15769,7 +15769,7 @@ U+95E8 门	kPhonetic	929
 U+95EB 闫	kPhonetic	1100
 U+95ED 闭	kPhonetic	247* 1012*
 U+95EE 问	kPhonetic	929*
-U+95EF 闯	kPhonetic	255*
+U+95EF 闯	kPhonetic	255* 863* 929*
 U+95F1 闱	kPhonetic	1433*
 U+95F2 闲	kPhonetic	422* 423* 547*
 U+95F3 闳	kPhonetic	733*
