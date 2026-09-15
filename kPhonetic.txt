@@ -15498,7 +15498,7 @@ U+9430 鐰	kPhonetic	230*
 U+9431 鐱	kPhonetic	182*
 U+9432 鐲	kPhonetic	1264
 U+9433 鐳	kPhonetic	837
-U+9435 鐵	kPhonetic	210 1348A
+U+9435 鐵	kPhonetic	1348A
 U+9436 鐶	kPhonetic	1419
 U+9438 鐸	kPhonetic	1560
 U+943A 鐺	kPhonetic	1377
