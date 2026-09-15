@@ -25198,6 +25198,7 @@ U+31FEB 𱿫	kPhonetic	1167*
 U+3200E 𲀎	kPhonetic	934*
 U+32016 𲀖	kPhonetic	721*
 U+32026 𲀦	kPhonetic	247*
+U+32030 𲀰	kPhonetic	814*
 U+3203B 𲀻	kPhonetic	1629*
 U+32045 𲁅	kPhonetic	1652*
 U+3204A 𲁊	kPhonetic	1478*
