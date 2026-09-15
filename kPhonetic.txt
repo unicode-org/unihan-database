@@ -18961,6 +18961,7 @@ U+23316 𣌖	kPhonetic	942*
 U+2331C 𣌜	kPhonetic	1206*
 U+23327 𣌧	kPhonetic	19*
 U+23334 𣌴	kPhonetic	683*
+U+2333E 𣌾	kPhonetic	1403*
 U+23342 𣍂	kPhonetic	683*
 U+23349 𣍉	kPhonetic	747*
 U+2334F 𣍏	kPhonetic	12*
