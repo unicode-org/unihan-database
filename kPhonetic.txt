@@ -367,6 +367,7 @@ U+3858 㡘	kPhonetic	615*
 U+385B 㡛	kPhonetic	375
 U+385D 㡝	kPhonetic	410*
 U+385E 㡞	kPhonetic	780*
+U+3863 㡣	kPhonetic	856*
 U+3864 㡤	kPhonetic	1589*
 U+3867 㡧	kPhonetic	1315
 U+386B 㡫	kPhonetic	510*
