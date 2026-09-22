@@ -3128,6 +3128,7 @@ U+515E 兞	kPhonetic	430 913
 U+5161 兡	kPhonetic	430
 U+5162 兢	kPhonetic	430 474 624
 U+5163 兣	kPhonetic	430 787 787A*
+U+5164 兤	kPhonetic	749* 750*
 U+5165 入	kPhonetic	1498
 U+5167 內	kPhonetic	986 1498
 U+5168 全	kPhonetic	282
@@ -10122,7 +10123,7 @@ U+7698 皘	kPhonetic	203*
 U+7699 皙	kPhonetic	1192
 U+769A 皚	kPhonetic	454
 U+769C 皜	kPhonetic	637
-U+769D 皝	kPhonetic	749*
+U+769D 皝	kPhonetic	749* 1457*
 U+769E 皞	kPhonetic	639
 U+769F 皟	kPhonetic	16*
 U+76A0 皠	kPhonetic	293*
@@ -10131,7 +10132,7 @@ U+76A2 皢	kPhonetic	1598*
 U+76A4 皤	kPhonetic	338
 U+76A5 皥	kPhonetic	639
 U+76A6 皦	kPhonetic	635
-U+76A9 皩	kPhonetic	749*
+U+76A9 皩	kPhonetic	749* 1457*
 U+76AA 皪	kPhonetic	972*
 U+76AB 皫	kPhonetic	1062
 U+76AD 皭	kPhonetic	105
