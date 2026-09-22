@@ -19342,6 +19342,7 @@ U+23A80 𣪀	kPhonetic	1333*
 U+23A8A 𣪊	kPhonetic	492 493
 U+23A93 𣪓	kPhonetic	1621*
 U+23AA0 𣪠	kPhonetic	614
+U+23AA9 𣪩	kPhonetic	46*
 U+23AAE 𣪮	kPhonetic	241*
 U+23AB5 𣪵	kPhonetic	187
 U+23AB6 𣪶	kPhonetic	23*
