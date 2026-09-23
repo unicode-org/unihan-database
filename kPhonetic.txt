@@ -19210,7 +19210,7 @@ U+235CA 𣗊	kPhonetic	928*
 U+235CC 𣗌	kPhonetic	873B*
 U+235D9 𣗙	kPhonetic	942*
 U+235F5 𣗵	kPhonetic	656*
-U+235FB 𣗻	kPhonetic	1373*
+U+235FB 𣗻	kPhonetic	1135*
 U+235FC 𣗼	kPhonetic	1628*
 U+235FE 𣗾	kPhonetic	260*
 U+23608 𣘈	kPhonetic	260*
