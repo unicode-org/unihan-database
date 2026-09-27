@@ -9071,6 +9071,7 @@ U+70B9 点	kPhonetic	177
 U+70BA 為	kPhonetic	1431
 U+70BC 炼	kPhonetic	549*
 U+70BD 炽	kPhonetic	164*
+U+70BF 炿	kPhonetic	77* 1295*
 U+70C0 烀	kPhonetic	389*
 U+70C1 烁	kPhonetic	972
 U+70C2 烂	kPhonetic	766
@@ -18980,7 +18981,6 @@ U+22A15 𢨕	kPhonetic	179*
 U+22A35 𢨵	kPhonetic	950*
 U+22A37 𢨷	kPhonetic	97*
 U+22A3F 𢨿	kPhonetic	1053*
-U+22A40 𢩀	kPhonetic	1295*
 U+22A41 𢩁	kPhonetic	673*
 U+22A56 𢩖	kPhonetic	41*
 U+22A58 𢩘	kPhonetic	508*
