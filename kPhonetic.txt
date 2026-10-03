@@ -3474,7 +3474,7 @@ U+52A3 劣	kPhonetic	836
 U+52A4 劤	kPhonetic	571
 U+52A5 劥	kPhonetic	660*
 U+52A6 劦	kPhonetic	478 801
-U+52A8 动	kPhonetic	1405
+U+52A8 动	kPhonetic	332* 1405
 U+52A9 助	kPhonetic	97 233
 U+52AA 努	kPhonetic	984
 U+52AB 劫	kPhonetic	519
@@ -12167,7 +12167,7 @@ U+80B8 肸	kPhonetic	1502
 U+80BA 肺	kPhonetic	348A 357 1179
 U+80BC 肼	kPhonetic	103*
 U+80BD 肽	kPhonetic	1289*
-U+80BF 肿	kPhonetic	322*
+U+80BF 肿	kPhonetic	322* 332*
 U+80C0 胀	kPhonetic	123*
 U+80C1 胁	kPhonetic	478
 U+80C3 胃	kPhonetic	1439
@@ -15836,7 +15836,7 @@ U+9496 钖	kPhonetic	1529*
 U+949B 钛	kPhonetic	1289*
 U+949C 钜	kPhonetic	676*
 U+949D 钝	kPhonetic	1385*
-U+949F 钟	kPhonetic	322*
+U+949F 钟	kPhonetic	322* 332* 1406*
 U+94A4 钤	kPhonetic	565*
 U+94A6 钦	kPhonetic	467* 566* 1475*
 U+94A8 钨	kPhonetic	1459*
@@ -15923,6 +15923,7 @@ U+9535 锵	kPhonetic	112*
 U+9536 锶	kPhonetic	1174*
 U+9537 锷	kPhonetic	973*
 U+9538 锸	kPhonetic	41*
+U+953A 锺	kPhonetic	332*
 U+953C 锼	kPhonetic	1143*
 U+953D 锽	kPhonetic	1457*
 U+953F 锿	kPhonetic	993*
@@ -26247,3 +26248,4 @@ U+32372 𲍲	kPhonetic	219*
 U+32375 𲍵	kPhonetic	156*
 U+32386 𲎆	kPhonetic	1406*
 U+32E8B 𲺋	kPhonetic	232 1367
+U+33414 𳐔	kPhonetic	1406*
