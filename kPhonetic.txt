@@ -6579,7 +6579,8 @@ U+6307 指	kPhonetic	136
 U+6308 挈	kPhonetic	539A
 U+6309 按	kPhonetic	995
 U+630B 挋	kPhonetic	1128
-U+630C 挌	kPhonetic	553 646
+U+630C 挌	kPhonetic	646
+U+630D 挍	kPhonetic	553
 U+630E 挎	kPhonetic	701
 U+630F 挏	kPhonetic	1407*
 U+6310 挐	kPhonetic	936 1606
