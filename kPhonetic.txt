@@ -12272,7 +12272,7 @@ U+80D5 胕	kPhonetic	392
 U+80D6 胖	kPhonetic	1089
 U+80D8 胘	kPhonetic	1623*
 U+80D9 胙	kPhonetic	10
-U+80DA 胚	kPhonetic	1025 1035A
+U+80DA 胚	kPhonetic	1025 1035* 1035A
 U+80DB 胛	kPhonetic	551
 U+80DC 胜	kPhonetic	1130 1208
 U+80DD 胝	kPhonetic	1307
