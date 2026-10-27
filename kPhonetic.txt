@@ -3900,7 +3900,7 @@ U+5485 咅	kPhonetic	1025 1028
 U+5486 咆	kPhonetic	1011
 U+5487 咇	kPhonetic	1059*
 U+5488 咈	kPhonetic	358
-U+5489 咉	kPhonetic	1258*
+U+5489 咉	kPhonetic	1528*
 U+548B 咋	kPhonetic	10
 U+548C 和	kPhonetic	1453
 U+548D 咍	kPhonetic	1373
