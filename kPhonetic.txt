@@ -958,7 +958,7 @@ U+3E9B 㺛	kPhonetic	265*
 U+3E9E 㺞	kPhonetic	1616*
 U+3EA2 㺢	kPhonetic	371*
 U+3EA5 㺥	kPhonetic	24*
-U+3EA8 㺨	kPhonetic	444*
+U+3EA8 㺨	kPhonetic	686*
 U+3EB7 㺷	kPhonetic	1281*
 U+3EB9 㺹	kPhonetic	1049*
 U+3EC2 㻂	kPhonetic	1055*
@@ -3733,7 +3733,7 @@ U+53B1 厱	kPhonetic	182*
 U+53B2 厲	kPhonetic	773 866
 U+53B4 厴	kPhonetic	1565A
 U+53B5 厵	kPhonetic	1629*
-U+53B6 厶	kPhonetic	444 445 686 886
+U+53B6 厶	kPhonetic	444 445 686 886 1172
 U+53B7 厷	kPhonetic	529A 686 733
 U+53B9 厹	kPhonetic	587
 U+53BB 去	kPhonetic	519
