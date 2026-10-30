@@ -16288,7 +16288,7 @@ U+965F 陟	kPhonetic	167 1071
 U+9660 陠	kPhonetic	386*
 U+9661 陡	kPhonetic	82
 U+9662 院	kPhonetic	1624
-U+9663 陣	kPhonetic	63A 1126
+U+9663 陣	kPhonetic	63A 96* 1126
 U+9664 除	kPhonetic	300 1610
 U+9666 陦	kPhonetic	1149*
 U+9667 陧	kPhonetic	981
