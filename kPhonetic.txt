@@ -11096,7 +11096,7 @@ U+7A64 穤	kPhonetic	1250
 U+7A65 穥	kPhonetic	1616*
 U+7A67 穧	kPhonetic	56*
 U+7A68 穨	kPhonetic	1397
-U+7A69 穩	kPhonetic	1440B 1483
+U+7A69 穩	kPhonetic	1483
 U+7A6A 穪	kPhonetic	1547*
 U+7A6B 穫	kPhonetic	1454
 U+7A6C 穬	kPhonetic	750*
