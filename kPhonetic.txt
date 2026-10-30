@@ -3967,7 +3967,7 @@ U+54B8 咸	kPhonetic	419
 U+54B9 咹	kPhonetic	995*
 U+54BA 咺	kPhonetic	1467
 U+54BB 咻	kPhonetic	1505
-U+54BC 咼	kPhonetic	700 1409A 1452A
+U+54BC 咼	kPhonetic	700 1409A
 U+54BD 咽	kPhonetic	1480
 U+54BE 咾	kPhonetic	824*
 U+54BF 咿	kPhonetic	1532
@@ -11078,7 +11078,7 @@ U+7A4A 穊	kPhonetic	599B*
 U+7A4B 穋	kPhonetic	819
 U+7A4C 穌	kPhonetic	1223 1453
 U+7A4D 積	kPhonetic	16
-U+7A4E 穎	kPhonetic	628 1452A
+U+7A4E 穎	kPhonetic	628
 U+7A56 穖	kPhonetic	598
 U+7A57 穗	kPhonetic	1437
 U+7A58 穘	kPhonetic	1598*
