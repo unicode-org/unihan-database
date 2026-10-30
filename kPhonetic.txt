@@ -6761,6 +6761,7 @@ U+6357 捗	kPhonetic	1071*
 U+6358 捘	kPhonetic	313
 U+635A 捚	kPhonetic	1140*
 U+635B 捛	kPhonetic	840*
+U+635C 捜	kPhonetic	1143*
 U+635D 捝	kPhonetic	1392
 U+635E 捞	kPhonetic	821*
 U+635F 损	kPhonetic	1628*
@@ -10230,6 +10231,7 @@ U+75E4 痤	kPhonetic	236
 U+75E6 痦	kPhonetic	947*
 U+75E7 痧	kPhonetic	1096
 U+75E8 痨	kPhonetic	821*
+U+75E9 痩	kPhonetic	1143*
 U+75EB 痫	kPhonetic	422*
 U+75EC 痬	kPhonetic	1559*
 U+75ED 痭	kPhonetic	1024*
@@ -16912,6 +16914,7 @@ U+9985 馅	kPhonetic	421*
 U+9986 馆	kPhonetic	760*
 U+9987 馇	kPhonetic	13*
 U+9988 馈	kPhonetic	716*
+U+998A 馊	kPhonetic	1143*
 U+998B 馋	kPhonetic	24*
 U+998C 馌	kPhonetic	508*
 U+998E 馎	kPhonetic	381*
