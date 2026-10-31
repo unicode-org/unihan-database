@@ -2649,6 +2649,7 @@ U+4E30 丰	kPhonetic	404 407
 U+4E31 丱	kPhonetic	706
 U+4E32 串	kPhonetic	278
 U+4E34 临	kPhonetic	1021
+U+4E36 丶	kPhonetic	262
 U+4E38 丸	kPhonetic	1627
 U+4E39 丹	kPhonetic	1295 1570
 U+4E3A 为	kPhonetic	1431
