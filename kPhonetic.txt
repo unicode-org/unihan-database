@@ -25691,6 +25691,7 @@ U+2E5D2 𮗒	kPhonetic	623*
 U+2E5D4 𮗔	kPhonetic	840*
 U+2E5F2 𮗲	kPhonetic	779*
 U+2E5F3 𮗳	kPhonetic	510*
+U+2E5FB 𮗻	kPhonetic	658
 U+2E600 𮘀	kPhonetic	931*
 U+2E60D 𮘍	kPhonetic	1295*
 U+2E617 𮘗	kPhonetic	411*
