@@ -9064,6 +9064,7 @@ U+6F58 潘	kPhonetic	338 1090
 U+6F59 潙	kPhonetic	1431
 U+6F5A 潚	kPhonetic	1261
 U+6F5B 潛	kPhonetic	25
+U+6F5C 潜	kPhonetic	25* 1311*
 U+6F5D 潝	kPhonetic	1497
 U+6F5E 潞	kPhonetic	826
 U+6F5F 潟	kPhonetic	1195
