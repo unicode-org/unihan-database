@@ -7128,8 +7128,7 @@ U+64FF 擿	kPhonetic	1189
 U+6500 攀	kPhonetic	341 1006
 U+6502 攂	kPhonetic	841
 U+6504 攄	kPhonetic	843
-U+6505 攅	kPhonetic	807
-U+6506 攆	kPhonetic	807*
+U+6506 攆	kPhonetic	807
 U+6509 攉	kPhonetic	371*
 U+650B 攋	kPhonetic	764*
 U+650E 攎	kPhonetic	820A*
