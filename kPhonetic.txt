@@ -3745,7 +3745,7 @@ U+5356 卖	kPhonetic	864 1395
 U+5357 南	kPhonetic	939
 U+5359 卙	kPhonetic	1123*
 U+535A 博	kPhonetic	381
-U+535C 卜	kPhonetic	1004 1094
+U+535C 卜	kPhonetic	1004 1094 1095
 U+535E 卞	kPhonetic	1044
 U+5360 占	kPhonetic	177
 U+5361 卡	kPhonetic	412 536
