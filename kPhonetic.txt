@@ -6310,7 +6310,7 @@ U+609C 悜	kPhonetic	204*
 U+609D 悝	kPhonetic	789
 U+609E 悞	kPhonetic	948
 U+609F 悟	kPhonetic	947
-U+60A0 悠	kPhonetic	1510
+U+60A0 悠	kPhonetic	1510 1510A*
 U+60A1 悡	kPhonetic	790*
 U+60A2 悢	kPhonetic	796*
 U+60A3 患	kPhonetic	278 1421
