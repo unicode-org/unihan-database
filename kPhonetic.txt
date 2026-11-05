@@ -7653,7 +7653,7 @@ U+675D 杝	kPhonetic	1471
 U+675E 杞	kPhonetic	597
 U+675F 束	kPhonetic	309
 U+6760 杠	kPhonetic	684
-U+6761 条	kPhonetic	1352
+U+6761 条	kPhonetic	1352 1510*
 U+6765 来	kPhonetic	829
 U+6768 杨	kPhonetic	1529*
 U+676C 杬	kPhonetic	765 1624
