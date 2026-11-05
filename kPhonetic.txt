@@ -11617,6 +11617,7 @@ U+7C60 籠	kPhonetic	856
 U+7C62 籢	kPhonetic	806
 U+7C64 籤	kPhonetic	183
 U+7C65 籥	kPhonetic	1527
+U+7C67 籧	kPhonetic	675A*
 U+7C68 籨	kPhonetic	806
 U+7C69 籩	kPhonetic	1041
 U+7C6A 籪	kPhonetic	1388
