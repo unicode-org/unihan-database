@@ -4882,7 +4882,7 @@ U+5934 头	kPhonetic	1320 1322
 U+5937 夷	kPhonetic	1542
 U+5938 夸	kPhonetic	701 1602B
 U+5939 夹	kPhonetic	550
-U+593A 夺	kPhonetic	277* 1388A*
+U+593A 夺	kPhonetic	277*
 U+593C 夼	kPhonetic	273*
 U+593D 夽	kPhonetic	1441*
 U+593E 夾	kPhonetic	550
@@ -4917,7 +4917,7 @@ U+5965 奥	kPhonetic	992*
 U+5967 奧	kPhonetic	992
 U+5968 奨	kPhonetic	112*
 U+5969 奩	kPhonetic	805
-U+596A 奪	kPhonetic	277 1388A
+U+596A 奪	kPhonetic	277
 U+596C 奬	kPhonetic	112
 U+596D 奭	kPhonetic	1039 1190
 U+596E 奮	kPhonetic	285 355
