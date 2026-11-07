@@ -26975,7 +26975,7 @@ U+30B97 𰮗	kPhonetic	177*
 U+30B98 𰮘	kPhonetic	97*
 U+30B9C 𰮜	kPhonetic	1373*
 U+30B9D 𰮝	kPhonetic	1598*
-U+30BA4 𰮤	kPhonetic	1208
+U+30BA4 𰮤	kPhonetic	664* 1208
 U+30BB8 𰮸	kPhonetic	57*
 U+30BCB 𰯋	kPhonetic	942*
 U+30BCE 𰯎	kPhonetic	928*
