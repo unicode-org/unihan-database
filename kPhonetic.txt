@@ -8417,7 +8417,7 @@ U+6B64 此	kPhonetic	135 156
 U+6B65 步	kPhonetic	1071
 U+6B66 武	kPhonetic	743 915
 U+6B67 歧	kPhonetic	130
-U+6B69 歩	kPhonetic	1220*
+U+6B69 歩	kPhonetic	1071* 1220*
 U+6B6A 歪	kPhonetic	887A 1411
 U+6B6B 歫	kPhonetic	676
 U+6B6C 歬	kPhonetic	135 196
