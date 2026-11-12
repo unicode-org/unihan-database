@@ -19175,7 +19175,7 @@ U+21BA6 𡮦	kPhonetic	231*
 U+21BA9 𡮩	kPhonetic	1012*
 U+21BAD 𡮭	kPhonetic	1270*
 U+21BBF 𡮿	kPhonetic	24*
-U+21BC2 𡯂	kPhonetic	1455
+U+21BC2 𡯂	kPhonetic	1455*
 U+21BC9 𡯉	kPhonetic	1519*
 U+21BCE 𡯎	kPhonetic	923
 U+21BE8 𡯨	kPhonetic	236*
