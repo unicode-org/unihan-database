@@ -27872,7 +27872,6 @@ U+313CF 𱏏	kPhonetic	1610*
 U+313D4 𱏔	kPhonetic	764*
 U+313D7 𱏗	kPhonetic	254*
 U+313E0 𱏠	kPhonetic	1095*
-U+313E8 𱏨	kPhonetic	474*
 U+3140C 𱐌	kPhonetic	455*
 U+31411 𱐑	kPhonetic	334*
 U+31416 𱐖	kPhonetic	1296*
