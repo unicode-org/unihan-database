@@ -3419,6 +3419,7 @@ U+5148 先	kPhonetic	1199
 U+5149 光	kPhonetic	749
 U+514A 兊	kPhonetic	687 1392
 U+514B 克	kPhonetic	430 474
+U+514C 兌	kPhonetic	1392*
 U+514D 免	kPhonetic	899
 U+514E 兎	kPhonetic	1360
 U+5151 兑	kPhonetic	1392
