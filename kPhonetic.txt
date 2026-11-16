@@ -14504,7 +14504,7 @@ U+8AC0 諀	kPhonetic	1029*
 U+8AC1 諁	kPhonetic	283*
 U+8AC2 諂	kPhonetic	421
 U+8AC4 諄	kPhonetic	316
-U+8AC5 諅	kPhonetic	604
+U+8AC5 諅	kPhonetic	604*
 U+8AC6 諆	kPhonetic	604
 U+8AC7 談	kPhonetic	1568
 U+8AC8 諈	kPhonetic	1255
@@ -18249,7 +18249,7 @@ U+9E8E 麎	kPhonetic	1129*
 U+9E8F 麏	kPhonetic	722
 U+9E90 麐	kPhonetic	854
 U+9E91 麑	kPhonetic	1544
-U+9E92 麒	kPhonetic	604*
+U+9E92 麒	kPhonetic	604
 U+9E93 麓	kPhonetic	848
 U+9E94 麔	kPhonetic	588*
 U+9E95 麕	kPhonetic	729
